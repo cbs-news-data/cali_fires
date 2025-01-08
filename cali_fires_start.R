@@ -16,9 +16,19 @@ library(leaflet.providers)
 # Import geojson file in data folder
 cali_fires <- st_read("data/CA_Perimeters_NIFC_FIRIS_public_view.geojson") %>% janitor::clean_names()
 
-# filter to the last 14 days to get "current" fires
+# Make geometries valid
+cali_fires <- st_make_valid(cali_fires)
+
+# Filter dataset to only those updated in the last 14 days
 cali_fires <- cali_fires %>%
   filter(poly_date_current >= Sys.Date() - 3)
+
+# Group by mission and summarize acres burned
+cali_fires <- cali_fires %>%
+  group_by(mission) %>%
+  summarise(acres_burned = sum(area_acres), .groups = "drop")
+
+
 
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
 quick_firemap <- leaflet(cali_fires) %>%
