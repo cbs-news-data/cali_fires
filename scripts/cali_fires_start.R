@@ -83,15 +83,12 @@ cali_evac <- st_read(evac_destfile) %>% janitor::clean_names()
 cali_evac <- st_make_valid(cali_evac) %>% 
   mutate(timestamp = updated_datetime)
 
- 
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
-quick_evacmap <- leaflet(cali_evac) %>%
- addProviderTiles(providers$Esri.WorldImagery) %>%
- addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
- addLegend("bottomright", colors = "red", labels = "Latest Evacs")
+#quick_evacmap <- leaflet(cali_evac) %>%
+# addProviderTiles(providers$Esri.WorldImagery) %>%
+# addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
+# addLegend("bottomright", colors = "red", labels = "Latest Evacs")
 # add a popup that includes the fire name, acres burned, containment percentage and update date
-
-quick_evacmap
 
 # remove latest_cali_fires.geojson in data directory
 file.remove("data/latest_cali_evac.geojson")
