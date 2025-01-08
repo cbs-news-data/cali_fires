@@ -86,12 +86,12 @@ writeBin(content(response, "raw"), evac_destfile)
 cali_evac <- st_read(evac_destfile) %>% janitor::clean_names()
 # Make geometries valid
 cali_evac <- st_make_valid(cali_evac)
- 
+
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
 quick_evacmap <- leaflet(cali_evac) %>%
- addProviderTiles(providers$Esri.WorldImagery) %>%
- addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
- addLegend("bottomright", colors = "red", labels = "Latest Evacs")
+  addProviderTiles(providers$Esri.WorldImagery) %>%
+  addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
+  addLegend("bottomright", colors = "red", labels = "Latest Evacs")
 # add a popup that includes the fire name, acres burned, containment percentage and update date
 
 quick_evacmap
