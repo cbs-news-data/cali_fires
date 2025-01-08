@@ -51,7 +51,15 @@ cali_fires <- cali_fires %>%
 # Group by mission and summarize acres burned
 cali_fires <- cali_fires %>%
   group_by(mission) %>%
-  summarise(acres_burned = sum(area_acres), .groups = "drop")
+  summarise(acres_burned = max(area_acres), .groups = "drop")
+# Round acres to nearest acres
+cali_fires <- cali_fires %>%
+  mutate(acres_burned = round(acres_burned))
+
+# calculate acres burned based on area of the revised polygon
+cali_fires <- cali_fires %>%
+  mutate(acres_burned2 = ifelse(acres_burned == 0, st_area(geometry) * 0.000247105, acres_burned))
+
 
 # add a field called timestamp that is the current system time but in the Pacific time zone
 cali_fires <- cali_fires %>%
