@@ -58,7 +58,7 @@ cali_fires <- cali_fires %>%
 
 # calculate acres burned based on area of the revised polygon
 cali_fires <- cali_fires %>%
-  mutate(acres_burned2 = ifelse(acres_burned == 0, st_area(geometry) * 0.000247105, acres_burned))
+  mutate(acres_burned = ifelse(acres_burned == 0, st_area(geometry) * 0.000247105, acres_burned))
 
 
 # add a field called timestamp that is the current system time but in the Pacific time zone
