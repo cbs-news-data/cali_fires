@@ -18,12 +18,19 @@ cali_fires <- st_read("data/CA_Perimeters_NIFC_FIRIS_public_view.geojson") %>% j
 
 # filter to the last 14 days to get "current" fires
 cali_fires <- cali_fires %>%
-  filter(poly_date_current >= Sys.Date() - 14)
+  filter(poly_date_current >= Sys.Date() - 3)
 
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
-leaflet(cali_fires) %>%
+quick_firemap <- leaflet(cali_fires) %>%
   addProviderTiles(providers$Esri.WorldImagery) %>%
   addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
   addLegend("bottomright", colors = "red", labels = "Latest Fire Perimeters") 
 # add a popup that includes the fire name, acres burned, containment percentage and update date
-# add a le
+
+# remove latest_cali_fires.geojson in data directory
+file.remove("data/latest_cali_fires.geojson")
+# export geojson file to data directory
+geojson_write(cali_fires, file = "data/latest_cali_fires.geojson")
+
+
+
