@@ -62,7 +62,6 @@ quick_firemap <- leaflet(cali_fires) %>%
 # add a popup that includes the fire name, acres burned, containment percentage and update date
 
 
-
 # archive the latest_cali_fires.geojson file in the data directory renamed with a time and date
 file.rename("data/latest_cali_fires.geojson", paste0("data/archive_cali_fires_", format(Sys.time(), "%Y-%m-%d_%H-%M-%S"), ".geojson"))
 
