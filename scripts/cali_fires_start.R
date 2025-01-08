@@ -52,10 +52,10 @@ cali_fires <- cali_fires %>%
   mutate(timestamp = as.POSIXct(Sys.time(), tz = "America/Los_Angeles"))
 
 # archive the latest_cali_fires.geojson file in the data directory renamed with a time and date
-file.rename("data/latest_cali_fires.geojson", paste0("data/archive_cali_fires_", format(Sys.time(), "%Y-%m-%d_%H-%M-%S"), ".geojson"))
+#file.rename("data/latest_cali_fires.geojson", paste0("data/archive_cali_fires_", format(Sys.time(), "%Y-%m-%d_%H-%M-%S"), ".geojson"))
 
 # remove latest_cali_fires.geojson in data directory
-# file.remove("data/latest_cali_fires.geojson")
+file.remove("data/latest_cali_fires.geojson")
 
 # export geojson file to data directory
 geojson_write(cali_fires, file = "data/latest_cali_fires.geojson")
