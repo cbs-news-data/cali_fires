@@ -70,11 +70,19 @@ evac_destfile <- "data/CA_evacuations.geojson"
 response <- GET(evac_url)
 writeBin(content(response, "raw"), evac_destfile)
 
+#get updated datetime (sys.time)
+current_time = Sys.time()
+
+current_time_posix <- as.POSIXct(current_time)
+
+updated_datetime <- format(as.POSIXct(current_time), format = "%Y-%m-%d %H:%M:%S", tz = "America/Los_Angeles")
 
 # Load the downloaded geojson file
 cali_evac <- st_read(evac_destfile) %>% janitor::clean_names()
 # Make geometries valid
-cali_evac <- st_make_valid(cali_evac)
+cali_evac <- st_make_valid(cali_evac) %>% 
+  mutate(timestamp = updated_datetime)
+
  
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
 quick_evacmap <- leaflet(cali_evac) %>%
