@@ -24,7 +24,7 @@ cali_fires <- st_make_valid(cali_fires)
 
 # Convert ArcGIS date format to real date
 cali_fires <- cali_fires %>%
-  mutate(poly_date_current = as.POSIXct(poly_date_current / 1000, origin = "1970-01-01"))
+  mutate(poly_date_current = as.POSIXct(poly_date_current / 1000, origin = "1970-01-01", tz = "America/Los_Angeles"))
 
 # Filter dataset to only those updated in the last 14 days
 cali_fires <- cali_fires %>%
@@ -39,6 +39,11 @@ cali_fires <- cali_fires %>%
 # Add to the fire_name field the string " FIRE"
 cali_fires <- cali_fires %>%
   mutate(fire_name = paste(fire_name, "FIRE", sep = " "))
+
+# Output and save a file with the history/past perimeters for these specific fires
+cali_fires_history_perimeters <- cali_fires
+# export geojson file to data directory
+geojson_write(cali_fires_history_perimeters, file = "data/history_cali_fire_perimeters.geojson")
 
 # Group by mission and summarize acres burned
 #cali_fires <- cali_fires %>%
