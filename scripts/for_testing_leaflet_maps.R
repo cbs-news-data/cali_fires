@@ -62,7 +62,7 @@ cali_fires2 <- cali_fires2 %>%
 quick_firemap <- leaflet(cali_fires2) %>%
   addProviderTiles(providers$Esri.WorldImagery) %>%
   addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
-  addPolygons(data = cali_fires, color = "blue", weight = 2, opacity = 1, fillOpacity = 0.2) %>%)
+  addPolygons(data = cali_fires, color = "blue", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
   addLegend("bottomright", colors = "red", labels = "Latest Fire Perimeters") 
 # add a popup that includes the fire name, acres burned, containment percentage and update date
 
