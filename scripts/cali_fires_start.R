@@ -24,7 +24,7 @@ cali_fires <- st_make_valid(cali_fires)
 
 # Convert ArcGIS date format to real date
 cali_fires <- cali_fires %>%
-  mutate(poly_date_current = as.POSIXct(poly_date_current / 1000, origin = "1970-01-01", tz = "America/Los_Angeles"))
+  mutate(poly_date_current = as.POSIXct(poly_date_current / 1000, origin = "1970-01-01"))
 
 # Filter dataset to only those updated in the last 14 days
 cali_fires <- cali_fires %>%
