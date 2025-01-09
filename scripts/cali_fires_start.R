@@ -10,14 +10,14 @@ library(geojsonio)
 
 # Define the URL and the destination file path
 url <- "https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/CA_Perimeters_NIFC_FIRIS_public_view/FeatureServer/0/query?where=1%3D1&objectIds=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&collation=&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pgeojson&token="
-destfile <- "data/CA_Perimeters_NIFC_FIRIS_public_view.geojson"
+#destfile <- "data/CA_Perimeters_NIFC_FIRIS_public_view.geojson"
 
 # Download the file using httr
-response <- GET(url)
-writeBin(content(response, "raw"), destfile)
+#response <- GET(url)
+#writeBin(content(response, "raw"), destfile)
 
 # Load the downloaded geojson file
-cali_fires <- st_read(destfile) %>% janitor::clean_names()
+cali_fires <- st_read(url) %>% janitor::clean_names()
 
 # Import geojson file in data folder
 # cali_fires <- st_read("data/CA_Perimeters_NIFC_FIRIS_public_view.geojson") %>% janitor::clean_names()
