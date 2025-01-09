@@ -30,9 +30,19 @@ cali_fires <- cali_fires %>%
 cali_fires <- cali_fires %>%
   filter(poly_date_current >= Sys.Date() - 3)
 
+# Separate fire name by deleting the last five characters of the string mission
+cali_fires <- cali_fires %>%
+  mutate(fire_name = str_sub(mission, end = -6))
+# Then keep in the fire_name field only the characters after the final instance of hyphen
+cali_fires <- cali_fires %>%
+  mutate(fire_name = str_sub(fire_name, start = max(str_locate_all(fire_name, "-")[[1]][,1]) + 1))
+# Add to the fire_name field the string " FIRE"
+cali_fires <- cali_fires %>%
+  mutate(fire_name = paste(fire_name, "FIRE", sep = " "))
+
 # Group by mission and summarize acres burned
 cali_fires <- cali_fires %>%
-  group_by(mission) %>%
+  group_by(fire_name) %>%
   summarise(acres_burned = max(area_acres), .groups = "drop")
 # Round acres to nearest acres
 cali_fires <- cali_fires %>%
