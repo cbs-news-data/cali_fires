@@ -3,24 +3,40 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 106402, 
-      "geometry" : null, 
+      "id" : 106406, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-118.916248453685, 34.3682642399027], 
+            [-118.907997981374, 34.3442100341125], 
+            [-118.917619599458, 34.3410918152772], 
+            [-118.924743546601, 34.3560794571164], 
+            [-118.927822723042, 34.3568110547087], 
+            [-118.927606000258, 34.3604193489546], 
+            [-118.926760568435, 34.3682164186857], 
+            [-118.916248453685, 34.3682642399027]
+          ]
+        ]
+      }, 
       "properties" : {
-        "OBJECTID" : 106402, 
-        "COUNTY" : null, 
+        "OBJECTID" : 106406, 
+        "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : null, 
-        "STATUS" : null, 
+        "STATUS" : "Evacuation Order", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
         "EDIT_DATE" : null, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : null, 
-        "SHAPE__Area" : null, 
-        "SHAPE__Length" : null, 
-        "GlobalID" : "5e2a4fec-2fd4-4f5c-93c2-8929491c86ee"
+        "NOTES" : "Grimes - Zone 1", 
+        "SHAPE__Area" : 4775159.078125, 
+        "SHAPE__Length" : 9762.3133982033978, 
+        "GlobalID" : "2df31c83-db83-451b-9ea9-8421d818f379"
       }
     }
   ]
