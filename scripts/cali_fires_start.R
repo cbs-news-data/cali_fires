@@ -41,12 +41,20 @@ cali_fires <- cali_fires %>%
   mutate(fire_name = paste(fire_name, "FIRE", sep = " "))
 
 # Group by mission and summarize acres burned
+#cali_fires <- cali_fires %>%
+#  group_by(fire_name) %>%
+#  summarise(acres_burned = max(area_acres), .groups = "drop")
+
+# Choose the fire_name record with the latest date in poly_date_current
 cali_fires <- cali_fires %>%
   group_by(fire_name) %>%
-  summarise(acres_burned = max(area_acres), .groups = "drop")
+  slice_max(order_by = poly_date_current, n = 1) %>%
+  mutate(acres_burned = round(area_acres)) %>%
+  select(fire_name, acres_burned, poly_date_current, geometry)
+
 # Round acres to nearest acres
-cali_fires <- cali_fires %>%
-  mutate(acres_burned = round(acres_burned))
+#cali_fires <- cali_fires %>%
+#  mutate(acres_burned = round(acres_burned))
 
 # add a field called timestamp that is the current system time but in the Pacific time zone
 cali_fires <- cali_fires %>%
