@@ -53,10 +53,16 @@ cali_fires <- cali_fires %>%
 cali_fires <- cali_fires %>%
   mutate(timestamp = as.POSIXct(Sys.time(), tz = "America/Los_Angeles"))
 
+# filter cal_fires2 to include objectid 1267
+cali_fires2 <- cali_fires2 %>%
+  filter(objectid == 1267)
+
+
 # create a quick leaflet map showing the perimters from cali_fires on a map with a satellite view provider layer
-quick_firemap <- leaflet(cali_fires) %>%
+quick_firemap <- leaflet(cali_fires2) %>%
   addProviderTiles(providers$Esri.WorldImagery) %>%
   addPolygons(color = "red", weight = 2, opacity = 1, fillOpacity = 0.2) %>%
+  addPolygons(data = cali_fires, color = "blue", weight = 2, opacity = 1, fillOpacity = 0.2) %>%)
   addLegend("bottomright", colors = "red", labels = "Latest Fire Perimeters") 
 # add a popup that includes the fire name, acres burned, containment percentage and update date
 
