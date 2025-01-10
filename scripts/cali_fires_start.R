@@ -4,6 +4,7 @@ library(sf)
 library(httr)
 library(lubridate)
 library(geojsonio)
+library(stringr)
 
 # source feeds from calfire
 
@@ -30,21 +31,12 @@ cali_fires <- cali_fires %>%
 cali_fires <- cali_fires %>%
   filter(poly_date_current >= Sys.Date() - 3)
 
-# Manually fix some one-time late fire name changes for automated filed mixed method perimeters
+# Removing the code letters etc from mission names to create a standard common fire name
 cali_fires <- cali_fires %>%
-  mutate(mission = ifelse(mission == "KENNETH", "CA-VNC-KENNETH", mission))
-cali_fires <- cali_fires %>%
-           mutate(mission = ifelse(mission == "KENNETH", "CA-VNC-KENNETH", mission))
-
-# Separate fire name by deleting the last five characters of the string mission
-cali_fires <- cali_fires %>%
-  mutate(fire_name = str_sub(mission, end = -6))
-# Then keep in the fire_name field only the characters after the final instance of hyphen
-cali_fires <- cali_fires %>%
-  mutate(fire_name = str_sub(fire_name, start = max(str_locate_all(fire_name, "-")[[1]][,1]) + 1))
-# Add to the fire_name field the string " FIRE"
-cali_fires <- cali_fires %>%
-  mutate(fire_name = paste(fire_name, "FIRE", sep = " "))
+  mutate(fire_name = str_replace(mission, "CA-[A-Z]{3}-", "")) %>%
+  mutate(fire_name = str_replace(fire_name, "-[A-Za-z0-9]{4}$", "")) %>%
+  mutate(fire_name = str_to_upper(fire_name)) %>%
+  mutate(fire_name = paste0(fire_name, " FIRE"))
 
 # Output and save a file with the history/past perimeters for these specific fires
 cali_fires_history_perimeters <- cali_fires
