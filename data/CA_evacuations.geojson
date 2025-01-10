@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 106414, 
+      "id" : 106429, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22,7 +22,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 106414, 
+        "OBJECTID" : 106429, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36,12 +36,12 @@
         "NOTES" : "Grimes - Zone 1", 
         "SHAPE__Area" : 7132094.421875, 
         "SHAPE__Length" : 10764.570947690012, 
-        "GlobalID" : "ed286cee-a471-4339-8790-5490bceb3f91"
+        "GlobalID" : "8248d4b1-eb66-4a32-ac3b-84aa8b55f517"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 106415, 
+      "id" : 106430, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -75,7 +75,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 106415, 
+        "OBJECTID" : 106430, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -89,7 +89,42 @@
         "NOTES" : "Kenneth - Zone1", 
         "SHAPE__Area" : 6529483.66015625, 
         "SHAPE__Length" : 11601.793997489474, 
-        "GlobalID" : "6265e537-6362-4214-8519-f4aba62e70fc"
+        "GlobalID" : "a5cb271d-2776-42e3-ae6f-36a9adbdee74"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 106431, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-118.668075505999, 34.1938619550927], 
+            [-118.715797368792, 34.1940749370129], 
+            [-118.714939061907, 34.2202676105219], 
+            [-118.668075505999, 34.2196288616753], 
+            [-118.668075505999, 34.1938619550927]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 106431, 
+        "COUNTY" : "VENTURA", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : null, 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "Kenneth - Zone 5", 
+        "SHAPE__Area" : 18413014.69921875, 
+        "SHAPE__Length" : 17525.269166229205, 
+        "GlobalID" : "885402a2-d8a6-4b57-9ae7-6575a4452535"
       }
     }
   ]
