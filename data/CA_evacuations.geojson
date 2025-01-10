@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 107595, 
+      "id" : 107703, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -268,7 +268,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107595, 
+        "OBJECTID" : 107703, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -282,12 +282,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 262099664.9921875, 
         "SHAPE__Length" : 82188.579419912654, 
-        "GlobalID" : "76d88eaa-ea87-4492-b628-12762ad92c17"
+        "GlobalID" : "9643eda0-9181-4376-8d3c-c5d69cf21b91"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107596, 
+      "id" : 107704, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -368,7 +368,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107596, 
+        "OBJECTID" : 107704, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -382,12 +382,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 51595967.5078125, 
         "SHAPE__Length" : 37833.515534816142, 
-        "GlobalID" : "12077799-8fae-4a1e-9ecb-e84e3d93d741"
+        "GlobalID" : "4c5dac04-7e0b-4ae9-82df-4e561c172a01"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107597, 
+      "id" : 107705, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -505,7 +505,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107597, 
+        "OBJECTID" : 107705, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -519,12 +519,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 18716123.51953125, 
         "SHAPE__Length" : 31121.785050847036, 
-        "GlobalID" : "a094f7a1-ad8a-4239-8766-70b2c7caf497"
+        "GlobalID" : "c08e432c-1bab-4862-ad56-8442c35c4630"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107598, 
+      "id" : 107706, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -550,7 +550,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107598, 
+        "OBJECTID" : 107706, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -564,12 +564,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 4688202.515625, 
         "SHAPE__Length" : 10037.399164778213, 
-        "GlobalID" : "f2f90869-2965-41c7-8d9e-5bac8ea64b20"
+        "GlobalID" : "4f09b730-a109-4c27-abf4-58acf9ee82e1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107599, 
+      "id" : 107707, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -658,7 +658,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107599, 
+        "OBJECTID" : 107707, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -672,12 +672,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 38601770.49609375, 
         "SHAPE__Length" : 29236.905003764114, 
-        "GlobalID" : "5ee5607a-f27d-4cf6-a0bc-815d33b0d776"
+        "GlobalID" : "42ba862b-f74f-49e5-8e51-3a64904b17c1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107600, 
+      "id" : 107708, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -735,7 +735,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107600, 
+        "OBJECTID" : 107708, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -749,12 +749,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 10480186.01953125, 
         "SHAPE__Length" : 16054.922555672683, 
-        "GlobalID" : "cdd6786e-ecdc-4f3b-8f24-30c60d12a5c1"
+        "GlobalID" : "a8b0d9c2-1ccd-4e4e-ad3f-e75ce9a95027"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107601, 
+      "id" : 107709, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -878,7 +878,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107601, 
+        "OBJECTID" : 107709, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -892,12 +892,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 30626281.00390625, 
         "SHAPE__Length" : 42441.28959015954, 
-        "GlobalID" : "02fbb79c-49fa-4373-8585-2b0e9f5f1d31"
+        "GlobalID" : "455e572e-ba19-4714-b42c-17b2dce33369"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107602, 
+      "id" : 107710, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1087,7 +1087,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107602, 
+        "OBJECTID" : 107710, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1101,12 +1101,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 29039686.5078125, 
         "SHAPE__Length" : 44643.232977384374, 
-        "GlobalID" : "7ba69ad1-e589-43e1-9404-33c1cdb2ee03"
+        "GlobalID" : "33969f0a-88fc-4aaf-b589-f1d6da7a7c69"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107603, 
+      "id" : 107711, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1197,7 +1197,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107603, 
+        "OBJECTID" : 107711, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1211,12 +1211,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 12955713.0078125, 
         "SHAPE__Length" : 20814.128383943651, 
-        "GlobalID" : "326cd925-3712-415c-9569-fae9d3db9e23"
+        "GlobalID" : "f0827271-2cf3-417d-937d-17c852a71ddd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107604, 
+      "id" : 107712, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1273,7 +1273,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107604, 
+        "OBJECTID" : 107712, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1287,12 +1287,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 26326119.49609375, 
         "SHAPE__Length" : 22556.304733734618, 
-        "GlobalID" : "e32946c1-9e36-41d6-8560-d4c628a7d2a4"
+        "GlobalID" : "acefb8d0-c9a3-46cb-bfc5-c06b10e9a4fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107605, 
+      "id" : 107713, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1389,7 +1389,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107605, 
+        "OBJECTID" : 107713, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1403,12 +1403,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 11373118.98828125, 
         "SHAPE__Length" : 17062.5556161253, 
-        "GlobalID" : "345fdc7c-dffc-4ee0-8da2-7eec480daea2"
+        "GlobalID" : "e1855b99-baec-4084-9688-8dc48c192aea"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107606, 
+      "id" : 107714, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1479,7 +1479,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107606, 
+        "OBJECTID" : 107714, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1493,12 +1493,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 6609329.48828125, 
         "SHAPE__Length" : 13717.246619153748, 
-        "GlobalID" : "4d3676a5-be3c-4931-b1bb-05b5920aca4b"
+        "GlobalID" : "a246c33a-804d-40a1-a353-f1667ac56da0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107607, 
+      "id" : 107715, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1603,7 +1603,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107607, 
+        "OBJECTID" : 107715, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1617,12 +1617,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 127364442.984375, 
         "SHAPE__Length" : 94584.682437243217, 
-        "GlobalID" : "af9f66b8-a53e-4312-b0f5-bd056848da08"
+        "GlobalID" : "b53fa834-0b6c-464e-a07a-b76456dc5c19"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107608, 
+      "id" : 107716, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1673,7 +1673,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107608, 
+        "OBJECTID" : 107716, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1687,12 +1687,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 6790996.984375, 
         "SHAPE__Length" : 11988.464983036241, 
-        "GlobalID" : "2c7d5e65-bf1d-4f87-a910-aa143cbca81d"
+        "GlobalID" : "4a96413b-3ff6-4ee8-bc9f-d6f15fc3d1ae"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107609, 
+      "id" : 107717, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1784,7 +1784,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107609, 
+        "OBJECTID" : 107717, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1798,12 +1798,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST-MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR YOUR AREA. LEAVE NOW. FOLLOW INSTRUCTIONS FROM EMERGENCY PERSONNEL. DIAL 9-1-1 FOR EMERGENCY HELP. VISIT ALERTLA.ORG FOR MORE INFORMATION.", 
         "SHAPE__Area" : 55038488.13671875, 
         "SHAPE__Length" : 35684.2385359202, 
-        "GlobalID" : "27c78e8e-9738-41d7-87b8-90857c726dcd"
+        "GlobalID" : "a99ab6c0-ad05-471b-8c92-6e4c4adc4005"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107610, 
+      "id" : 107718, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1828,7 +1828,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107610, 
+        "OBJECTID" : 107718, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1842,12 +1842,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Kenneth Fire for Van Owen/City Border/Burbank/Valley Circle. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 4899168.0390625, 
         "SHAPE__Length" : 11270.408745845556, 
-        "GlobalID" : "cd252caa-adc1-40f4-9a94-cca6ca7e1d84"
+        "GlobalID" : "bb9f90e7-9607-45ed-8c94-462961ee210b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107611, 
+      "id" : 107719, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1905,7 +1905,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107611, 
+        "OBJECTID" : 107719, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1919,12 +1919,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 29627733.015625, 
         "SHAPE__Length" : 29863.5610522737, 
-        "GlobalID" : "dd80d343-c7a0-40dd-91d7-ed367d9dfaa9"
+        "GlobalID" : "36df3513-54d1-4472-ac01-11bfd9dcc4cd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 107612, 
+      "id" : 107720, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1990,7 +1990,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 107612, 
+        "OBJECTID" : 107720, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2004,7 +2004,7 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 18619060.98828125, 
         "SHAPE__Length" : 28367.7197722593, 
-        "GlobalID" : "4a0054f0-8dc8-4c6f-8cd7-1ee52f8e68ef"
+        "GlobalID" : "6bd66982-ba73-49e0-a3b7-90eb06fdc2c9"
       }
     }
   ]
