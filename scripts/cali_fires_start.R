@@ -30,6 +30,12 @@ cali_fires <- cali_fires %>%
 cali_fires <- cali_fires %>%
   filter(poly_date_current >= Sys.Date() - 3)
 
+# Manually fix some one-time late fire name changes for automated filed mixed method perimeters
+cali_fires <- cali_fires %>%
+  mutate(mission = ifelse(mission == "KENNETH", "CA-VNC-KENNETH", mission))
+cali_fires <- cali_fires %>%
+           mutate(mission = ifelse(mission == "KENNETH", "CA-VNC-KENNETH", mission))
+
 # Separate fire name by deleting the last five characters of the string mission
 cali_fires <- cali_fires %>%
   mutate(fire_name = str_sub(mission, end = -6))
