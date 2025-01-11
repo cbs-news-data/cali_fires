@@ -38,6 +38,11 @@ cali_fires <- cali_fires %>%
   mutate(fire_name = str_to_upper(fire_name)) %>%
   mutate(fire_name = paste0(fire_name, " FIRE"))
 
+# Manually rename 2025-CALFD-000738 FIRE as PARADISE FIRE
+cali_fires <- cali_fires %>%
+  mutate(fire_name = str_replace(fire_name, "2025-CALFD-000738 FIRE", "PARADISE FIRE"))
+
+  
 # Output and save a file with the history/past perimeters for these specific fires
 cali_fires_history_perimeters <- cali_fires
 # export geojson file to data directory
