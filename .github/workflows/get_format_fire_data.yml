@@ -2,7 +2,7 @@ name: Get CA fire and evac data
 
 on:
   schedule:
-    - cron: '15 */1 * * *'  # Runs at 15 minutes past every hour
+    - cron: '15 */2 * * *'  # Runs at 15 minutes past every hour
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
