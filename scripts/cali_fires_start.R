@@ -78,9 +78,11 @@ geojson_write(cali_fires, file = "data/latest_cali_fires.geojson")
 evac_url <- "https://services3.arcgis.com/uknczv4rpevve42E/arcgis/rest/services/CA_EVACUATIONS_PROD/FeatureServer/0/query?where=0%3D0&objectIds=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&collation=&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pgeojson&token="
 evac_destfile <- "data/CA_evacuations.geojson"
 
+download.file(evac_url, evac_destfile, mode = "wb")
+
 # Download the file using httr
-response <- GET(evac_url)
-writeBin(content(response, "raw"), evac_destfile)
+#response <- GET(evac_url)
+#writeBin(content(response, "raw"), evac_destfile)
 
 #get updated datetime (sys.time)
 current_time = Sys.time()
@@ -107,10 +109,5 @@ file.remove("data/latest_cali_evac.geojson")
 
 # export geojson file to data directory
 geojson_write(cali_evac, file = "data/latest_cali_evac.geojson")
-
-
-
-
-
 
 
