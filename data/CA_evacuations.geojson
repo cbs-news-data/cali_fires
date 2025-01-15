@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 120026, 
+      "id" : 120068, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -84,7 +84,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120026, 
+        "OBJECTID" : 120068, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -98,12 +98,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 51595967.5078125, 
         "SHAPE__Length" : 37833.515534816142, 
-        "GlobalID" : "62f21df8-1c75-46b1-98d9-8224c0b6825a"
+        "GlobalID" : "c257783d-aa17-491d-999c-15c9817b116c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120027, 
+      "id" : 120069, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -192,7 +192,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120027, 
+        "OBJECTID" : 120069, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -206,12 +206,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 38601770.49609375, 
         "SHAPE__Length" : 29236.905003764114, 
-        "GlobalID" : "18427404-2de1-47df-babc-f49b8ef4acae"
+        "GlobalID" : "d1220dc3-56bd-4a15-8d2f-400e2a4f33ce"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120028, 
+      "id" : 120070, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -231,7 +231,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120028, 
+        "OBJECTID" : 120070, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -245,12 +245,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 3065108.99609375, 
         "SHAPE__Length" : 7034.4939202399828, 
-        "GlobalID" : "d6f65fa1-4dab-4a32-b7bd-6af4fecc75ff"
+        "GlobalID" : "34ed3be3-f216-4c0a-b6b2-ca13b21f3805"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120029, 
+      "id" : 120071, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -273,7 +273,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120029, 
+        "OBJECTID" : 120071, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -287,12 +287,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 1959092.49609375, 
         "SHAPE__Length" : 6554.4770657264189, 
-        "GlobalID" : "43235120-5c42-4624-9b52-12d4a66be74e"
+        "GlobalID" : "a170e234-0590-404c-9418-3b30fa6a9fe5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120030, 
+      "id" : 120072, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -339,7 +339,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120030, 
+        "OBJECTID" : 120072, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -353,12 +353,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2732022.49609375, 
         "SHAPE__Length" : 12119.845722926926, 
-        "GlobalID" : "7a1d8de6-dc03-46ca-be05-b3f11656dbc1"
+        "GlobalID" : "cb63fadb-66c4-4727-8873-cdc7922f6efc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120031, 
+      "id" : 120073, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -471,7 +471,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120031, 
+        "OBJECTID" : 120073, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -485,12 +485,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 23537248.4921875, 
         "SHAPE__Length" : 37597.253565240382, 
-        "GlobalID" : "472cc1a2-7be0-448f-99fe-aa381f54ab3d"
+        "GlobalID" : "cb64f069-022c-444a-8927-6e8b92c4b5fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120032, 
+      "id" : 120074, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -566,7 +566,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120032, 
+        "OBJECTID" : 120074, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -580,12 +580,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 5758424.99609375, 
         "SHAPE__Length" : 17601.345120192203, 
-        "GlobalID" : "efd6a7cf-7a59-45e1-892f-5dbf9e720656"
+        "GlobalID" : "cba1c207-f448-4ded-ae55-342bc6850ce3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120033, 
+      "id" : 120075, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -694,7 +694,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120033, 
+        "OBJECTID" : 120075, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -708,12 +708,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 118669518.984375, 
         "SHAPE__Length" : 90687.613122363939, 
-        "GlobalID" : "ab749925-7fb6-4649-8689-010fc93db2e1"
+        "GlobalID" : "c5eeed94-7b8b-406b-95c2-2a33d5eda85b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120034, 
+      "id" : 120076, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -804,7 +804,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120034, 
+        "OBJECTID" : 120076, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -818,12 +818,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 14765720.51171875, 
         "SHAPE__Length" : 28041.582209329637, 
-        "GlobalID" : "f43723fb-d90f-4853-b8e7-547595e48a4f"
+        "GlobalID" : "8a952557-51f2-48e5-af29-880b46ff8ff1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120035, 
+      "id" : 120077, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -853,7 +853,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120035, 
+        "OBJECTID" : 120077, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -867,12 +867,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2837366, 
         "SHAPE__Length" : 9035.0425031712257, 
-        "GlobalID" : "6fe91088-380a-4628-8aca-7438b7c05839"
+        "GlobalID" : "080c3f81-c878-4b76-9648-f79f6f17867f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120036, 
+      "id" : 120078, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -972,7 +972,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120036, 
+        "OBJECTID" : 120078, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -986,12 +986,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 48637149.48828125, 
         "SHAPE__Length" : 78996.6558811857, 
-        "GlobalID" : "9943eba7-f970-4863-9690-5f35b492f5cf"
+        "GlobalID" : "cc567960-58d6-44ba-9ded-c2c4313a2406"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120037, 
+      "id" : 120079, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1096,7 +1096,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120037, 
+        "OBJECTID" : 120079, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1110,12 +1110,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 291383468.52734375, 
         "SHAPE__Length" : 89574.772549676636, 
-        "GlobalID" : "7bcd2175-ee89-43f1-a444-881394a0d805"
+        "GlobalID" : "782419d5-5ffc-4c59-9203-6d354f148b52"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120038, 
+      "id" : 120080, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1222,7 +1222,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120038, 
+        "OBJECTID" : 120080, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1236,12 +1236,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 16163796.96875, 
         "SHAPE__Length" : 31078.052849987551, 
-        "GlobalID" : "28c883e8-5f0a-4bb3-b974-b0af8175961c"
+        "GlobalID" : "904fbb81-3417-4ef7-9906-0a1fd9c94a43"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120039, 
+      "id" : 120081, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1283,7 +1283,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120039, 
+        "OBJECTID" : 120081, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1297,12 +1297,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "92e86299-5517-4a53-b0eb-ac773557def2"
+        "GlobalID" : "1bb263fa-be95-4ca5-b45f-ac341b40a0e0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120040, 
+      "id" : 120082, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1324,7 +1324,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120040, 
+        "OBJECTID" : 120082, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1338,12 +1338,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "b436f685-62e3-48d7-bac4-903e6c70ffaf"
+        "GlobalID" : "37036e0b-5c0b-415f-ad9a-17b9649bfbb0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120041, 
+      "id" : 120083, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1372,7 +1372,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120041, 
+        "OBJECTID" : 120083, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1386,12 +1386,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "4a4a4032-a307-4e3d-8200-702b12de4f46"
+        "GlobalID" : "96717941-3db6-4c03-ba9d-68d3449f190e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120042, 
+      "id" : 120084, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1420,7 +1420,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120042, 
+        "OBJECTID" : 120084, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1434,12 +1434,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "3471c5dc-6876-4b00-90bc-54201cc7eb84"
+        "GlobalID" : "db6b1178-d2c7-405c-93dc-b1dee92a5df1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120043, 
+      "id" : 120085, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1480,7 +1480,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120043, 
+        "OBJECTID" : 120085, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1494,12 +1494,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "1028d63c-c902-4424-9921-20d659ea297a"
+        "GlobalID" : "0d540fad-16d6-475a-a03b-7eb31ef010bf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120044, 
+      "id" : 120086, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1527,7 +1527,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120044, 
+        "OBJECTID" : 120086, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1541,12 +1541,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "feaa1875-6689-475c-aeb2-b7ffd5132098"
+        "GlobalID" : "1e5d1eb7-04cf-445e-9da7-7e673ef8e798"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120045, 
+      "id" : 120087, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1587,7 +1587,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120045, 
+        "OBJECTID" : 120087, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1601,12 +1601,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "91635aaa-1a4f-4292-a6fb-7ff412fe6b24"
+        "GlobalID" : "fbad3289-3156-4683-8209-19ecf8bc45a8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 120046, 
+      "id" : 120088, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1639,7 +1639,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 120046, 
+        "OBJECTID" : 120088, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1653,7 +1653,7 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "0b681089-0e55-4394-84cb-c6ef4dac303d"
+        "GlobalID" : "9687ea54-8941-4596-b4c9-c6b4dbf68885"
       }
     }
   ]
