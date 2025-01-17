@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 124708, 
+      "id" : 125057, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -84,7 +84,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124708, 
+        "OBJECTID" : 125057, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -98,12 +98,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 51595967.5078125, 
         "SHAPE__Length" : 37833.515534816142, 
-        "GlobalID" : "c1ab7788-58f7-4368-a114-cee2147868c8"
+        "GlobalID" : "e0a658b6-622d-4afa-9c5a-371e6a9cf4db"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124709, 
+      "id" : 125058, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -192,7 +192,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124709, 
+        "OBJECTID" : 125058, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -206,12 +206,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 38601770.49609375, 
         "SHAPE__Length" : 29236.905003764114, 
-        "GlobalID" : "36c75c81-ead5-473a-ab2e-6eead6c5a66d"
+        "GlobalID" : "a3223131-aaac-47f5-8965-0c027c6cbb58"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124710, 
+      "id" : 125059, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -231,7 +231,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124710, 
+        "OBJECTID" : 125059, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -245,12 +245,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 3065108.99609375, 
         "SHAPE__Length" : 7034.4939202399828, 
-        "GlobalID" : "027159ed-d74b-444a-a00e-26df38193941"
+        "GlobalID" : "bf32aba6-3177-44f1-bcdb-1ba39d3953dc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124711, 
+      "id" : 125060, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -273,7 +273,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124711, 
+        "OBJECTID" : 125060, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -287,12 +287,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 1959092.49609375, 
         "SHAPE__Length" : 6554.4770657264189, 
-        "GlobalID" : "e2b2c260-9d90-492f-b58d-d389a2cd55c6"
+        "GlobalID" : "cffc137b-92c5-4ce3-92ce-35649027d393"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124712, 
+      "id" : 125061, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -339,7 +339,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124712, 
+        "OBJECTID" : 125061, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -353,12 +353,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2732022.49609375, 
         "SHAPE__Length" : 12119.845722926926, 
-        "GlobalID" : "11048c84-2a57-4d9d-9de5-04e279e0c35f"
+        "GlobalID" : "46daf00a-100a-4411-982d-a88efc305c78"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124713, 
+      "id" : 125062, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -471,7 +471,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124713, 
+        "OBJECTID" : 125062, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -485,12 +485,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 23537248.4921875, 
         "SHAPE__Length" : 37597.253565240382, 
-        "GlobalID" : "b64f8efd-ec9e-41a4-9d28-417ef7105a5f"
+        "GlobalID" : "6f4a64b7-faae-4223-8a77-90b1259da42e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124714, 
+      "id" : 125063, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -566,7 +566,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124714, 
+        "OBJECTID" : 125063, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -580,12 +580,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 5758424.99609375, 
         "SHAPE__Length" : 17601.345120192203, 
-        "GlobalID" : "608c3934-3b49-40ea-8235-343d1ae27038"
+        "GlobalID" : "2196c7bd-6a33-4db6-adb0-8ec30df594c7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124715, 
+      "id" : 125064, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -694,7 +694,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124715, 
+        "OBJECTID" : 125064, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -708,12 +708,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 118669518.984375, 
         "SHAPE__Length" : 90687.613122363939, 
-        "GlobalID" : "09b9b263-f131-4e9a-a3c6-d124e86360d4"
+        "GlobalID" : "e9c7a522-a6e0-4c44-9ca1-5f1b1d3c9ccc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124716, 
+      "id" : 125065, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -804,7 +804,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124716, 
+        "OBJECTID" : 125065, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -818,12 +818,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 14765720.51171875, 
         "SHAPE__Length" : 28041.582209329637, 
-        "GlobalID" : "b3225b7b-5fb5-4893-910c-ca2a6f5035f2"
+        "GlobalID" : "aaa221dd-7e2f-4291-b76d-8e444da21874"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124717, 
+      "id" : 125066, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -853,7 +853,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124717, 
+        "OBJECTID" : 125066, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -867,12 +867,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2837366, 
         "SHAPE__Length" : 9035.0425031712257, 
-        "GlobalID" : "ab2db312-58b1-463a-a598-4ef42319e688"
+        "GlobalID" : "50724a28-0c63-413b-8c32-9908d38f48c1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124718, 
+      "id" : 125067, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -972,7 +972,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124718, 
+        "OBJECTID" : 125067, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -986,12 +986,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 48637149.48828125, 
         "SHAPE__Length" : 78996.6558811857, 
-        "GlobalID" : "2324a86a-c6a1-4de1-9b61-e9e5f575a8e5"
+        "GlobalID" : "672fabd2-be43-416e-8691-fba2993d2213"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124719, 
+      "id" : 125068, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1096,7 +1096,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124719, 
+        "OBJECTID" : 125068, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1110,12 +1110,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 291383468.52734375, 
         "SHAPE__Length" : 89574.772549676636, 
-        "GlobalID" : "cff9ea58-6754-4212-83f7-8a6b736fd5ca"
+        "GlobalID" : "0689ed26-4f3c-4ef6-90dd-6f29ed0ba27a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124720, 
+      "id" : 125069, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1222,7 +1222,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124720, 
+        "OBJECTID" : 125069, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1236,12 +1236,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 16163796.96875, 
         "SHAPE__Length" : 31078.052849987551, 
-        "GlobalID" : "ca956e1d-409e-4f9a-bce0-0c2d83488ce8"
+        "GlobalID" : "037cb15d-77c5-4cc4-a364-d474e7827ec2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124721, 
+      "id" : 125070, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1283,7 +1283,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124721, 
+        "OBJECTID" : 125070, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1297,12 +1297,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "c3db0517-57c7-4ba3-a7e1-c739a1d06e14"
+        "GlobalID" : "86963090-96b7-4362-8caf-28568e1394a8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124722, 
+      "id" : 125071, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1324,7 +1324,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124722, 
+        "OBJECTID" : 125071, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1338,12 +1338,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "925ac0b6-5c8f-40af-9d96-d23b9a556a9a"
+        "GlobalID" : "fa5b7e67-c80d-4126-b941-815784c00e60"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124723, 
+      "id" : 125072, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1372,7 +1372,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124723, 
+        "OBJECTID" : 125072, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1386,12 +1386,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "bf3d5edd-cb97-4111-9717-50c16826bcde"
+        "GlobalID" : "e5821077-e3f7-436c-80e1-b0c68f0ed2f5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124724, 
+      "id" : 125073, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1420,7 +1420,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124724, 
+        "OBJECTID" : 125073, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1434,12 +1434,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "762e6f50-54c2-4829-9432-7f369ede655b"
+        "GlobalID" : "0d66701d-cf86-4b1d-8962-fb1e73696cf0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124725, 
+      "id" : 125074, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1480,7 +1480,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124725, 
+        "OBJECTID" : 125074, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1494,12 +1494,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "2878b0a4-6616-419c-a594-3482bd9a975c"
+        "GlobalID" : "ba3ae751-7deb-46c2-a690-69faf868d598"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124726, 
+      "id" : 125075, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1527,7 +1527,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124726, 
+        "OBJECTID" : 125075, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1541,12 +1541,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "c032195e-0cab-4c1e-b214-37e4a0aed31f"
+        "GlobalID" : "cf46370d-d426-4258-8676-2e56b7d935e3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124727, 
+      "id" : 125076, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1574,7 +1574,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124727, 
+        "OBJECTID" : 125076, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1588,12 +1588,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean. Temporary Evacuation Point: Castroville Rec Center More/Mas Info: alertmry.org", 
         "SHAPE__Area" : 5401152.07421875, 
         "SHAPE__Length" : 10329.526292252784, 
-        "GlobalID" : "c6da9599-a233-42fc-a3bb-880e0dda8a49"
+        "GlobalID" : "b34e5865-3448-4875-8073-170120d3c985"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124728, 
+      "id" : 125077, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1634,7 +1634,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124728, 
+        "OBJECTID" : 125077, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1648,12 +1648,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "a981ce74-f11c-4bb2-bdef-c70b6b8cb00a"
+        "GlobalID" : "4972b7f0-43c3-4102-a82a-a59e301505f2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124729, 
+      "id" : 125078, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1704,7 +1704,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124729, 
+        "OBJECTID" : 125078, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1718,12 +1718,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 6454883.33203125, 
         "SHAPE__Length" : 11745.220222552722, 
-        "GlobalID" : "7b7d8f6b-a734-4fbd-9f20-97b67b2ccf00"
+        "GlobalID" : "4178b7ae-afe8-4cf6-b087-98e80c6d3af3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124730, 
+      "id" : 125079, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1821,7 +1821,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124730, 
+        "OBJECTID" : 125079, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1835,12 +1835,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 1213008.359375, 
         "SHAPE__Length" : 4601.101778612674, 
-        "GlobalID" : "083f3cf5-760e-40c4-9615-3bef7e4bcef8"
+        "GlobalID" : "192a9c9e-0238-4d88-95ea-8b851fedcdd6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124731, 
+      "id" : 125080, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1868,7 +1868,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124731, 
+        "OBJECTID" : 125080, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1882,12 +1882,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 5613931.68359375, 
         "SHAPE__Length" : 10189.786236607799, 
-        "GlobalID" : "5e020ead-d693-4960-a715-5a469cb00300"
+        "GlobalID" : "1da0c0bd-b3ca-4c3f-a9d4-c447531bacc2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124732, 
+      "id" : 125081, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1917,7 +1917,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124732, 
+        "OBJECTID" : 125081, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1931,12 +1931,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 6829106.71875, 
         "SHAPE__Length" : 10678.051007826643, 
-        "GlobalID" : "49171552-bced-495d-afb2-8a99797c9279"
+        "GlobalID" : "dec3eb48-cac5-4ffb-8984-8b896054112e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124733, 
+      "id" : 125082, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2026,7 +2026,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124733, 
+        "OBJECTID" : 125082, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2040,12 +2040,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 702405.64453125, 
         "SHAPE__Length" : 3982.3913163679949, 
-        "GlobalID" : "53700204-412c-4f29-a0df-9c2d8e68419f"
+        "GlobalID" : "62f5e644-8e3b-427d-8511-ce4ca823c6f9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124734, 
+      "id" : 125083, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2179,7 +2179,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124734, 
+        "OBJECTID" : 125083, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2193,12 +2193,12 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 3471197.234375, 
         "SHAPE__Length" : 7776.720476780476, 
-        "GlobalID" : "20c81b9c-6a12-4172-9308-c45bc72450cb"
+        "GlobalID" : "5d91cb5d-7f69-4338-a4e7-9614f157d74d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124735, 
+      "id" : 125084, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2231,7 +2231,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124735, 
+        "OBJECTID" : 125084, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2245,12 +2245,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "82d14617-e58a-46db-9376-1aae88c960b3"
+        "GlobalID" : "409a8510-73e5-4703-aa5e-7b7a19928eed"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 124736, 
+      "id" : 125085, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2287,7 +2287,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 124736, 
+        "OBJECTID" : 125085, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2301,107 +2301,7 @@
         "NOTES" : "Monterey County Sheriff's Office has issued Evacuation Orders for areas of Moss Landing South of the Elkhorn Slough, North of Molera Rd and Monterey Dunes Way, and West of Castroville Blvd & ElkHorn Rd. to the ocean.\n\nTemporary Evacuation Point: Castroville Rec Center\n\nMore/Mas Info: alertmry.org", 
         "SHAPE__Area" : 5483246.59375, 
         "SHAPE__Length" : 10778.130503153152, 
-        "GlobalID" : "b3b5ecd8-1aa8-4444-b052-03b5152d448d"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 124737, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-118.706732359563, 34.1081857775514], 
-            [-118.706750325869, 34.1071890967063], 
-            [-118.711089188691, 34.1071965346666], 
-            [-118.711080205538, 34.104154354369], 
-            [-118.711098171844, 34.1040279044093], 
-            [-118.711403599041, 34.10390889251], 
-            [-118.711771908307, 34.1047047814032], 
-            [-118.711861739836, 34.1053667767419], 
-            [-118.711421565346, 34.1070775272243], 
-            [-118.711502413722, 34.1089816262126], 
-            [-118.711358683277, 34.1099262219161], 
-            [-118.711035289774, 34.1111013735009], 
-            [-118.708546956437, 34.1172892441608], 
-            [-118.706624561729, 34.1247036803682], 
-            [-118.706193370393, 34.1254621918465], 
-            [-118.705780145362, 34.1258637539917], 
-            [-118.707388129721, 34.1274476749652], 
-            [-118.708115765101, 34.1289497697862], 
-            [-118.708133731407, 34.1304667097449], 
-            [-118.707064736218, 34.1343035540101], 
-            [-118.70710066883, 34.1359691066062], 
-            [-118.707810337904, 34.1380286954506], 
-            [-118.709705783154, 34.1407722574912], 
-            [-118.707019820454, 34.1419098058708], 
-            [-118.701513147763, 34.1449878011694], 
-            [-118.700201607448, 34.1459691673979], 
-            [-118.696725127298, 34.149559978468], 
-            [-118.695889694084, 34.1501918859465], 
-            [-118.694955446189, 34.1506453695762], 
-            [-118.693931366765, 34.1509724710108], 
-            [-118.692440163393, 34.1511434553475], 
-            [-118.687858755444, 34.150466950078], 
-            [-118.68689755809, 34.1505264232859], 
-            [-118.683807353513, 34.1510468120693], 
-            [-118.680330873363, 34.1510542461715], 
-            [-118.678462377572, 34.1507866180784], 
-            [-118.674653520767, 34.1494782018606], 
-            [-118.672802991282, 34.1491213575563], 
-            [-118.668257515944, 34.1492997798969], 
-            [-118.664969682005, 34.1495822811653], 
-            [-118.663020337838, 34.149998597102], 
-            [-118.6537317578, 34.1526674308826], 
-            [-118.642008743343, 34.1576777712497], 
-            [-118.638433448512, 34.1590157940501], 
-            [-118.637804627813, 34.1582204163855], 
-            [-118.638532263193, 34.1576480371689], 
-            [-118.632181174134, 34.150533857434], 
-            [-118.631264892544, 34.1510988507713], 
-            [-118.630276745732, 34.150400042669], 
-            [-118.630097082675, 34.1498350446573], 
-            [-118.62982758809, 34.1498945183102], 
-            [-118.629019104334, 34.1472776379692], 
-            [-118.614987419596, 34.1472850724032], 
-            [-118.614996402749, 34.1492774771249], 
-            [-118.609660409961, 34.1472479002268], 
-            [-118.610585674704, 34.1472553346634], 
-            [-118.61060364101, 34.140065928895], 
-            [-118.60621087927, 34.1400956691655], 
-            [-118.606255795035, 34.1290092581406], 
-            [-118.610621607315, 34.1290241302226], 
-            [-118.610639573621, 34.1253357737393], 
-            [-118.623835825145, 34.1254175737126], 
-            [-118.641128394364, 34.1253209010084], 
-            [-118.644955217474, 34.1253283373742], 
-            [-118.644982166933, 34.1290613104163], 
-            [-118.650075614594, 34.1290836185247], 
-            [-118.650273243956, 34.1181073181771], 
-            [-118.654513292097, 34.1181073181771], 
-            [-118.654567191015, 34.1075907456235], 
-            [-118.706732359563, 34.1081857775514]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 124737, 
-        "COUNTY" : "LOS ANGELES", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : null, 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
-        "SHAPE__Area" : 51595967.5078125, 
-        "SHAPE__Length" : 37833.515534816142, 
-        "GlobalID" : "4c4372d1-f417-4dbf-8e21-f56c0ac81ebf"
+        "GlobalID" : "33b85d7d-09b4-44f7-be1b-7da4e7827c4c"
       }
     }
   ]
