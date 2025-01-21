@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 140420, 
+      "id" : 141074, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -84,7 +84,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140420, 
+        "OBJECTID" : 141074, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -98,12 +98,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 51595967.5078125, 
         "SHAPE__Length" : 37833.515534816142, 
-        "GlobalID" : "de9e62c9-dfd7-475b-b008-5786198ed393"
+        "GlobalID" : "f06f8dc6-03d8-4a54-b9cb-d12720685ba5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140421, 
+      "id" : 141075, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -192,7 +192,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140421, 
+        "OBJECTID" : 141075, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -206,12 +206,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 38601770.49609375, 
         "SHAPE__Length" : 29236.905003764114, 
-        "GlobalID" : "ec2fa9e8-0a8d-450c-b41a-19669f76bce1"
+        "GlobalID" : "b3788729-be77-4c64-91cd-6d9ee56db562"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140422, 
+      "id" : 141076, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -231,7 +231,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140422, 
+        "OBJECTID" : 141076, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -245,12 +245,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 3065108.99609375, 
         "SHAPE__Length" : 7034.4939202399828, 
-        "GlobalID" : "fbb234b8-03dd-4ef9-bf49-8b6dc764f812"
+        "GlobalID" : "c3628fbe-417d-4118-8106-1eb34819ebe7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140423, 
+      "id" : 141077, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -273,7 +273,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140423, 
+        "OBJECTID" : 141077, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -287,12 +287,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 1959092.49609375, 
         "SHAPE__Length" : 6554.4770657264189, 
-        "GlobalID" : "688ef7b8-17d1-4b57-8ae2-f27c5c31762d"
+        "GlobalID" : "2f3656db-9c85-4ddb-9bba-5912dc5a836c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140424, 
+      "id" : 141078, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -339,7 +339,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140424, 
+        "OBJECTID" : 141078, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -353,12 +353,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2732022.49609375, 
         "SHAPE__Length" : 12119.845722926926, 
-        "GlobalID" : "ad3dc6fe-40ad-4718-9ac5-14c5f85fc96c"
+        "GlobalID" : "1c51facf-1779-43cf-ad5f-40ad97d9c1be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140425, 
+      "id" : 141079, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -471,7 +471,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140425, 
+        "OBJECTID" : 141079, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -485,12 +485,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 23537248.4921875, 
         "SHAPE__Length" : 37597.253565240382, 
-        "GlobalID" : "e75e9aa2-f848-4357-91ae-91d691a13832"
+        "GlobalID" : "9eb99ed5-d3ae-41ff-add8-caf62dc3933b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140426, 
+      "id" : 141080, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -566,7 +566,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140426, 
+        "OBJECTID" : 141080, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -580,12 +580,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 5758424.99609375, 
         "SHAPE__Length" : 17601.345120192203, 
-        "GlobalID" : "ae858449-7aca-434a-a229-cbf271aa6937"
+        "GlobalID" : "48430d06-f908-4b61-a473-e078596a2e30"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140427, 
+      "id" : 141081, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -694,7 +694,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140427, 
+        "OBJECTID" : 141081, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -708,12 +708,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 118669518.984375, 
         "SHAPE__Length" : 90687.613122363939, 
-        "GlobalID" : "1d351021-6911-4f10-bd47-7ff5f19c3632"
+        "GlobalID" : "b85b5ad0-c9ec-4d05-9eab-0c5c70a0143a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140428, 
+      "id" : 141082, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -804,7 +804,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140428, 
+        "OBJECTID" : 141082, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -818,12 +818,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 14765720.51171875, 
         "SHAPE__Length" : 28041.582209329637, 
-        "GlobalID" : "ab1b73be-c911-4153-bf93-ba360287f8b9"
+        "GlobalID" : "849f62c7-0b38-4790-9102-a4e9ac51e6d1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140429, 
+      "id" : 141083, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -853,7 +853,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140429, 
+        "OBJECTID" : 141083, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -867,12 +867,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 2837366, 
         "SHAPE__Length" : 9035.0425031712257, 
-        "GlobalID" : "ea2ea592-60f3-45ac-876d-717788e2325b"
+        "GlobalID" : "66b68063-3b9b-460a-a13f-05dac2ffe235"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140430, 
+      "id" : 141084, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -972,7 +972,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140430, 
+        "OBJECTID" : 141084, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -986,12 +986,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 48637149.48828125, 
         "SHAPE__Length" : 78996.6558811857, 
-        "GlobalID" : "c90e1d3f-e2c2-44ad-8c26-520f34c99d2d"
+        "GlobalID" : "eaf6a675-7fff-4b4e-b5ae-8d068b1af05d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140431, 
+      "id" : 141085, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1096,7 +1096,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140431, 
+        "OBJECTID" : 141085, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1110,12 +1110,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN YOUR AREA. AN EVACUATION ORDER HAS BEEN ISSUED FOR THE YOUR AREA. LEAVE NOW. MORE INFO AT ALERTLA.ORG.", 
         "SHAPE__Area" : 291383468.52734375, 
         "SHAPE__Length" : 89574.772549676636, 
-        "GlobalID" : "2370b675-d8fb-40f9-8bb6-bf3414da4624"
+        "GlobalID" : "6d64d91d-f303-4517-a847-c5c38516257a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140432, 
+      "id" : 141086, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1222,7 +1222,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140432, 
+        "OBJECTID" : 141086, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1236,12 +1236,12 @@
         "NOTES" : "LA COUNTY OFFICE OF EMERGENCY MANAGEMENT: FAST MOVING WILDFIRE IN THE AREA. AN EVACUATION WARNING HAS BEEN ISSUED. PREPARE TO LEAVE. MORE INFORMATION AT ALERTLA.ORG.", 
         "SHAPE__Area" : 16163796.96875, 
         "SHAPE__Length" : 31078.052849987551, 
-        "GlobalID" : "5b22c31b-5608-43de-b6e8-07330d1a4e86"
+        "GlobalID" : "e1a1e75d-8fb2-4fc4-a706-c61dccb27a2a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140433, 
+      "id" : 141087, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1260,7 +1260,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140433, 
+        "OBJECTID" : 141087, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1274,12 +1274,12 @@
         "NOTES" : "**TEST SHAPE**", 
         "SHAPE__Area" : 251400.23046875, 
         "SHAPE__Length" : 1992.0471906769151, 
-        "GlobalID" : "ed6d587e-845d-43dd-abb8-318b1ac9c517"
+        "GlobalID" : "0bd70470-cc23-48da-ad24-5b9f77ba06f5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140434, 
+      "id" : 141088, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1501,7 +1501,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140434, 
+        "OBJECTID" : 141088, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1515,12 +1515,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 2563421.9609375, 
         "SHAPE__Length" : 9424.3042403055133, 
-        "GlobalID" : "debd3824-9d2a-4650-824c-73bf44114309"
+        "GlobalID" : "e5c998d3-d583-4c89-833c-f96d3749152e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140435, 
+      "id" : 141089, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1795,7 +1795,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140435, 
+        "OBJECTID" : 141089, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1809,12 +1809,12 @@
         "NOTES" : "Wildfire near your area.", 
         "SHAPE__Area" : 1512244.6796875, 
         "SHAPE__Length" : 6215.3130500854313, 
-        "GlobalID" : "7e388161-33cd-461a-8819-e09db39cc733"
+        "GlobalID" : "5ab6ba04-1b53-4f0e-8c4f-6a03d75f3bc9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140436, 
+      "id" : 141090, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2014,7 +2014,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140436, 
+        "OBJECTID" : 141090, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2028,12 +2028,12 @@
         "NOTES" : "Wildfire near your area.", 
         "SHAPE__Area" : 680999.625, 
         "SHAPE__Length" : 3620.6232987951394, 
-        "GlobalID" : "bbe7406f-087e-41d4-afad-12279014b42a"
+        "GlobalID" : "087f2aa7-7f47-4550-9ff8-6a693fa4f717"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140437, 
+      "id" : 141091, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2196,7 +2196,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140437, 
+        "OBJECTID" : 141091, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2210,12 +2210,12 @@
         "NOTES" : "Wildfire near your area. ", 
         "SHAPE__Area" : 6728139.3359375, 
         "SHAPE__Length" : 11344.536848836384, 
-        "GlobalID" : "b3ea4944-24ba-472f-b317-6368bc48ab46"
+        "GlobalID" : "5a30d32c-99b7-45f1-b6cd-2d1cd4476f6c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140438, 
+      "id" : 141092, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2317,7 +2317,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140438, 
+        "OBJECTID" : 141092, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2331,12 +2331,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 1910837.2109375, 
         "SHAPE__Length" : 6264.67198281336, 
-        "GlobalID" : "2e561fce-9e46-44f6-8703-99ee28c6bb49"
+        "GlobalID" : "a0cb341d-0ffc-40f2-9938-ee581d9ef507"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140439, 
+      "id" : 141093, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2506,7 +2506,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140439, 
+        "OBJECTID" : 141093, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2520,12 +2520,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 825177.17578125, 
         "SHAPE__Length" : 5205.6358744474273, 
-        "GlobalID" : "6dc44b90-2f3e-4143-b320-04f40521394d"
+        "GlobalID" : "e8d4e103-c7f8-4971-bd8c-c2b0707a919e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140440, 
+      "id" : 141094, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2758,7 +2758,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140440, 
+        "OBJECTID" : 141094, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2772,12 +2772,12 @@
         "NOTES" : "Wildfire near your area. ", 
         "SHAPE__Area" : 2508876.609375, 
         "SHAPE__Length" : 7168.6425401020661, 
-        "GlobalID" : "31773694-6152-4443-b8d2-b2b4a4bec351"
+        "GlobalID" : "f2c0e731-780f-47cf-9634-d7e7cede53ca"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140441, 
+      "id" : 141095, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3033,7 +3033,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140441, 
+        "OBJECTID" : 141095, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3047,12 +3047,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 4667122.36328125, 
         "SHAPE__Length" : 12327.003682331779, 
-        "GlobalID" : "8a9fc846-fec0-443d-886d-d459daf57f8f"
+        "GlobalID" : "f19c1044-fa46-420c-b225-d253c992e5ba"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140442, 
+      "id" : 141096, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3249,7 +3249,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140442, 
+        "OBJECTID" : 141096, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3263,12 +3263,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 3972480.37890625, 
         "SHAPE__Length" : 12627.01606174689, 
-        "GlobalID" : "6b8a8683-fc18-4ad7-9ac6-f173f7909f66"
+        "GlobalID" : "f5070117-97c9-4fdc-867e-d0ea7f1578c3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140443, 
+      "id" : 141097, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3302,7 +3302,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140443, 
+        "OBJECTID" : 141097, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3316,12 +3316,12 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 1142827.23046875, 
         "SHAPE__Length" : 4585.3980659020208, 
-        "GlobalID" : "ea22ad2f-6a38-485c-8a2f-432afb1c33cd"
+        "GlobalID" : "7b9ba581-9955-4d44-a173-113a12170b9d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140444, 
+      "id" : 141098, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3706,7 +3706,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140444, 
+        "OBJECTID" : 141098, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3720,12 +3720,12 @@
         "NOTES" : "Wildfire near your area.", 
         "SHAPE__Area" : 2372337.87109375, 
         "SHAPE__Length" : 7944.3531538134075, 
-        "GlobalID" : "a57c6ad4-5c46-401f-a09b-0a3bc7e276c7"
+        "GlobalID" : "2941948d-1486-440a-9931-d8cd3c1e9d7c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140445, 
+      "id" : 141099, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3910,7 +3910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140445, 
+        "OBJECTID" : 141099, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3924,12 +3924,460 @@
         "NOTES" : "Temporary Evacuation Point relocated to 4980 Sweetgrass Lane, Fallbrook at the Riverview Church", 
         "SHAPE__Area" : 3533657.546875, 
         "SHAPE__Length" : 9014.28757330856, 
-        "GlobalID" : "a0e1d4f4-e5a7-4189-9abc-ce1822a39bfa"
+        "GlobalID" : "47aa5e0b-d23b-4823-a66e-c98cb0c3f6b7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140446, 
+      "id" : 141100, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.17793019, 32.7684273], 
+            [-117.17798896, 32.76834284], 
+            [-117.1760062, 32.76880286], 
+            [-117.17508423, 32.76901498], 
+            [-117.17409794, 32.76924319], 
+            [-117.17060865, 32.77003495], 
+            [-117.1699731, 32.77017915], 
+            [-117.16986253, 32.77020424], 
+            [-117.16757729, 32.7707227], 
+            [-117.16753978, 32.77073121], 
+            [-117.16747198, 32.7707466], 
+            [-117.16747117, 32.77063762], 
+            [-117.16746784, 32.77018631], 
+            [-117.16742917, 32.77019519], 
+            [-117.16666799, 32.77036995], 
+            [-117.16624595, 32.77046685], 
+            [-117.16572662, 32.77085764], 
+            [-117.16569304, 32.77088347], 
+            [-117.16538223, 32.7711225], 
+            [-117.16462012, 32.77170858], 
+            [-117.16448001, 32.77181633], 
+            [-117.16395445, 32.77222049], 
+            [-117.16378563, 32.77232862], 
+            [-117.16375, 32.772289], 
+            [-117.163567, 32.772041], 
+            [-117.1633174, 32.7715827], 
+            [-117.1631653, 32.7712837], 
+            [-117.1630178, 32.7710153], 
+            [-117.162944, 32.7708679], 
+            [-117.163086, 32.7707933], 
+            [-117.1632431, 32.7707034], 
+            [-117.1636165, 32.7705091], 
+            [-117.1639507, 32.7703504], 
+            [-117.1641112, 32.7702805], 
+            [-117.1642118, 32.7702405], 
+            [-117.1643135, 32.7702042], 
+            [-117.1644584, 32.7701575], 
+            [-117.1646526, 32.7701057], 
+            [-117.1650379, 32.7700487], 
+            [-117.1654151, 32.7700047], 
+            [-117.1655496, 32.7699891], 
+            [-117.1661414, 32.7699269], 
+            [-117.1664, 32.7699084], 
+            [-117.1669737, 32.7698672], 
+            [-117.1672145, 32.7698463], 
+            [-117.1678014, 32.7697954], 
+            [-117.1680186, 32.7697765], 
+            [-117.168613, 32.7697292], 
+            [-117.1687677, 32.7697169], 
+            [-117.1690759, 32.7696728], 
+            [-117.1693348, 32.7696236], 
+            [-117.1695999, 32.7695614], 
+            [-117.1696643, 32.769544], 
+            [-117.1698496, 32.769494], 
+            [-117.1700654, 32.7694292], 
+            [-117.1703859, 32.7693074], 
+            [-117.1707189, 32.7691726], 
+            [-117.1709741, 32.7690666], 
+            [-117.1710852, 32.7690204], 
+            [-117.1713865, 32.7688953], 
+            [-117.171643, 32.76879], 
+            [-117.1725668, 32.7684199], 
+            [-117.1732962, 32.7681277], 
+            [-117.1736327, 32.7680032], 
+            [-117.1742897, 32.7677931], 
+            [-117.1744876, 32.7677322], 
+            [-117.1782481, 32.7665721], 
+            [-117.1783848, 32.766527], 
+            [-117.1789616, 32.766353], 
+            [-117.1794522, 32.7662536], 
+            [-117.179725, 32.7661983], 
+            [-117.1803951, 32.7661233], 
+            [-117.1804516, 32.7661224], 
+            [-117.1810663, 32.7661124], 
+            [-117.1815041, 32.7661351], 
+            [-117.1815844, 32.7661426], 
+            [-117.1826524, 32.7662423], 
+            [-117.18272616, 32.7662492], 
+            [-117.18278989, 32.76685649], 
+            [-117.17793019, 32.7684273]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 141100, 
+        "COUNTY" : "SAN DIEGO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XSD-SDC-1975-B", 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1737492986000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "SDPD, VEGETATION FIRE, EVACUATION ORDERS AND WARNINGS IN PLACE FOR FASHION VALLEY AND LINDA VISTA AREAS. TEMPORY EVACUATION POINT IS SNAP DRAGON STADIUM WEST PARKING LOT.   ", 
+        "SHAPE__Area" : 348014.34375, 
+        "SHAPE__Length" : 5007.5061006097958, 
+        "GlobalID" : "a93e987c-796a-4e01-b0cb-ef132c85e10f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 141101, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.170303, 32.78648], 
+            [-117.17018825, 32.78657559], 
+            [-117.17015576, 32.78663724], 
+            [-117.1700831, 32.7867757], 
+            [-117.1700521, 32.7868394], 
+            [-117.1699958, 32.7869553], 
+            [-117.1699643, 32.7870171], 
+            [-117.1699131, 32.7871175], 
+            [-117.1698098, 32.7872932], 
+            [-117.1696787, 32.7874712], 
+            [-117.16956561, 32.78762471], 
+            [-117.1692907, 32.7879689], 
+            [-117.1691721, 32.7880907], 
+            [-117.16912644, 32.78813756], 
+            [-117.1690408, 32.7882255], 
+            [-117.16889786, 32.78837016], 
+            [-117.1687663, 32.7885033], 
+            [-117.1687143, 32.7885559], 
+            [-117.168248, 32.7890482], 
+            [-117.1682067, 32.7890907], 
+            [-117.16815055, 32.78914723], 
+            [-117.1680736, 32.7892247], 
+            [-117.16771457, 32.78958603], 
+            [-117.167683, 32.7896178], 
+            [-117.1675008, 32.7898063], 
+            [-117.1674398, 32.7898717], 
+            [-117.167417, 32.78989491], 
+            [-117.1673785, 32.7899341], 
+            [-117.16734606, 32.78996727], 
+            [-117.16729008, 32.79002487], 
+            [-117.1669711, 32.7903534], 
+            [-117.1667735, 32.7905581], 
+            [-117.1664857, 32.7908547], 
+            [-117.16645635, 32.79088495], 
+            [-117.166367, 32.7909771], 
+            [-117.16604759, 32.79130258], 
+            [-117.1659048, 32.7914424], 
+            [-117.16593598, 32.79151379], 
+            [-117.16586534, 32.7915635], 
+            [-117.1657947, 32.7916132], 
+            [-117.1657254, 32.79159135], 
+            [-117.1656561, 32.7915695], 
+            [-117.16561505, 32.79155685], 
+            [-117.165574, 32.7915442], 
+            [-117.16547475, 32.7915126], 
+            [-117.1653755, 32.791481], 
+            [-117.1652736, 32.79145395], 
+            [-117.1651717, 32.7914269], 
+            [-117.1649464, 32.7913931], 
+            [-117.1647211, 32.7913593], 
+            [-117.1645025, 32.79134465], 
+            [-117.1642839, 32.79133], 
+            [-117.1637128, 32.7913261], 
+            [-117.1631417, 32.7913222], 
+            [-117.16309585, 32.79131945], 
+            [-117.16305, 32.7913167], 
+            [-117.1630124, 32.79131625], 
+            [-117.1629748, 32.7913158], 
+            [-117.1626582, 32.7913119], 
+            [-117.16212114, 32.79130514], 
+            [-117.16203132, 32.79130401], 
+            [-117.16194355, 32.7913029], 
+            [-117.16154149, 32.79129784], 
+            [-117.1612289, 32.7912939], 
+            [-117.1607836, 32.7913097], 
+            [-117.1607156, 32.79131545], 
+            [-117.1606476, 32.7913212], 
+            [-117.1605064, 32.7913391], 
+            [-117.1603652, 32.791357], 
+            [-117.1599628, 32.7914472], 
+            [-117.1594559, 32.791605], 
+            [-117.15940682, 32.79161983], 
+            [-117.15916705, 32.79169225], 
+            [-117.1588561, 32.79178618], 
+            [-117.15889334, 32.79168816], 
+            [-117.15890701, 32.79165219], 
+            [-117.15894572, 32.79155041], 
+            [-117.1589989, 32.7913923], 
+            [-117.1591386, 32.7909772], 
+            [-117.1595017, 32.7900602], 
+            [-117.1601265, 32.7882581], 
+            [-117.1605142, 32.7872471], 
+            [-117.1607511, 32.7865918], 
+            [-117.1612762, 32.7851827], 
+            [-117.1621863, 32.7826877], 
+            [-117.1624722, 32.7819038], 
+            [-117.1626575, 32.7812263], 
+            [-117.1627521, 32.78069], 
+            [-117.1628052, 32.7800598], 
+            [-117.1628139, 32.7794235], 
+            [-117.1627368, 32.7787016], 
+            [-117.1625738, 32.7779869], 
+            [-117.1624984, 32.7776408], 
+            [-117.1623881, 32.7772353], 
+            [-117.1621735, 32.7766972], 
+            [-117.1615824, 32.7755847], 
+            [-117.1612978, 32.775025], 
+            [-117.1611287, 32.7745362], 
+            [-117.1610122, 32.7741956], 
+            [-117.1609151, 32.7734232], 
+            [-117.1609408, 32.772838], 
+            [-117.16102091, 32.77222936], 
+            [-117.16107242, 32.77203021], 
+            [-117.16114905, 32.77173393], 
+            [-117.16116336, 32.7716786], 
+            [-117.16119271, 32.7715651], 
+            [-117.16126257, 32.77154322], 
+            [-117.16143851, 32.77147061], 
+            [-117.16140815, 32.7715759], 
+            [-117.16138626, 32.77165184], 
+            [-117.1614526, 32.77162491], 
+            [-117.1615536, 32.7715839], 
+            [-117.1616696, 32.7715328], 
+            [-117.1618775, 32.7714413], 
+            [-117.1620948, 32.7713305], 
+            [-117.1621347, 32.7713089], 
+            [-117.16278279, 32.77095681], 
+            [-117.1628595, 32.7709123], 
+            [-117.162944, 32.7708679], 
+            [-117.1630178, 32.7710153], 
+            [-117.1631653, 32.7712837], 
+            [-117.1633174, 32.7715827], 
+            [-117.163567, 32.772041], 
+            [-117.16375, 32.772289], 
+            [-117.16378563, 32.77232862], 
+            [-117.163857, 32.772408], 
+            [-117.164421, 32.772919], 
+            [-117.164658, 32.77309], 
+            [-117.164833, 32.77319], 
+            [-117.165161, 32.773335], 
+            [-117.165527, 32.77343], 
+            [-117.165779, 32.77346], 
+            [-117.166481, 32.773579], 
+            [-117.167381, 32.773731], 
+            [-117.16777, 32.773861], 
+            [-117.167847, 32.773903], 
+            [-117.168053, 32.77401], 
+            [-117.168343, 32.774242], 
+            [-117.168533, 32.774452], 
+            [-117.168716, 32.774773], 
+            [-117.168793, 32.774971], 
+            [-117.168869, 32.775307], 
+            [-117.169083, 32.776096], 
+            [-117.169098, 32.776276], 
+            [-117.16909, 32.776493], 
+            [-117.168983, 32.777134], 
+            [-117.168747, 32.778397], 
+            [-117.168747, 32.778545], 
+            [-117.168777, 32.77879], 
+            [-117.169098, 32.779861], 
+            [-117.1694136, 32.7809288], 
+            [-117.169434, 32.780998], 
+            [-117.1694626, 32.7810923], 
+            [-117.1695145, 32.7812632], 
+            [-117.1695497, 32.7813793], 
+            [-117.16964, 32.781677], 
+            [-117.169724, 32.782181], 
+            [-117.1697269, 32.7822806], 
+            [-117.1697477, 32.7828531], 
+            [-117.169746, 32.782932], 
+            [-117.1697306, 32.783032], 
+            [-117.16967, 32.783363], 
+            [-117.169639, 32.783483], 
+            [-117.1695996, 32.7836144], 
+            [-117.169571, 32.78371], 
+            [-117.1695565, 32.7837453], 
+            [-117.169388, 32.784157], 
+            [-117.1691664, 32.7846452], 
+            [-117.169151, 32.784679], 
+            [-117.1691324, 32.7847197], 
+            [-117.1690295, 32.7849446], 
+            [-117.168877, 32.785278], 
+            [-117.1688695, 32.7853976], 
+            [-117.168861, 32.785534], 
+            [-117.168877, 32.785595], 
+            [-117.168892, 32.785675], 
+            [-117.169006, 32.7859], 
+            [-117.169197, 32.786072], 
+            [-117.1692745, 32.7861147], 
+            [-117.1693096, 32.7861341], 
+            [-117.169411, 32.78619], 
+            [-117.169548, 32.786232], 
+            [-117.1695809, 32.7862428], 
+            [-117.1696196, 32.7862555], 
+            [-117.1697192, 32.7862882], 
+            [-117.1698073, 32.7863171], 
+            [-117.1700407, 32.7863938], 
+            [-117.1701582, 32.7864345], 
+            [-117.170303, 32.78648]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 141101, 
+        "COUNTY" : "SAN DIEGO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XSD-SDC-1895", 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1737493246000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "SDPD, VEGETATION FIRE, EVACUATION ORDERS AND WARNINGS IN PLACE FOR FASHION VALLEY AND LINDA VISTA AREAS. TEMPORY EVACUATION POINT IS SNAP DRAGON STADIUM WEST PARKING LOT.   ", 
+        "SHAPE__Area" : 2062706.71875, 
+        "SHAPE__Length" : 7238.6399044154432, 
+        "GlobalID" : "c9ad008b-1c48-4cab-b0bc-f6af36915d8b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 141102, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.16378563, 32.77232862], 
+            [-117.16395445, 32.77222049], 
+            [-117.16448001, 32.77181633], 
+            [-117.16462012, 32.77170858], 
+            [-117.16538223, 32.7711225], 
+            [-117.16569304, 32.77088347], 
+            [-117.16572662, 32.77085764], 
+            [-117.16624595, 32.77046685], 
+            [-117.16666799, 32.77036995], 
+            [-117.16742917, 32.77019519], 
+            [-117.16746784, 32.77018631], 
+            [-117.16747117, 32.77063762], 
+            [-117.16747198, 32.7707466], 
+            [-117.16753978, 32.77073121], 
+            [-117.16757729, 32.7707227], 
+            [-117.16986253, 32.77020424], 
+            [-117.1699731, 32.77017915], 
+            [-117.17060865, 32.77003495], 
+            [-117.17409794, 32.76924319], 
+            [-117.17508423, 32.76901498], 
+            [-117.1760062, 32.76880286], 
+            [-117.17798896, 32.76834284], 
+            [-117.17778716, 32.76863281], 
+            [-117.17694428, 32.76984026], 
+            [-117.17681219, 32.77042422], 
+            [-117.17656813, 32.77150319], 
+            [-117.17499221, 32.77130348], 
+            [-117.17476508, 32.77224627], 
+            [-117.17476187, 32.77230117], 
+            [-117.17476107, 32.77235613], 
+            [-117.17476267, 32.77241108], 
+            [-117.17476666, 32.77246594], 
+            [-117.17477305, 32.77252064], 
+            [-117.17478183, 32.7725751], 
+            [-117.17478802, 32.7726058], 
+            [-117.17480317, 32.77265925], 
+            [-117.17482107, 32.7727121], 
+            [-117.17484167, 32.77276423], 
+            [-117.17486494, 32.77281556], 
+            [-117.17489084, 32.77286598], 
+            [-117.17491931, 32.7729154], 
+            [-117.1749503, 32.77296373], 
+            [-117.17498376, 32.77301087], 
+            [-117.17501961, 32.77305673], 
+            [-117.1753894, 32.77340577], 
+            [-117.17545977, 32.77347142], 
+            [-117.1755993, 32.7736359], 
+            [-117.1755359, 32.7736824], 
+            [-117.17544968, 32.77374476], 
+            [-117.17536345, 32.77380713], 
+            [-117.17533223, 32.77382971], 
+            [-117.175301, 32.7738523], 
+            [-117.17527034, 32.77387451], 
+            [-117.1752193, 32.77391141], 
+            [-117.17516826, 32.77394831], 
+            [-117.1750871, 32.774007], 
+            [-117.17504523, 32.77403728], 
+            [-117.17500336, 32.77406757], 
+            [-117.17497365, 32.77408905], 
+            [-117.17494395, 32.77411054], 
+            [-117.17486242, 32.77416947], 
+            [-117.1747809, 32.7742284], 
+            [-117.17475572, 32.77424727], 
+            [-117.17471845, 32.7742752], 
+            [-117.17469358, 32.77429384], 
+            [-117.1746544, 32.7743232], 
+            [-117.17458412, 32.77437594], 
+            [-117.17454734, 32.77440353], 
+            [-117.17451383, 32.77442868], 
+            [-117.17448032, 32.77445382], 
+            [-117.17443157, 32.77449039], 
+            [-117.17435424, 32.7745484], 
+            [-117.17433635, 32.77456181], 
+            [-117.16863861, 32.77463725], 
+            [-117.168533, 32.774452], 
+            [-117.168343, 32.774242], 
+            [-117.168053, 32.77401], 
+            [-117.167847, 32.773903], 
+            [-117.16777, 32.773861], 
+            [-117.167381, 32.773731], 
+            [-117.166481, 32.773579], 
+            [-117.165779, 32.77346], 
+            [-117.165527, 32.77343], 
+            [-117.165161, 32.773335], 
+            [-117.164833, 32.77319], 
+            [-117.164658, 32.77309], 
+            [-117.164421, 32.772919], 
+            [-117.163857, 32.772408], 
+            [-117.16378563, 32.77232862]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 141102, 
+        "COUNTY" : "SAN DIEGO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XSD-SDC-1894-A", 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1737491397000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "FIRE - MANDATORY EVACUATION", 
+        "SHAPE__Area" : 714423.203125, 
+        "SHAPE__Length" : 4238.4840578600442, 
+        "GlobalID" : "48396f37-0012-40ff-aadd-664bc0a59bf4"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 141103, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3971,7 +4419,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140446, 
+        "OBJECTID" : 141103, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3985,12 +4433,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "96e10a0e-286d-4dc5-b4a6-a47397f2e784"
+        "GlobalID" : "6e230ead-1d89-4ff8-b460-cfef83bf39fb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140447, 
+      "id" : 141104, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4012,7 +4460,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140447, 
+        "OBJECTID" : 141104, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4026,12 +4474,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "813257e9-4fdb-4ccf-9315-bc0cbfcaaa0b"
+        "GlobalID" : "077441bd-23cd-4d6f-aa7d-e59576f6dd1a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140448, 
+      "id" : 141105, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4060,7 +4508,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140448, 
+        "OBJECTID" : 141105, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4074,12 +4522,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "9b7921f4-e8f6-4406-9791-56cee1f30aab"
+        "GlobalID" : "86e50db5-0057-46ea-bdb1-8ba41eea2f7a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140449, 
+      "id" : 141106, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4108,7 +4556,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140449, 
+        "OBJECTID" : 141106, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4122,12 +4570,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "23ce79e5-5dce-4867-a7ee-1645c5bc40f8"
+        "GlobalID" : "9407d378-3379-4da9-90ca-56c52cdcb40f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140450, 
+      "id" : 141107, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4168,7 +4616,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140450, 
+        "OBJECTID" : 141107, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4182,12 +4630,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "1c5bdbf4-c60c-4617-81c6-923c75e0804b"
+        "GlobalID" : "21cfd7a2-1bc2-4346-8abd-82d76ac940b3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140451, 
+      "id" : 141108, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4215,7 +4663,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140451, 
+        "OBJECTID" : 141108, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4229,12 +4677,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "739468e1-a16a-4ded-acd0-766e327c2c28"
+        "GlobalID" : "d22c2ebe-64de-4fde-9a4d-504450bd949f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140452, 
+      "id" : 141109, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4275,7 +4723,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140452, 
+        "OBJECTID" : 141109, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4289,12 +4737,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "3ffd8ed5-aa86-4bf1-a2f3-71891340ec03"
+        "GlobalID" : "8913e33a-f395-4df3-8e24-26c02e3d2c04"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 140453, 
+      "id" : 141110, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4327,7 +4775,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 140453, 
+        "OBJECTID" : 141110, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4341,7 +4789,7 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "df01afef-3ff0-4d09-8b75-4729366c6639"
+        "GlobalID" : "a8107e0c-9222-4e8e-aa88-8d3ffc122d7f"
       }
     }
   ]
