@@ -29,7 +29,7 @@ cali_fires <- cali_fires %>%
 
 # Filter dataset to only those updated in the last 14 days
 cali_fires <- cali_fires %>%
-  filter(poly_date_current >= Sys.Date() - 10)
+  filter(poly_date_current >= Sys.Date() - 15)
 
 # Removing the code letters etc from mission names to create a standard common fire name
 cali_fires <- cali_fires %>%
