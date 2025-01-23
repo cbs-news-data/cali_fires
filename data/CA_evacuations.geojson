@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 151747, 
+      "id" : 152891, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -32,7 +32,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151747, 
+        "OBJECTID" : 152891, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -46,12 +46,12 @@
         "NOTES" : "VNC Zone 1", 
         "SHAPE__Area" : 19250294.578125, 
         "SHAPE__Length" : 23435.599914911287, 
-        "GlobalID" : "d72e58b6-b95f-4d29-a0ad-b3629f963605"
+        "GlobalID" : "92c56bf9-3f9f-4b55-8754-e6df7b32d991"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151748, 
+      "id" : 152892, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -94,7 +94,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151748, 
+        "OBJECTID" : 152892, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -108,12 +108,12 @@
         "NOTES" : "VNC Zone 2", 
         "SHAPE__Area" : 34419078.20703125, 
         "SHAPE__Length" : 25280.596121779276, 
-        "GlobalID" : "d1b38d53-465f-4251-8bae-81d1c4045a5f"
+        "GlobalID" : "44fa96e4-cde3-49cb-a30b-91134f715434"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151749, 
+      "id" : 152893, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -150,7 +150,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151749, 
+        "OBJECTID" : 152893, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -164,12 +164,12 @@
         "NOTES" : "VNC Zone 3 - Piru", 
         "SHAPE__Area" : 21637890.9296875, 
         "SHAPE__Length" : 21774.363667349931, 
-        "GlobalID" : "c3ca2023-11ab-44f2-9b40-aeb80602b5e3"
+        "GlobalID" : "c486db1d-d6d2-4d9b-9993-e322bc015dc5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151750, 
+      "id" : 152894, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -202,7 +202,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151750, 
+        "OBJECTID" : 152894, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -216,12 +216,12 @@
         "NOTES" : "VNC Zone 4 - Hopper", 
         "SHAPE__Area" : 30949130.375, 
         "SHAPE__Length" : 23507.984922293123, 
-        "GlobalID" : "b6819899-7b7c-4653-8b37-39457bd3bf78"
+        "GlobalID" : "b0730162-a5e6-48c9-a093-01311bb8b32a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151751, 
+      "id" : 152895, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -237,7 +237,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151751, 
+        "OBJECTID" : 152895, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -251,12 +251,12 @@
         "NOTES" : "VNC Zone 5 - Hopper Mountain", 
         "SHAPE__Area" : 63621194.39453125, 
         "SHAPE__Length" : 37825.084055803047, 
-        "GlobalID" : "74f9e684-33d5-4a1f-8bf4-0fefc151ddfb"
+        "GlobalID" : "9643a93f-9bb3-43d5-8bea-46e30245695c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151752, 
+      "id" : 152896, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -280,7 +280,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151752, 
+        "OBJECTID" : 152896, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -294,12 +294,12 @@
         "NOTES" : "VNC Zone 6 - Lake Piru", 
         "SHAPE__Area" : 127565923.8203125, 
         "SHAPE__Length" : 46297.980890422972, 
-        "GlobalID" : "2b471e52-0eca-426d-8044-213bbb2cf5a9"
+        "GlobalID" : "63272067-d227-430c-8f3a-625ffdcdd806"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151753, 
+      "id" : 152897, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -383,7 +383,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151753, 
+        "OBJECTID" : 152897, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -397,12 +397,12 @@
         "NOTES" : "VNC Zone 7 - Camulos", 
         "SHAPE__Area" : 44609827.56640625, 
         "SHAPE__Length" : 32213.227302161631, 
-        "GlobalID" : "4da3fc69-3f3e-4d78-a028-48af4d49a5eb"
+        "GlobalID" : "5fdb48cb-cee2-459d-98f4-0d1e43b4a413"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151754, 
+      "id" : 152898, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -457,7 +457,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151754, 
+        "OBJECTID" : 152898, 
         "COUNTY" : "VENTURA", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -471,12 +471,12 @@
         "NOTES" : "VNC Zone 8 - Guiberson", 
         "SHAPE__Area" : 30983027.7578125, 
         "SHAPE__Length" : 25049.9076044616, 
-        "GlobalID" : "9431800b-781f-4719-a9ae-2e287ccfba14"
+        "GlobalID" : "f777a249-c6ad-496b-a228-7d6bc2a5f6d6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151755, 
+      "id" : 152899, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1097,7 +1097,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151755, 
+        "OBJECTID" : 152899, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1111,12 +1111,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "a592c533-66fc-48b6-866c-19c28c770e52"
+        "GlobalID" : "ec389f64-8214-4de3-9ded-106f8bb21c50"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151756, 
+      "id" : 152900, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1176,7 +1176,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151756, 
+        "OBJECTID" : 152900, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1190,12 +1190,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "f3763d5d-864f-40cd-8afa-d445ac5f7cd9"
+        "GlobalID" : "74b33fd9-b357-4075-a515-cf3da674a201"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151757, 
+      "id" : 152901, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1373,7 +1373,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151757, 
+        "OBJECTID" : 152901, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1387,12 +1387,12 @@
         "NOTES" : "Los Angeles County Fire Dept:  Wind-driven fire. An EVACUATION ORDER for Topanga west of Topanga Canyon Rd. LEAVE NOW.  Follow instructions from emergency personnel. Dial 9-1-1 for emergency help. Visit alertla.org for more information.", 
         "SHAPE__Area" : 8833529.98046875, 
         "SHAPE__Length" : 13234.252841530999, 
-        "GlobalID" : "72e4712d-f889-428c-bc21-bb6688588327"
+        "GlobalID" : "03e1fd02-5ee6-4edf-8255-275344828379"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151758, 
+      "id" : 152902, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1478,7 +1478,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151758, 
+        "OBJECTID" : 152902, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1492,12 +1492,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "ee867499-fbdc-43ef-b71b-b2d38f3b9b19"
+        "GlobalID" : "a0938a64-351d-4c54-80ec-add271e0f699"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151759, 
+      "id" : 152903, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1578,7 +1578,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151759, 
+        "OBJECTID" : 152903, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1592,12 +1592,12 @@
         "NOTES" : "This is an emergency message from the Los Angeles County Fire Department. An EVACUATION ORDER has been issued for Malibu east of Las Flores. EVACUATE NOW.  Follow instructions from emergency personnel. Dial 9-1-1 for emergency help. More information available at alertla.org", 
         "SHAPE__Area" : 9202285.828125, 
         "SHAPE__Length" : 14299.864718098175, 
-        "GlobalID" : "1dce400c-4575-4ab0-a8f4-9333970e2fd4"
+        "GlobalID" : "f729081f-bf8c-4769-88e4-e4ed5f1c425a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151760, 
+      "id" : 152904, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1696,7 +1696,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151760, 
+        "OBJECTID" : 152904, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1710,12 +1710,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 20, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 611355.19140625, 
         "SHAPE__Length" : 4713.1978694822683, 
-        "GlobalID" : "50a6256b-ac55-4bc1-87ca-467ba4bca690"
+        "GlobalID" : "5d8437a2-f719-439a-b105-b14a70d6d7b1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151761, 
+      "id" : 152905, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1766,7 +1766,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151761, 
+        "OBJECTID" : 152905, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1780,12 +1780,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "e2158c7b-e764-4928-bd95-5dc49c8d90ba"
+        "GlobalID" : "d425722b-3a1b-4dbb-96ae-1db6013dd530"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151762, 
+      "id" : 152906, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4481,7 +4481,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151762, 
+        "OBJECTID" : 152906, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4495,12 +4495,12 @@
         "NOTES" : "LACOFD 1105AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of Castaic Lake due a brush fire. Leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 120067784.6171875, 
         "SHAPE__Length" : 56726.263566082096, 
-        "GlobalID" : "86056a58-5fbe-4e38-af47-333a789f3493"
+        "GlobalID" : "fcaeed0e-efed-4f45-956f-f4b409526b63"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151763, 
+      "id" : 152907, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4651,7 +4651,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151763, 
+        "OBJECTID" : 152907, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4665,12 +4665,12 @@
         "NOTES" : "This is an emergency message from the Los Angeles County Fire Department.  Forest fire burning.  An EVACUATION ORDER has been issued for the Sunset Mesa area. LEAVE NOW.  Follow instructions from emergency personnel. Dial 9-1-1 for emergency help. More information available at alertla.org", 
         "SHAPE__Area" : 4809144.7265625, 
         "SHAPE__Length" : 9086.1696524349027, 
-        "GlobalID" : "5ffb0343-5ec6-4a40-8be5-d2135adb16bb"
+        "GlobalID" : "e32b7ba8-faf9-4b9f-99ee-2a945e05e036"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151764, 
+      "id" : 152908, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4861,7 +4861,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151764, 
+        "OBJECTID" : 152908, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4875,12 +4875,12 @@
         "NOTES" : "LACOFD 1145AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of south of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 3627983.03515625, 
         "SHAPE__Length" : 7823.417565925859, 
-        "GlobalID" : "3a123f88-365c-4cf9-9740-0953a12067d5"
+        "GlobalID" : "254a589c-6abc-437b-b3bf-7a8fb38e07d3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151765, 
+      "id" : 152909, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6234,7 +6234,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151765, 
+        "OBJECTID" : 152909, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6248,12 +6248,12 @@
         "NOTES" : "LACOFD 1134AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of north of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 13949844.7265625, 
         "SHAPE__Length" : 22875.890581435608, 
-        "GlobalID" : "66595869-47c8-4d58-b032-592975ed4167"
+        "GlobalID" : "0c1406db-c029-4958-847f-df5d32d7765e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151766, 
+      "id" : 152910, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6301,7 +6301,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151766, 
+        "OBJECTID" : 152910, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6315,12 +6315,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "13a6ae1f-f274-43f6-bb43-5e5998464001"
+        "GlobalID" : "95d854c3-e611-42e0-8662-14aadbf5380f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151767, 
+      "id" : 152911, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7283,7 +7283,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151767, 
+        "OBJECTID" : 152911, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7297,12 +7297,12 @@
         "NOTES" : "LACOFD 1145AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of south of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 45696789.9375, 
         "SHAPE__Length" : 37148.186407089648, 
-        "GlobalID" : "45a761f5-4bce-4e51-8be6-deb1356f488f"
+        "GlobalID" : "c32c46e4-6622-477e-856c-1bdac75b8176"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151768, 
+      "id" : 152912, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9131,7 +9131,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151768, 
+        "OBJECTID" : 152912, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -9145,12 +9145,12 @@
         "NOTES" : "LACOFD 1159AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of Bitter Canyon and Charlie Canyon due a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 40912804.4609375, 
         "SHAPE__Length" : 42746.68657608753, 
-        "GlobalID" : "acf223f2-8cd5-4bec-a2ce-6319cbc529db"
+        "GlobalID" : "94fadb72-be35-4bc5-8bc4-1da9f61ea0d7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151769, 
+      "id" : 152913, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9165,7 +9165,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151769, 
+        "OBJECTID" : 152913, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -9179,12 +9179,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1291388.16796875, 
         "SHAPE__Length" : 6046.729714635776, 
-        "GlobalID" : "d49b8c1b-5126-4897-8a80-d547bc7d0442"
+        "GlobalID" : "92535df7-ade0-4ca6-b5f4-1e384de81d4e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151770, 
+      "id" : 152914, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9281,7 +9281,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151770, 
+        "OBJECTID" : 152914, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -9295,12 +9295,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 352218.1015625, 
         "SHAPE__Length" : 3384.49722233687, 
-        "GlobalID" : "f1de1545-a11a-4c56-b861-ab9435d0dd68"
+        "GlobalID" : "4e88a453-5562-4d04-b8dd-e434fc1adf83"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151771, 
+      "id" : 152915, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9361,7 +9361,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151771, 
+        "OBJECTID" : 152915, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -9375,12 +9375,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "433f4519-5854-4598-aa81-56ec66bb3e74"
+        "GlobalID" : "c61f69c7-0f1f-401e-814b-cc853254504f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151772, 
+      "id" : 152916, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9491,7 +9491,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151772, 
+        "OBJECTID" : 152916, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -9505,12 +9505,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "2ca58c87-6c99-4717-989a-44975df228da"
+        "GlobalID" : "ed8e86c7-b5ea-41fb-b436-43c9dc1ebc24"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151773, 
+      "id" : 152917, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10039,7 +10039,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151773, 
+        "OBJECTID" : 152917, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -10053,12 +10053,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 10274349.75390625, 
         "SHAPE__Length" : 21202.837716017904, 
-        "GlobalID" : "f77c43fc-6a7d-4d4b-8be9-e0eb4feb682e"
+        "GlobalID" : "e06e93a1-48ef-4a47-852e-60db33a94caa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151774, 
+      "id" : 152918, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10100,7 +10100,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151774, 
+        "OBJECTID" : 152918, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -10114,12 +10114,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "d54501eb-8f81-4e32-8c00-d81b6e3c9c4e"
+        "GlobalID" : "2eda7a7c-207b-4146-bdda-3e97d881fbc2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151775, 
+      "id" : 152919, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10233,7 +10233,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151775, 
+        "OBJECTID" : 152919, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -10247,12 +10247,12 @@
         "NOTES" : "Los Angeles County Fire Dept:  Wind-driven fire. An EVACUATION ORDER for Topanga west of Topanga Canyon Rd. LEAVE NOW.  Follow instructions from emergency personnel. Dial 9-1-1 for emergency help. Visit alertla.org for more information.", 
         "SHAPE__Area" : 8847196.515625, 
         "SHAPE__Length" : 12377.963016250451, 
-        "GlobalID" : "3dfdc469-5877-4a3f-827d-dbb5db50f8d1"
+        "GlobalID" : "55d2f2bf-e238-430d-9c06-591cd92047d0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151776, 
+      "id" : 152920, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10274,7 +10274,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151776, 
+        "OBJECTID" : 152920, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -10288,12 +10288,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "c8343aad-f4d9-40dc-963b-c35eaf16526b"
+        "GlobalID" : "c54e41e5-6c74-4e08-971f-982fee6d2e3d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151777, 
+      "id" : 152921, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15544,7 +15544,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151777, 
+        "OBJECTID" : 152921, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15558,12 +15558,12 @@
         "NOTES" : "LACOFD 3:25 PM 1-22-2025: Brushfire near Castaic Lake. An Evacuation Order is being issued for north east of Castaic Lake. Leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 109902475.83203125, 
         "SHAPE__Length" : 67902.718349762668, 
-        "GlobalID" : "be84472d-e884-4db7-96d9-5212a25231aa"
+        "GlobalID" : "a6a8d07e-ba76-423b-9240-34aafe6c408a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151778, 
+      "id" : 152922, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15592,7 +15592,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151778, 
+        "OBJECTID" : 152922, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15606,12 +15606,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "1c2c696e-126e-4131-8419-2e5d6eca49a9"
+        "GlobalID" : "bd486db2-f439-4f30-bf5e-1ec5f7cba6aa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151779, 
+      "id" : 152923, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15640,7 +15640,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151779, 
+        "OBJECTID" : 152923, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15654,12 +15654,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "193cfd33-bc4d-4ced-a076-d76c00faa33a"
+        "GlobalID" : "43d50c0c-5ebb-4e35-b1e8-0baa2c434fcd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151780, 
+      "id" : 152924, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15700,7 +15700,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151780, 
+        "OBJECTID" : 152924, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15714,12 +15714,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "6953db81-a0dd-4d6e-9d56-51eeacfbdfa5"
+        "GlobalID" : "99abee08-0dca-4874-a6f1-712ee9d53dfa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151781, 
+      "id" : 152925, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17073,7 +17073,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151781, 
+        "OBJECTID" : 152925, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17087,12 +17087,12 @@
         "NOTES" : "LACOFD 1116AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of CAS-Ridge due to brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 37284113.58203125, 
         "SHAPE__Length" : 36796.63452805228, 
-        "GlobalID" : "0df8d532-b1de-4cce-85ed-0f4e65e87f3a"
+        "GlobalID" : "c85a9b22-c170-40ec-ab39-47a3451077d5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151782, 
+      "id" : 152926, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17194,7 +17194,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151782, 
+        "OBJECTID" : 152926, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17208,12 +17208,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 8166880.30859375, 
         "SHAPE__Length" : 16378.245185000786, 
-        "GlobalID" : "e89b96b3-5c68-4e37-b992-d687fc28015c"
+        "GlobalID" : "eddaae5a-ac57-4ccf-86ee-d33b04038903"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151783, 
+      "id" : 152927, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17321,7 +17321,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151783, 
+        "OBJECTID" : 152927, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17335,12 +17335,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 2429552.78515625, 
         "SHAPE__Length" : 7251.00684821444, 
-        "GlobalID" : "ff94c756-a200-4431-9660-6bf42b9f4e50"
+        "GlobalID" : "bfb19ea8-31c1-437e-85c9-a77e144b5db8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151784, 
+      "id" : 152928, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17465,7 +17465,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151784, 
+        "OBJECTID" : 152928, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17479,12 +17479,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 2519036.96484375, 
         "SHAPE__Length" : 6912.75120658164, 
-        "GlobalID" : "9a31c5f4-ffd0-41e3-90d8-59e826b7c6bc"
+        "GlobalID" : "2c16745f-17c7-44d7-b505-bd8b4786b9b9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151785, 
+      "id" : 152929, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17684,7 +17684,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151785, 
+        "OBJECTID" : 152929, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17698,12 +17698,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "5a1209a3-8b36-4ef1-96a5-abc2ae0e1189"
+        "GlobalID" : "7f49d95a-72b4-4913-9ecb-cd7f61e326d2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151786, 
+      "id" : 152930, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17731,7 +17731,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151786, 
+        "OBJECTID" : 152930, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17745,12 +17745,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "1f31d381-1368-4e2c-a50e-d9064980ac64"
+        "GlobalID" : "64f4cf9a-ca48-4c59-bd91-da353f5e7bfc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151787, 
+      "id" : 152931, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17791,7 +17791,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151787, 
+        "OBJECTID" : 152931, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17805,12 +17805,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "a7205b5b-8e92-4494-9a3f-1174d67774d7"
+        "GlobalID" : "d7866048-21da-46f0-8693-cfd194cb2ca0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151788, 
+      "id" : 152932, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18248,7 +18248,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151788, 
+        "OBJECTID" : 152932, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18262,12 +18262,12 @@
         "NOTES" : "LACOFD 1145AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of south of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 8947506.375, 
         "SHAPE__Length" : 15429.555897273418, 
-        "GlobalID" : "6ae17d46-15ab-4e98-a7f9-1c4282efad3e"
+        "GlobalID" : "7420b8d1-31cb-4c14-bde9-3ec180d9c8f3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151789, 
+      "id" : 152933, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18389,7 +18389,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151789, 
+        "OBJECTID" : 152933, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18403,12 +18403,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 1983723.28515625, 
         "SHAPE__Length" : 6774.3399470831837, 
-        "GlobalID" : "94e8601c-7491-4f70-8d01-c5dee61ef41f"
+        "GlobalID" : "29345640-0517-4e2e-905a-cfccadebf425"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151790, 
+      "id" : 152934, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18556,7 +18556,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151790, 
+        "OBJECTID" : 152934, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18570,12 +18570,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 2303845.08203125, 
         "SHAPE__Length" : 7602.0895598084226, 
-        "GlobalID" : "678b7d31-cfca-4e76-b851-4b031503a050"
+        "GlobalID" : "e750231d-7fd6-43d7-b558-daaffae51288"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151791, 
+      "id" : 152935, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18759,7 +18759,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151791, 
+        "OBJECTID" : 152935, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18773,12 +18773,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 1756714.47265625, 
         "SHAPE__Length" : 5510.4697570085182, 
-        "GlobalID" : "c772b6d0-7a2a-4d38-9c33-86d09be2f773"
+        "GlobalID" : "e1376854-c4f8-4150-adad-a6de18189ce5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151792, 
+      "id" : 152936, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19039,7 +19039,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151792, 
+        "OBJECTID" : 152936, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19053,12 +19053,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 878767.1953125, 
         "SHAPE__Length" : 4906.9772191198845, 
-        "GlobalID" : "0ccbc23d-da57-4ab7-a324-0768021ae798"
+        "GlobalID" : "1acf795e-6ff2-4cc3-a8eb-c3d5d2fd8ba5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151793, 
+      "id" : 152937, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19383,7 +19383,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151793, 
+        "OBJECTID" : 152937, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19397,12 +19397,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 9758070.5234375, 
         "SHAPE__Length" : 16496.244097004288, 
-        "GlobalID" : "42e46550-fff7-4007-9d56-f48a42bb235d"
+        "GlobalID" : "db307da6-ed76-4223-820e-cf68c37f463d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151794, 
+      "id" : 152938, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19758,7 +19758,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151794, 
+        "OBJECTID" : 152938, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19772,12 +19772,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 2191791.6640625, 
         "SHAPE__Length" : 15639.560490458838, 
-        "GlobalID" : "e888fdee-dcf6-46ed-bed1-e1632ee462e5"
+        "GlobalID" : "11653e2a-4ee5-4c57-857e-8f714cda07bc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151795, 
+      "id" : 152939, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19970,7 +19970,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151795, 
+        "OBJECTID" : 152939, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19984,12 +19984,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 11646698.01953125, 
         "SHAPE__Length" : 16062.245603271036, 
-        "GlobalID" : "dced606a-f2d0-4661-8630-c248204c9fc5"
+        "GlobalID" : "0c1613e9-97fb-40b7-b0b6-02953054faa3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151796, 
+      "id" : 152940, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20190,7 +20190,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151796, 
+        "OBJECTID" : 152940, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20204,12 +20204,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 5403050.80859375, 
         "SHAPE__Length" : 16647.08652879126, 
-        "GlobalID" : "4fb2bde3-548c-404b-bee2-f01c97d4326f"
+        "GlobalID" : "2efd0009-ad62-403e-a31e-c4f9e4bb39a6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151797, 
+      "id" : 152941, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20242,7 +20242,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151797, 
+        "OBJECTID" : 152941, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20256,12 +20256,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "44d54d89-6c4a-45e4-8625-b9d117a7be6b"
+        "GlobalID" : "d57328ae-dfea-489d-abc7-624e2a22e8cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151798, 
+      "id" : 152942, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20494,7 +20494,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151798, 
+        "OBJECTID" : 152942, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20508,12 +20508,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "12d680b9-3602-48cd-a39c-3f4037bf8599"
+        "GlobalID" : "b41cdedb-8c56-4d55-8f86-a9d0c8a9fc9c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151799, 
+      "id" : 152943, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20573,7 +20573,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151799, 
+        "OBJECTID" : 152943, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20587,12 +20587,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "4d2f9c82-24f7-43e0-a6b5-51770d32641f"
+        "GlobalID" : "8e6e2aed-cc06-47fd-b100-bf4840e1458a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151800, 
+      "id" : 152944, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21103,7 +21103,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151800, 
+        "OBJECTID" : 152944, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21117,12 +21117,12 @@
         "NOTES" : "This is an emergency message from the Los Angeles County Fire Department. An EVACUATION ORDER has been issued for Malibu east of Las Flores. EVACUATE NOW.  Follow instructions from emergency personnel. Dial 9-1-1 for emergency help. More information available at alertla.org", 
         "SHAPE__Area" : 5770548.33203125, 
         "SHAPE__Length" : 13940.409248272481, 
-        "GlobalID" : "009e2499-7746-4dfd-94eb-c1c2c30e12cd"
+        "GlobalID" : "c38b75d2-314c-47d2-a6af-c76e64b8dbc4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151801, 
+      "id" : 152945, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23032,7 +23032,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151801, 
+        "OBJECTID" : 152945, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23046,12 +23046,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 200864554.21484375, 
         "SHAPE__Length" : 71036.518454692181, 
-        "GlobalID" : "4c490d71-278a-4fae-b820-19556982a980"
+        "GlobalID" : "fdd0fcf4-52ea-4228-9d50-49d60d3c5aa3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151802, 
+      "id" : 152946, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -27169,7 +27169,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151802, 
+        "OBJECTID" : 152946, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -27183,12 +27183,12 @@
         "NOTES" : "LACOFD 3:30 PM 1-22-2025: Brushfire near Castaic Lake. An Evacuation Warning is being issued for north east of Castaic Lake. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 38415754.3828125, 
         "SHAPE__Length" : 39390.677026904763, 
-        "GlobalID" : "7e98a3cb-89fe-40b0-95bd-5157b6d7ef2a"
+        "GlobalID" : "92851dec-2f64-47fc-98f7-978559482be9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151803, 
+      "id" : 152947, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -31224,7 +31224,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151803, 
+        "OBJECTID" : 152947, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -31238,12 +31238,12 @@
         "NOTES" : "LACOFD 1117AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of north of Castaic Lake. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 314822549.9921875, 
         "SHAPE__Length" : 96562.164029680425, 
-        "GlobalID" : "a5df813c-076a-42ce-be11-995c25cdc7ca"
+        "GlobalID" : "e08260ca-edf9-42da-9935-7a8fb18278c8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151804, 
+      "id" : 152948, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -33196,7 +33196,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151804, 
+        "OBJECTID" : 152948, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -33210,12 +33210,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 33766191.71484375, 
         "SHAPE__Length" : 32671.668554008829, 
-        "GlobalID" : "9224cf6d-fbd3-4ad2-a241-98cbc9c8da9a"
+        "GlobalID" : "126ad93b-4403-4f85-862e-a553565813fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151805, 
+      "id" : 152949, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -35917,7 +35917,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151805, 
+        "OBJECTID" : 152949, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -35931,12 +35931,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 66415413.59375, 
         "SHAPE__Length" : 61522.24874778276, 
-        "GlobalID" : "7a9b8d91-d574-4db2-8dc0-7113951c4191"
+        "GlobalID" : "6d40b34d-b7a8-494f-be30-93df55285383"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151806, 
+      "id" : 152950, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36913,7 +36913,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151806, 
+        "OBJECTID" : 152950, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36927,12 +36927,12 @@
         "NOTES" : "LACOFD 1117AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of Paradise Ranch due a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 28684295.98046875, 
         "SHAPE__Length" : 34890.795855929136, 
-        "GlobalID" : "cc822ea1-281e-48e4-b4e1-a6bf3baafd48"
+        "GlobalID" : "a9278f2e-8887-459d-86a6-d833109a596f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151807, 
+      "id" : 152951, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39385,7 +39385,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151807, 
+        "OBJECTID" : 152951, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39399,12 +39399,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 80368084.52734375, 
         "SHAPE__Length" : 39957.147928492042, 
-        "GlobalID" : "abdee2c2-4b16-4313-a621-6b8f434f0357"
+        "GlobalID" : "d0a078f2-fafc-4fc8-9a72-5f27eed56ebe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151808, 
+      "id" : 152952, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39494,7 +39494,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151808, 
+        "OBJECTID" : 152952, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39508,12 +39508,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 2275240.5859375, 
         "SHAPE__Length" : 6538.3564478573344, 
-        "GlobalID" : "39396edf-e467-4128-b2b1-8955f98639e9"
+        "GlobalID" : "d1daa70c-e520-4bf3-8173-aa24e55b5421"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151809, 
+      "id" : 152953, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39627,7 +39627,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151809, 
+        "OBJECTID" : 152953, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39641,12 +39641,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "66f6ba39-e6d3-4328-b55b-d041a47dbf7c"
+        "GlobalID" : "b29d6297-cda9-4ef8-a290-dea3ee8ec894"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151810, 
+      "id" : 152954, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39733,7 +39733,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151810, 
+        "OBJECTID" : 152954, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39747,12 +39747,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 459424.8046875, 
         "SHAPE__Length" : 3673.2143004765758, 
-        "GlobalID" : "5f0a53bb-4326-4070-a718-045f642a2377"
+        "GlobalID" : "a1c6c5c4-e8d2-441d-9c90-84e3a2807191"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151811, 
+      "id" : 152955, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39908,7 +39908,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151811, 
+        "OBJECTID" : 152955, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39922,12 +39922,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "55e7dff1-597e-4b2c-b3ce-d46679c0eeb1"
+        "GlobalID" : "26e65f7b-2eb8-41c6-b697-7f1a0e5d3265"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151812, 
+      "id" : 152956, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39984,7 +39984,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151812, 
+        "OBJECTID" : 152956, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39998,12 +39998,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1445783.07421875, 
         "SHAPE__Length" : 7601.7191004305332, 
-        "GlobalID" : "549d0c4d-139a-4e54-9911-9045a31a6817"
+        "GlobalID" : "b5995381-1f2e-437d-a5d4-69dd48dc204f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151813, 
+      "id" : 152957, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40132,7 +40132,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151813, 
+        "OBJECTID" : 152957, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40146,12 +40146,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 1145720.19921875, 
         "SHAPE__Length" : 6799.6994179737421, 
-        "GlobalID" : "29d382c8-3a91-4f49-b9e4-d84f4bd11cdf"
+        "GlobalID" : "f6a89adc-51ae-4b4a-8f8f-d5930061d088"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151814, 
+      "id" : 152958, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40358,7 +40358,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151814, 
+        "OBJECTID" : 152958, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40372,12 +40372,12 @@
         "NOTES" : "LACOFD 1159AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area of Bitter Canyon and Charlie Canyon due a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 19708686.4296875, 
         "SHAPE__Length" : 22842.013536249931, 
-        "GlobalID" : "f2efb64b-a9e2-4015-bd59-83b9a6b3f7fb"
+        "GlobalID" : "ce470c31-df14-4e78-9856-d7043a27149b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151815, 
+      "id" : 152959, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40515,7 +40515,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151815, 
+        "OBJECTID" : 152959, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40529,12 +40529,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 1978956.734375, 
         "SHAPE__Length" : 8340.171131479834, 
-        "GlobalID" : "29694a0f-ca35-4cc1-8465-e2526e61d757"
+        "GlobalID" : "d16f18b4-f92d-4265-9070-efd45654b8a6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151816, 
+      "id" : 152960, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40634,7 +40634,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151816, 
+        "OBJECTID" : 152960, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40648,12 +40648,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "f8ee5f01-0ab6-4554-ada0-0e4d8e4ec6e0"
+        "GlobalID" : "d1f6063a-7d13-49e2-8c9b-bfcdf251599e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151817, 
+      "id" : 152961, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40862,7 +40862,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151817, 
+        "OBJECTID" : 152961, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40876,12 +40876,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 6873429.83984375, 
         "SHAPE__Length" : 12988.366680259034, 
-        "GlobalID" : "8cd44298-612d-4858-b413-77cf6af474f3"
+        "GlobalID" : "39649cf6-42f1-4426-9e21-1c77fa7e6dd8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151818, 
+      "id" : 152962, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41099,7 +41099,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151818, 
+        "OBJECTID" : 152962, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41113,12 +41113,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 5707192.94140625, 
         "SHAPE__Length" : 10575.204515162986, 
-        "GlobalID" : "93b611e4-f1a5-454d-aab3-4fe07a2ad6a7"
+        "GlobalID" : "e1fdd77d-1925-4648-883e-fdbfd493ec91"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151819, 
+      "id" : 152963, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41196,7 +41196,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151819, 
+        "OBJECTID" : 152963, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41210,12 +41210,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 3813027.921875, 
         "SHAPE__Length" : 10056.36671316556, 
-        "GlobalID" : "7a1bf685-7170-4c8a-b441-1358da68e163"
+        "GlobalID" : "f9ef3c03-2e53-40aa-bc10-b7b6b3a8001f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151820, 
+      "id" : 152964, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41286,7 +41286,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151820, 
+        "OBJECTID" : 152964, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41300,12 +41300,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 8360498.40234375, 
         "SHAPE__Length" : 11402.719243417585, 
-        "GlobalID" : "b5816aee-0cd3-415c-a9b4-d3d5372de228"
+        "GlobalID" : "619a5329-ee2c-4300-8a6b-ef065398bad3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151821, 
+      "id" : 152965, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41690,7 +41690,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151821, 
+        "OBJECTID" : 152965, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41704,12 +41704,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 15666962.79296875, 
         "SHAPE__Length" : 18724.674757128843, 
-        "GlobalID" : "d5cc0aa0-4244-4335-af6a-e62b649269d5"
+        "GlobalID" : "2ab0e559-4ef8-49e5-ab35-2fdd24a16f86"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151822, 
+      "id" : 152966, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41956,7 +41956,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151822, 
+        "OBJECTID" : 152966, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41970,12 +41970,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 3982464.91796875, 
         "SHAPE__Length" : 10114.540144770244, 
-        "GlobalID" : "2621c713-ae0a-48ae-98f9-21aeab2ea707"
+        "GlobalID" : "62e08f63-9733-4cf8-b8ab-dec0324ef92b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151823, 
+      "id" : 152967, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -42299,7 +42299,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151823, 
+        "OBJECTID" : 152967, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -42313,12 +42313,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG. ", 
         "SHAPE__Area" : 7080120.73828125, 
         "SHAPE__Length" : 15335.890948854729, 
-        "GlobalID" : "58330008-9513-4f70-8e43-3ee9d2f57453"
+        "GlobalID" : "33474fba-2869-4b46-b2fa-6651cc13d423"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151824, 
+      "id" : 152968, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -43359,7 +43359,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151824, 
+        "OBJECTID" : 152968, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -43373,12 +43373,12 @@
         "NOTES" : "LACOFD 1130AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area north of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 121913809.875, 
         "SHAPE__Length" : 50804.228504730439, 
-        "GlobalID" : "b21835ca-c632-408c-9f58-072a82334c54"
+        "GlobalID" : "399e511b-9793-4be1-9c1b-9f98c6930af0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151825, 
+      "id" : 152969, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -44177,7 +44177,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151825, 
+        "OBJECTID" : 152969, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -44191,12 +44191,12 @@
         "NOTES" : "LACOFD 1157AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Order is being issued in the area south west of Castaic Lake due to a brush fire. Leave Now. More info at AlertLA.org.", 
         "SHAPE__Area" : 12830775.0625, 
         "SHAPE__Length" : 20049.003655631837, 
-        "GlobalID" : "aeb8ede6-c993-4628-95e2-2cbbdf58f325"
+        "GlobalID" : "c26ef76f-377f-48da-97b9-12fef37313dd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151826, 
+      "id" : 152970, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -44229,7 +44229,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151826, 
+        "OBJECTID" : 152970, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -44243,12 +44243,12 @@
         "NOTES" : "LACOFD 1134AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of north of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 362574.796875, 
         "SHAPE__Length" : 2377.4851251509854, 
-        "GlobalID" : "e6adae72-3cda-401c-9a2c-bd06a8bb6284"
+        "GlobalID" : "7458d847-c13d-4a5c-a0d3-403809334779"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151827, 
+      "id" : 152971, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -45166,7 +45166,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151827, 
+        "OBJECTID" : 152971, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -45180,12 +45180,12 @@
         "NOTES" : "LACOFD 1205PM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of west of Castaic Lake. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 137165690.6015625, 
         "SHAPE__Length" : 67355.029666866772, 
-        "GlobalID" : "48797d84-9d92-496d-981c-fd85f3fc4253"
+        "GlobalID" : "74b8bccf-000b-4a96-8cb2-d8afe7b3051d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151828, 
+      "id" : 152972, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -46312,7 +46312,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151828, 
+        "OBJECTID" : 152972, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -46326,12 +46326,12 @@
         "NOTES" : "LACOFD 1130AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of north of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 118655132.27734375, 
         "SHAPE__Length" : 55968.439644068036, 
-        "GlobalID" : "b0af953d-ab3f-4c5e-a0d5-ff9b4f5f20c2"
+        "GlobalID" : "f0e21791-8b56-449c-9868-d8e5da38ce39"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151829, 
+      "id" : 152973, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -46590,7 +46590,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151829, 
+        "OBJECTID" : 152973, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -46604,12 +46604,12 @@
         "NOTES" : "LACOFD 2:00 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Order is being issued in the area south of Castaic Lake. LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 16451141.375, 
         "SHAPE__Length" : 18360.808179334239, 
-        "GlobalID" : "28fbb53f-15bf-4a92-9674-72a4da3fb09d"
+        "GlobalID" : "e2f3ae2c-4688-4f38-88b1-babba90a7c47"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151830, 
+      "id" : 152974, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -46779,7 +46779,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151830, 
+        "OBJECTID" : 152974, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -46793,12 +46793,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 3184670.4921875, 
         "SHAPE__Length" : 7836.28373060698, 
-        "GlobalID" : "8b6d3468-e006-4bdd-ad8d-ef2f0d93aafe"
+        "GlobalID" : "a413823e-c105-4a27-b926-b2371be6c2e8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151831, 
+      "id" : 152975, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -46936,7 +46936,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151831, 
+        "OBJECTID" : 152975, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -46950,12 +46950,12 @@
         "NOTES" : "LACOFD 2:01 PM 1-22-2025: Brushfire by Castaic Lake. An Evacuation Warning is being issued in the area south of Castaic Lake. PREPARE TO LEAVE NOW. More info at AlertLA.org.", 
         "SHAPE__Area" : 532295.77734375, 
         "SHAPE__Length" : 3106.617086334837, 
-        "GlobalID" : "6dcd05ca-114d-41b7-a375-708dcaac466a"
+        "GlobalID" : "d9541730-53f5-4f5b-b055-7c988850a246"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151832, 
+      "id" : 152976, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -47214,7 +47214,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151832, 
+        "OBJECTID" : 152976, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -47228,12 +47228,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "f41e2b15-a0cb-422b-87ad-124ebddf59ec"
+        "GlobalID" : "028a5cc7-9e4d-42f0-bad8-b46a75a8ec91"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151833, 
+      "id" : 152977, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -47264,7 +47264,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151833, 
+        "OBJECTID" : 152977, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -47278,12 +47278,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 547147.1171875, 
         "SHAPE__Length" : 3266.8998459898776, 
-        "GlobalID" : "259bb446-b609-4ac5-82df-6ae26328a590"
+        "GlobalID" : "d2fe7858-eb7f-4975-bb7f-b25ab410a6f6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 151834, 
+      "id" : 152978, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -48267,7 +48267,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 151834, 
+        "OBJECTID" : 152978, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -48281,7 +48281,7 @@
         "NOTES" : "LACOFD 1133AM 1-22-2025: Brushfire southeast of Castaic Lake. An Evacuation Warning is being issued in the area of north of Castaic Lake due to a brush fire. Prepare to leave now. More info at AlertLA.org.", 
         "SHAPE__Area" : 27455456.8203125, 
         "SHAPE__Length" : 36125.393297711758, 
-        "GlobalID" : "2d7920f9-8559-434c-ae7f-5eb3af2fc177"
+        "GlobalID" : "1a3a981b-7016-46f5-a12c-d333c05dbbc3"
       }
     }
   ]
