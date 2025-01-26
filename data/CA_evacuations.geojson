@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 175482, 
+      "id" : 178758, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175482, 
+        "OBJECTID" : 178758, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "d1fe3fb9-3cb0-401a-a38b-f08b4f184be1"
+        "GlobalID" : "63f66e1a-5758-4ee8-b152-66f72a69ed38"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175483, 
+      "id" : 178759, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175483, 
+        "OBJECTID" : 178759, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "14eb97b6-c10f-4af9-82cb-05e238cd65b6"
+        "GlobalID" : "0c4e48ce-a8e4-4749-be6b-008856da78fe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175484, 
+      "id" : 178760, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1223,7 +1223,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175484, 
+        "OBJECTID" : 178760, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1237,12 +1237,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 11472269.28125, 
         "SHAPE__Length" : 26038.323785277902, 
-        "GlobalID" : "7fc5929c-dc5c-4485-8a91-4ba7e8e43a1c"
+        "GlobalID" : "8dded419-4776-410f-b0d9-dd80416cde97"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175485, 
+      "id" : 178761, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1328,7 +1328,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175485, 
+        "OBJECTID" : 178761, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1342,12 +1342,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "4f24b305-3ab5-4872-a916-161fb449bb61"
+        "GlobalID" : "f92478b4-2641-41fa-9613-eb436ad85b6b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175486, 
+      "id" : 178762, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1428,7 +1428,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175486, 
+        "OBJECTID" : 178762, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1442,12 +1442,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 9202285.828125, 
         "SHAPE__Length" : 14299.864718098175, 
-        "GlobalID" : "ef8123c1-8c95-4b3b-bc3e-75e7267d366c"
+        "GlobalID" : "cf6e0299-8488-4c8b-996b-a646fc31c31e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175487, 
+      "id" : 178763, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1546,7 +1546,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175487, 
+        "OBJECTID" : 178763, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1560,12 +1560,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 20, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 611355.19140625, 
         "SHAPE__Length" : 4713.1978694822683, 
-        "GlobalID" : "f09e6e9c-f244-40d2-bad1-6eea79563ae9"
+        "GlobalID" : "e3c3bf1a-2949-4077-8f82-3ffec42eb373"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175488, 
+      "id" : 178764, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1616,7 +1616,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175488, 
+        "OBJECTID" : 178764, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1630,12 +1630,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "b0cfedab-eb95-47be-b80f-4e191167c984"
+        "GlobalID" : "cb8a23f7-b63e-4618-a4ea-2031fe7414cf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175489, 
+      "id" : 178765, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4331,7 +4331,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175489, 
+        "OBJECTID" : 178765, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4345,12 +4345,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 120067784.6171875, 
         "SHAPE__Length" : 56726.263566082096, 
-        "GlobalID" : "a15cffb8-a658-455a-b986-9b2b4f095733"
+        "GlobalID" : "e39019bd-c0c8-4f30-a642-b392464865b1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175490, 
+      "id" : 178766, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6179,7 +6179,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175490, 
+        "OBJECTID" : 178766, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6193,12 +6193,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 40912804.4609375, 
         "SHAPE__Length" : 42746.68657608753, 
-        "GlobalID" : "7fe2416f-905b-4fb4-99c0-78bbd1c882ef"
+        "GlobalID" : "d3e6cef8-0eae-4fc2-8d33-7e55848b490d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175491, 
+      "id" : 178767, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6213,7 +6213,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175491, 
+        "OBJECTID" : 178767, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6227,12 +6227,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1291388.16796875, 
         "SHAPE__Length" : 6046.729714635776, 
-        "GlobalID" : "47fbf2c9-fea0-4e51-b3bd-76881f74b579"
+        "GlobalID" : "94688829-d47c-4861-bbc4-b10bdc4566be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175492, 
+      "id" : 178768, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6329,7 +6329,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175492, 
+        "OBJECTID" : 178768, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6343,12 +6343,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 352218.1015625, 
         "SHAPE__Length" : 3384.49722233687, 
-        "GlobalID" : "3f3f9bdc-b1bf-48e9-b4cd-a7fc6d9bcd59"
+        "GlobalID" : "823c6419-6952-4527-be49-8b1ac4e50edf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175493, 
+      "id" : 178769, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6409,7 +6409,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175493, 
+        "OBJECTID" : 178769, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6423,12 +6423,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "d848412b-1785-49a4-a5b0-db5a0a0eb788"
+        "GlobalID" : "75921a8f-09de-4708-a49d-eb8fffd50fab"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175494, 
+      "id" : 178770, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6539,7 +6539,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175494, 
+        "OBJECTID" : 178770, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6553,12 +6553,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "ff835ff9-c720-4804-9f19-a65c0ca99103"
+        "GlobalID" : "652b4afa-981d-4a78-8ca6-94b184259854"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175495, 
+      "id" : 178771, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7087,7 +7087,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175495, 
+        "OBJECTID" : 178771, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7101,12 +7101,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 10274349.75390625, 
         "SHAPE__Length" : 21202.837716017904, 
-        "GlobalID" : "ec49f87a-883b-43d8-8f3d-6ac6ce81f8f8"
+        "GlobalID" : "975635ce-036e-4f78-a612-0606e93d4186"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175496, 
+      "id" : 178772, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7148,7 +7148,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175496, 
+        "OBJECTID" : 178772, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7162,12 +7162,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "b7318be4-fe79-46ed-b3f6-2e0759a30627"
+        "GlobalID" : "17bdd6ab-49d7-4713-80c7-0c9e652caa8d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175497, 
+      "id" : 178773, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7189,7 +7189,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175497, 
+        "OBJECTID" : 178773, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7203,12 +7203,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "6fe21e11-7e24-4e7d-9e95-de15ac50e3d3"
+        "GlobalID" : "155bdffe-593d-42cd-b2c5-003554e414f8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175498, 
+      "id" : 178774, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12459,7 +12459,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175498, 
+        "OBJECTID" : 178774, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12473,12 +12473,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 109902475.83203125, 
         "SHAPE__Length" : 67902.718349762668, 
-        "GlobalID" : "e65dca33-1950-4b88-9ac0-fc0b319263f2"
+        "GlobalID" : "04a9952b-16ac-4314-a3b9-7f24e522c226"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175499, 
+      "id" : 178775, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12507,7 +12507,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175499, 
+        "OBJECTID" : 178775, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12521,12 +12521,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "da850b24-cc5b-4cb8-a3e3-6bd4a4a0bc6e"
+        "GlobalID" : "a6151c6b-295f-4ba1-9f04-10b30c7a9a8e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175500, 
+      "id" : 178776, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12555,7 +12555,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175500, 
+        "OBJECTID" : 178776, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12569,12 +12569,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "a2e7510a-f64e-433f-8f6d-9573f9681538"
+        "GlobalID" : "8bd049d6-8095-4858-b171-a7aaa417fcb6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175501, 
+      "id" : 178777, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12615,7 +12615,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175501, 
+        "OBJECTID" : 178777, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12629,12 +12629,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "3d524d60-6d73-4514-9f18-3b710977fed8"
+        "GlobalID" : "c82e92d8-356b-4e64-be29-3817906594b6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175502, 
+      "id" : 178778, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12662,7 +12662,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175502, 
+        "OBJECTID" : 178778, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12676,12 +12676,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "65064a16-16ab-40f5-8dcb-f963102b3b59"
+        "GlobalID" : "0c4990d9-fa20-43f5-bcff-203fb54041f9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175503, 
+      "id" : 178779, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12722,7 +12722,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175503, 
+        "OBJECTID" : 178779, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12736,12 +12736,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "3544f12b-8503-411a-829d-2f61d2a58791"
+        "GlobalID" : "1f79dc90-bf52-4e1b-baeb-449132f6dac0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175504, 
+      "id" : 178780, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12774,7 +12774,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175504, 
+        "OBJECTID" : 178780, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12788,12 +12788,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "cf87cedd-19fe-4097-b258-dcb074240f49"
+        "GlobalID" : "8c305b06-0355-4065-9fe7-9f12eb51074f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175505, 
+      "id" : 178781, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14007,7 +14007,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175505, 
+        "OBJECTID" : 178781, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -14021,12 +14021,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 105561005.98828125, 
         "SHAPE__Length" : 54162.53775220766, 
-        "GlobalID" : "d9fa8628-141b-4b18-a863-b3b46c258602"
+        "GlobalID" : "1d77216c-1912-4951-a285-bd7210b8bae3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175506, 
+      "id" : 178782, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14086,7 +14086,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175506, 
+        "OBJECTID" : 178782, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -14100,12 +14100,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "88c099fb-0eb7-4d71-bfde-79923ff5bab8"
+        "GlobalID" : "5718acd6-d6d3-4dc9-8809-e14fbc1be5bb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175507, 
+      "id" : 178783, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14616,7 +14616,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175507, 
+        "OBJECTID" : 178783, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -14630,12 +14630,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 5770548.33203125, 
         "SHAPE__Length" : 13940.409248272481, 
-        "GlobalID" : "e0362bd9-ddb6-4744-8e9d-ffac14ad8925"
+        "GlobalID" : "1db2ab04-5d68-43fa-802f-52956c7855e8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175508, 
+      "id" : 178784, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18671,7 +18671,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175508, 
+        "OBJECTID" : 178784, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18685,12 +18685,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 314822549.9921875, 
         "SHAPE__Length" : 96562.164029680425, 
-        "GlobalID" : "6557bbf4-06eb-4bcb-90dd-e0b7ad4574e1"
+        "GlobalID" : "dfbf177f-ab96-4ddb-babe-cf7a7b17b34a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175509, 
+      "id" : 178785, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18777,7 +18777,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175509, 
+        "OBJECTID" : 178785, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18791,12 +18791,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 459424.8046875, 
         "SHAPE__Length" : 3673.2143004765758, 
-        "GlobalID" : "5cf9779c-5595-47d6-9e8c-4d210eea731e"
+        "GlobalID" : "8ee326c2-44aa-462b-9787-c5b11cf84a22"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175510, 
+      "id" : 178786, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18853,7 +18853,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175510, 
+        "OBJECTID" : 178786, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18867,12 +18867,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1445783.07421875, 
         "SHAPE__Length" : 7601.7191004305332, 
-        "GlobalID" : "3b5e38f3-265d-44b3-b565-09bfbe56a965"
+        "GlobalID" : "e458d1a0-322f-412f-8442-4b80e7d8fe53"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175511, 
+      "id" : 178787, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19042,7 +19042,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175511, 
+        "OBJECTID" : 178787, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19056,12 +19056,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 3184670.4921875, 
         "SHAPE__Length" : 7836.28373060698, 
-        "GlobalID" : "560b36e2-84df-47e2-881b-a5b9a3a7fba6"
+        "GlobalID" : "d993093b-271a-46f4-974d-cd951b9ce1d6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175512, 
+      "id" : 178788, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19239,7 +19239,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175512, 
+        "OBJECTID" : 178788, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19253,12 +19253,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 8833529.98046875, 
         "SHAPE__Length" : 13234.252841530999, 
-        "GlobalID" : "a684def7-d630-48af-a255-7a1d900bc030"
+        "GlobalID" : "9f8b33af-2391-4daf-9a74-7609b3f60fdf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175513, 
+      "id" : 178789, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19358,7 +19358,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175513, 
+        "OBJECTID" : 178789, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19372,12 +19372,12 @@
         "NOTES" : "AN EVACUATION ORDER REMAINS IN EFFECT FOR THIS ZONE, BUT IT IS OPEN TO RESIDENTS ONLY AS OF 12:00 PM ON JANUARY 25, 2025. ESCORTS WILL BEGIN FROM PARKING LOT 3 BEACH ACCESS, 1150 PACIFIC COAST HIGHWAY, SANTA MONICA, CA 90403. FOR MORE INFO, FIRE.CA.GOV.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "73862e74-0527-426b-b0ca-4f4e4ee916c1"
+        "GlobalID" : "bfe72c0c-80a4-4ae3-9b5f-9a11a8eb1e20"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175514, 
+      "id" : 178790, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19507,7 +19507,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175514, 
+        "OBJECTID" : 178790, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19521,12 +19521,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 1860860.65625, 
         "SHAPE__Length" : 5635.639489222096, 
-        "GlobalID" : "42308ec3-ce48-4321-be01-5219aa2f12ae"
+        "GlobalID" : "72f09404-9982-4015-835f-3d7d99db57ca"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175515, 
+      "id" : 178791, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19735,7 +19735,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175515, 
+        "OBJECTID" : 178791, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19749,12 +19749,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 6873429.83984375, 
         "SHAPE__Length" : 12988.366680259034, 
-        "GlobalID" : "4cd2be85-89e0-435b-9887-4e8346c5200c"
+        "GlobalID" : "6c40231c-acbc-4c98-9ca7-a436b2179859"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175516, 
+      "id" : 178792, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19910,7 +19910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175516, 
+        "OBJECTID" : 178792, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19924,12 +19924,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "b853368d-16cb-42f5-9c9d-93b4f90d8268"
+        "GlobalID" : "ee83d07c-bbbe-4e95-9742-847ff18d2521"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175517, 
+      "id" : 178793, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20188,7 +20188,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175517, 
+        "OBJECTID" : 178793, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20202,12 +20202,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "f5e2204a-d8a1-414d-93d4-dacc701cc959"
+        "GlobalID" : "823fb4ff-f393-4b20-99aa-7200deb6b91d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175518, 
+      "id" : 178794, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20563,7 +20563,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175518, 
+        "OBJECTID" : 178794, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20577,12 +20577,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 2191791.6640625, 
         "SHAPE__Length" : 15639.560490458838, 
-        "GlobalID" : "8d4f3fc2-02a6-4eb9-a642-b78195c0e3a0"
+        "GlobalID" : "d4f94fb9-e661-43e3-bae9-337de650882d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175519, 
+      "id" : 178795, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20815,7 +20815,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175519, 
+        "OBJECTID" : 178795, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20829,12 +20829,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "71e6ca97-811a-4b4a-9dc5-3c057c744656"
+        "GlobalID" : "31da2f74-be87-4b9c-a63e-1f9f6ca536ff"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175520, 
+      "id" : 178796, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21034,7 +21034,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175520, 
+        "OBJECTID" : 178796, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21048,12 +21048,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "833527cd-625a-464b-be5c-2898db846637"
+        "GlobalID" : "157dbe69-f9bc-48a8-9c28-a3367a203e91"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175521, 
+      "id" : 178797, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21162,7 +21162,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175521, 
+        "OBJECTID" : 178797, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21176,12 +21176,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 9296570.9921875, 
         "SHAPE__Length" : 16929.308425152922, 
-        "GlobalID" : "58f1c0e3-e857-4940-9255-36d884a0011a"
+        "GlobalID" : "44e979ff-9f86-4707-866f-cdedc1f9dd4b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175522, 
+      "id" : 178798, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21277,7 +21277,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175522, 
+        "OBJECTID" : 178798, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21291,12 +21291,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 6995663.8046875, 
         "SHAPE__Length" : 13536.545305638991, 
-        "GlobalID" : "c7b7842a-b62c-492e-806b-b2c508d58727"
+        "GlobalID" : "dd20c3ba-2ee2-4f7f-959e-bf07f617c86e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175523, 
+      "id" : 178799, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21357,7 +21357,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175523, 
+        "OBJECTID" : 178799, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21371,12 +21371,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 1425057.078125, 
         "SHAPE__Length" : 6277.8507314409362, 
-        "GlobalID" : "68aff35e-5e02-4082-af1e-726b4822d141"
+        "GlobalID" : "15cc627d-afc6-4eb3-b4ed-1206f5622409"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175524, 
+      "id" : 178800, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21601,7 +21601,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175524, 
+        "OBJECTID" : 178800, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21615,12 +21615,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 13349801.94140625, 
         "SHAPE__Length" : 16504.546981677919, 
-        "GlobalID" : "d8240ab7-cc79-4c67-93aa-c344d4634765"
+        "GlobalID" : "2f26d5bc-7bf3-4f44-aa4a-9f939f0532c1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175525, 
+      "id" : 178801, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21651,7 +21651,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175525, 
+        "OBJECTID" : 178801, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21665,12 +21665,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 547147.1171875, 
         "SHAPE__Length" : 3266.8998459898776, 
-        "GlobalID" : "8be903f2-0af5-492b-bb8d-07abae298ce4"
+        "GlobalID" : "280f14b7-a246-4ad0-a412-f6923bbf6035"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175526, 
+      "id" : 178802, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21822,7 +21822,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175526, 
+        "OBJECTID" : 178802, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21836,12 +21836,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 2792537.9609375, 
         "SHAPE__Length" : 7577.797085881296, 
-        "GlobalID" : "023b66ee-f799-4f72-be7f-5c48c6a170e5"
+        "GlobalID" : "4e79c3a2-8f59-41df-8b2c-a64a2b9bbfd4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175527, 
+      "id" : 178803, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22048,7 +22048,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175527, 
+        "OBJECTID" : 178803, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22062,12 +22062,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 19708686.4296875, 
         "SHAPE__Length" : 22842.013536249931, 
-        "GlobalID" : "5bd2a209-e86a-4c8c-adc8-edbca1b6fea9"
+        "GlobalID" : "8d7aea3e-7e75-4887-b956-f49727c68e42"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175528, 
+      "id" : 178804, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22589,7 +22589,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175528, 
+        "OBJECTID" : 178804, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22603,12 +22603,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 43482076.0625, 
         "SHAPE__Length" : 35231.225156742832, 
-        "GlobalID" : "897380a3-284f-4db5-80f6-142215fe0bd2"
+        "GlobalID" : "b078c282-1cb0-44ff-a253-1acabf65c74c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175529, 
+      "id" : 178805, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22703,7 +22703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175529, 
+        "OBJECTID" : 178805, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22717,12 +22717,12 @@
         "NOTES" : "This is an evacuation order. Please to the Red Cross shelter located at Cuyamaca College Gym, 900 Rancho San Diego Pkwy, El Cajon CA 92019", 
         "SHAPE__Area" : 3706748.8046875, 
         "SHAPE__Length" : 9687.5269386659384, 
-        "GlobalID" : "a126d7fe-5593-4fbe-beaf-c2abff672361"
+        "GlobalID" : "b3da431c-34f3-442b-b241-1988bbc69820"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175530, 
+      "id" : 178806, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22910,7 +22910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175530, 
+        "OBJECTID" : 178806, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22924,12 +22924,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 8620872.99609375, 
         "SHAPE__Length" : 18131.54642132586, 
-        "GlobalID" : "b3bcdd89-73e9-400a-ac7b-638b713c20ee"
+        "GlobalID" : "c95861a3-a449-42e0-ab7d-8f1481b5330c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175531, 
+      "id" : 178807, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22977,7 +22977,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175531, 
+        "OBJECTID" : 178807, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22991,12 +22991,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 24, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "03dab074-747d-40fe-89e3-792c2b580694"
+        "GlobalID" : "0c19274d-8f21-406a-a810-2cd6d4cf7e0d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175532, 
+      "id" : 178808, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23564,7 +23564,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175532, 
+        "OBJECTID" : 178808, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23578,12 +23578,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 8466175.2890625, 
         "SHAPE__Length" : 19303.062095121291, 
-        "GlobalID" : "46c1e639-072f-4abd-b7d8-4b262909a559"
+        "GlobalID" : "7062fbdc-abcc-4070-a36d-fa2160b58ee7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175533, 
+      "id" : 178809, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23812,7 +23812,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175533, 
+        "OBJECTID" : 178809, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23826,12 +23826,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 7397371.97265625, 
         "SHAPE__Length" : 13547.432117238051, 
-        "GlobalID" : "3f76e323-0aa9-4564-8ce9-6e59a00b41bc"
+        "GlobalID" : "f1f9b69a-8438-4c36-900f-0d9eac9d49f0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175534, 
+      "id" : 178810, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23925,7 +23925,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175534, 
+        "OBJECTID" : 178810, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23939,12 +23939,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 8427106.30859375, 
         "SHAPE__Length" : 14977.802486634937, 
-        "GlobalID" : "7004cf72-b51b-4e94-a39f-2c2a63315945"
+        "GlobalID" : "1aadf45c-40f7-45eb-b9c3-c48a6c4bec36"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175535, 
+      "id" : 178811, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24114,7 +24114,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175535, 
+        "OBJECTID" : 178811, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24128,12 +24128,12 @@
         "NOTES" : "This is an evacuation order. Please to the Red Cross shelter located at Cuyamaca College Gym, 900 Rancho San Diego Pkwy, El Cajon CA 92019", 
         "SHAPE__Area" : 4620339.02734375, 
         "SHAPE__Length" : 11538.789891318462, 
-        "GlobalID" : "d95d709b-a640-4819-a859-1729baaa3cbd"
+        "GlobalID" : "1b61d411-33df-4db4-9d1b-2f30e2c46f24"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175536, 
+      "id" : 178812, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24319,7 +24319,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175536, 
+        "OBJECTID" : 178812, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24333,12 +24333,12 @@
         "NOTES" : "This is an evacuation order. Please to the Red Cross shelter located at Cuyamaca College Gym, 900 Rancho San Diego Pkwy, El Cajon CA 92019", 
         "SHAPE__Area" : 5004016.6953125, 
         "SHAPE__Length" : 13101.970699671265, 
-        "GlobalID" : "11d24180-eb7a-4cb5-969d-da0f4c1d7906"
+        "GlobalID" : "b25c1a85-3f2c-4b05-b0be-37502cdfd19e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175537, 
+      "id" : 178813, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24402,7 +24402,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175537, 
+        "OBJECTID" : 178813, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24416,12 +24416,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 7904808.42578125, 
         "SHAPE__Length" : 16703.139859884512, 
-        "GlobalID" : "7178d74e-9528-4744-90d6-324a7d19ea1e"
+        "GlobalID" : "aff31698-bf8b-4f4b-a90d-c7f08c2b2085"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175538, 
+      "id" : 178814, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24535,7 +24535,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175538, 
+        "OBJECTID" : 178814, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24549,12 +24549,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "2edb08ab-9873-4675-a147-c6c5655daeaf"
+        "GlobalID" : "7cc69913-a93e-4646-8b00-d7946ee1df28"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175539, 
+      "id" : 178815, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24668,7 +24668,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175539, 
+        "OBJECTID" : 178815, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24682,12 +24682,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 8847196.515625, 
         "SHAPE__Length" : 12377.963016250451, 
-        "GlobalID" : "d458b0cb-3cde-41f0-98c2-b3039632bd22"
+        "GlobalID" : "c0d02680-401e-48c6-ac71-618ff2c27b30"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175540, 
+      "id" : 178816, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24838,7 +24838,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175540, 
+        "OBJECTID" : 178816, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24852,12 +24852,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 4809144.7265625, 
         "SHAPE__Length" : 9086.1696524349027, 
-        "GlobalID" : "8fcf2d3a-b7dc-414b-b3a7-3d23343004b2"
+        "GlobalID" : "6f62a664-33ca-40ba-92d2-f2e9241e41e8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175541, 
+      "id" : 178817, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25195,7 +25195,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175541, 
+        "OBJECTID" : 178817, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25209,12 +25209,12 @@
         "NOTES" : "This is an evacuation order. Please to the Red Cross shelter located at Cuyamaca College Gym, 900 Rancho San Diego Pkwy, El Cajon CA 92019", 
         "SHAPE__Area" : 9013092.26953125, 
         "SHAPE__Length" : 17848.258758002266, 
-        "GlobalID" : "b03cad63-655e-4d10-aacc-f7f5fc3e10c2"
+        "GlobalID" : "ec09089e-2fd4-4dad-8b23-59978244dcf9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175542, 
+      "id" : 178818, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25485,7 +25485,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175542, 
+        "OBJECTID" : 178818, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25499,12 +25499,12 @@
         "NOTES" : "An evacuation warning has been issued. There is a wildfire on Otay Mountain prepare to evacuate to 900 Rancho San Diego Parkway, La Mesa @Cuyamaca College. For more info go to www.AlertSD.org", 
         "SHAPE__Area" : 8074882.12890625, 
         "SHAPE__Length" : 12007.654756129283, 
-        "GlobalID" : "f6ea6639-a8ab-4061-9d49-98ab73edb806"
+        "GlobalID" : "97d5f286-c612-4fd5-8c9c-003f1d4e0c03"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175543, 
+      "id" : 178819, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25685,7 +25685,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175543, 
+        "OBJECTID" : 178819, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25699,12 +25699,12 @@
         "NOTES" : "Hard Road Closure Due To Fire.", 
         "SHAPE__Area" : 3147188.484375, 
         "SHAPE__Length" : 15919.660058113337, 
-        "GlobalID" : "9f4a1c61-6c09-401a-90d6-8d43b0b6cc10"
+        "GlobalID" : "7d6700e8-4345-4cf8-8a3d-2553f4e3021e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 175544, 
+      "id" : 178820, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25970,7 +25970,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 175544, 
+        "OBJECTID" : 178820, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25984,7 +25984,7 @@
         "NOTES" : "This is an evacuation order. Please to the Red Cross shelter located at Cuyamaca College Gym, 900 Rancho San Diego Pkwy, El Cajon CA 92019", 
         "SHAPE__Area" : 9973179.93359375, 
         "SHAPE__Length" : 21757.567066828935, 
-        "GlobalID" : "5b692492-2229-4c92-b88f-506cf772b49a"
+        "GlobalID" : "a8aaf53a-cf25-49b5-a7e1-74dfdf4d6198"
       }
     }
   ]
