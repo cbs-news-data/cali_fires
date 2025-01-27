@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 186875, 
+      "id" : 187227, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186875, 
+        "OBJECTID" : 187227, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "ed2e0a40-89b1-4bdf-b351-6ee3070e05a9"
+        "GlobalID" : "cc941b7c-e785-4ab1-ae18-9ae5c64e89e5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186876, 
+      "id" : 187228, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186876, 
+        "OBJECTID" : 187228, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "a471e3ac-5d67-4bfd-be24-821d735fc936"
+        "GlobalID" : "33496913-107e-4dd0-afb1-1887eea3b97e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186877, 
+      "id" : 187229, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -808,7 +808,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186877, 
+        "OBJECTID" : 187229, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -822,12 +822,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 26, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "0339644e-4ce1-4a71-98f5-d90bd11d4733"
+        "GlobalID" : "87b2c84c-346a-418d-9d33-a0705ffb60f4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186878, 
+      "id" : 187230, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -908,7 +908,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186878, 
+        "OBJECTID" : 187230, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -922,12 +922,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 9202285.828125, 
         "SHAPE__Length" : 14299.864718098175, 
-        "GlobalID" : "71681720-6f96-4f55-a07f-96453b1ce5e1"
+        "GlobalID" : "456051a8-d5b5-4cd4-be11-2cfd0862f537"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186879, 
+      "id" : 187231, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1026,7 +1026,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186879, 
+        "OBJECTID" : 187231, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1040,12 +1040,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 20, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 611355.19140625, 
         "SHAPE__Length" : 4713.1978694822683, 
-        "GlobalID" : "54877fb2-7c66-4724-a54c-3c5034efdfcb"
+        "GlobalID" : "1fcea83a-cea1-435d-b3dd-bdfdaf3c55f2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186880, 
+      "id" : 187232, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1096,7 +1096,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186880, 
+        "OBJECTID" : 187232, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1110,12 +1110,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "a64c29c5-6daf-454c-9100-815c925166d0"
+        "GlobalID" : "f7b8b5c6-9711-437a-9670-be4094d09786"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186881, 
+      "id" : 187233, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3811,7 +3811,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186881, 
+        "OBJECTID" : 187233, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3825,12 +3825,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 120067784.6171875, 
         "SHAPE__Length" : 56726.263566082096, 
-        "GlobalID" : "af68229f-ba84-49f3-9894-e1c1c4f7c05d"
+        "GlobalID" : "3a89c84e-c9d6-4144-9079-6fea8c6db05a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186882, 
+      "id" : 187234, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5659,7 +5659,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186882, 
+        "OBJECTID" : 187234, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5673,12 +5673,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 40912804.4609375, 
         "SHAPE__Length" : 42746.68657608753, 
-        "GlobalID" : "3fca15bb-5c93-47e6-8eb0-1ce0bd7e94f0"
+        "GlobalID" : "3153bc90-d7c9-4be8-b7e2-6776c42e88cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186883, 
+      "id" : 187235, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5693,7 +5693,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186883, 
+        "OBJECTID" : 187235, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5707,12 +5707,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1291388.16796875, 
         "SHAPE__Length" : 6046.729714635776, 
-        "GlobalID" : "887bfaea-4e82-401d-8062-aa3f68ce5762"
+        "GlobalID" : "5bb0cb6e-5766-4edb-bffc-6d1d0f8304fe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186884, 
+      "id" : 187236, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5809,7 +5809,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186884, 
+        "OBJECTID" : 187236, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5823,12 +5823,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 352218.1015625, 
         "SHAPE__Length" : 3384.49722233687, 
-        "GlobalID" : "845da36b-f174-4c06-9691-dde8eebb80d1"
+        "GlobalID" : "88592b7a-a838-48e2-959b-247db4c6ffef"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186885, 
+      "id" : 187237, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5889,7 +5889,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186885, 
+        "OBJECTID" : 187237, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5903,12 +5903,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "b932e4a7-5ee0-40c2-9440-93ed654f367d"
+        "GlobalID" : "0f6c6e5b-b45f-48e0-8751-596898f329e3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186886, 
+      "id" : 187238, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6019,7 +6019,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186886, 
+        "OBJECTID" : 187238, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6033,12 +6033,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "c68aa392-c615-4ba7-8844-5c76fed948a1"
+        "GlobalID" : "9a65f37b-be68-4407-be9a-260a59850bf6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186887, 
+      "id" : 187239, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6567,7 +6567,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186887, 
+        "OBJECTID" : 187239, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6581,12 +6581,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 10274349.75390625, 
         "SHAPE__Length" : 21202.837716017904, 
-        "GlobalID" : "c6192e09-0ffa-4332-8af8-56744f7b253d"
+        "GlobalID" : "81988b36-95d8-4f9b-9333-c571d1d2522b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186888, 
+      "id" : 187240, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6628,7 +6628,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186888, 
+        "OBJECTID" : 187240, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6642,12 +6642,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "8201ff73-12ba-4a4f-9b4e-e801122d37fa"
+        "GlobalID" : "bc7e9a92-03e7-484d-a963-1028183bd8bc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186889, 
+      "id" : 187241, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6669,7 +6669,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186889, 
+        "OBJECTID" : 187241, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6683,12 +6683,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "bd8e35c8-25ca-4073-8b3e-f80ffd39da36"
+        "GlobalID" : "71fe39ed-4734-424b-b0b2-f0d5a78979fb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186890, 
+      "id" : 187242, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -11939,7 +11939,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186890, 
+        "OBJECTID" : 187242, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -11953,12 +11953,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 109902475.83203125, 
         "SHAPE__Length" : 67902.718349762668, 
-        "GlobalID" : "939c6fe8-c77b-412b-88e8-9053233a7327"
+        "GlobalID" : "cc094983-d326-4714-bf6d-00edb09e933c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186891, 
+      "id" : 187243, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -11987,7 +11987,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186891, 
+        "OBJECTID" : 187243, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12001,12 +12001,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "af4a5f21-4092-45e9-83b0-e7d190e3059b"
+        "GlobalID" : "3b6f5851-f198-495b-af02-d38dd7b61fd5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186892, 
+      "id" : 187244, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12035,7 +12035,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186892, 
+        "OBJECTID" : 187244, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12049,12 +12049,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "f8edbf01-f0d1-4032-a0a8-e89e59b6c2bc"
+        "GlobalID" : "c46575db-9dbe-4ad1-8bda-33cb38b48ab3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186893, 
+      "id" : 187245, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12095,7 +12095,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186893, 
+        "OBJECTID" : 187245, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12109,12 +12109,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "d4db7157-ee2f-49b9-9d68-01e7320da60f"
+        "GlobalID" : "7024e49f-d47b-4657-88f5-ddf76842eeff"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186894, 
+      "id" : 187246, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12142,7 +12142,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186894, 
+        "OBJECTID" : 187246, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12156,12 +12156,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "ab35ca83-2bce-4474-9143-b867e489ae75"
+        "GlobalID" : "69a9ba6a-d24d-4294-ba0b-5a34088e920c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186895, 
+      "id" : 187247, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12202,7 +12202,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186895, 
+        "OBJECTID" : 187247, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12216,12 +12216,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "4cf995b2-3236-435d-8307-d0c8078ce38d"
+        "GlobalID" : "3bc0fcba-0526-47f8-b1f3-576b23cabb58"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186896, 
+      "id" : 187248, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12254,7 +12254,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186896, 
+        "OBJECTID" : 187248, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12268,12 +12268,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "ee95fa9c-0eff-4aef-8f2a-1a83966fa321"
+        "GlobalID" : "4cbd300b-bf5f-47eb-ab88-238b2d2595c6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186897, 
+      "id" : 187249, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13487,7 +13487,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186897, 
+        "OBJECTID" : 187249, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13501,12 +13501,12 @@
         "NOTES" : "Otay Lakes Rd closed to all traffic west of Pio Pico Resort.  Local residents may access Otay Lakes Rd from State Route 94.  Pio Pico resort may repopulate.", 
         "SHAPE__Area" : 105561005.98828125, 
         "SHAPE__Length" : 54162.53775220766, 
-        "GlobalID" : "a0fdc34b-6833-4b70-bb46-2fecd79a0b2e"
+        "GlobalID" : "2cc50a1b-0179-4a94-9781-237033408958"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186898, 
+      "id" : 187250, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13566,7 +13566,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186898, 
+        "OBJECTID" : 187250, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13580,12 +13580,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "8f8663b6-40c8-42e6-a961-e63e0e9fa2c1"
+        "GlobalID" : "607732ab-ef90-418d-829a-4b6da2821758"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186899, 
+      "id" : 187251, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14096,7 +14096,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186899, 
+        "OBJECTID" : 187251, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -14110,12 +14110,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 5770548.33203125, 
         "SHAPE__Length" : 13940.409248272481, 
-        "GlobalID" : "3d876192-8b91-45d9-9832-a31fd67000d6"
+        "GlobalID" : "5c80cea7-f8f5-493d-940c-192e5849728b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186900, 
+      "id" : 187252, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18151,7 +18151,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186900, 
+        "OBJECTID" : 187252, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18165,12 +18165,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 314822549.9921875, 
         "SHAPE__Length" : 96562.164029680425, 
-        "GlobalID" : "4c16af6c-7881-4d62-9370-b4199d39c487"
+        "GlobalID" : "db729dd8-2915-4565-8c9b-af43d2d7e248"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186901, 
+      "id" : 187253, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18257,7 +18257,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186901, 
+        "OBJECTID" : 187253, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18271,12 +18271,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 459424.8046875, 
         "SHAPE__Length" : 3673.2143004765758, 
-        "GlobalID" : "bc444ef8-64d5-4051-923e-3efd5318c254"
+        "GlobalID" : "4f502a64-8ba2-4343-b974-f40092160c2d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186902, 
+      "id" : 187254, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18333,7 +18333,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186902, 
+        "OBJECTID" : 187254, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18347,12 +18347,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 1445783.07421875, 
         "SHAPE__Length" : 7601.7191004305332, 
-        "GlobalID" : "8c9bec8a-b99f-4c2a-96e6-c16350eb562c"
+        "GlobalID" : "1610a812-b14e-4aa7-a3ed-1cb7bbca8a65"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186903, 
+      "id" : 187255, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18522,7 +18522,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186903, 
+        "OBJECTID" : 187255, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18536,12 +18536,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 3184670.4921875, 
         "SHAPE__Length" : 7836.28373060698, 
-        "GlobalID" : "a8b73be9-840b-4249-8516-2ae71910c746"
+        "GlobalID" : "fab7e800-52bf-4f62-ac30-024e00cfe7a1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186904, 
+      "id" : 187256, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18719,7 +18719,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186904, 
+        "OBJECTID" : 187256, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18733,12 +18733,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 8833529.98046875, 
         "SHAPE__Length" : 13234.252841530999, 
-        "GlobalID" : "e0617a9b-b179-4562-977c-69161dde208b"
+        "GlobalID" : "7b3faed3-6b33-4b21-9a17-493c6b0d070f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186905, 
+      "id" : 187257, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18838,7 +18838,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186905, 
+        "OBJECTID" : 187257, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18852,12 +18852,12 @@
         "NOTES" : "AN EVACUATION ORDER REMAINS IN EFFECT FOR THIS ZONE, BUT IT IS OPEN TO RESIDENTS ONLY AS OF 12:00 PM ON JANUARY 25, 2025. ESCORTS WILL BEGIN FROM PARKING LOT 3 BEACH ACCESS, 1150 PACIFIC COAST HIGHWAY, SANTA MONICA, CA 90403. FOR MORE INFO, FIRE.CA.GOV.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "78f0c410-4361-4e4c-914c-8744d3c2f51a"
+        "GlobalID" : "5e65940d-5008-4e36-b56c-f45042d4fd98"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186906, 
+      "id" : 187258, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19066,7 +19066,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186906, 
+        "OBJECTID" : 187258, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19080,12 +19080,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 6873429.83984375, 
         "SHAPE__Length" : 12988.366680259034, 
-        "GlobalID" : "4f40b1e0-7229-46b8-af00-618271b1632e"
+        "GlobalID" : "6b315986-6150-4d74-a30e-1291a739a60e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186907, 
+      "id" : 187259, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19175,7 +19175,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186907, 
+        "OBJECTID" : 187259, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19189,12 +19189,12 @@
         "NOTES" : "Otay Lakes Rd closed to all traffic west of Pio Pico Resort.  Local residents may access Otay Lakes Rd from State Route 94.  Pio Pico resort may repopulate.", 
         "SHAPE__Area" : 1980832.4921875, 
         "SHAPE__Length" : 10929.334773146049, 
-        "GlobalID" : "e4acad0a-8852-4d3a-8ae7-230e4b038a33"
+        "GlobalID" : "e1907d6f-5f2c-4ff3-82d3-beafe74b459c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186908, 
+      "id" : 187260, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19350,7 +19350,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186908, 
+        "OBJECTID" : 187260, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19364,12 +19364,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "2a112673-131b-4540-9788-37a6009b04ff"
+        "GlobalID" : "7eb425f4-eeaa-49f2-8667-7917e683467f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186909, 
+      "id" : 187261, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19628,7 +19628,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186909, 
+        "OBJECTID" : 187261, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19642,12 +19642,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "c71fcd02-9121-4b16-97e2-75ddf1147951"
+        "GlobalID" : "33f14878-7b0b-4ca1-9141-c2d7146e50bd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186910, 
+      "id" : 187262, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20003,7 +20003,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186910, 
+        "OBJECTID" : 187262, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20017,12 +20017,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 22, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 2191791.6640625, 
         "SHAPE__Length" : 15639.560490458838, 
-        "GlobalID" : "920f0e78-c2e5-4297-9d16-7252c82980cc"
+        "GlobalID" : "5cd81aa6-cf5e-4e33-837c-361ea0bd541c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186911, 
+      "id" : 187263, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20255,7 +20255,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186911, 
+        "OBJECTID" : 187263, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20269,12 +20269,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "1d02e331-9d3f-42f6-aebf-a494ec2a877c"
+        "GlobalID" : "392d300a-b99a-4220-a018-2286fd55499a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186912, 
+      "id" : 187264, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20474,7 +20474,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186912, 
+        "OBJECTID" : 187264, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20488,12 +20488,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 1400 on January 19, 2025. For more information on the Palisades Fire, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "6d9e2037-1f82-43d3-aaec-a003c3ab3523"
+        "GlobalID" : "f3da4b26-cd3b-42df-af5d-36cdc7ca775f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186913, 
+      "id" : 187265, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20524,7 +20524,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186913, 
+        "OBJECTID" : 187265, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20538,12 +20538,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 21, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 547147.1171875, 
         "SHAPE__Length" : 3266.8998459898776, 
-        "GlobalID" : "66697a23-2675-4a5d-a213-14619835fbe3"
+        "GlobalID" : "bdcc7d04-3a19-4704-9523-6fb0904abb0f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186914, 
+      "id" : 187266, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20750,7 +20750,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186914, 
+        "OBJECTID" : 187266, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20764,12 +20764,12 @@
         "NOTES" : "ZONE HAS BEEN REDUCED TO AN EVACUATION WARNING. PROCEED WITH CAUTION. FOR MORE INFORMATION, VISIT ALERTLA.ORG.", 
         "SHAPE__Area" : 19708686.4296875, 
         "SHAPE__Length" : 22842.013536249931, 
-        "GlobalID" : "1d92430f-a4b2-492d-8b31-a169f2757f45"
+        "GlobalID" : "a06ad300-3fcd-460c-ac28-73332dda6844"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186915, 
+      "id" : 187267, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20817,7 +20817,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186915, 
+        "OBJECTID" : 187267, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20831,12 +20831,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 24, 2025. Escorts will begin from Parking Lot 3 Beach Access, 1150 Pacific Coast Highway, Santa Monica, CA 90403. For more info, fire.ca.gov. ", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "9452d801-34c9-4833-a95c-bea599e01230"
+        "GlobalID" : "df69f483-2453-4c3b-b70a-1b256dbcb94d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186916, 
+      "id" : 187268, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20950,7 +20950,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186916, 
+        "OBJECTID" : 187268, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20964,12 +20964,12 @@
         "NOTES" : "LAFD: Evacuate now. Evacuation order for Palisades Fire Fire for Palisades Area. All in that area must evacuate now. Gather people and pets and leave immediately. All others shelter in place. Info & map: www.lafd.org/alerts", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "56503e06-754f-44ab-8255-c0e31bc027f9"
+        "GlobalID" : "425775b8-0436-4dc8-bc7a-7004d3b0d446"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186917, 
+      "id" : 187269, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21083,7 +21083,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186917, 
+        "OBJECTID" : 187269, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21097,12 +21097,12 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 8847196.515625, 
         "SHAPE__Length" : 12377.963016250451, 
-        "GlobalID" : "64a41e3d-7070-4d34-87eb-350b6f8138d7"
+        "GlobalID" : "b64ce36b-eea1-4735-94d8-cf279dae30e6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 186918, 
+      "id" : 187270, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21253,7 +21253,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 186918, 
+        "OBJECTID" : 187270, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21267,7 +21267,7 @@
         "NOTES" : "An Evacuation Order remains in effect for this zone, but it is OPEN TO RESIDENTS ONLY as of 12:00 PM on January 23, 2025. Escorts will begin from the Malibu Pier Parking Lot (23000 Pacific Coast Hwy). For more info, visit emergency.lacounty.gov or fire.ca.gov. ", 
         "SHAPE__Area" : 4809144.7265625, 
         "SHAPE__Length" : 9086.1696524349027, 
-        "GlobalID" : "3d2ff7ec-e4ed-4367-b929-e5e0420aabb2"
+        "GlobalID" : "21eb6c61-b56f-47bb-b8cc-287e028f307a"
       }
     }
   ]
