@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 211612, 
+      "id" : 213175, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -117,7 +117,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211612, 
+        "OBJECTID" : 213175, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -131,12 +131,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "494574cd-e35a-4d32-bcb4-c17656858710"
+        "GlobalID" : "c89cf4bb-d62d-4779-a626-f394829661cf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211613, 
+      "id" : 213176, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -395,7 +395,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211613, 
+        "OBJECTID" : 213176, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -409,12 +409,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "3d852c6f-f8d5-4ed0-9bf4-5b5ba9357115"
+        "GlobalID" : "2c80f090-9379-4a3e-8d70-03e21c8d9a7b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211614, 
+      "id" : 213177, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1035,7 +1035,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211614, 
+        "OBJECTID" : 213177, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1049,12 +1049,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "beb0ae1d-9446-43e7-a552-4cf9ef5b46f0"
+        "GlobalID" : "ad84a959-8efa-434f-8857-64e5ffa5fe12"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211615, 
+      "id" : 213178, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1105,7 +1105,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211615, 
+        "OBJECTID" : 213178, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1119,12 +1119,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "cc34eb72-2a6e-44eb-af98-c0b40836e25b"
+        "GlobalID" : "18d9468a-233f-409d-92e4-4b6f9ced3407"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211616, 
+      "id" : 213179, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1280,7 +1280,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211616, 
+        "OBJECTID" : 213179, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1294,12 +1294,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "1197b92d-8a4b-417d-80f9-bda7cca72719"
+        "GlobalID" : "8129b8c9-f541-4fa4-b19d-101ddf9b7616"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211617, 
+      "id" : 213180, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1359,7 +1359,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211617, 
+        "OBJECTID" : 213180, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1373,12 +1373,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "50bbbc85-9951-4793-a89c-5691e1c4da26"
+        "GlobalID" : "b69484e7-45db-48cf-843a-97f5cee1e281"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211618, 
+      "id" : 213181, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1578,7 +1578,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211618, 
+        "OBJECTID" : 213181, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1592,12 +1592,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "ab0799b0-4773-4b72-b51d-97445d31944c"
+        "GlobalID" : "de86567c-02e7-46d5-b656-0b42c588c27f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211619, 
+      "id" : 213182, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1830,7 +1830,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211619, 
+        "OBJECTID" : 213182, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1844,12 +1844,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "caf01b23-11ff-422d-a487-7cc67a4fc2ce"
+        "GlobalID" : "9bcf9f3a-1354-4459-81c7-3f0992e32029"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211620, 
+      "id" : 213183, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1949,7 +1949,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211620, 
+        "OBJECTID" : 213183, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1963,12 +1963,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "df67053a-6c32-47d6-ac6b-15090787a128"
+        "GlobalID" : "d256b30d-5199-4103-86c1-aed313f18194"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211621, 
+      "id" : 213184, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2054,7 +2054,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211621, 
+        "OBJECTID" : 213184, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2068,12 +2068,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "fa17c226-2948-4ac1-bcbb-ac636126aa51"
+        "GlobalID" : "3bb1801e-abb9-4c22-8a3e-94461c03b514"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211622, 
+      "id" : 213185, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2134,7 +2134,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211622, 
+        "OBJECTID" : 213185, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2148,12 +2148,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "aa00c46b-b797-4531-8af3-f231eb001d0e"
+        "GlobalID" : "be3193f1-3393-4645-93c4-e016568ea70d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211623, 
+      "id" : 213186, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2264,7 +2264,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211623, 
+        "OBJECTID" : 213186, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2278,12 +2278,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "5039bbb4-d514-4409-9398-6cd832842ad3"
+        "GlobalID" : "76321d24-7edf-483d-96e4-d94adf7c09e3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211624, 
+      "id" : 213187, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2325,7 +2325,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211624, 
+        "OBJECTID" : 213187, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2339,12 +2339,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "d1680287-0217-42cb-8827-7422cc4c079b"
+        "GlobalID" : "9e92af5e-4e52-46b9-acac-a2525f3f264a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211625, 
+      "id" : 213188, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2366,7 +2366,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211625, 
+        "OBJECTID" : 213188, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2380,12 +2380,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "4266cf8a-7ef4-4ebb-a0c0-62c4f7eea1b9"
+        "GlobalID" : "eeada768-09b7-46a9-83e0-751010eda595"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211626, 
+      "id" : 213189, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2414,7 +2414,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211626, 
+        "OBJECTID" : 213189, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2428,12 +2428,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "3c967ef5-aa2b-4158-82ef-d5df3ab17530"
+        "GlobalID" : "d3d98144-d9dc-46dd-a536-dc9f985220aa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211627, 
+      "id" : 213190, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2462,7 +2462,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211627, 
+        "OBJECTID" : 213190, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2476,12 +2476,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "30768703-86ab-4aa7-a42f-bc3f8dbd1b55"
+        "GlobalID" : "8e0d4e98-616f-4e08-9a06-aca736e05b90"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211628, 
+      "id" : 213191, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2522,7 +2522,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211628, 
+        "OBJECTID" : 213191, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2536,12 +2536,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "706eaebe-752c-4860-8da3-ea43af58b9d2"
+        "GlobalID" : "d48494d1-d943-47f8-8119-ca74f69d5063"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211629, 
+      "id" : 213192, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2569,7 +2569,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211629, 
+        "OBJECTID" : 213192, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2583,12 +2583,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "a406fc23-822c-44fb-9623-5f896866e337"
+        "GlobalID" : "3c620ddb-4aeb-4cb9-ac11-c036e883cfd2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211630, 
+      "id" : 213193, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2629,7 +2629,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211630, 
+        "OBJECTID" : 213193, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2643,12 +2643,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "64422a4b-ec53-4fd0-96f5-781c9fb7d3b8"
+        "GlobalID" : "9d7c3aff-6c72-425d-8af0-283de0d4aba3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211631, 
+      "id" : 213194, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2681,7 +2681,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211631, 
+        "OBJECTID" : 213194, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2695,12 +2695,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "7396fba8-db08-49e0-9094-bd8aae28e665"
+        "GlobalID" : "642c0443-eca7-4125-9605-81407c912d1d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211632, 
+      "id" : 213195, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2760,7 +2760,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211632, 
+        "OBJECTID" : 213195, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2774,12 +2774,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "7e493a5b-ccef-4b4a-a1cb-db30da5c56ea"
+        "GlobalID" : "7a11ef08-037d-44dc-81e7-2e0d100fa9cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 211633, 
+      "id" : 213196, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2827,7 +2827,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 211633, 
+        "OBJECTID" : 213196, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2841,7 +2841,7 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "37fa3ecb-3abe-4844-88fa-f397b6d94f62"
+        "GlobalID" : "fb6b84d6-07a1-45d1-b14c-4e310cbbe5a4"
       }
     }
   ]
