@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 217076, 
+      "id" : 221396, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -117,7 +117,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217076, 
+        "OBJECTID" : 221396, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -131,12 +131,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "14f246d4-d241-4c34-80a0-ee1ad77b67dc"
+        "GlobalID" : "5c47c424-7e03-4ea6-a5b7-6d92f89d3ecf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217077, 
+      "id" : 221397, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -395,7 +395,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217077, 
+        "OBJECTID" : 221397, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -409,12 +409,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "cc2a2699-ac47-40bb-88f6-9452b6ff26a6"
+        "GlobalID" : "191a0b1a-b5a3-4bb4-9287-b94e2eeee8e7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217078, 
+      "id" : 221398, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1035,7 +1035,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217078, 
+        "OBJECTID" : 221398, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1049,12 +1049,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "7937d9b0-7b8d-4faf-8a27-96b863694ebb"
+        "GlobalID" : "0db8551a-83d0-4974-bba5-8327a6646acc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217079, 
+      "id" : 221399, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1105,7 +1105,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217079, 
+        "OBJECTID" : 221399, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1119,12 +1119,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "a2f5db8f-1ffe-4461-972c-f8700c9548fd"
+        "GlobalID" : "9079806c-b139-42cf-ae44-26d914576a76"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217080, 
+      "id" : 221400, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1280,7 +1280,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217080, 
+        "OBJECTID" : 221400, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1294,12 +1294,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "9b0d30aa-3d0c-405a-af23-0d6b962109ec"
+        "GlobalID" : "058a842f-1686-4c36-8788-5369a5ff170a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217081, 
+      "id" : 221401, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1359,7 +1359,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217081, 
+        "OBJECTID" : 221401, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1373,12 +1373,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "ca7fd14f-64d5-48e1-908b-8bf9c67574f0"
+        "GlobalID" : "81a4ec88-4c44-46cd-9ed7-ee9d4319afc2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217082, 
+      "id" : 221402, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1578,7 +1578,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217082, 
+        "OBJECTID" : 221402, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1592,12 +1592,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "e6716d9c-3100-4b51-99bb-33a8601bd777"
+        "GlobalID" : "10e58c24-1092-48d9-87cd-6dc21195a420"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217083, 
+      "id" : 221403, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1830,7 +1830,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217083, 
+        "OBJECTID" : 221403, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1844,12 +1844,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "f9b04696-70d6-4910-9838-f8ce5cdf6fe6"
+        "GlobalID" : "ef1b33f5-4897-4c25-8f4f-9a83f3a432fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217084, 
+      "id" : 221404, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1949,7 +1949,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217084, 
+        "OBJECTID" : 221404, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1963,12 +1963,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "5311df2c-ab0b-4209-80be-ce8b1e4a0743"
+        "GlobalID" : "c233d6e7-ce5d-4043-a408-ff426cbf117a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217085, 
+      "id" : 221405, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2054,7 +2054,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217085, 
+        "OBJECTID" : 221405, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2068,12 +2068,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "6e82e395-4dc7-47fc-bf2e-04818c89922c"
+        "GlobalID" : "31c6c8b4-1d43-4074-a708-ccf093ea5836"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217086, 
+      "id" : 221406, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2147,7 +2147,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217086, 
+        "OBJECTID" : 221406, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2161,12 +2161,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1059058.66015625, 
         "SHAPE__Length" : 4905.9889276014865, 
-        "GlobalID" : "e06b72e7-5959-42ca-9760-1f252fc99f33"
+        "GlobalID" : "56b53a4a-4719-49b5-95ca-e191c5d9fa32"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217087, 
+      "id" : 221407, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2271,7 +2271,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217087, 
+        "OBJECTID" : 221407, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2285,12 +2285,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1913558.03515625, 
         "SHAPE__Length" : 5829.0441810646789, 
-        "GlobalID" : "ef023b38-cfd2-4d0a-b783-e901d65f7d8f"
+        "GlobalID" : "e2875deb-ea9e-4628-8fce-e84fb4b8d556"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217088, 
+      "id" : 221408, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2341,7 +2341,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217088, 
+        "OBJECTID" : 221408, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2355,12 +2355,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 4969507.89453125, 
         "SHAPE__Length" : 11850.212866753172, 
-        "GlobalID" : "34c72117-9942-495d-80de-948fbc2772a9"
+        "GlobalID" : "bf0226dc-60bf-4d35-a9c7-947e8ae47f47"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217089, 
+      "id" : 221409, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2405,7 +2405,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217089, 
+        "OBJECTID" : 221409, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2419,12 +2419,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 2600349.54296875, 
         "SHAPE__Length" : 6990.48528185718, 
-        "GlobalID" : "f17bacea-ee82-41ba-bda8-befe63f42ce1"
+        "GlobalID" : "f52a2f94-bdb5-4c35-9f16-a1d6d1a1e31a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217090, 
+      "id" : 221410, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2485,7 +2485,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217090, 
+        "OBJECTID" : 221410, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2499,12 +2499,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 710299.46484375, 
         "SHAPE__Length" : 3985.2823375549233, 
-        "GlobalID" : "42498d91-7d28-4f27-8d31-d51ad57c9c00"
+        "GlobalID" : "0d9a76e3-5fe4-4e38-afa9-9c6ec1b3a83d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217091, 
+      "id" : 221411, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2553,7 +2553,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217091, 
+        "OBJECTID" : 221411, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2567,12 +2567,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 6570099.5390625, 
         "SHAPE__Length" : 11856.859736833436, 
-        "GlobalID" : "a862d368-1480-493c-b59c-3aaf7703240d"
+        "GlobalID" : "8d6f55cf-e6d5-4709-a638-710676747a1e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217092, 
+      "id" : 221412, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2642,7 +2642,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217092, 
+        "OBJECTID" : 221412, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2656,12 +2656,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 2745777.93359375, 
         "SHAPE__Length" : 7427.5596550305063, 
-        "GlobalID" : "88a0c64d-2ed5-4e24-8442-dcb3a089285d"
+        "GlobalID" : "961041f2-6877-4495-8174-3b48e60e6990"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217093, 
+      "id" : 221413, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2847,7 +2847,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217093, 
+        "OBJECTID" : 221413, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2861,12 +2861,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 24159901.52734375, 
         "SHAPE__Length" : 24240.153221953147, 
-        "GlobalID" : "c1b782d7-7efd-4a82-acdf-482ea111449c"
+        "GlobalID" : "78a618e9-d9aa-47d6-99b7-271d94ea5ee0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217094, 
+      "id" : 221414, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2957,7 +2957,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217094, 
+        "OBJECTID" : 221414, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2971,12 +2971,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 13694600.1484375, 
         "SHAPE__Length" : 17781.590980173463, 
-        "GlobalID" : "f2340e46-37d5-43e5-836f-f1cabd362867"
+        "GlobalID" : "cbfe7162-3508-42b7-b9a4-5cfd4221ef9e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217095, 
+      "id" : 221415, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3149,7 +3149,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217095, 
+        "OBJECTID" : 221415, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3163,12 +3163,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1529417.7578125, 
         "SHAPE__Length" : 5876.5178619612425, 
-        "GlobalID" : "b05e9db8-6299-4f98-807b-a1ad07fbb614"
+        "GlobalID" : "61602007-d14a-42b0-9349-e62f711936f4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217096, 
+      "id" : 221416, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3305,7 +3305,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217096, 
+        "OBJECTID" : 221416, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3319,12 +3319,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 27088402.9296875, 
         "SHAPE__Length" : 39134.476094374972, 
-        "GlobalID" : "09f05daa-5bb5-4efe-b0b0-fe0712d96874"
+        "GlobalID" : "49f74451-9cda-40de-ab6b-3287df426919"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217097, 
+      "id" : 221417, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3441,7 +3441,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217097, 
+        "OBJECTID" : 221417, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3455,12 +3455,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 19854793.3984375, 
         "SHAPE__Length" : 23524.70734387622, 
-        "GlobalID" : "a3308fb8-e25f-4402-9385-0929cfd71ea3"
+        "GlobalID" : "62d16cdb-c2d7-4c0e-abc7-d525dbd83cfe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217098, 
+      "id" : 221418, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3537,7 +3537,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217098, 
+        "OBJECTID" : 221418, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3551,12 +3551,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 778199.3984375, 
         "SHAPE__Length" : 3485.0358112389426, 
-        "GlobalID" : "c72d88b0-44f3-4911-b9fa-a900d8b72944"
+        "GlobalID" : "a64f753a-11d8-4e18-88b3-24fd879a59b7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217099, 
+      "id" : 221419, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3658,7 +3658,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217099, 
+        "OBJECTID" : 221419, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3672,12 +3672,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 3329478.58203125, 
         "SHAPE__Length" : 7318.5376032540089, 
-        "GlobalID" : "b9c1da16-5507-4002-befd-8c0ce939cbea"
+        "GlobalID" : "51630a41-ab94-4fa1-aaf4-0ee848944bb1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217100, 
+      "id" : 221420, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3716,7 +3716,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217100, 
+        "OBJECTID" : 221420, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3730,12 +3730,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 3450774.5859375, 
         "SHAPE__Length" : 8781.1948529952933, 
-        "GlobalID" : "4c358c77-3d6d-41cf-915a-819d2b3a9a73"
+        "GlobalID" : "7639cde1-33a4-4504-a573-adc8338f9349"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217101, 
+      "id" : 221421, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3796,7 +3796,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217101, 
+        "OBJECTID" : 221421, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3810,12 +3810,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "fdd21c6d-8f11-40fb-95d3-6b824906ab44"
+        "GlobalID" : "c1ff7901-3164-487e-9ca7-41755a3c5186"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217102, 
+      "id" : 221422, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3926,7 +3926,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217102, 
+        "OBJECTID" : 221422, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3940,12 +3940,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "37a62048-5d1a-41df-a139-dd5eff0fa47a"
+        "GlobalID" : "fb9e93c0-cee2-44c8-a5d2-51252778d286"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217103, 
+      "id" : 221423, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3987,7 +3987,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217103, 
+        "OBJECTID" : 221423, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4001,12 +4001,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "f82456ae-62b9-4949-8892-bc45aaa555ce"
+        "GlobalID" : "29ee96d4-ebda-49bf-9747-4b64c66a6184"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217104, 
+      "id" : 221424, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4028,7 +4028,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217104, 
+        "OBJECTID" : 221424, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4042,12 +4042,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "0ad6dbea-a7e4-429c-bd03-124f28c8b7dc"
+        "GlobalID" : "0e6df47f-b7d7-4066-958c-37941d51987e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217105, 
+      "id" : 221425, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4076,7 +4076,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217105, 
+        "OBJECTID" : 221425, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4090,12 +4090,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "bd5a41b5-4736-426c-992a-9f3fdb84fdc8"
+        "GlobalID" : "40c57b31-f450-4347-8697-530970c92457"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217106, 
+      "id" : 221426, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4124,7 +4124,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217106, 
+        "OBJECTID" : 221426, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4138,12 +4138,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "14c4c443-f979-4dda-978a-fd2d35e9e647"
+        "GlobalID" : "d19d7383-0d8a-4bc1-90f8-49231e3fdd53"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217107, 
+      "id" : 221427, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4184,7 +4184,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217107, 
+        "OBJECTID" : 221427, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4198,12 +4198,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "21faae38-9463-460d-bc85-91d44e436641"
+        "GlobalID" : "85b28642-dccc-4fa4-bf62-e80b2f9bdc3a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217108, 
+      "id" : 221428, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4330,7 +4330,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217108, 
+        "OBJECTID" : 221428, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4344,12 +4344,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1151102.3359375, 
         "SHAPE__Length" : 5433.9739184899718, 
-        "GlobalID" : "37cd2f70-d83f-40b8-8b36-deea26bea296"
+        "GlobalID" : "40d8fec3-2e5d-4a39-a85b-2285a13a8fcf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217109, 
+      "id" : 221429, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4377,7 +4377,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217109, 
+        "OBJECTID" : 221429, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4391,12 +4391,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "56ee2170-b64a-4d26-b70c-a2fae1dc6021"
+        "GlobalID" : "43738c7b-7a0e-4066-a1fd-631f7993030e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217110, 
+      "id" : 221430, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4437,7 +4437,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217110, 
+        "OBJECTID" : 221430, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4451,12 +4451,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "dee4bbb0-e57b-4a17-a0ae-07ab4e16a751"
+        "GlobalID" : "5fb99129-62ed-4c03-b08c-19086d211e0c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217111, 
+      "id" : 221431, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4503,7 +4503,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217111, 
+        "OBJECTID" : 221431, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4517,12 +4517,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 2087466.421875, 
         "SHAPE__Length" : 5870.3636847149628, 
-        "GlobalID" : "716b2010-cfa9-4f7c-826b-09219ea79e5f"
+        "GlobalID" : "bc8aec96-2d20-4976-ab92-4bda4c695a36"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217112, 
+      "id" : 221432, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4777,7 +4777,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217112, 
+        "OBJECTID" : 221432, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4791,12 +4791,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 3183081.19140625, 
         "SHAPE__Length" : 8978.0612744646442, 
-        "GlobalID" : "b98b0729-09a9-4f8a-8537-49bf3d506a85"
+        "GlobalID" : "16975090-0163-49c0-a88e-b33546ec1eb1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217113, 
+      "id" : 221433, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5063,7 +5063,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217113, 
+        "OBJECTID" : 221433, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5077,12 +5077,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 12692817.72265625, 
         "SHAPE__Length" : 20514.275207136434, 
-        "GlobalID" : "08100f2b-82d9-488f-af07-8cadc466901c"
+        "GlobalID" : "e27ba67a-6084-4eaa-b673-43a121ca614f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217114, 
+      "id" : 221434, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5144,7 +5144,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217114, 
+        "OBJECTID" : 221434, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5158,12 +5158,12 @@
         "NOTES" : "Due to flood activity in the northeast part of Montague, this zone is under an evacuation warning.", 
         "SHAPE__Area" : 2044380.81640625, 
         "SHAPE__Length" : 6599.5639068476949, 
-        "GlobalID" : "5239a265-70ee-4e55-b432-1f22709011ef"
+        "GlobalID" : "fde085f8-a26f-4abe-9560-ed65bdb9d8c1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217115, 
+      "id" : 221435, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5196,7 +5196,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217115, 
+        "OBJECTID" : 221435, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5210,12 +5210,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "fd121652-7d9a-47b5-ad5e-df0bfbbffb5d"
+        "GlobalID" : "b3021419-ad7b-48ac-b647-5f0dda049cb4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217116, 
+      "id" : 221436, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5275,7 +5275,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217116, 
+        "OBJECTID" : 221436, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5289,12 +5289,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 21217156.33203125, 
         "SHAPE__Length" : 23126.583859041613, 
-        "GlobalID" : "d0dab044-766b-492f-a115-1289d1263366"
+        "GlobalID" : "bca5886a-a1d9-4dd0-9d63-794aed3fca33"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217117, 
+      "id" : 221437, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5392,7 +5392,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217117, 
+        "OBJECTID" : 221437, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5406,12 +5406,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1281155.00390625, 
         "SHAPE__Length" : 5262.8049706225192, 
-        "GlobalID" : "fb98c0d5-3de3-4199-90bf-2d9ed3c9e135"
+        "GlobalID" : "d139ac95-b021-47df-8764-e722a408acbc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217118, 
+      "id" : 221438, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5506,7 +5506,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217118, 
+        "OBJECTID" : 221438, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5520,12 +5520,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1208017.53125, 
         "SHAPE__Length" : 5683.5024057971832, 
-        "GlobalID" : "cba7f3af-baaa-4933-890a-93c0d7b361db"
+        "GlobalID" : "4f90cd2f-7c48-45c5-9dd8-8e495e774bc1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217119, 
+      "id" : 221439, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5695,7 +5695,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217119, 
+        "OBJECTID" : 221439, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5709,12 +5709,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 3905362.80859375, 
         "SHAPE__Length" : 9126.4463416170929, 
-        "GlobalID" : "0b1bc03e-1f06-4439-8624-a37e2edeaa50"
+        "GlobalID" : "5412bb80-b076-4c41-9e1d-8056c35a8921"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217120, 
+      "id" : 221440, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5972,7 +5972,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217120, 
+        "OBJECTID" : 221440, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5986,12 +5986,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 20350351.55859375, 
         "SHAPE__Length" : 25648.641675813062, 
-        "GlobalID" : "a77ba520-729c-4e79-bad7-6a952f316849"
+        "GlobalID" : "f99680c7-0d97-43db-a671-23cd0ba56995"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217121, 
+      "id" : 221441, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6181,7 +6181,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217121, 
+        "OBJECTID" : 221441, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6195,12 +6195,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 5488171.35546875, 
         "SHAPE__Length" : 10184.713148905083, 
-        "GlobalID" : "007bcc32-f428-4f86-a93d-9fa0c35e65bf"
+        "GlobalID" : "94e64277-a584-462d-8e22-8cb9d4e58635"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217122, 
+      "id" : 221442, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6250,7 +6250,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217122, 
+        "OBJECTID" : 221442, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6264,12 +6264,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 12202245.41015625, 
         "SHAPE__Length" : 13738.014775541806, 
-        "GlobalID" : "51b5a318-0057-4b4a-b538-10e48b70f222"
+        "GlobalID" : "6cf51cee-e38b-4b75-8392-cdbb266c16a7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217123, 
+      "id" : 221443, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6329,7 +6329,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217123, 
+        "OBJECTID" : 221443, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6343,12 +6343,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "30fd4c75-c401-4943-b6f3-4cce0f427b61"
+        "GlobalID" : "1292c6a1-51e8-4b8f-b179-fd4de091a1ce"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217124, 
+      "id" : 221444, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6440,7 +6440,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217124, 
+        "OBJECTID" : 221444, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6454,12 +6454,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 11964787.5078125, 
         "SHAPE__Length" : 17177.149100378658, 
-        "GlobalID" : "5afbdaf7-3a74-49cf-802f-1ee4de0a0077"
+        "GlobalID" : "29eee86d-fad9-4bfb-9539-9e534e8a0a66"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217125, 
+      "id" : 221445, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6496,7 +6496,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217125, 
+        "OBJECTID" : 221445, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6510,12 +6510,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1133037.73046875, 
         "SHAPE__Length" : 4368.55772150319, 
-        "GlobalID" : "028086e3-e396-4933-a299-e89c5072fa93"
+        "GlobalID" : "74f431ee-d159-4994-8300-70e4aaed5789"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217126, 
+      "id" : 221446, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6551,7 +6551,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217126, 
+        "OBJECTID" : 221446, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6565,12 +6565,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 2061611.60546875, 
         "SHAPE__Length" : 6694.0549212184933, 
-        "GlobalID" : "28f449e6-59bd-4aa0-b3a1-4738f4470cae"
+        "GlobalID" : "fc5b687c-e664-492c-9cb3-b9b1a8365333"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217127, 
+      "id" : 221447, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6590,7 +6590,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217127, 
+        "OBJECTID" : 221447, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6604,12 +6604,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1883310.453125, 
         "SHAPE__Length" : 5767.9362991589442, 
-        "GlobalID" : "29ca0481-7ec0-45aa-b26b-d1553e3a4cce"
+        "GlobalID" : "d96acfea-50e2-47ed-b373-b8baf2c25c16"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217128, 
+      "id" : 221448, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6644,7 +6644,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217128, 
+        "OBJECTID" : 221448, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6658,12 +6658,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 4934346.26171875, 
         "SHAPE__Length" : 9331.1569476070981, 
-        "GlobalID" : "66b76183-3fa8-4922-99c5-4188d0876a56"
+        "GlobalID" : "17951c66-add8-4156-9d6e-bfce6580bb7c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217129, 
+      "id" : 221449, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6755,7 +6755,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217129, 
+        "OBJECTID" : 221449, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6769,12 +6769,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 28734661.41015625, 
         "SHAPE__Length" : 23180.258222045835, 
-        "GlobalID" : "a2c63826-046c-4097-a5b8-45cac3cfa6a7"
+        "GlobalID" : "361cd71b-e70d-44be-a0a4-37e0a2ac1501"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217130, 
+      "id" : 221450, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6857,7 +6857,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217130, 
+        "OBJECTID" : 221450, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6871,12 +6871,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1389530.70703125, 
         "SHAPE__Length" : 7463.2984328795637, 
-        "GlobalID" : "cc7bc8a8-7a17-43c4-9e75-6b3fffecb9d4"
+        "GlobalID" : "531de3ea-1000-4981-9195-1f133be916b2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217131, 
+      "id" : 221451, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6915,7 +6915,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217131, 
+        "OBJECTID" : 221451, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6929,12 +6929,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 19271217.921875, 
         "SHAPE__Length" : 18734.69747835007, 
-        "GlobalID" : "0ca9c676-790b-4989-b97b-de907f63e602"
+        "GlobalID" : "99343d88-6185-43d5-862b-7aab38ed3e10"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217132, 
+      "id" : 221452, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7473,7 +7473,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217132, 
+        "OBJECTID" : 221452, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7487,12 +7487,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 9841422.18359375, 
         "SHAPE__Length" : 16433.222300235342, 
-        "GlobalID" : "37351211-8156-4bf7-908e-1171aefd405d"
+        "GlobalID" : "d9667277-6326-4080-924f-2ce81639eec8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217133, 
+      "id" : 221453, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7612,7 +7612,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217133, 
+        "OBJECTID" : 221453, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7626,12 +7626,12 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 1351161.828125, 
         "SHAPE__Length" : 5587.5977416640872, 
-        "GlobalID" : "a56a3ca7-be39-4420-90d2-485f394f342d"
+        "GlobalID" : "8eb6b4a9-ccba-42a0-9c3f-129f2245427e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217134, 
+      "id" : 221454, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7679,7 +7679,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217134, 
+        "OBJECTID" : 221454, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7693,12 +7693,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "c91a33b9-da40-4ea4-9e4c-f89a1660b558"
+        "GlobalID" : "44079aa8-ee2a-4497-9d5e-54720aadedb4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 217135, 
+      "id" : 221455, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7768,7 +7768,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 217135, 
+        "OBJECTID" : 221455, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7782,7 +7782,7 @@
         "NOTES" : "This is a warning only. Due to Dam water releases, flooding on the Sacramento River is expected tonight. Any low laying areas will experience some flooding as well. Please monitor water levels if you are in one of these areas. Leave the area if you believe you are in danger. ", 
         "SHAPE__Area" : 801181.33203125, 
         "SHAPE__Length" : 3483.5842130104079, 
-        "GlobalID" : "b25c3a0b-d682-4b11-9c09-7a3586cfc4dc"
+        "GlobalID" : "51452626-aa85-49be-ace2-f4b16ab29086"
       }
     }
   ]
