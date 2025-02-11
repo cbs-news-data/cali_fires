@@ -28,8 +28,8 @@ cali_fires <- cali_fires %>%
   mutate(poly_date_current = as.POSIXct(poly_date_current / 1000, origin = "1970-01-01"))
 
 # Filter dataset to only those updated in the last 14 days
-cali_fires <- cali_fires %>%
-  filter(poly_date_current >= Sys.Date() - 15)
+#cali_fires <- cali_fires %>%
+  #filter(poly_date_current >= Sys.Date() - 15)
 
 # Removing the code letters etc from mission names to create a standard common fire name
 cali_fires <- cali_fires %>%
@@ -57,7 +57,7 @@ cali_fires <- cali_fires %>%
   group_by(fire_name) %>%
   slice_max(order_by = poly_date_current, n = 1) %>%
   mutate(acres_burned = round(area_acres)) %>%
-  select(fire_name, acres_burned, poly_date_current, geometry)
+  select(fire_name, acres_burned, poly_date_current, geometry, display_status)
 
 # Round acres to nearest acres
 #cali_fires <- cali_fires %>%
