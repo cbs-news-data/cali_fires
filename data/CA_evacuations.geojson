@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 373807, 
+      "id" : 379981, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40,7 +40,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373807, 
+        "OBJECTID" : 379981, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -54,12 +54,12 @@
         "NOTES" : "AlertRivCo: Evacuation Warning for El Cariso Village Zones RVC-1865B, RVC-1798B. Storm may cause dangerous mud and debris flows in Airport Burn Scar. For shelter assistance, call 2-1-1 or (951) 686-4402. Use caution on roadways. Do not cross flooded roadways. https://tinyurl.com/snprnayh", 
         "SHAPE__Area" : 33037.56640625, 
         "SHAPE__Length" : 913.29828355305483, 
-        "GlobalID" : "47384a46-871b-481c-850c-1174a7f91f8c"
+        "GlobalID" : "7e07e55b-faee-4337-87ae-024eb05eef34"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373808, 
+      "id" : 379982, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -140,7 +140,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373808, 
+        "OBJECTID" : 379982, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -154,12 +154,12 @@
         "NOTES" : "AlertRivCo: Evacuation Warning for El Cariso Village Zones RVC-1865B, RVC-1798B. Storm may cause dangerous mud and debris flows in Airport Burn Scar. For shelter assistance, call 2-1-1 or (951) 686-4402. Use caution on roadways. Do not cross flooded roadways. https://tinyurl.com/snprnayh", 
         "SHAPE__Area" : 88866.8359375, 
         "SHAPE__Length" : 2267.3594902770019, 
-        "GlobalID" : "9a4fc3b3-346e-4b9c-bb12-c49d5564d062"
+        "GlobalID" : "5ea2ab62-d415-4c7e-94cd-49bb7e0dd975"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373809, 
+      "id" : 379983, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -780,7 +780,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373809, 
+        "OBJECTID" : 379983, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -794,12 +794,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "7cf0db57-5f90-4cfd-9e73-9fcffa16c3eb"
+        "GlobalID" : "31d653c5-c2ff-462a-973d-7ccde63eea1c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373810, 
+      "id" : 379984, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -828,7 +828,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373810, 
+        "OBJECTID" : 379984, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -842,12 +842,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 10242.203125, 
         "SHAPE__Length" : 411.15487475350443, 
-        "GlobalID" : "1aacddbd-bbad-4118-a857-fad5020285c8"
+        "GlobalID" : "2e3616f9-d659-4e7e-b4fe-102fbe5d053d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373811, 
+      "id" : 379985, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -908,7 +908,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373811, 
+        "OBJECTID" : 379985, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -922,12 +922,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "24fd09ee-2511-44d7-b8d5-5669e505aedf"
+        "GlobalID" : "9bbd1e71-3891-46f2-9153-c4f12799dbe0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373812, 
+      "id" : 379986, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -952,7 +952,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373812, 
+        "OBJECTID" : 379986, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -966,12 +966,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 11856.328125, 
         "SHAPE__Length" : 477.20434610639182, 
-        "GlobalID" : "92fd9196-ee34-4ba5-b5d7-08843a0306a1"
+        "GlobalID" : "e749da98-aab2-468d-9751-3743db45ec25"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373813, 
+      "id" : 379987, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1031,7 +1031,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373813, 
+        "OBJECTID" : 379987, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1045,12 +1045,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "cdf2fecc-4fdc-4303-843b-8f01ece126cd"
+        "GlobalID" : "04e1185e-3c6d-4acf-b5ad-ea18f3ee5610"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373814, 
+      "id" : 379988, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1110,7 +1110,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373814, 
+        "OBJECTID" : 379988, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1124,12 +1124,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "a4d2ffe7-4c36-4c5c-ab18-338b2f608953"
+        "GlobalID" : "7449f8ad-a323-4f74-ba3f-23741ad7b958"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373815, 
+      "id" : 379989, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1183,7 +1183,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373815, 
+        "OBJECTID" : 379989, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1197,12 +1197,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 118604.80078125, 
         "SHAPE__Length" : 1744.4958695073981, 
-        "GlobalID" : "a5275df0-5417-4133-be99-c7b8206287ca"
+        "GlobalID" : "6ecbc01c-2b6d-4d7f-acaf-5981a1e80507"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373816, 
+      "id" : 379990, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1353,7 +1353,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373816, 
+        "OBJECTID" : 379990, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1367,12 +1367,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 174127.63671875, 
         "SHAPE__Length" : 2663.9985522537231, 
-        "GlobalID" : "2c00f9f2-d4f1-4d12-a0a3-84f47647d3c8"
+        "GlobalID" : "098d8b62-3fa5-444b-bbd1-71b87cdb79dd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373817, 
+      "id" : 379991, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1436,7 +1436,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373817, 
+        "OBJECTID" : 379991, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1450,12 +1450,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 164979.7734375, 
         "SHAPE__Length" : 2385.9627847684978, 
-        "GlobalID" : "ad5ea376-b532-4791-8c06-934b1f2c0aee"
+        "GlobalID" : "0b3816d8-f98b-4857-b863-f1a5bfc09bbc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373818, 
+      "id" : 379992, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1634,7 +1634,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373818, 
+        "OBJECTID" : 379992, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1648,12 +1648,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 2754526.23046875, 
         "SHAPE__Length" : 11738.143827137936, 
-        "GlobalID" : "7ff2b580-1fb3-4365-b295-feee28ba4da2"
+        "GlobalID" : "06668d94-a749-4b31-9b8a-90f9772fe23e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373819, 
+      "id" : 379993, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1713,7 +1713,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373819, 
+        "OBJECTID" : 379993, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1727,12 +1727,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 163786.6953125, 
         "SHAPE__Length" : 1610.9745374085321, 
-        "GlobalID" : "92995957-dede-493a-aea8-f999ac4f3b01"
+        "GlobalID" : "f8241bb4-69cf-4e1d-9584-45a4e2666dee"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373820, 
+      "id" : 379994, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1823,7 +1823,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373820, 
+        "OBJECTID" : 379994, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1837,12 +1837,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 114521.1640625, 
         "SHAPE__Length" : 1740.037754052707, 
-        "GlobalID" : "f2c47d63-080d-4888-bd05-3d061465517c"
+        "GlobalID" : "0a5dd44a-eea8-42bc-83de-9e31a7d5edee"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373821, 
+      "id" : 379995, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1883,7 +1883,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373821, 
+        "OBJECTID" : 379995, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1897,12 +1897,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 115935.57421875, 
         "SHAPE__Length" : 1646.2272907111062, 
-        "GlobalID" : "e9747955-fc81-4c13-8eb7-c13cc114b531"
+        "GlobalID" : "64c7804b-bade-4921-9467-d6c4f0c55beb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373822, 
+      "id" : 379996, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1957,7 +1957,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373822, 
+        "OBJECTID" : 379996, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1971,12 +1971,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 128505.91015625, 
         "SHAPE__Length" : 1966.7811872948193, 
-        "GlobalID" : "5f85a4ab-5f59-455d-ae74-462f794300d5"
+        "GlobalID" : "754165b5-fdad-4803-af40-898c2d68bac4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373823, 
+      "id" : 379997, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2044,7 +2044,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373823, 
+        "OBJECTID" : 379997, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2058,12 +2058,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 319448.69921875, 
         "SHAPE__Length" : 2728.2141026730292, 
-        "GlobalID" : "2cecd870-6544-43d5-ac73-0acf4473ef7b"
+        "GlobalID" : "b1a27b92-b9b9-441c-923e-1f832c0e417f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373824, 
+      "id" : 379998, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2120,7 +2120,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373824, 
+        "OBJECTID" : 379998, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2134,12 +2134,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 165203.53515625, 
         "SHAPE__Length" : 1863.8255125276235, 
-        "GlobalID" : "b755c4df-88ff-495d-ad85-a15a6e8a1092"
+        "GlobalID" : "ffc830bb-730d-459e-8769-51982a7e5eb8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373825, 
+      "id" : 379999, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2207,7 +2207,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373825, 
+        "OBJECTID" : 379999, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2221,12 +2221,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 106345.390625, 
         "SHAPE__Length" : 1450.8564439484985, 
-        "GlobalID" : "235027a0-15fe-41eb-9405-c2714d9ff13b"
+        "GlobalID" : "f8aa2a8f-35cb-432f-a0db-3261e2aa521e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373826, 
+      "id" : 380000, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2326,7 +2326,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373826, 
+        "OBJECTID" : 380000, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2340,12 +2340,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 73511.48828125, 
         "SHAPE__Length" : 1649.71140451733, 
-        "GlobalID" : "328a3c33-1cdf-4ce8-9972-f830bf6354db"
+        "GlobalID" : "da9a23ad-84e3-4a75-8857-318acfc20c45"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373827, 
+      "id" : 380001, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2456,7 +2456,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373827, 
+        "OBJECTID" : 380001, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2470,12 +2470,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 126452.9453125, 
         "SHAPE__Length" : 1949.3380738355524, 
-        "GlobalID" : "0c5a8991-40c1-4e36-bab4-14c4e8624bbe"
+        "GlobalID" : "03d62fe4-bfd3-4f4d-8729-12b6f9e1f434"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373828, 
+      "id" : 380002, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2526,7 +2526,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373828, 
+        "OBJECTID" : 380002, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2540,12 +2540,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 15574.078125, 
         "SHAPE__Length" : 828.84201626454831, 
-        "GlobalID" : "a6eb9f9c-e847-471f-bb63-622234679666"
+        "GlobalID" : "62c8c23a-4f9e-41d5-a9a9-cd8e4ddc28d3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373829, 
+      "id" : 380003, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2682,7 +2682,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373829, 
+        "OBJECTID" : 380003, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2696,12 +2696,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 125526.16796875, 
         "SHAPE__Length" : 2608.7498680487151, 
-        "GlobalID" : "f32a319e-db7e-4188-9c20-082b72166287"
+        "GlobalID" : "bc0ba84e-83f4-4cc6-ae18-9d9be83332ec"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373830, 
+      "id" : 380004, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2723,7 +2723,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373830, 
+        "OBJECTID" : 380004, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2737,12 +2737,12 @@
         "NOTES" : "Low risk of debris flows over Eaton Fire burn scars & flash flooding in mountains. Anticipate minor to moderate flooding and mudflow/sediment deposition.", 
         "SHAPE__Area" : 8415.8125, 
         "SHAPE__Length" : 410.75735181689049, 
-        "GlobalID" : "016bacee-6eb0-49ff-a8d3-bcdb00332361"
+        "GlobalID" : "e0188d56-8e4e-42ce-911e-9254d920094f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373831, 
+      "id" : 380005, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2975,7 +2975,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373831, 
+        "OBJECTID" : 380005, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2989,12 +2989,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 30726112.6796875, 
         "SHAPE__Length" : 24206.996689584823, 
-        "GlobalID" : "47231bae-3799-4f81-9aa9-3bae580f504a"
+        "GlobalID" : "eb3f71fe-f09a-40f7-829f-b972e7ebb0a1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373832, 
+      "id" : 380006, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3105,7 +3105,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373832, 
+        "OBJECTID" : 380006, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3119,12 +3119,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "05c0dcc5-723d-4a20-ba15-09a46158737f"
+        "GlobalID" : "6cb2bd24-067f-45aa-8d29-5fce4f1ba825"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373833, 
+      "id" : 380007, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3324,7 +3324,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373833, 
+        "OBJECTID" : 380007, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3338,12 +3338,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "0d640a5a-3e1e-45b0-9070-246d37f73bf0"
+        "GlobalID" : "0c5b33ab-6dd3-46f5-9a0e-12307cb5b113"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373834, 
+      "id" : 380008, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3457,7 +3457,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373834, 
+        "OBJECTID" : 380008, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3471,12 +3471,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "bf0cbe24-055d-402e-b88b-f4ffcec02ab3"
+        "GlobalID" : "510b469c-31f2-4823-a364-8a3b8873a7db"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373835, 
+      "id" : 380009, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3524,7 +3524,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373835, 
+        "OBJECTID" : 380009, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3538,12 +3538,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "320dc419-b2d4-4191-b210-7df6a4b58ced"
+        "GlobalID" : "d552a56d-368c-4b1f-a34b-f4610942c2bb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373836, 
+      "id" : 380010, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3699,7 +3699,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373836, 
+        "OBJECTID" : 380010, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3713,12 +3713,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "196fa9b5-fa5d-4043-8790-6d37177b6ba9"
+        "GlobalID" : "3f0b4dd7-99a5-4dac-ba57-a29ca6523882"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373837, 
+      "id" : 380011, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3769,7 +3769,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373837, 
+        "OBJECTID" : 380011, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3783,12 +3783,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "a3969eb4-b5bf-48b2-90fe-cb648efe4d88"
+        "GlobalID" : "073bdf47-91d1-4d24-9dfe-f37c2e357c55"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373838, 
+      "id" : 380012, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3810,7 +3810,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373838, 
+        "OBJECTID" : 380012, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3824,12 +3824,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "647525a8-ab39-4753-ac6f-de5b919d4cd5"
+        "GlobalID" : "76475ae3-2bba-4942-bac6-f841378a5fd0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373839, 
+      "id" : 380013, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3870,7 +3870,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373839, 
+        "OBJECTID" : 380013, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3884,12 +3884,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "2700a892-53de-425b-8306-fe99b2c18fea"
+        "GlobalID" : "428bcbf4-dd7b-468a-80b2-95939fd9190b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373840, 
+      "id" : 380014, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3917,7 +3917,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373840, 
+        "OBJECTID" : 380014, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3931,12 +3931,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "68f7fa3d-ece3-4b80-bfb1-40cfd3fef914"
+        "GlobalID" : "edc1ad1d-06d2-4d34-b9f7-ce242f2c3a0d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373841, 
+      "id" : 380015, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3969,7 +3969,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373841, 
+        "OBJECTID" : 380015, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3983,12 +3983,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "a94bbfab-a04f-4e41-8aa5-b6c4d20353c2"
+        "GlobalID" : "f8327abb-2bcf-442a-9d27-0e90b8fdf1a4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373842, 
+      "id" : 380016, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4029,7 +4029,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373842, 
+        "OBJECTID" : 380016, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4043,12 +4043,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "3293da43-6874-409e-94da-c9771eda2940"
+        "GlobalID" : "f6a8aa22-b187-40b2-a5bd-3dda7e770167"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373843, 
+      "id" : 380017, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4307,7 +4307,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373843, 
+        "OBJECTID" : 380017, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4321,12 +4321,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "9c676e1d-51b5-4df9-b0a7-838de4fcb249"
+        "GlobalID" : "aa79db7a-ce54-4d50-9694-41391450f407"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373844, 
+      "id" : 380018, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4412,7 +4412,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373844, 
+        "OBJECTID" : 380018, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4426,12 +4426,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "382edd66-657d-498b-aae1-bbb308c66e11"
+        "GlobalID" : "7eee8b8f-b192-47f7-b202-d4de2ae0d439"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373845, 
+      "id" : 380019, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4531,7 +4531,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373845, 
+        "OBJECTID" : 380019, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4545,12 +4545,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "eacbd1cc-b26a-429a-a386-b366fbcb1c0d"
+        "GlobalID" : "3acfb9db-84bf-4e64-b77d-a8c13e136248"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373846, 
+      "id" : 380020, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4592,7 +4592,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373846, 
+        "OBJECTID" : 380020, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4606,12 +4606,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "5f924e96-5d55-47d4-a6ff-ab3819c87733"
+        "GlobalID" : "1e45bf34-b3ff-42c5-b59f-5a62c568aad5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373847, 
+      "id" : 380021, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4640,7 +4640,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373847, 
+        "OBJECTID" : 380021, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4654,12 +4654,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "c31fa110-5e88-4402-be8a-2fb3d3c80a1c"
+        "GlobalID" : "a27d04f5-fe6a-48a5-a8a9-318ecac6c6a6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 373848, 
+      "id" : 380022, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4688,7 +4688,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 373848, 
+        "OBJECTID" : 380022, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4702,7 +4702,7 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "7afa14f4-79cb-43f0-b123-104a194b3e1d"
+        "GlobalID" : "3406f36b-3fda-4974-9c90-5cf650646f37"
       }
     }
   ]
