@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 687615, 
+      "id" : 693408, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687615, 
+        "OBJECTID" : 693408, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "224820ab-c0fa-48dd-b2b9-286df21f4b05"
+        "GlobalID" : "7125ef42-43af-47a7-b8cd-aed293a3790a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687616, 
+      "id" : 693409, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687616, 
+        "OBJECTID" : 693409, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,330 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "a36e74b8-b32b-41b8-b137-1cbc086a86ba"
+        "GlobalID" : "ce54b13d-b85c-4eca-a237-3d1ae388ff89"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687617, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-117.09155686, 33.44488032], 
-            [-117.09134713, 33.44488141], 
-            [-117.09133332, 33.44474053], 
-            [-117.09131364, 33.4445184], 
-            [-117.0912977, 33.44433178], 
-            [-117.09127899, 33.44409982], 
-            [-117.09125366, 33.44390088], 
-            [-117.09124163, 33.44372725], 
-            [-117.0912367, 33.44356982], 
-            [-117.09123548, 33.443443], 
-            [-117.09124537, 33.44317597], 
-            [-117.09124841, 33.44303878], 
-            [-117.09129856, 33.442321], 
-            [-117.09132908, 33.44201496], 
-            [-117.09136218, 33.44164599], 
-            [-117.09139493, 33.44131149], 
-            [-117.09139858, 33.44127427], 
-            [-117.09140204, 33.44123451], 
-            [-117.09135728, 33.44122591], 
-            [-117.08727145, 33.44125343], 
-            [-117.08291385, 33.44128262], 
-            [-117.0829053, 33.44055064], 
-            [-117.08288671, 33.43799832], 
-            [-117.08288302, 33.43763797], 
-            [-117.0828709, 33.43549686], 
-            [-117.08285924, 33.43401218], 
-            [-117.08285073, 33.43292904], 
-            [-117.08282283, 33.43038951], 
-            [-117.08379693, 33.43038191], 
-            [-117.08409798, 33.43038302], 
-            [-117.08683466, 33.43039313], 
-            [-117.09130584, 33.43037438], 
-            [-117.09153065, 33.43037344], 
-            [-117.09153161, 33.4304181], 
-            [-117.09155788, 33.43399326], 
-            [-117.09589446, 33.43397179], 
-            [-117.09588156, 33.43753397], 
-            [-117.09592906, 33.44120106], 
-            [-117.091801, 33.44122318], 
-            [-117.09176432, 33.44122337], 
-            [-117.09174817, 33.44139223], 
-            [-117.09170052, 33.44190534], 
-            [-117.09168854, 33.44203889], 
-            [-117.09166426, 33.44228233], 
-            [-117.09165142, 33.44244053], 
-            [-117.09162293, 33.44284838], 
-            [-117.09160881, 33.44305043], 
-            [-117.0916042, 33.44325855], 
-            [-117.09159601, 33.44343543], 
-            [-117.09159726, 33.44356463], 
-            [-117.09159919, 33.44362646], 
-            [-117.09160136, 33.44369562], 
-            [-117.09161315, 33.44387605], 
-            [-117.09163154, 33.4440205], 
-            [-117.0916383, 33.44407357], 
-            [-117.09165743, 33.44431079], 
-            [-117.09168739, 33.44466158], 
-            [-117.09170327, 33.44482348], 
-            [-117.09170805, 33.44487231], 
-            [-117.09163785, 33.4448799], 
-            [-117.09160476, 33.44488007], 
-            [-117.09155686, 33.44488032]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 687617, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-PFD-2385", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748659407000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "An evacuation WARNING has been issued due to a vegetation fire north of Pala. For updates visit: https://www.fire.ca.gov/incidents/2025/5/30/henderson-fire", 
-        "SHAPE__Area" : 1886863.4375, 
-        "SHAPE__Length" : 6777.00576488099, 
-        "GlobalID" : "5c22e27f-ab2e-4d64-8edc-0fd9db46bfa7"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 687618, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-117.0916458, 33.4457448], 
-            [-117.0917058, 33.4459916], 
-            [-117.0917858, 33.446205], 
-            [-117.0919215, 33.4464678], 
-            [-117.0920367, 33.4466493], 
-            [-117.092108, 33.4467459], 
-            [-117.0921929, 33.446861], 
-            [-117.0924152, 33.447094], 
-            [-117.0924392, 33.4471155], 
-            [-117.0927996, 33.4474384], 
-            [-117.0934155, 33.4479786], 
-            [-117.093575, 33.4481223], 
-            [-117.0938234, 33.448345], 
-            [-117.09400722, 33.44850755], 
-            [-117.09379901, 33.44850733], 
-            [-117.09168158, 33.44850229], 
-            [-117.08947533, 33.44852271], 
-            [-117.08730822, 33.44854248], 
-            [-117.08732642, 33.45192448], 
-            [-117.08732794, 33.45220824], 
-            [-117.08299862, 33.45219398], 
-            [-117.08306237, 33.45579233], 
-            [-117.07874932, 33.45578971], 
-            [-117.07887327, 33.45936658], 
-            [-117.07456222, 33.459225], 
-            [-117.06571315, 33.45923212], 
-            [-117.06573845, 33.46236399], 
-            [-117.06574819, 33.4635699], 
-            [-117.06152213, 33.465768], 
-            [-117.06056956, 33.46626341], 
-            [-117.05726747, 33.46627839], 
-            [-117.05713798, 33.46627898], 
-            [-117.05308905, 33.46629722], 
-            [-117.05278569, 33.46629858], 
-            [-117.04830388, 33.46631861], 
-            [-117.04819442, 33.46277679], 
-            [-117.0438597, 33.46281494], 
-            [-117.04198152, 33.46283142], 
-            [-117.04192605, 33.4628319], 
-            [-117.04190495, 33.46283209], 
-            [-117.03952496, 33.46285297], 
-            [-117.03524286, 33.46284035], 
-            [-117.03519629, 33.46649353], 
-            [-117.03082968, 33.46655178], 
-            [-117.03083098, 33.46640228], 
-            [-117.03086214, 33.46282726], 
-            [-117.03088884, 33.45975773], 
-            [-117.0308946, 33.45909894], 
-            [-117.03091912, 33.45627181], 
-            [-117.0309203, 33.45613518], 
-            [-117.03092342, 33.45553878], 
-            [-117.03093868, 33.45260705], 
-            [-117.03094196, 33.45197873], 
-            [-117.03095702, 33.44907891], 
-            [-117.0309605, 33.44841868], 
-            [-117.03090064, 33.44545503], 
-            [-117.03088865, 33.44485908], 
-            [-117.03082757, 33.44183132], 
-            [-117.03082394, 33.44115028], 
-            [-117.0308075, 33.43808153], 
-            [-117.03080409, 33.43744127], 
-            [-117.03078749, 33.43433157], 
-            [-117.0307843, 33.43373208], 
-            [-117.03076747, 33.43058161], 
-            [-117.03076451, 33.43002309], 
-            [-117.03086872, 33.43002391], 
-            [-117.0308686, 33.43003411], 
-            [-117.03496638, 33.43003631], 
-            [-117.04361414, 33.43010454], 
-            [-117.05248953, 33.43017482], 
-            [-117.05815427, 33.43022569], 
-            [-117.0638751, 33.4302772], 
-            [-117.06396493, 33.43027801], 
-            [-117.06682654, 33.43030377], 
-            [-117.06973307, 33.43032994], 
-            [-117.07828387, 33.43036154], 
-            [-117.07934874, 33.43036547], 
-            [-117.07948556, 33.43036598], 
-            [-117.07988134, 33.43036873], 
-            [-117.08219822, 33.43038486], 
-            [-117.08282283, 33.43038951], 
-            [-117.08285073, 33.43292904], 
-            [-117.08285924, 33.43401218], 
-            [-117.0828709, 33.43549686], 
-            [-117.08288302, 33.43763797], 
-            [-117.08288671, 33.43799832], 
-            [-117.0829053, 33.44055064], 
-            [-117.08291385, 33.44128262], 
-            [-117.08727145, 33.44125343], 
-            [-117.09135728, 33.44122591], 
-            [-117.09140204, 33.44123451], 
-            [-117.09139858, 33.44127427], 
-            [-117.09139493, 33.44131149], 
-            [-117.09136218, 33.44164599], 
-            [-117.09132908, 33.44201496], 
-            [-117.09129856, 33.442321], 
-            [-117.09124841, 33.44303878], 
-            [-117.09124537, 33.44317597], 
-            [-117.09123548, 33.443443], 
-            [-117.0912367, 33.44356982], 
-            [-117.09124163, 33.44372725], 
-            [-117.09125366, 33.44390088], 
-            [-117.09127899, 33.44409982], 
-            [-117.0912977, 33.44433178], 
-            [-117.09131364, 33.4445184], 
-            [-117.09133332, 33.44474053], 
-            [-117.09134713, 33.44488141], 
-            [-117.09155686, 33.44488032], 
-            [-117.0915837, 33.4453554], 
-            [-117.0916458, 33.4457448]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 687618, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-PFD-2363", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748659407000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "An evacuation WARNING has been issued due to a vegetation fire north of Pala. For updates visit: https://www.fire.ca.gov/incidents/2025/5/30/henderson-fire", 
-        "SHAPE__Area" : 26321482.47265625, 
-        "SHAPE__Length" : 24287.857766452533, 
-        "GlobalID" : "f1bc920f-2938-46bd-8773-a779d7471de8"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 687619, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.94593233, 33.42720405], 
-            [-116.94620539, 33.42720494], 
-            [-116.98151885, 33.42739305], 
-            [-116.99881897, 33.42707803], 
-            [-117.01510497, 33.42696541], 
-            [-117.03090411, 33.42693974], 
-            [-117.03086872, 33.43002391], 
-            [-117.03076451, 33.43002309], 
-            [-117.03076747, 33.43058161], 
-            [-117.0307843, 33.43373208], 
-            [-117.03078749, 33.43433157], 
-            [-117.03080409, 33.43744127], 
-            [-117.0308075, 33.43808153], 
-            [-117.03082394, 33.44115028], 
-            [-117.03082757, 33.44183132], 
-            [-117.03088865, 33.44485908], 
-            [-117.03090064, 33.44545503], 
-            [-117.0309605, 33.44841868], 
-            [-117.03095702, 33.44907891], 
-            [-117.03094196, 33.45197873], 
-            [-117.03093868, 33.45260705], 
-            [-117.03092342, 33.45553878], 
-            [-117.0309203, 33.45613518], 
-            [-117.03091912, 33.45627181], 
-            [-117.0307637, 33.4562699], 
-            [-117.0280328, 33.4562405], 
-            [-117.0270723, 33.4562302], 
-            [-117.0267666, 33.4562269], 
-            [-117.0237052, 33.4561939], 
-            [-117.023066, 33.4561871], 
-            [-117.0227462, 33.4561836], 
-            [-117.0150503, 33.4561004], 
-            [-117.0108489, 33.4561739], 
-            [-117.0066476, 33.4562472], 
-            [-117.00658, 33.4526199], 
-            [-116.9995675, 33.4526346], 
-            [-116.9979447, 33.452638], 
-            [-116.9979157, 33.4490032], 
-            [-116.9935996, 33.4490041], 
-            [-116.9922122, 33.4490043], 
-            [-116.9914245, 33.4490045], 
-            [-116.9892634, 33.4490048], 
-            [-116.9870516, 33.4490051], 
-            [-116.9848399, 33.4490054], 
-            [-116.9805125, 33.4490058], 
-            [-116.9804735, 33.4562752], 
-            [-116.976076, 33.4563171], 
-            [-116.9716787, 33.4563587], 
-            [-116.9629378, 33.4564366], 
-            [-116.954335, 33.4563949], 
-            [-116.9457323, 33.4563525], 
-            [-116.9458172, 33.4490329], 
-            [-116.9458593, 33.4454054], 
-            [-116.9459014, 33.4417779], 
-            [-116.9459174, 33.4342606], 
-            [-116.94593233, 33.42720405]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 687619, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-2364", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748659407000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "An evacuation WARNING has been issued due to a vegetation fire north of Pala. For updates visit: https://www.fire.ca.gov/incidents/2025/5/30/henderson-fire", 
-        "SHAPE__Area" : 34406116.3828125, 
-        "SHAPE__Length" : 28680.458919437606, 
-        "GlobalID" : "6907c527-66b0-4567-ad08-2f1ff3d4b2dc"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 687620, 
+      "id" : 693410, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1100,7 +782,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687620, 
+        "OBJECTID" : 693410, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1114,12 +796,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "40d52597-5f36-43f3-9ab5-808e99d35fd1"
+        "GlobalID" : "45c71eda-eb47-49f1-93f1-b3b2c754d3b7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687621, 
+      "id" : 693411, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1180,7 +862,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687621, 
+        "OBJECTID" : 693411, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1194,12 +876,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "75cad340-b6c9-47dd-a25a-7b0ad03083c9"
+        "GlobalID" : "d721ba1d-ace0-4b14-b8f8-a3de378365ce"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687622, 
+      "id" : 693412, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1228,7 +910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687622, 
+        "OBJECTID" : 693412, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1242,12 +924,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "a96c86b2-7280-4414-82ca-f9365f638e87"
+        "GlobalID" : "c964ebd2-3d04-487d-ad2b-b8acd7e50d3b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687623, 
+      "id" : 693413, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1276,7 +958,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687623, 
+        "OBJECTID" : 693413, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1290,12 +972,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "d43c38c9-97a5-45fa-b5e3-576e63761ad4"
+        "GlobalID" : "f1103cd2-3887-4056-a2fc-ceba0f586ed8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687624, 
+      "id" : 693414, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1336,7 +1018,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687624, 
+        "OBJECTID" : 693414, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1350,12 +1032,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "303741ca-6823-481e-a831-45bc5ee2ee4f"
+        "GlobalID" : "3c467742-b3b8-4471-9135-215d19cfceae"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687625, 
+      "id" : 693415, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1388,7 +1070,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687625, 
+        "OBJECTID" : 693415, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1402,12 +1084,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "31569094-cbee-4561-ab34-e62b8cd784ae"
+        "GlobalID" : "056578ed-8d6c-4753-b229-defe3302e545"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687626, 
+      "id" : 693416, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1449,7 +1131,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687626, 
+        "OBJECTID" : 693416, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1463,12 +1145,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "bb2cfc73-299d-48ce-800a-69b3fec4ce48"
+        "GlobalID" : "5a2555d3-556d-4c4c-aae3-a3c5b027524b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687627, 
+      "id" : 693417, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1490,7 +1172,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687627, 
+        "OBJECTID" : 693417, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1504,12 +1186,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "2508a070-b32b-483e-9558-33f71fc43332"
+        "GlobalID" : "fb22352d-fad5-4932-847f-92d9da14c5b9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687628, 
+      "id" : 693418, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1537,7 +1219,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687628, 
+        "OBJECTID" : 693418, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1551,12 +1233,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "148b9240-89cd-4179-a02c-69ba58bbade4"
+        "GlobalID" : "fb284933-0259-4f35-9332-1a6b0a2299e4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687629, 
+      "id" : 693419, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1597,7 +1279,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687629, 
+        "OBJECTID" : 693419, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1611,12 +1293,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "b421c219-7ea3-4c38-8139-fa32d00b6dd9"
+        "GlobalID" : "f32779cd-e387-4d2a-a5cf-e06f276ee9ad"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687630, 
+      "id" : 693420, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2217,7 +1899,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687630, 
+        "OBJECTID" : 693420, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2231,12 +1913,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 9088742.140625, 
         "SHAPE__Length" : 19771.42144013556, 
-        "GlobalID" : "ab528d2f-f5fa-49f9-afa8-ee480c84a56d"
+        "GlobalID" : "e54496bb-73a9-472d-9163-28a827811442"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687631, 
+      "id" : 693421, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2594,7 +2276,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687631, 
+        "OBJECTID" : 693421, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2608,12 +2290,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 7290473.65234375, 
         "SHAPE__Length" : 14394.406044776939, 
-        "GlobalID" : "aa52438e-7ee0-4c1b-9792-5f0236c5ef6c"
+        "GlobalID" : "2499cd7c-4d75-48ca-9fc9-58be5edef0b8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687632, 
+      "id" : 693422, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2990,26 +2672,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687632, 
+        "OBJECTID" : 693422, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0042", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658059000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 12931110.1640625, 
         "SHAPE__Length" : 18955.675106399056, 
-        "GlobalID" : "b6797010-5aea-459d-99ca-60c50e8e368e"
+        "GlobalID" : "28d1cfce-cf86-47c4-a0e9-16edcb607311"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687633, 
+      "id" : 693423, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3243,26 +2925,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687633, 
+        "OBJECTID" : 693423, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0063", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748655584000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to a safe location. ", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 13014723.0625, 
         "SHAPE__Length" : 19596.184105396085, 
-        "GlobalID" : "077aab39-bd69-45f3-80de-9364bd821518"
+        "GlobalID" : "fc602b05-a29d-4879-b199-92494da45e9f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687634, 
+      "id" : 693424, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3647,26 +3329,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687634, 
+        "OBJECTID" : 693424, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0065", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658059000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 12906229.296875, 
         "SHAPE__Length" : 21618.793701506242, 
-        "GlobalID" : "9c86a7fb-f0b6-4cfd-93a1-5d7583e714b6"
+        "GlobalID" : "8a406367-746c-4b8a-852f-4406cdc77e3b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687635, 
+      "id" : 693425, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4600,7 +4282,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687635, 
+        "OBJECTID" : 693425, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4614,12 +4296,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 12224427.25, 
         "SHAPE__Length" : 20579.541721182719, 
-        "GlobalID" : "2bf90073-9f57-46ec-8076-90a5aaa9dd3d"
+        "GlobalID" : "6f26279b-3c63-4209-b978-e4e82f5958f6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687636, 
+      "id" : 693426, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4637,7 +4319,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687636, 
+        "OBJECTID" : 693426, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4651,12 +4333,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 7457276.12890625, 
         "SHAPE__Length" : 11579.226607348019, 
-        "GlobalID" : "76b51b2b-90e5-4c8a-be14-51fbc9c00c85"
+        "GlobalID" : "f77e15bf-8131-4918-85f1-f7071055eb27"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687637, 
+      "id" : 693427, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4685,26 +4367,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687637, 
+        "OBJECTID" : 693427, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0041", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658059000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 10913131.13671875, 
         "SHAPE__Length" : 15823.8122530256, 
-        "GlobalID" : "614c816c-7817-41de-a574-d79050c3a5c6"
+        "GlobalID" : "aab43893-486a-409d-ba48-2ce79398c6fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687638, 
+      "id" : 693428, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4727,26 +4409,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687638, 
+        "OBJECTID" : 693428, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0159", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658059000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 7057965.03125, 
         "SHAPE__Length" : 12051.426623527766, 
-        "GlobalID" : "c8802cf9-bccb-47a9-85a1-11821b14584a"
+        "GlobalID" : "6946b17f-6c71-469f-ab6b-40b4daa2b0f1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687639, 
+      "id" : 693429, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4868,26 +4550,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687639, 
+        "OBJECTID" : 693429, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0114", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748656394000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 6467152.67578125, 
         "SHAPE__Length" : 13171.509833453625, 
-        "GlobalID" : "f68c8518-bd87-4583-93a5-bbf19082ee88"
+        "GlobalID" : "d46f8660-ee27-4d6e-a25b-4a614e4b03b0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687640, 
+      "id" : 693430, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5148,7 +4830,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687640, 
+        "OBJECTID" : 693430, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5162,12 +4844,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 9860383.43359375, 
         "SHAPE__Length" : 14664.792488426827, 
-        "GlobalID" : "0f4294eb-4386-4520-bcb2-1219fa119996"
+        "GlobalID" : "60f84f3f-9768-452b-ac84-1b104ec2384e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687641, 
+      "id" : 693431, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5275,26 +4957,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687641, 
+        "OBJECTID" : 693431, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0040", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658092000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 4050844.08203125, 
         "SHAPE__Length" : 10114.372736133631, 
-        "GlobalID" : "ff4e607e-876b-4a73-b294-86a8c0dcb6b0"
+        "GlobalID" : "13792253-6834-480b-8f2a-f142f9abfa93"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687642, 
+      "id" : 693432, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5452,26 +5134,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687642, 
+        "OBJECTID" : 693432, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0112", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658146000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 10549858.48046875, 
         "SHAPE__Length" : 20480.929160809948, 
-        "GlobalID" : "a107fe05-9527-483b-b10f-c43e53967c1f"
+        "GlobalID" : "ba0d21d8-0612-4904-87c2-b80e138d890d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687643, 
+      "id" : 693433, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5682,26 +5364,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687643, 
+        "OBJECTID" : 693433, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0064", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748655584000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to a safe location. ", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 13055885.40625, 
         "SHAPE__Length" : 22898.031215024177, 
-        "GlobalID" : "5cb32759-9a34-4d92-b586-619722f4681d"
+        "GlobalID" : "a217d283-a8a7-4a6c-9713-d5e94babe788"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687644, 
+      "id" : 693434, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5913,26 +5595,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687644, 
+        "OBJECTID" : 693434, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0113", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748655584000, 
+        "EDIT_DATE" : 1748725950000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to a safe location. ", 
+        "NOTES" : "There is an evacuation warning due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 8844494.63671875, 
         "SHAPE__Length" : 15105.93224946742, 
-        "GlobalID" : "8906f6fc-c952-4552-8321-3ebe26bbd7a3"
+        "GlobalID" : "6224e536-f639-4ec6-a7ee-5611a7edcf79"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687645, 
+      "id" : 693435, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5952,26 +5634,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687645, 
+        "OBJECTID" : 693435, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-0115", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748658059000, 
+        "EDIT_DATE" : 1748725814000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "This is an evacuation order due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Evacuate to Pala Casino or a safe location.", 
+        "NOTES" : "There is an evacuation warning issued due to a fire near Henderson Road in Pala. Be prepared to evacuate.", 
         "SHAPE__Area" : 7548788.515625, 
         "SHAPE__Length" : 11857.36494384556, 
-        "GlobalID" : "c1a4a8c7-7637-4aa5-8282-f3a20ecb8e3a"
+        "GlobalID" : "5ee8bd11-d09d-442d-b409-7621eb0e365b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687646, 
+      "id" : 693436, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7016,7 +6698,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687646, 
+        "OBJECTID" : 693436, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7030,12 +6712,12 @@
         "NOTES" : "This is an evacuation warning due to a fire in the area of the Pala Shooting Range at 35402 Henderson Rd in Pala. Prepare to evacuate.", 
         "SHAPE__Area" : 10266115.88671875, 
         "SHAPE__Length" : 21102.096361319193, 
-        "GlobalID" : "2e235da8-bc8e-4d30-b4f4-f02600db67f5"
+        "GlobalID" : "a3b5ba51-7bc1-4b72-9791-1b3748bb4bfc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687647, 
+      "id" : 693437, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7146,7 +6828,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687647, 
+        "OBJECTID" : 693437, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7160,12 +6842,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "1283ddc8-4e85-4c29-ae67-f0f1c7eea3ea"
+        "GlobalID" : "a39937d4-0e66-410e-9f69-2fb770d27719"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687648, 
+      "id" : 693438, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7424,7 +7106,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687648, 
+        "OBJECTID" : 693438, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7438,12 +7120,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "4d17a9b2-b2a9-4d34-a7fa-625007f8a429"
+        "GlobalID" : "a74d0ce8-6c8f-459a-9362-61b5c2175876"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687649, 
+      "id" : 693439, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7491,7 +7173,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687649, 
+        "OBJECTID" : 693439, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7505,12 +7187,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "9df5eb74-79a2-4509-8333-b70c0ef99694"
+        "GlobalID" : "1bdeeb15-463e-49e8-ac0f-54a19621297e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687650, 
+      "id" : 693440, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7710,7 +7392,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687650, 
+        "OBJECTID" : 693440, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7724,12 +7406,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "ab633757-19e3-4401-880e-67b418781cf9"
+        "GlobalID" : "e76ed207-d31a-43a8-8b68-4a39d94fc0e4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687651, 
+      "id" : 693441, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7843,7 +7525,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687651, 
+        "OBJECTID" : 693441, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7857,12 +7539,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "9f601938-0ff9-404d-a844-062a5368c93d"
+        "GlobalID" : "4de80d0d-e037-4d78-861c-97d73b410d30"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687652, 
+      "id" : 693442, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7913,7 +7595,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687652, 
+        "OBJECTID" : 693442, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7927,12 +7609,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "4ee60564-834f-4f99-ad22-a50981b98258"
+        "GlobalID" : "f7c9d80c-2e07-417c-8321-60b9773338ee"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687653, 
+      "id" : 693443, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8018,7 +7700,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687653, 
+        "OBJECTID" : 693443, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8032,12 +7714,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "1c32babf-8ef7-4806-af5e-512d4ab71036"
+        "GlobalID" : "daf9aa85-831d-4107-b0f9-3bc952fbb71f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687654, 
+      "id" : 693444, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8137,7 +7819,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687654, 
+        "OBJECTID" : 693444, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8151,12 +7833,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "0d6a7005-dd1d-4114-af2e-92a85a6e969a"
+        "GlobalID" : "9cb5b1fe-b22d-43ae-87ba-0a845995f9cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687655, 
+      "id" : 693445, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8312,7 +7994,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687655, 
+        "OBJECTID" : 693445, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8326,12 +8008,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "5bd9b9c7-e6ad-4702-be39-c52e7833ab71"
+        "GlobalID" : "05f8dc8c-e878-499e-a13d-081d8f912fae"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 687656, 
+      "id" : 693446, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8559,7 +8241,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 687656, 
+        "OBJECTID" : 693446, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8573,50 +8255,7 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 30651270.0859375, 
         "SHAPE__Length" : 24238.661252406757, 
-        "GlobalID" : "91601225-d65e-4349-9719-af3021cb7079"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 687657, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-122.34131377, 41.58210149], 
-            [-122.36104658, 41.5814264], 
-            [-122.36093084, 41.58915445], 
-            [-122.34425451, 41.58934388], 
-            [-122.34424378, 41.58953503], 
-            [-122.34432084, 41.59042796], 
-            [-122.34348932, 41.59149739], 
-            [-122.34291719, 41.5911634], 
-            [-122.34069598, 41.59307849], 
-            [-122.34069438, 41.59334619], 
-            [-122.34067623, 41.5933405], 
-            [-122.34086822, 41.58300132], 
-            [-122.34131377, 41.58210149]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 687657, 
-        "COUNTY" : "SISKIYOU", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XSK-SIS-5120-A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1748490011000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The evacuation order for Zone 5120-A has been reduced to an evacuation warning. Anyone returning to this area should remain vigilant and prepared to evacuate should conditions change. Fire supression equipment will be continuing to mop-up the fire for an extended period of time.", 
-        "SHAPE__Area" : 2641855, 
-        "SHAPE__Length" : 7733.5531954883081, 
-        "GlobalID" : "004b5dbd-afb2-4d1f-afe3-59b26e23a9fd"
+        "GlobalID" : "090ab484-0721-4b9d-884f-f1916e69892f"
       }
     }
   ]
