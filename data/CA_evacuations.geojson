@@ -3,7 +3,42 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 727160, 
+      "id" : 730606, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.1033, 34.4038], 
+            [-117.1031, 34.4715], 
+            [-117.0336, 34.4507], 
+            [-117.0322, 34.3864], 
+            [-117.1033, 34.4038]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 730606, 
+        "COUNTY" : "SAN BERNARDINO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : null, 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : null, 
+        "SHAPE__Area" : 69534638.90234375, 
+        "SHAPE__Length" : 34302.316376022674, 
+        "GlobalID" : "c1037309-2abf-44a6-bd33-78816d3b15ff"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 730607, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +659,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727160, 
+        "OBJECTID" : 730607, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +673,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "8a4f0009-0f2f-4e12-bd3c-241def365680"
+        "GlobalID" : "57dafec0-5db4-4b4d-a1f7-33fcd7d83076"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727161, 
+      "id" : 730608, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +738,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727161, 
+        "OBJECTID" : 730608, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +752,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "f7bc7f31-2879-447a-a9c7-3bcd5d0cc413"
+        "GlobalID" : "9866e232-1d4c-48d8-9848-14d46e84a871"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727162, 
+      "id" : 730609, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -782,7 +817,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727162, 
+        "OBJECTID" : 730609, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -796,12 +831,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "df1a6e51-ae49-4efe-bab2-6bb429a73175"
+        "GlobalID" : "5f5d40ef-4cf4-4c38-9112-ecf3e541f2c0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727163, 
+      "id" : 730610, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -862,7 +897,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727163, 
+        "OBJECTID" : 730610, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -876,12 +911,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "00181157-77ed-483c-80ce-10764dc5221d"
+        "GlobalID" : "57765479-2a92-4221-85f7-4007ede6b74f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727164, 
+      "id" : 730611, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -910,7 +945,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727164, 
+        "OBJECTID" : 730611, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -924,12 +959,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "a72469b9-00ad-4910-9736-40880db0640d"
+        "GlobalID" : "0d7eb1ae-d267-4351-bacf-b73b35405e2a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727165, 
+      "id" : 730612, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -958,7 +993,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727165, 
+        "OBJECTID" : 730612, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -972,12 +1007,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "e54882e1-c859-42de-9b88-26099ca87145"
+        "GlobalID" : "e98529ba-e2a9-4ca9-806b-c17416b1385a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727166, 
+      "id" : 730613, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1018,7 +1053,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727166, 
+        "OBJECTID" : 730613, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1032,12 +1067,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "e2af7717-4e5d-4ccd-b6a1-3248bd2292d9"
+        "GlobalID" : "2a9a0bc1-dee7-48a7-be28-5d8b3514ba8b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727167, 
+      "id" : 730614, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1070,7 +1105,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727167, 
+        "OBJECTID" : 730614, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1084,12 +1119,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "46063160-e303-4f8e-b939-98f150a857c6"
+        "GlobalID" : "805d3706-9426-4568-b859-c9407c148e56"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727168, 
+      "id" : 730615, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1131,7 +1166,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727168, 
+        "OBJECTID" : 730615, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1145,12 +1180,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "f6d148b2-0903-4ce3-9c59-b5a15306f750"
+        "GlobalID" : "3e933d0b-738a-4552-bad5-f6735e88c34e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727169, 
+      "id" : 730616, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1172,7 +1207,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727169, 
+        "OBJECTID" : 730616, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1186,12 +1221,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "7d7122e4-e68a-449e-b210-50e77d4383d9"
+        "GlobalID" : "ba913bbb-f1ad-40df-b87f-1ea9817d66e3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727170, 
+      "id" : 730617, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1219,7 +1254,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727170, 
+        "OBJECTID" : 730617, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1233,12 +1268,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "d3cf25c1-8e94-4502-8e9b-91289c713a82"
+        "GlobalID" : "7540661b-e58c-400e-b451-b0a85718672f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727171, 
+      "id" : 730618, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1279,7 +1314,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727171, 
+        "OBJECTID" : 730618, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1293,12 +1328,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "812bb708-609f-49ab-9312-ab0e00b2cf11"
+        "GlobalID" : "52bbc33a-60c0-491c-aac0-f8453e29e261"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727172, 
+      "id" : 730619, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1409,7 +1444,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727172, 
+        "OBJECTID" : 730619, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1423,12 +1458,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "3f534711-fd10-4e8c-9547-cf8540c03d52"
+        "GlobalID" : "48c84d11-6357-45c1-b205-b42ab91b6f79"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727173, 
+      "id" : 730620, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1687,7 +1722,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727173, 
+        "OBJECTID" : 730620, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1701,12 +1736,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "7022ab55-8fb1-4a6e-a0ba-6930976e6384"
+        "GlobalID" : "3749df52-d2bd-4ee7-ac1e-9db9378f2abc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727174, 
+      "id" : 730621, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1754,7 +1789,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727174, 
+        "OBJECTID" : 730621, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1768,12 +1803,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "2dadcc03-4939-4c5c-9feb-258c9e67f9d2"
+        "GlobalID" : "50784cf7-1045-4644-ae34-daf550cf6bed"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727175, 
+      "id" : 730622, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1973,7 +2008,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727175, 
+        "OBJECTID" : 730622, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1987,12 +2022,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "9b24ed3a-9923-49df-bffe-5dca40d318b7"
+        "GlobalID" : "d41b2cf1-b1b2-4d15-be54-a7aeae62b2cf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727176, 
+      "id" : 730623, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2106,7 +2141,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727176, 
+        "OBJECTID" : 730623, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2120,12 +2155,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "bcc27675-ca1e-49be-92d4-62789922fd37"
+        "GlobalID" : "7d7f28cf-6901-4dea-baf5-9f96cdf7c600"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727177, 
+      "id" : 730624, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2176,7 +2211,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727177, 
+        "OBJECTID" : 730624, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2190,12 +2225,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "e789a941-a377-4e95-bd9c-3c6c303da354"
+        "GlobalID" : "d3144cd7-b552-431e-880d-43682c8958be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727178, 
+      "id" : 730625, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2281,7 +2316,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727178, 
+        "OBJECTID" : 730625, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2295,12 +2330,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "43bd337c-93ac-4f77-9e46-d37978e31478"
+        "GlobalID" : "094b8ef4-7924-475c-b32c-b66469d90987"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727179, 
+      "id" : 730626, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2400,7 +2435,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727179, 
+        "OBJECTID" : 730626, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2414,12 +2449,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "34b45fca-153d-41d9-9a4b-e41adac77953"
+        "GlobalID" : "3ddb6bf9-4672-4e63-9ddf-c14580ae8b3a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727180, 
+      "id" : 730627, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2575,7 +2610,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727180, 
+        "OBJECTID" : 730627, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2589,12 +2624,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "f98c7a9b-1028-4b52-9b65-57c3c01eda27"
+        "GlobalID" : "9debd50b-0a24-410b-aec7-d34b81f52ed4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 727181, 
+      "id" : 730628, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2822,7 +2857,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 727181, 
+        "OBJECTID" : 730628, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2836,7 +2871,7 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 30651270.0859375, 
         "SHAPE__Length" : 24238.661252406757, 
-        "GlobalID" : "e910202f-f2db-4a1b-9829-67b564286094"
+        "GlobalID" : "41dca345-b0a1-4218-a6c4-f14c36a96b41"
       }
     }
   ]
