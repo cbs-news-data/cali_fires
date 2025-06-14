@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 734181, 
+      "id" : 738289, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -42,7 +42,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734181, 
+        "OBJECTID" : 738289, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -56,12 +56,12 @@
         "NOTES" : "HWY 198 from .5 miles south of Lucile Ave. to 1.5 miles south of Lucile Ave. including all side roads.  Includes the Jacalitos Hills, Jacalitos Creek, and Pete Merril Canyon.        ", 
         "SHAPE__Area" : 107847919.328125, 
         "SHAPE__Length" : 54612.747580148774, 
-        "GlobalID" : "19cecbc2-fbdb-4662-9b39-2b3d04d52015"
+        "GlobalID" : "d7a05c02-0dec-4a20-b9b5-a364ea2fa1a3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734182, 
+      "id" : 738290, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -154,7 +154,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734182, 
+        "OBJECTID" : 738290, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -168,12 +168,12 @@
         "NOTES" : "Parfield Grade including all side roads .75 miles from HWY 198 to the Monterey / Fresno County line.   ", 
         "SHAPE__Area" : 127813794.796875, 
         "SHAPE__Length" : 54137.535303666562, 
-        "GlobalID" : "aba317c4-06fc-445f-8ebf-97d67fc382e6"
+        "GlobalID" : "d3e292a0-9f65-4b5b-abfa-6d23108ab270"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734183, 
+      "id" : 738291, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -193,7 +193,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734183, 
+        "OBJECTID" : 738291, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -207,12 +207,12 @@
         "NOTES" : "HWY 198 including all side roads from 1.5 miles south of Lucile Ave. to 7.5 miles south of Lucile Ave.   ", 
         "SHAPE__Area" : 39826814.0625, 
         "SHAPE__Length" : 28386.538476986359, 
-        "GlobalID" : "7f26c6e0-3283-476e-bac0-c1e5d6e8e00a"
+        "GlobalID" : "c1027f87-7764-4219-b61e-fe397181fc11"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734184, 
+      "id" : 738292, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -232,7 +232,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734184, 
+        "OBJECTID" : 738292, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -246,12 +246,12 @@
         "NOTES" : "HWY 198 including all side roads from 2 miles west of Parkfield Grade to 1.5 miles east of Parkfield Grade. ", 
         "SHAPE__Area" : 23125927.72265625, 
         "SHAPE__Length" : 20930.906946533898, 
-        "GlobalID" : "4059122a-12eb-4db3-9485-ede9d72d3589"
+        "GlobalID" : "b2df7c1b-84c8-48d6-8345-34395f1c6cc5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734185, 
+      "id" : 738293, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -322,7 +322,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734185, 
+        "OBJECTID" : 738293, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -336,12 +336,12 @@
         "NOTES" : "Roughly bounded by the Monterey / Fresno County line to the west, Jacalitos Creek to the south, Sulphur Creek to the north, and Warthan Creek to the east.   ", 
         "SHAPE__Area" : 42439192.08984375, 
         "SHAPE__Length" : 30961.434248544178, 
-        "GlobalID" : "39bd2554-bbc5-4b0c-8c71-5330af30fdc1"
+        "GlobalID" : "b853bce3-e8c7-4b3e-9e7a-d8de7e79a4e8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734186, 
+      "id" : 738294, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -962,7 +962,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734186, 
+        "OBJECTID" : 738294, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -976,12 +976,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "3e38eea7-b0c6-4e9e-9649-e013f48edf1e"
+        "GlobalID" : "96e8d0a0-2aff-41ae-929c-0619f8dd6ee9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734187, 
+      "id" : 738295, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1041,7 +1041,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734187, 
+        "OBJECTID" : 738295, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1055,12 +1055,460 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "93737645-e059-4fe5-bef8-27286a1b11d7"
+        "GlobalID" : "fccee993-a544-4d7f-a046-876f9efcbe1e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734188, 
+      "id" : 738296, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-118.94792162, 35.60769603], 
+            [-118.94815, 35.607465], 
+            [-118.948265, 35.607303], 
+            [-118.949164, 35.606166], 
+            [-118.949505, 35.605733], 
+            [-118.950441, 35.604544], 
+            [-118.950525, 35.604386], 
+            [-118.950565, 35.604263], 
+            [-118.950571, 35.604101], 
+            [-118.950553, 35.603993], 
+            [-118.950481, 35.603809], 
+            [-118.950273, 35.603413], 
+            [-118.95018, 35.603283], 
+            [-118.950063, 35.60315], 
+            [-118.949501, 35.602638], 
+            [-118.949222, 35.602362], 
+            [-118.94896307, 35.60208299], 
+            [-118.948758, 35.601862], 
+            [-118.948617, 35.601695], 
+            [-118.948514, 35.601512], 
+            [-118.948488, 35.601406], 
+            [-118.948476, 35.601305], 
+            [-118.948478, 35.601136], 
+            [-118.948491, 35.601029], 
+            [-118.948524, 35.600773], 
+            [-118.948531, 35.600717], 
+            [-118.948677, 35.599889], 
+            [-118.948888, 35.59874], 
+            [-118.948966, 35.598491], 
+            [-118.949091, 35.598226], 
+            [-118.949326, 35.597851], 
+            [-118.95062927, 35.59616222], 
+            [-118.95115344, 35.59549682], 
+            [-118.951476, 35.595092], 
+            [-118.951722, 35.594801], 
+            [-118.951871, 35.594667], 
+            [-118.952077, 35.594514], 
+            [-118.95359, 35.593626], 
+            [-118.954046, 35.593394], 
+            [-118.954404, 35.593252], 
+            [-118.954829, 35.593113], 
+            [-118.956459, 35.592426], 
+            [-118.956854, 35.59224], 
+            [-118.957047, 35.592136], 
+            [-118.957321, 35.591961], 
+            [-118.957383, 35.591918], 
+            [-118.95741852, 35.59189349], 
+            [-118.957454, 35.591869], 
+            [-118.957568, 35.59179], 
+            [-118.958485, 35.591077], 
+            [-118.95863, 35.590935], 
+            [-118.958768, 35.590793], 
+            [-118.9590314, 35.59048222], 
+            [-118.959354, 35.590098], 
+            [-118.95940917, 35.59003892], 
+            [-118.959495, 35.589947], 
+            [-118.959545, 35.589887], 
+            [-118.959609, 35.58981], 
+            [-118.9597486, 35.58964275], 
+            [-118.960417, 35.588842], 
+            [-118.960552, 35.588637], 
+            [-118.960587, 35.588549], 
+            [-118.960588, 35.588444], 
+            [-118.960571, 35.588349], 
+            [-118.960537, 35.588272], 
+            [-118.960233, 35.587741], 
+            [-118.960107, 35.587476], 
+            [-118.959789, 35.586848], 
+            [-118.959488, 35.58633], 
+            [-118.95943, 35.586191], 
+            [-118.959401, 35.586019], 
+            [-118.959384, 35.585703], 
+            [-118.959382, 35.585498], 
+            [-118.95937929, 35.58526566], 
+            [-118.95937738, 35.58510279], 
+            [-118.95936706, 35.58421926], 
+            [-118.959364, 35.583957], 
+            [-118.959361, 35.583765], 
+            [-118.959339, 35.583371], 
+            [-118.959328, 35.583164], 
+            [-118.95929806, 35.58294557], 
+            [-118.959102, 35.581515], 
+            [-118.959094, 35.581255], 
+            [-118.959148, 35.580926], 
+            [-118.959278, 35.580558], 
+            [-118.959462, 35.580037], 
+            [-118.9596, 35.579731], 
+            [-118.959821, 35.579344], 
+            [-118.959947, 35.579137], 
+            [-118.960144, 35.578832], 
+            [-118.960291, 35.578576], 
+            [-118.960366, 35.578397], 
+            [-118.960412, 35.578211], 
+            [-118.960486, 35.577604], 
+            [-118.960555, 35.576984], 
+            [-118.960563, 35.576915], 
+            [-118.96057, 35.576717], 
+            [-118.960572, 35.576651], 
+            [-118.960567, 35.57637], 
+            [-118.960535, 35.576144], 
+            [-118.960482, 35.575892], 
+            [-118.960367, 35.575427], 
+            [-118.960249, 35.575103], 
+            [-118.959919, 35.574191], 
+            [-118.959893, 35.574091], 
+            [-118.959661, 35.573183], 
+            [-118.959605, 35.573036], 
+            [-118.959427, 35.572735], 
+            [-118.959281, 35.572544], 
+            [-118.959221, 35.572472], 
+            [-118.959051, 35.572234], 
+            [-118.958878, 35.571926], 
+            [-118.958792, 35.571693], 
+            [-118.958785, 35.571668], 
+            [-118.958696, 35.571327], 
+            [-118.958613, 35.570895], 
+            [-118.958573, 35.570691], 
+            [-118.958486, 35.570331], 
+            [-118.958059, 35.569063], 
+            [-118.958009, 35.568957], 
+            [-118.957848, 35.568741], 
+            [-118.957474, 35.568321], 
+            [-118.95728, 35.568047], 
+            [-118.957171, 35.56785], 
+            [-118.957083, 35.567602], 
+            [-118.95704, 35.567386], 
+            [-118.95702, 35.567184], 
+            [-118.956979, 35.566956], 
+            [-118.956923, 35.56675], 
+            [-118.956917, 35.566726], 
+            [-118.956862, 35.566607], 
+            [-118.956833, 35.566544], 
+            [-118.9568019, 35.5664779], 
+            [-118.956707, 35.5663338], 
+            [-118.9565404, 35.5661176], 
+            [-118.956456, 35.5659889], 
+            [-118.9563737, 35.5658259], 
+            [-118.9563104, 35.5656337], 
+            [-118.9561881, 35.5651705], 
+            [-118.9560742, 35.5646386], 
+            [-118.9560109, 35.5644087], 
+            [-118.9559392, 35.5642251], 
+            [-118.955781, 35.5638768], 
+            [-118.9554927, 35.5633278], 
+            [-118.955399, 35.563124], 
+            [-118.955317, 35.562961], 
+            [-118.95526, 35.562786], 
+            [-118.955251, 35.562715], 
+            [-118.95525, 35.562514], 
+            [-118.955284, 35.562386], 
+            [-118.955347, 35.562246], 
+            [-118.95568929, 35.56159421], 
+            [-118.956057, 35.560894], 
+            [-118.956245, 35.560543], 
+            [-118.956433, 35.560191], 
+            [-118.95649, 35.560085], 
+            [-118.956624, 35.559822], 
+            [-118.956816, 35.559448], 
+            [-118.957189, 35.558747], 
+            [-118.957579, 35.557979], 
+            [-118.957924, 35.55732], 
+            [-118.958161, 35.556937], 
+            [-118.958466, 35.556443], 
+            [-118.95856, 35.556261], 
+            [-118.958621, 35.556114], 
+            [-118.958664, 35.55596], 
+            [-118.958686, 35.555694], 
+            [-118.958678, 35.555378], 
+            [-118.958676, 35.555291], 
+            [-118.958671, 35.55523], 
+            [-118.958629, 35.554665], 
+            [-118.958624, 35.554227], 
+            [-118.958598, 35.553477], 
+            [-118.958548, 35.552989], 
+            [-118.958534, 35.552709], 
+            [-118.958542, 35.552593], 
+            [-118.958565, 35.552268], 
+            [-118.958662, 35.551401], 
+            [-118.958689, 35.551165], 
+            [-118.958678, 35.550963], 
+            [-118.958602, 35.550678], 
+            [-118.958577, 35.550461], 
+            [-118.958583, 35.550144], 
+            [-118.958648, 35.549634], 
+            [-118.958678, 35.549267], 
+            [-118.958693, 35.549076], 
+            [-118.958714, 35.547995], 
+            [-118.95872712, 35.54773572], 
+            [-118.958784, 35.546612], 
+            [-118.958807, 35.546462], 
+            [-118.958854, 35.546046], 
+            [-118.958869, 35.545753], 
+            [-118.958885, 35.545446], 
+            [-118.95892, 35.544909], 
+            [-118.958923, 35.544887], 
+            [-118.95903, 35.544104], 
+            [-118.95908, 35.543861], 
+            [-118.959118, 35.543551], 
+            [-118.959124, 35.543425], 
+            [-118.959081, 35.543153], 
+            [-118.959013, 35.542838], 
+            [-118.958993, 35.542589], 
+            [-118.958995, 35.542549], 
+            [-118.959007, 35.542361], 
+            [-118.959045, 35.542216], 
+            [-118.9594, 35.541362], 
+            [-118.959428, 35.541231], 
+            [-118.959444, 35.541011], 
+            [-118.959421, 35.540833], 
+            [-118.959417, 35.540806], 
+            [-118.959401, 35.540684], 
+            [-118.959107, 35.539475], 
+            [-118.959045, 35.539069], 
+            [-118.9590551, 35.5388171], 
+            [-118.959096, 35.538617], 
+            [-118.959131, 35.538501], 
+            [-118.95914, 35.538471], 
+            [-118.959269, 35.538167], 
+            [-118.959459, 35.537801], 
+            [-118.959755, 35.537259], 
+            [-118.959806, 35.537149], 
+            [-118.959906, 35.536879], 
+            [-118.959963, 35.536627], 
+            [-118.959978, 35.536381], 
+            [-118.959964, 35.536074], 
+            [-118.959891, 35.535602], 
+            [-118.959876, 35.535453], 
+            [-118.959866, 35.535246], 
+            [-118.959897, 35.535014], 
+            [-118.959932, 35.534913], 
+            [-118.959989, 35.534815], 
+            [-118.960145, 35.534654], 
+            [-118.960542, 35.534343], 
+            [-118.960664, 35.534206], 
+            [-118.960815, 35.533996], 
+            [-118.960998, 35.533649], 
+            [-118.961119, 35.533312], 
+            [-118.96121, 35.532894], 
+            [-118.961291, 35.532521], 
+            [-118.961723, 35.530995], 
+            [-118.96177811, 35.53086313], 
+            [-118.961809, 35.530805], 
+            [-118.961919, 35.530598], 
+            [-118.962177, 35.5302404], 
+            [-118.962576, 35.529691], 
+            [-118.96276297, 35.52943611], 
+            [-118.96279918, 35.52944964], 
+            [-118.96372358, 35.52965504], 
+            [-118.96554418, 35.52985964], 
+            [-118.96739654, 35.52942825], 
+            [-118.97195585, 35.52836644], 
+            [-118.97559985, 35.53097344], 
+            [-118.97708598, 35.53232298], 
+            [-118.97761945, 35.53346718], 
+            [-118.97784445, 35.53413084], 
+            [-118.97913545, 35.53616724], 
+            [-118.98000445, 35.53669304], 
+            [-118.98120918, 35.53698964], 
+            [-118.98308585, 35.53717118], 
+            [-118.98583085, 35.53716858], 
+            [-118.98748365, 35.53737304], 
+            [-118.99014485, 35.53766804], 
+            [-118.99179718, 35.53750618], 
+            [-118.99557845, 35.53754838], 
+            [-118.99653098, 35.53770764], 
+            [-118.99936098, 35.53843724], 
+            [-119.00093225, 35.53859064], 
+            [-119.00474205, 35.53636884], 
+            [-119.00482618, 35.53627738], 
+            [-119.00614325, 35.53577498], 
+            [-119.00771238, 35.53541018], 
+            [-119.01065298, 35.53555044], 
+            [-119.01152098, 35.53573444], 
+            [-119.01252858, 35.53621618], 
+            [-119.01306018, 35.53665144], 
+            [-119.01448658, 35.53809518], 
+            [-119.01510145, 35.53903438], 
+            [-119.01610858, 35.53990524], 
+            [-119.01675265, 35.54011184], 
+            [-119.01809685, 35.54029618], 
+            [-119.02201805, 35.54027678], 
+            [-119.02403505, 35.54016384], 
+            [-119.02420066, 35.54009137], 
+            [-119.02423125, 35.54009544], 
+            [-119.02717245, 35.53977738], 
+            [-119.03952345, 35.54088558], 
+            [-119.04030738, 35.54125244], 
+            [-119.04114685, 35.54191697], 
+            [-119.04296558, 35.54381824], 
+            [-119.04360825, 35.54544417], 
+            [-119.04399918, 35.54679504], 
+            [-119.04450265, 35.54745937], 
+            [-119.04495025, 35.54798617], 
+            [-119.04557297, 35.54859671], 
+            [-119.04749698, 35.55048304], 
+            [-119.04780498, 35.55071224], 
+            [-119.05441458, 35.55243324], 
+            [-119.05559118, 35.55231944], 
+            [-119.05584338, 35.55220517], 
+            [-119.05718798, 35.55222877], 
+            [-119.06012978, 35.55174964], 
+            [-119.06373097, 35.55111086], 
+            [-119.06364183, 35.55906428], 
+            [-119.08151901, 35.55907201], 
+            [-119.08803644, 35.55901367], 
+            [-119.088017, 35.561639], 
+            [-119.088005, 35.563203], 
+            [-119.087991, 35.565112], 
+            [-119.087988, 35.565481], 
+            [-119.087927, 35.573572], 
+            [-119.08791, 35.575719], 
+            [-119.08790402, 35.57636395], 
+            [-119.087905, 35.576426], 
+            [-119.087913, 35.576932], 
+            [-119.087926, 35.577215], 
+            [-119.087945, 35.577497], 
+            [-119.088, 35.578062], 
+            [-119.088077, 35.578624], 
+            [-119.088124, 35.578905], 
+            [-119.088177, 35.579185], 
+            [-119.088236, 35.579464], 
+            [-119.088369, 35.580019], 
+            [-119.088525, 35.580571], 
+            [-119.088703, 35.581118], 
+            [-119.088731, 35.581194], 
+            [-119.088903, 35.58166], 
+            [-119.089011, 35.581929], 
+            [-119.089125, 35.582197], 
+            [-119.089244, 35.582458], 
+            [-119.089355, 35.58272], 
+            [-119.089459, 35.582985], 
+            [-119.089556, 35.583251], 
+            [-119.089645, 35.583519], 
+            [-119.089727, 35.583789], 
+            [-119.089801, 35.584061], 
+            [-119.089868, 35.584333], 
+            [-119.089927, 35.584607], 
+            [-119.089979, 35.584882], 
+            [-119.09003, 35.585217], 
+            [-119.090058, 35.585434], 
+            [-119.090087, 35.585711], 
+            [-119.090107, 35.585988], 
+            [-119.09012, 35.586266], 
+            [-119.090125, 35.586544], 
+            [-119.090123, 35.586822], 
+            [-119.090113, 35.5871], 
+            [-119.090094, 35.587377], 
+            [-119.090069, 35.587654], 
+            [-119.090035, 35.587931], 
+            [-119.089964, 35.588383], 
+            [-119.089879, 35.589502], 
+            [-119.089777, 35.590618], 
+            [-119.089736, 35.591], 
+            [-119.089659, 35.591724], 
+            [-119.089521, 35.592846], 
+            [-119.089367, 35.593957], 
+            [-119.0891315, 35.5962086], 
+            [-119.0890285, 35.5968925], 
+            [-119.0888569, 35.5976184], 
+            [-119.0886166, 35.5985187], 
+            [-119.0883419, 35.5995655], 
+            [-119.088078, 35.600585], 
+            [-119.087803, 35.601681], 
+            [-119.087585, 35.602501], 
+            [-119.08757131, 35.60255499], 
+            [-119.08584645, 35.60236976], 
+            [-119.08186208, 35.60252589], 
+            [-119.07907782, 35.60248686], 
+            [-119.07590953, 35.60252589], 
+            [-119.07336182, 35.60259159], 
+            [-119.07229154, 35.6025404], 
+            [-119.07161998, 35.60284753], 
+            [-119.0706966, 35.60327411], 
+            [-119.0688969, 35.60449843], 
+            [-119.06639956, 35.60606819], 
+            [-119.06205545, 35.60872989], 
+            [-119.05743853, 35.6116133], 
+            [-119.05256977, 35.61459896], 
+            [-119.04572633, 35.6188103], 
+            [-119.03936757, 35.62005565], 
+            [-119.03075471, 35.62138625], 
+            [-119.02884498, 35.62135213], 
+            [-119.02601187, 35.62075506], 
+            [-119.02447989, 35.62032858], 
+            [-119.01980001, 35.62072094], 
+            [-119.01642126, 35.62140331], 
+            [-119.01509914, 35.62188097], 
+            [-119.01415477, 35.62181273], 
+            [-119.0093397, 35.62230606], 
+            [-119.00535236, 35.6235343], 
+            [-119.00119712, 35.62460899], 
+            [-118.99760851, 35.62566661], 
+            [-118.99523709, 35.62643423], 
+            [-118.99383103, 35.62665599], 
+            [-118.9911658, 35.62672422], 
+            [-118.98931903, 35.62663893], 
+            [-118.98850283, 35.62642401], 
+            [-118.98771349, 35.62567101], 
+            [-118.98765428, 35.62374565], 
+            [-118.98682525, 35.62071312], 
+            [-118.98676603, 35.61772862], 
+            [-118.9844566, 35.61580307], 
+            [-118.98245585, 35.61481606], 
+            [-118.98105735, 35.6135086], 
+            [-118.97975209, 35.61258011], 
+            [-118.97592954, 35.61229587], 
+            [-118.9715942, 35.6116516], 
+            [-118.96680851, 35.61009172], 
+            [-118.964804, 35.60935269], 
+            [-118.96305589, 35.60867049], 
+            [-118.95948972, 35.60757139], 
+            [-118.95601679, 35.60654808], 
+            [-118.95298672, 35.60571425], 
+            [-118.95116868, 35.60575215], 
+            [-118.94963033, 35.60645332], 
+            [-118.94853484, 35.60721134], 
+            [-118.94806868, 35.60764719], 
+            [-118.94792162, 35.60769603]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 738296, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XKE-KRN-606", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1749875595000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "KRN-606 has been downgraded to an evacuation warning. Be prepared to leave. \nThe evacuation warnings for zones KRN-600, KRN-601, KRN-605 have been lifted. There are no further advisories in place for these zones. ", 
+        "SHAPE__Area" : 144203222.421875, 
+        "SHAPE__Length" : 52799.691164201417, 
+        "GlobalID" : "57015d9d-95eb-4998-a411-decc80923354"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 738297, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1120,7 +1568,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734188, 
+        "OBJECTID" : 738297, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1134,12 +1582,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "4075f38b-5e26-4657-946a-2fa18fab1705"
+        "GlobalID" : "ad6cdf24-275b-4dd3-88e4-a8a5ff661610"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734189, 
+      "id" : 738298, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1200,7 +1648,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734189, 
+        "OBJECTID" : 738298, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1214,12 +1662,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "e5784dc6-7cc1-466e-ba41-09632a16a7e6"
+        "GlobalID" : "bb0f3c56-3514-4f98-876b-7f7f3df37bb3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734190, 
+      "id" : 738299, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1248,7 +1696,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734190, 
+        "OBJECTID" : 738299, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1262,12 +1710,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "2400664d-2a54-46fb-a99b-d46d38d2495c"
+        "GlobalID" : "6b9c1c43-4214-4e9e-adef-732c554431ce"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734191, 
+      "id" : 738300, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1296,7 +1744,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734191, 
+        "OBJECTID" : 738300, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1310,12 +1758,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "f43cbebf-f9ef-4fb3-b863-894067ecca7c"
+        "GlobalID" : "22a048d6-cf2f-47d8-bf7e-9d619b97b7ad"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734192, 
+      "id" : 738301, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1356,7 +1804,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734192, 
+        "OBJECTID" : 738301, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1370,12 +1818,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "a60d5d6d-7159-49e1-aee8-517b98eeb6ef"
+        "GlobalID" : "be6400d1-c514-4b7c-a056-f907f2185658"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734193, 
+      "id" : 738302, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1408,7 +1856,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734193, 
+        "OBJECTID" : 738302, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1422,12 +1870,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "4f8f7aad-6fd7-4208-8847-1313d2238311"
+        "GlobalID" : "95551428-09d8-47c6-966d-0bc758f9183e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734194, 
+      "id" : 738303, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1469,7 +1917,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734194, 
+        "OBJECTID" : 738303, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1483,12 +1931,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "147ecc12-6f2d-4937-b22b-a16177eba1ab"
+        "GlobalID" : "7399d583-96e4-4eff-8985-ffea44606c2c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734195, 
+      "id" : 738304, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1510,7 +1958,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734195, 
+        "OBJECTID" : 738304, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1524,12 +1972,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "5b6d0070-b7f1-4bcc-bf45-97414b9bdff1"
+        "GlobalID" : "30cd6dc6-7de4-410e-b230-4a2453813d14"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734196, 
+      "id" : 738305, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1557,7 +2005,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734196, 
+        "OBJECTID" : 738305, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1571,12 +2019,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "24ae1b1e-61e8-49bf-8259-275b23c0ef30"
+        "GlobalID" : "c909d8ed-f000-4533-8ab2-894288b42720"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734197, 
+      "id" : 738306, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1617,7 +2065,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734197, 
+        "OBJECTID" : 738306, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1631,12 +2079,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "be82b83a-6d7b-47c2-9a72-612b8f48e324"
+        "GlobalID" : "461e3a55-2f8f-48c7-8dc5-902497c6ea79"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734198, 
+      "id" : 738307, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1747,7 +2195,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734198, 
+        "OBJECTID" : 738307, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1761,12 +2209,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm at Lot 3 Beach Access (1150 Pacific Coast Highway, Santa Monica,CA 90403). Curfew remains.", 
         "SHAPE__Area" : 136439.28125, 
         "SHAPE__Length" : 2003.2589969283258, 
-        "GlobalID" : "c283861a-a354-44bc-80d6-54b6146c9a6c"
+        "GlobalID" : "4527425e-aa7a-4553-a300-181ca365486c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734199, 
+      "id" : 738308, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2025,7 +2473,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734199, 
+        "OBJECTID" : 738308, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2039,12 +2487,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 22, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 9957717.796875, 
         "SHAPE__Length" : 17733.057426080071, 
-        "GlobalID" : "22373d97-24c8-4506-844e-bc69b77bdd6a"
+        "GlobalID" : "dbfb212f-2084-4cfe-9c15-06a0788a6ab2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734200, 
+      "id" : 738309, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2092,7 +2540,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734200, 
+        "OBJECTID" : 738309, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2106,12 +2554,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 24, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 15415398.734375, 
         "SHAPE__Length" : 17862.555298950203, 
-        "GlobalID" : "fb623c36-6eb3-4844-902f-11ad416664b9"
+        "GlobalID" : "a2be7877-fcba-4fad-8697-1b928d597bde"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734201, 
+      "id" : 738310, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2311,7 +2759,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734201, 
+        "OBJECTID" : 738310, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2325,12 +2773,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 19, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 16863526.3671875, 
         "SHAPE__Length" : 19713.58086066784, 
-        "GlobalID" : "a6c7acf7-cc91-4474-9ab2-6e4ea710b72b"
+        "GlobalID" : "339357b4-6029-459e-9820-4e824894356a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734202, 
+      "id" : 738311, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2444,7 +2892,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734202, 
+        "OBJECTID" : 738311, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2458,12 +2906,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2582238.05078125, 
         "SHAPE__Length" : 7546.1044887721418, 
-        "GlobalID" : "51a374d6-8d25-4fb4-835c-2c30d10be05e"
+        "GlobalID" : "21c711d2-9e61-4206-96aa-e9b39b91c229"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734203, 
+      "id" : 738312, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2514,7 +2962,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734203, 
+        "OBJECTID" : 738312, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2528,12 +2976,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 27, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 6859393.3125, 
         "SHAPE__Length" : 11990.107767730437, 
-        "GlobalID" : "3f03b19a-d1d9-4e56-af8a-e8efdce97501"
+        "GlobalID" : "18be1619-95f3-4094-bf80-113ea6173c88"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734204, 
+      "id" : 738313, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2619,7 +3067,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734204, 
+        "OBJECTID" : 738313, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2633,12 +3081,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 26, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 4339255.23828125, 
         "SHAPE__Length" : 11615.036227903784, 
-        "GlobalID" : "baf44a41-147f-4463-b6ce-9c874f8dd255"
+        "GlobalID" : "131a943d-b2d3-4398-b980-c829b0ff1cee"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734205, 
+      "id" : 738314, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2738,7 +3186,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734205, 
+        "OBJECTID" : 738314, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2752,12 +3200,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 25, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 2497386.19921875, 
         "SHAPE__Length" : 7922.2801218696313, 
-        "GlobalID" : "5383ddd9-8782-41ab-a1e1-e56e7f6d4614"
+        "GlobalID" : "1cdb089c-9763-4d47-ae5e-647af3147f7a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734206, 
+      "id" : 738315, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2913,7 +3361,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734206, 
+        "OBJECTID" : 738315, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2927,12 +3375,12 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 21, 2025. Resident Access passes are required. Escorts not needed. Curfew remains.", 
         "SHAPE__Area" : 7351053.46875, 
         "SHAPE__Length" : 11857.767914148499, 
-        "GlobalID" : "54f1ae34-55be-45f7-9652-08c6ff491036"
+        "GlobalID" : "2541bbe3-f47b-4cf3-9d11-4932edb761cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 734207, 
+      "id" : 738316, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3160,7 +3608,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 734207, 
+        "OBJECTID" : 738316, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3174,7 +3622,7 @@
         "NOTES" : "Evacuation Order remains. OPEN TO RESIDENTS ONLY in the City of Los Angeles as of 12:00 PM on January 23, 2025. Resident Access passes are required. Escorts not needed. Check in with LAPD from 10:00am-5:00 pm. Curfew remains.", 
         "SHAPE__Area" : 30651270.0859375, 
         "SHAPE__Length" : 24238.661252406757, 
-        "GlobalID" : "c0f1fa8f-6c25-4d03-a3fd-e3a258f12df6"
+        "GlobalID" : "1377e8cb-a6f4-4df4-a282-6fbcf6e4bdfd"
       }
     }
   ]
