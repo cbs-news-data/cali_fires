@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 758568, 
+      "id" : 761649, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758568, 
+        "OBJECTID" : 761649, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "bb8e019f-e3e7-401d-aab9-64d16c0bf5a8"
+        "GlobalID" : "72f97250-4c5f-4f55-a644-504a87b562c2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758569, 
+      "id" : 761650, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758569, 
+        "OBJECTID" : 761650, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "703034c9-fff9-48ca-a2c7-f4b32bd67865"
+        "GlobalID" : "725bb330-639b-4205-a30d-ad5bede6d6b6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758570, 
+      "id" : 761651, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -782,7 +782,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758570, 
+        "OBJECTID" : 761651, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -796,12 +796,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "7d37e281-772f-40ac-98d3-cfcec9546617"
+        "GlobalID" : "4d64f34d-dfe5-4b06-887f-e64dc640dec2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758571, 
+      "id" : 761652, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -862,7 +862,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758571, 
+        "OBJECTID" : 761652, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -876,12 +876,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "9506ba2d-cb11-49bd-b9ba-6d0b4d2c6fae"
+        "GlobalID" : "f833a48e-6054-44a7-8899-6c7b4bf33795"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758572, 
+      "id" : 761653, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -910,7 +910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758572, 
+        "OBJECTID" : 761653, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -924,12 +924,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "d5578815-5748-4910-bcd7-7843c37db622"
+        "GlobalID" : "ce345f5e-3f2c-43b3-80cf-63f9aa989696"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758573, 
+      "id" : 761654, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -958,7 +958,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758573, 
+        "OBJECTID" : 761654, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -972,12 +972,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "ded7a2a6-a59e-4560-9a37-27244f60947f"
+        "GlobalID" : "5f017d1e-4e21-4dc0-9f09-33cd63415e35"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758574, 
+      "id" : 761655, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1018,7 +1018,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758574, 
+        "OBJECTID" : 761655, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1032,12 +1032,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "cf075c01-b45a-412f-b691-95cb915c57e3"
+        "GlobalID" : "79c34ab0-74f0-4936-9195-89074365ef04"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758575, 
+      "id" : 761656, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1070,7 +1070,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758575, 
+        "OBJECTID" : 761656, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1084,12 +1084,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "d998d1cd-7867-4f21-934a-48cb7b181d64"
+        "GlobalID" : "0cbf0c15-64af-4c58-9ef0-7042252b8432"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758576, 
+      "id" : 761657, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1131,7 +1131,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758576, 
+        "OBJECTID" : 761657, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1145,12 +1145,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "be725ca3-060b-4a87-85bb-924d6d28cbbe"
+        "GlobalID" : "7566e999-f2b2-42b1-ba5c-d9b10aecaef6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758577, 
+      "id" : 761658, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1172,7 +1172,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758577, 
+        "OBJECTID" : 761658, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1186,12 +1186,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "a9ad590a-4fe5-4705-8f08-65f370d98a1e"
+        "GlobalID" : "70a0e1ab-511d-45bd-977e-297a4507d4f3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758578, 
+      "id" : 761659, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1219,7 +1219,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758578, 
+        "OBJECTID" : 761659, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1233,12 +1233,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "4c39c645-3119-427f-9190-9bddce3c690d"
+        "GlobalID" : "51c64f79-bf8c-43c0-9639-c164a1b42c85"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758579, 
+      "id" : 761660, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1279,7 +1279,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758579, 
+        "OBJECTID" : 761660, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1293,12 +1293,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "7461fb55-0398-4e12-91a7-3d5999e11dfa"
+        "GlobalID" : "85a35ec4-8f91-40de-be1b-c2638d7dfbd8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758580, 
+      "id" : 761661, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1446,7 +1446,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758580, 
+        "OBJECTID" : 761661, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1460,12 +1460,12 @@
         "NOTES" : "Zones are being reduced to a warning per the Sheriff's office.", 
         "SHAPE__Area" : 907455.48828125, 
         "SHAPE__Length" : 6448.3245602319539, 
-        "GlobalID" : "1c39baea-5336-4cc6-9ac1-3cb96658bfbe"
+        "GlobalID" : "a150d39a-c5a9-4db3-9712-b110237164a5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758581, 
+      "id" : 761662, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1765,7 +1765,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758581, 
+        "OBJECTID" : 761662, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1779,12 +1779,12 @@
         "NOTES" : "Zones are being reduced to a warning per the Sheriff's office.", 
         "SHAPE__Area" : 4837901.375, 
         "SHAPE__Length" : 10458.2960621145, 
-        "GlobalID" : "d3534f21-de2f-4737-b571-5d169c6e487d"
+        "GlobalID" : "45201649-4ea2-4b5d-924b-58b13d628c6f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758582, 
+      "id" : 761663, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2213,7 +2213,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758582, 
+        "OBJECTID" : 761663, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2227,12 +2227,12 @@
         "NOTES" : "Zones are being reduced to a warning per the Sheriff's office.", 
         "SHAPE__Area" : 4403844.54296875, 
         "SHAPE__Length" : 8887.2028721332972, 
-        "GlobalID" : "b3626857-3b3b-4ca0-a76b-76970920b264"
+        "GlobalID" : "1e11bfed-22b9-42b4-ac16-b7ec5fd66509"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758583, 
+      "id" : 761664, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2445,7 +2445,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758583, 
+        "OBJECTID" : 761664, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2459,12 +2459,12 @@
         "NOTES" : "Zones are being reduced to a warning per the Sheriff's office.", 
         "SHAPE__Area" : 753252.234375, 
         "SHAPE__Length" : 5075.6940532688186, 
-        "GlobalID" : "2664fa2f-f000-41f9-bdfa-08ab0d3b16b9"
+        "GlobalID" : "f3d56aee-f2c1-4511-9020-db28a11c5164"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758584, 
+      "id" : 761665, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2519,68 +2519,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758584, 
+        "OBJECTID" : 761665, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-1551-C", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750304410000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 6638400.375, 
-        "SHAPE__Length" : 13561.35766443715, 
-        "GlobalID" : "0a565374-8c95-4484-b2ee-e9effb6c6ef6"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 758585, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.78965495, 32.89497026], 
-            [-116.78963649, 32.89168426], 
-            [-116.78961552, 32.88839856], 
-            [-116.79407046, 32.88827659], 
-            [-116.79431752, 32.88826941], 
-            [-116.79841848, 32.88815017], 
-            [-116.80401194, 32.88806351], 
-            [-116.80401194, 32.90692268], 
-            [-116.78989477, 32.9068541], 
-            [-116.78980127, 32.90227236], 
-            [-116.7897281, 32.89862131], 
-            [-116.78965495, 32.89497026]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 758585, 
-        "COUNTY" : "SAN DIEGO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XSD-SDC-1515-A", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460890000, 
+        "EDIT_DATE" : 1750553390000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 3938579.91015625, 
-        "SHAPE__Length" : 8122.2088927153864, 
-        "GlobalID" : "e2c5ecbe-994d-4810-aa82-7537019cd2e2"
+        "NOTES" : "The evacuation status has been lowered to a warning. Emergency responders are still addressing the fire in the area. Be prepared to evacuate.", 
+        "SHAPE__Area" : 6638400.375, 
+        "SHAPE__Length" : 13561.35766443715, 
+        "GlobalID" : "fce360c0-ee86-4fa6-8bdc-398e7d7595be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758586, 
+      "id" : 761666, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2611,114 +2569,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758586, 
+        "OBJECTID" : 761666, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-1515-B", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460525000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 5515722.8515625, 
-        "SHAPE__Length" : 9423.293810994197, 
-        "GlobalID" : "ed36c187-d548-46e0-8d5a-6c096214e2b4"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 758587, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.82378564, 32.92104567], 
-            [-116.82375032, 32.91974753], 
-            [-116.83936493, 32.9199624], 
-            [-116.83962908, 32.90881944], 
-            [-116.84016452, 32.90881613], 
-            [-116.8402927, 32.90129874], 
-            [-116.85249905, 32.90106986], 
-            [-116.85242762, 32.90494763], 
-            [-116.84825425, 32.90489749], 
-            [-116.84827095, 32.90735178], 
-            [-116.84828084, 32.90880566], 
-            [-116.85362383, 32.90871343], 
-            [-116.85648218, 32.908664], 
-            [-116.8564887, 32.90731171], 
-            [-116.85649986, 32.90499643], 
-            [-116.85851156, 32.90502048], 
-            [-116.85851709, 32.90601734], 
-            [-116.85854881, 32.91173936], 
-            [-116.85856893, 32.91536821], 
-            [-116.85905709, 32.91535369], 
-            [-116.85907845, 32.91903031], 
-            [-116.85864686, 32.91903874], 
-            [-116.85816107, 32.91903981], 
-            [-116.8543409, 32.9190482], 
-            [-116.85434694, 32.9226747], 
-            [-116.85005451, 32.92267072], 
-            [-116.84573635, 32.92267437], 
-            [-116.84573653, 32.92629415], 
-            [-116.84144418, 32.92628064], 
-            [-116.84144244, 32.92989886], 
-            [-116.84573671, 32.92991395], 
-            [-116.84573867, 32.93275877], 
-            [-116.84143943, 32.93274381], 
-            [-116.8414404, 32.93171316], 
-            [-116.83930365, 32.93171267], 
-            [-116.83930755, 32.93229532], 
-            [-116.83767799, 32.93229495], 
-            [-116.83766197, 32.92989836], 
-            [-116.83717945, 32.92989829], 
-            [-116.83288243, 32.92990016], 
-            [-116.8328825, 32.93282307], 
-            [-116.83236059, 32.93277347], 
-            [-116.83299637, 32.93358966], 
-            [-116.83419898, 32.93513349], 
-            [-116.83308239, 32.93512655], 
-            [-116.83288022, 32.93512533], 
-            [-116.82862461, 32.93509502], 
-            [-116.82857406, 32.93509471], 
-            [-116.82416648, 32.93506312], 
-            [-116.82412479, 32.93352619], 
-            [-116.82407127, 32.93155831], 
-            [-116.82402625, 32.92990073], 
-            [-116.82400115, 32.9289771], 
-            [-116.82397604, 32.92805348], 
-            [-116.82392771, 32.92627523], 
-            [-116.8238808, 32.92454865], 
-            [-116.82382917, 32.92264977], 
-            [-116.82378564, 32.92104567]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 758587, 
-        "COUNTY" : "SAN DIEGO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XSD-SDC-1467-A", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460890000, 
+        "EDIT_DATE" : 1750553390000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 8695166.359375, 
-        "SHAPE__Length" : 20856.856446038826, 
-        "GlobalID" : "a0e5ea9b-49c6-4c71-bdb3-d24fe0858212"
+        "NOTES" : "The evacuation status has been lowered to a warning. Emergency responders are still addressing the fire in the area. Be prepared to evacuate.", 
+        "SHAPE__Area" : 5515722.8515625, 
+        "SHAPE__Length" : 9423.293810994197, 
+        "GlobalID" : "c25a3408-4f0d-4585-9db0-caa67acd9b47"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758588, 
+      "id" : 761667, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2741,72 +2611,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758588, 
+        "OBJECTID" : 761667, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-1467-B", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460697000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 2564179.87890625, 
-        "SHAPE__Length" : 6425.3828392746818, 
-        "GlobalID" : "b223dae4-1b22-4040-ba66-16b3b741e519"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 758589, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.79003382, 32.92115877], 
-            [-116.78999943, 32.91762033], 
-            [-116.78996454, 32.91403159], 
-            [-116.78992966, 32.91044284], 
-            [-116.78989477, 32.9068541], 
-            [-116.80408605, 32.90692304], 
-            [-116.80412727, 32.9196566], 
-            [-116.82374973, 32.91972566], 
-            [-116.82378564, 32.92104567], 
-            [-116.81504494, 32.92114686], 
-            [-116.81082169, 32.92119558], 
-            [-116.80659844, 32.92124415], 
-            [-116.80239054, 32.9214557], 
-            [-116.79818261, 32.9216671], 
-            [-116.7940868, 32.92141169], 
-            [-116.79003382, 32.92115877]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 758589, 
-        "COUNTY" : "SAN DIEGO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XSD-SDC-1516-A", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460890000, 
+        "EDIT_DATE" : 1750553390000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
-        "SHAPE__Area" : 3469017.06640625, 
-        "SHAPE__Length" : 11286.304494531931, 
-        "GlobalID" : "0582ffe7-b596-45e6-83e2-45b69f7227de"
+        "NOTES" : "The evacuation status has been lowered to a warning. Emergency responders are still addressing the fire in the area. Be prepared to evacuate.", 
+        "SHAPE__Area" : 2564179.87890625, 
+        "SHAPE__Length" : 6425.3828392746818, 
+        "GlobalID" : "99d5e75e-531b-4f93-a361-1246d5737855"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 758590, 
+      "id" : 761668, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2831,21 +2655,21 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 758590, 
+        "OBJECTID" : 761668, 
         "COUNTY" : "SAN DIEGO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XSD-SDC-1516-B", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1750460791000, 
+        "EDIT_DATE" : 1750553390000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "There is a wildfire near 15900 El Monte Rd Lakeside. There is an evacuation order for your area. Evacuate immediately to a safe location. Evacuate to 13487 Camino Canada at the Walmart. Large animals can be evacuated to the equestrian center at 11055 Moreno Rd at the Dianne Jacob Equestrian Park", 
+        "NOTES" : "The evacuation status has been lowered to a warning. Emergency responders are still addressing the fire in the area. Be prepared to evacuate.", 
         "SHAPE__Area" : 3676665.37890625, 
         "SHAPE__Length" : 7740.6983540917081, 
-        "GlobalID" : "7629cc25-fbfd-4555-9038-d5d25d1a0c1d"
+        "GlobalID" : "68782fb8-d718-4cea-b7f1-54cdcb560a87"
       }
     }
   ]
