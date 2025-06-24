@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 763713, 
+      "id" : 765445, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763713, 
+        "OBJECTID" : 765445, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "8755e5e8-4744-4ee0-b4c0-2de39c24ee07"
+        "GlobalID" : "c0955d2d-8b07-47ae-8e75-cdca433f1cc8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763714, 
+      "id" : 765446, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763714, 
+        "OBJECTID" : 765446, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "a295a8d9-95cf-4861-8b6f-00f24d8e703b"
+        "GlobalID" : "ca93365e-b518-49e2-b413-a2bbc6773481"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763715, 
+      "id" : 765447, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -782,7 +782,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763715, 
+        "OBJECTID" : 765447, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -796,12 +796,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "856ed5f6-1244-4d7a-a41c-6b763615d856"
+        "GlobalID" : "08221dae-8186-4e8a-86bf-59351468a6ff"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763716, 
+      "id" : 765448, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -862,7 +862,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763716, 
+        "OBJECTID" : 765448, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -876,12 +876,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "055ea039-69bd-49d9-8e50-d5463a5fb2ec"
+        "GlobalID" : "3352ba54-9307-4b67-9639-15807dcb503e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763717, 
+      "id" : 765449, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -910,7 +910,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763717, 
+        "OBJECTID" : 765449, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -924,12 +924,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "290f4e72-7086-4ac5-9bd7-f468c80f46b7"
+        "GlobalID" : "ed940f3e-1950-4e7b-913f-d4061b5490a2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763718, 
+      "id" : 765450, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -958,7 +958,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763718, 
+        "OBJECTID" : 765450, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -972,12 +972,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "04262f1c-04ec-46ef-96e3-9443441d76a7"
+        "GlobalID" : "5953ca35-f6cf-4b54-b427-4f0c32409fb8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763719, 
+      "id" : 765451, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1018,7 +1018,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763719, 
+        "OBJECTID" : 765451, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1032,12 +1032,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "220a5289-a3f7-4dc9-8010-e12736d46888"
+        "GlobalID" : "2fbdc4c2-609e-4914-a2f1-5f53f7f4fee4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763720, 
+      "id" : 765452, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1070,7 +1070,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763720, 
+        "OBJECTID" : 765452, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1084,12 +1084,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "35488334-a4de-411a-a88e-268275af5c7f"
+        "GlobalID" : "4262cd38-f561-4d11-bfb5-73d078bd0975"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763721, 
+      "id" : 765453, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1131,7 +1131,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763721, 
+        "OBJECTID" : 765453, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1145,12 +1145,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "c2c79a56-12dd-47a1-9d45-decef228d542"
+        "GlobalID" : "dd6f7a58-393b-4a15-94ee-dcc9d4cd3c30"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763722, 
+      "id" : 765454, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1172,7 +1172,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763722, 
+        "OBJECTID" : 765454, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1186,12 +1186,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "ad8ca19f-1522-4dff-ad0e-c917fd149ee8"
+        "GlobalID" : "8da80806-5e83-4448-8dda-6bd3eb0541d4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763723, 
+      "id" : 765455, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1219,7 +1219,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763723, 
+        "OBJECTID" : 765455, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1233,12 +1233,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "1e5caf54-235e-4296-b664-bd6b6e6426ba"
+        "GlobalID" : "8ae09594-289d-401b-9220-fe5cfc3c8756"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 763724, 
+      "id" : 765456, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1279,7 +1279,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 763724, 
+        "OBJECTID" : 765456, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1293,7 +1293,7 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "8929cd18-cba8-4219-b589-93d755336bff"
+        "GlobalID" : "3bf9290b-aafe-4076-86bb-20a61e5afb6d"
       }
     }
   ]
