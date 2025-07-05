@@ -3,74 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 808232, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.321707587002, 36.7911014840011], 
-            [-119.357675675002, 36.7923260900011], 
-            [-119.394502069002, 36.7924509390011], 
-            [-119.399594913002, 36.797737376001], 
-            [-119.398885469002, 36.7979618200011], 
-            [-119.392810266002, 36.800137496001], 
-            [-119.388558965002, 36.802622374001], 
-            [-119.384857516002, 36.806342022001], 
-            [-119.384642939002, 36.808064339001], 
-            [-119.385351043002, 36.813488739001], 
-            [-119.385794780002, 36.8145391890011], 
-            [-119.386419206002, 36.815496083001], 
-            [-119.387954771002, 36.816242264001], 
-            [-119.387678503002, 36.817219267001], 
-            [-119.387313078002, 36.818095741001], 
-            [-119.387125968002, 36.818486132001], 
-            [-119.386534567002, 36.818861758001], 
-            [-119.385849237002, 36.8192333580011], 
-            [-119.384763591002, 36.8201024460011], 
-            [-119.383388131002, 36.8204706760011], 
-            [-119.378084062002, 36.8179745680011], 
-            [-119.373589556002, 36.8163038640011], 
-            [-119.370947580002, 36.816164291001], 
-            [-119.369075398002, 36.816417669001], 
-            [-119.364687304002, 36.8176458970011], 
-            [-119.360542621002, 36.818314489001], 
-            [-119.357170414002, 36.8180554800011], 
-            [-119.354181092002, 36.818396351001], 
-            [-119.352901678002, 36.819868252001], 
-            [-119.352917771002, 36.821197339001], 
-            [-119.349189501002, 36.825042760001], 
-            [-119.348420172002, 36.825634409001], 
-            [-119.344817500002, 36.828304024001], 
-            [-119.341920714002, 36.8292916080011], 
-            [-119.321761231002, 36.833143062001], 
-            [-119.321707587002, 36.815292492001], 
-            [-119.321707587002, 36.7911014840011]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808232, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "K93", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Piedra Rd. from the Kings River Bridge through 4950 N. Piedra Rd.  Elwood Rd including all side roads from Piedra Rd through 8333 Elwood Rd.  Includes Pine Flat Rd south of the Kings River bridge.         ", 
-        "SHAPE__Area" : 32793349.2578125, 
-        "SHAPE__Length" : 27169.631705329895, 
-        "GlobalID" : "653d95fd-4bd8-478e-86d7-449733632549"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808233, 
+      "id" : 816743, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -852,7 +785,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808233, 
+        "OBJECTID" : 816743, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-366", 
@@ -866,12 +799,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 63433380.703125, 
         "SHAPE__Length" : 36852.557788651822, 
-        "GlobalID" : "3b0077f5-c033-4b53-ae26-a5638163eec2"
+        "GlobalID" : "0da1492b-6a8e-4a37-8cc1-8f1f7913053d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808234, 
+      "id" : 816744, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1729,7 +1662,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808234, 
+        "OBJECTID" : 816744, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-301", 
@@ -1743,12 +1676,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 140828360.8125, 
         "SHAPE__Length" : 67250.51398055577, 
-        "GlobalID" : "c1511d91-8d8a-4116-8827-359c8ba01e7d"
+        "GlobalID" : "c446414f-4cd6-485d-bc85-14b838fac1ff"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808235, 
+      "id" : 816745, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2347,7 +2280,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808235, 
+        "OBJECTID" : 816745, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-266", 
@@ -2361,12 +2294,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 113481852.7109375, 
         "SHAPE__Length" : 48713.927506975713, 
-        "GlobalID" : "54bf5821-4772-4a66-91b6-72756d6f0ad3"
+        "GlobalID" : "32822dcf-44c4-4cb5-8751-4e9c5007bfef"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808236, 
+      "id" : 816746, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2834,7 +2767,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808236, 
+        "OBJECTID" : 816746, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-359", 
@@ -2848,12 +2781,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 43206114.7890625, 
         "SHAPE__Length" : 30336.599101909957, 
-        "GlobalID" : "a9faac6d-5d72-447d-9cb6-9747e0da11cc"
+        "GlobalID" : "7b15d28a-3060-44db-8274-ac00efdaf376"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808237, 
+      "id" : 816747, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2951,7 +2884,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808237, 
+        "OBJECTID" : 816747, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-367", 
@@ -2965,12 +2898,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 52869093.390625, 
         "SHAPE__Length" : 33914.304445686568, 
-        "GlobalID" : "c5772b75-61be-4224-8d60-42fadbef5993"
+        "GlobalID" : "c5c20a58-4c8f-47c5-8965-ec01f73e2f9e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808238, 
+      "id" : 816748, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3639,7 +3572,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808238, 
+        "OBJECTID" : 816748, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-239", 
@@ -3653,12 +3586,12 @@
         "NOTES" : null, 
         "SHAPE__Area" : 81542189.27734375, 
         "SHAPE__Length" : 53191.579285345033, 
-        "GlobalID" : "c282c005-0bc3-430f-b2f5-087d65ccd88a"
+        "GlobalID" : "7d06e4cf-0ada-4203-ad83-daa5e8a68cf0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808239, 
+      "id" : 816749, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3894,7 +3827,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808239, 
+        "OBJECTID" : 816749, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-365", 
@@ -3908,12 +3841,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 52617479.94921875, 
         "SHAPE__Length" : 56532.434337526029, 
-        "GlobalID" : "39db3838-dd78-4403-952d-9fd5475e49cd"
+        "GlobalID" : "72d10428-ea8c-488f-b333-30c5474ea134"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808240, 
+      "id" : 816750, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4570,7 +4503,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808240, 
+        "OBJECTID" : 816750, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-225", 
@@ -4584,12 +4517,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 91178184.81640625, 
         "SHAPE__Length" : 48899.49254877671, 
-        "GlobalID" : "96570fed-c7c6-48ef-ad42-b8275613ac4c"
+        "GlobalID" : "8cb57e75-c9e2-4096-8646-a7d7a95df5cb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808241, 
+      "id" : 816751, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5633,7 +5566,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808241, 
+        "OBJECTID" : 816751, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-017", 
@@ -5647,12 +5580,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 142218829.625, 
         "SHAPE__Length" : 55498.772182056404, 
-        "GlobalID" : "a373c1c0-720f-49a2-870d-c046e769a25e"
+        "GlobalID" : "52a844be-2683-45bd-a4a5-0a6f4e98fd3f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808242, 
+      "id" : 816752, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5863,7 +5796,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808242, 
+        "OBJECTID" : 816752, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-226", 
@@ -5877,12 +5810,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 28645841.0625, 
         "SHAPE__Length" : 32817.28011148415, 
-        "GlobalID" : "fe3a9670-5915-42bf-b6bb-b75b10141d32"
+        "GlobalID" : "372ba9bb-690e-4e98-b1b0-d09013278780"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808243, 
+      "id" : 816753, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6706,7 +6639,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808243, 
+        "OBJECTID" : 816753, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-358", 
@@ -6720,12 +6653,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 197968000.11328125, 
         "SHAPE__Length" : 67882.736327066392, 
-        "GlobalID" : "d2abc1ec-d3b7-4c2a-984f-0dd53b554725"
+        "GlobalID" : "2fc19bd8-cfef-45bb-9d93-cd5498368219"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808244, 
+      "id" : 816754, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7344,7 +7277,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808244, 
+        "OBJECTID" : 816754, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-339", 
@@ -7358,12 +7291,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 62227276.75390625, 
         "SHAPE__Length" : 38191.393653290048, 
-        "GlobalID" : "e8aee4ed-18f3-4f49-97f9-9d99abbf970c"
+        "GlobalID" : "b7f2f075-ec43-4b05-ab1e-4d1318bd2fcd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808245, 
+      "id" : 816755, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8181,7 +8114,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808245, 
+        "OBJECTID" : 816755, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-338", 
@@ -8195,12 +8128,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 401149955.12890625, 
         "SHAPE__Length" : 100143.01053785776, 
-        "GlobalID" : "479f8010-21f6-494f-b745-4eebbb06069f"
+        "GlobalID" : "5d502feb-a4c6-49d4-9951-efbbaaac7413"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808246, 
+      "id" : 816756, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8891,7 +8824,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808246, 
+        "OBJECTID" : 816756, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-298", 
@@ -8905,12 +8838,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 24597506.98828125, 
         "SHAPE__Length" : 29167.861423889866, 
-        "GlobalID" : "aad7e235-61df-4396-afbb-d50ebc8ba485"
+        "GlobalID" : "5dfef0cd-eb2e-4e9f-b081-902959b7e94b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808247, 
+      "id" : 816757, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10514,7 +10447,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808247, 
+        "OBJECTID" : 816757, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-337", 
@@ -10528,12 +10461,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 62276824.15625, 
         "SHAPE__Length" : 75175.052017725786, 
-        "GlobalID" : "454779ca-23a0-47e3-8d99-dca32d703a00"
+        "GlobalID" : "d78baef3-7634-4006-8c1e-a03d42b0c869"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808248, 
+      "id" : 816758, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -11069,7 +11002,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808248, 
+        "OBJECTID" : 816758, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-300", 
@@ -11083,12 +11016,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 93723450.85546875, 
         "SHAPE__Length" : 40072.375309906216, 
-        "GlobalID" : "4c2ce0d3-0e00-46ea-b446-250fbd1fd337"
+        "GlobalID" : "e2777fce-d20f-49eb-99bb-7057f1f6272c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808249, 
+      "id" : 816759, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -11559,7 +11492,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808249, 
+        "OBJECTID" : 816759, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-263", 
@@ -11573,12 +11506,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 87436608.27734375, 
         "SHAPE__Length" : 46817.004369554226, 
-        "GlobalID" : "bdba44d1-2767-4273-896b-39d3311796d4"
+        "GlobalID" : "4691f420-87c0-47ad-bd91-6ce095e07b11"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808250, 
+      "id" : 816760, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -11944,7 +11877,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808250, 
+        "OBJECTID" : 816760, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-240", 
@@ -11958,12 +11891,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 50062467.6484375, 
         "SHAPE__Length" : 39246.114397324956, 
-        "GlobalID" : "3d16d00b-da91-4950-8770-926d848f2106"
+        "GlobalID" : "f6f4a851-7446-4e5a-835b-292be54e86dc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808251, 
+      "id" : 816761, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12243,7 +12176,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808251, 
+        "OBJECTID" : 816761, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-264", 
@@ -12257,12 +12190,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 33129291.0703125, 
         "SHAPE__Length" : 28310.101415084369, 
-        "GlobalID" : "2bf2f308-e476-4f9e-b7dd-095c9849a13e"
+        "GlobalID" : "a134607d-e038-4c18-b33e-9dce03efd1e0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808252, 
+      "id" : 816762, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13338,7 +13271,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808252, 
+        "OBJECTID" : 816762, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-299", 
@@ -13352,12 +13285,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 158524389.98828125, 
         "SHAPE__Length" : 78047.986753122226, 
-        "GlobalID" : "7bf8965e-66ba-4b65-b066-654f4dd1fea3"
+        "GlobalID" : "9cad15fe-d8e5-4f4e-8d6d-e5e27548f732"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808253, 
+      "id" : 816763, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13702,7 +13635,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808253, 
+        "OBJECTID" : 816763, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-265", 
@@ -13716,12 +13649,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 107527517.1796875, 
         "SHAPE__Length" : 46770.536338095735, 
-        "GlobalID" : "625ee08c-8558-4c13-a775-abce6da86910"
+        "GlobalID" : "e431308a-5e15-4f28-b822-b7c1ae2604ae"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808254, 
+      "id" : 816764, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14197,7 +14130,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808254, 
+        "OBJECTID" : 816764, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-313", 
@@ -14211,12 +14144,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 64349525.83984375, 
         "SHAPE__Length" : 39880.000821064976, 
-        "GlobalID" : "7be5fc05-78a9-41c7-b00c-8ced858ec204"
+        "GlobalID" : "f0428482-5a3c-4bcd-ba08-08b6ec00339f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808255, 
+      "id" : 816765, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -16559,7 +16492,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808255, 
+        "OBJECTID" : 816765, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-312", 
@@ -16573,12 +16506,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 97058130.42578125, 
         "SHAPE__Length" : 58437.595995379037, 
-        "GlobalID" : "e2fd8b32-7a02-4a47-ae04-5cbc52ba289e"
+        "GlobalID" : "ee5b2a2b-d1eb-4f68-b2c5-caf989dd3f53"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808256, 
+      "id" : 816766, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17199,7 +17132,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808256, 
+        "OBJECTID" : 816766, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17213,12 +17146,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "e89a42f2-28cc-4634-b156-2f17fa044371"
+        "GlobalID" : "01a85237-ee0a-49dd-928e-9c8e382c25cf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808257, 
+      "id" : 816767, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17278,7 +17211,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808257, 
+        "OBJECTID" : 816767, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17292,146 +17225,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "19f24196-02ad-4c17-9979-2843ffeab25b"
+        "GlobalID" : "95998399-9e67-480f-bf57-fd334c504639"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808258, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.84168607, 33.918061], 
-            [-116.84169723, 33.91827997], 
-            [-116.84169213, 33.91968293], 
-            [-116.84168508, 33.92162195], 
-            [-116.84168676, 33.92298034], 
-            [-116.8417008, 33.92519693], 
-            [-116.84171183, 33.92693924], 
-            [-116.84171499, 33.92743682], 
-            [-116.84171826, 33.92795344], 
-            [-116.83805371, 33.92884802], 
-            [-116.83429572, 33.92975867], 
-            [-116.83281044, 33.93011133], 
-            [-116.83163256, 33.93033403], 
-            [-116.83064725, 33.93047046], 
-            [-116.82960439, 33.9305675], 
-            [-116.82888238, 33.93060613], 
-            [-116.82840163, 33.93061508], 
-            [-116.8278642, 33.93061842], 
-            [-116.82727958, 33.93059813], 
-            [-116.82672281, 33.93058351], 
-            [-116.82599806, 33.93053318], 
-            [-116.82544257, 33.93045988], 
-            [-116.82506027, 33.93038928], 
-            [-116.82480968, 33.930343], 
-            [-116.82458112, 33.93029543], 
-            [-116.82458255, 33.92900142], 
-            [-116.82458479, 33.92698623], 
-            [-116.82449713, 33.92692916], 
-            [-116.82427171, 33.92678238], 
-            [-116.823451, 33.926248], 
-            [-116.819905, 33.922307], 
-            [-116.8166013, 33.91804159], 
-            [-116.816195, 33.917517], 
-            [-116.81558735, 33.91672435], 
-            [-116.814579, 33.915409], 
-            [-116.812696, 33.914387], 
-            [-116.81220666, 33.91421779], 
-            [-116.81151778, 33.91397958], 
-            [-116.81131436, 33.91390924], 
-            [-116.81117179, 33.91385994], 
-            [-116.81106381, 33.9138226], 
-            [-116.810984, 33.913795], 
-            [-116.80980819, 33.91317248], 
-            [-116.808922, 33.912713], 
-            [-116.80871991, 33.9124963], 
-            [-116.80756281, 33.91125549], 
-            [-116.80737269, 33.91105161], 
-            [-116.80730878, 33.91098308], 
-            [-116.80725486, 33.91092526], 
-            [-116.80703173, 33.91068598], 
-            [-116.80691642, 33.91056233], 
-            [-116.80684958, 33.91049066], 
-            [-116.80678812, 33.91042475], 
-            [-116.80670606, 33.91033675], 
-            [-116.805591, 33.909141], 
-            [-116.80294876, 33.90694813], 
-            [-116.80221, 33.906335], 
-            [-116.80039207, 33.90548619], 
-            [-116.80031587, 33.90545061], 
-            [-116.80026791, 33.90542822], 
-            [-116.80022149, 33.90540655], 
-            [-116.79975186, 33.90518727], 
-            [-116.79812365, 33.90442703], 
-            [-116.79802925, 33.90438296], 
-            [-116.797873, 33.90431], 
-            [-116.79615396, 33.90341245], 
-            [-116.79606834, 33.90336775], 
-            [-116.79793321, 33.90336419], 
-            [-116.79807846, 33.90336391], 
-            [-116.7991025, 33.90336194], 
-            [-116.80019006, 33.90335984], 
-            [-116.80019067, 33.90331862], 
-            [-116.80019127, 33.9032774], 
-            [-116.80127815, 33.90327529], 
-            [-116.80236503, 33.90327318], 
-            [-116.80236519, 33.90335561], 
-            [-116.80237779, 33.90335559], 
-            [-116.80671545, 33.90334705], 
-            [-116.80671593, 33.90326461], 
-            [-116.80682572, 33.90326459], 
-            [-116.8068258, 33.90326459], 
-            [-116.80682464, 33.90334702], 
-            [-116.80895233, 33.90334643], 
-            [-116.81107439, 33.90334585], 
-            [-116.81672925, 33.90332949], 
-            [-116.82097066, 33.90328021], 
-            [-116.82303361, 33.90325624], 
-            [-116.824417, 33.90324013], 
-            [-116.82858764, 33.90323491], 
-            [-116.84188983, 33.90321826], 
-            [-116.8418877, 33.9034499], 
-            [-116.84200321, 33.90344933], 
-            [-116.8420043, 33.90453296], 
-            [-116.84200944, 33.90684865], 
-            [-116.84185713, 33.90684767], 
-            [-116.84176163, 33.9068574], 
-            [-116.84178317, 33.9069388], 
-            [-116.84185377, 33.90721273], 
-            [-116.84184521, 33.90814013], 
-            [-116.84170338, 33.91532703], 
-            [-116.84169434, 33.9157849], 
-            [-116.8416934, 33.91604336], 
-            [-116.84168695, 33.9178193], 
-            [-116.84168607, 33.918061]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808258, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-MRF-0539", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 11189314.32421875, 
-        "SHAPE__Length" : 15483.485391350419, 
-        "GlobalID" : "11455f08-fae3-46be-bfa9-39cffe2024e8"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808259, 
+      "id" : 816768, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18054,7 +17853,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808259, 
+        "OBJECTID" : 816768, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18068,12 +17867,12 @@
         "NOTES" : "Kern County Sheriffs: Zones KRN-245, KRN-249, KRN-259, KRN-281B are under Evacuation Warning due to the Madre Fire in San Luis Obispo County. Prepare to leave. ", 
         "SHAPE__Area" : 124936758.94140625, 
         "SHAPE__Length" : 52307.828046269613, 
-        "GlobalID" : "08ab15f7-ef80-4d21-bfd3-d0605d7dcad6"
+        "GlobalID" : "ea98909e-c655-409f-b5cb-0d53f71e057d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808260, 
+      "id" : 816769, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18128,7 +17927,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808260, 
+        "OBJECTID" : 816769, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18142,12 +17941,12 @@
         "NOTES" : "Kern County Sheriffs: Zones KRN-245, KRN-249, KRN-259, KRN-281B are under Evacuation Warning due to the Madre Fire in San Luis Obispo County. Prepare to leave. ", 
         "SHAPE__Area" : 1157310.78125, 
         "SHAPE__Length" : 5361.9050307862835, 
-        "GlobalID" : "31a0af9c-39cc-4bbd-a6bd-b80432bcfb89"
+        "GlobalID" : "6da06626-78bd-4fd7-afd6-091ce0fd429d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808261, 
+      "id" : 816770, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18207,7 +18006,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808261, 
+        "OBJECTID" : 816770, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18221,12 +18020,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "06ae9b42-010e-43b8-979e-9c980ddbe579"
+        "GlobalID" : "d6b64a17-d63d-4b0d-be7a-95f6d3bb78c5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808262, 
+      "id" : 816771, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18287,7 +18086,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808262, 
+        "OBJECTID" : 816771, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18301,12 +18100,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "3ef68a44-3d74-4f60-908b-31b73cd76214"
+        "GlobalID" : "c7c9159c-8d9d-4bd9-9884-ef5a71af312d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808263, 
+      "id" : 816772, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18335,7 +18134,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808263, 
+        "OBJECTID" : 816772, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18349,12 +18148,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "6f9853a4-0421-461c-b1c2-483b81b509e5"
+        "GlobalID" : "bb7cb6b8-3c0f-4635-b59a-3af8b77575b4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808264, 
+      "id" : 816773, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18383,7 +18182,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808264, 
+        "OBJECTID" : 816773, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18397,12 +18196,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "0a3f6768-06b5-4670-940c-4f3c38efe5c8"
+        "GlobalID" : "e1182af2-f07d-4e00-bdd0-e1264b498013"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808265, 
+      "id" : 816774, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18443,7 +18242,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808265, 
+        "OBJECTID" : 816774, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18457,12 +18256,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "a0977fc6-bd4b-4ea8-89f1-c16bcd5663e5"
+        "GlobalID" : "da521f0c-a6c3-4980-9d87-2ca4953261cc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808266, 
+      "id" : 816775, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18495,7 +18294,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808266, 
+        "OBJECTID" : 816775, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18509,12 +18308,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "49f40c8e-ab62-4024-bfa5-4fd4ea6ac9ae"
+        "GlobalID" : "30e16e1b-e817-4a13-92dc-cda49140bd4c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808267, 
+      "id" : 816776, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18556,7 +18355,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808267, 
+        "OBJECTID" : 816776, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18570,12 +18369,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "a55773e5-847d-4880-8f99-8e7fc7990614"
+        "GlobalID" : "d4697476-6ac9-44ac-a0ca-80b8763f7adc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808268, 
+      "id" : 816777, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18597,7 +18396,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808268, 
+        "OBJECTID" : 816777, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18611,12 +18410,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "7a221203-36ce-4ef1-b220-8ac5d61393f3"
+        "GlobalID" : "df137b78-f6ea-4092-b00e-feea69a69b57"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808269, 
+      "id" : 816778, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18644,7 +18443,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808269, 
+        "OBJECTID" : 816778, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18658,12 +18457,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "22caf73f-3249-4676-96cf-a699ea3035f8"
+        "GlobalID" : "fe83cfe3-2b8a-4a3c-84fe-acf514a79fa8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808270, 
+      "id" : 816779, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18704,7 +18503,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808270, 
+        "OBJECTID" : 816779, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18718,1130 +18517,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "75d94ce8-f807-4cad-a855-19fbe2259a54"
+        "GlobalID" : "86b3dd8a-c408-4b25-98d7-183fdaa89c46"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808271, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.84223604, 33.87161847], 
-            [-116.8422334, 33.87039649], 
-            [-116.84223226, 33.86987028], 
-            [-116.84228803, 33.86971451], 
-            [-116.84233049, 33.86959592], 
-            [-116.84232762, 33.86826497], 
-            [-116.84232663, 33.86780763], 
-            [-116.84231885, 33.86420882], 
-            [-116.84231067, 33.8604261], 
-            [-116.8423102, 33.86020586], 
-            [-116.84230998, 33.86010559], 
-            [-116.84230725, 33.85884154], 
-            [-116.84230652, 33.85850485], 
-            [-116.84230283, 33.8567984], 
-            [-116.84232797, 33.85679831], 
-            [-116.84520238, 33.85678782], 
-            [-116.84532028, 33.85678738], 
-            [-116.84577447, 33.85678572], 
-            [-116.84587743, 33.85678534], 
-            [-116.84658538, 33.85678274], 
-            [-116.85079703, 33.8567672], 
-            [-116.85088002, 33.85676691], 
-            [-116.85216592, 33.85676385], 
-            [-116.8556527, 33.85675541], 
-            [-116.85556858, 33.85296024], 
-            [-116.86019179, 33.85291665], 
-            [-116.86015262, 33.85101158], 
-            [-116.86341427, 33.85096391], 
-            [-116.86449946, 33.85094804], 
-            [-116.86449744, 33.85085187], 
-            [-116.86446008, 33.84903783], 
-            [-116.86866748, 33.84900313], 
-            [-116.8767383, 33.8489451], 
-            [-116.8772959, 33.8489423], 
-            [-116.8773074, 33.8493543], 
-            [-116.87750057, 33.85673316], 
-            [-116.87318953, 33.8567384], 
-            [-116.86887847, 33.85674363], 
-            [-116.86456743, 33.85674884], 
-            [-116.86233228, 33.85675157], 
-            [-116.86025639, 33.85675407], 
-            [-116.86027876, 33.86048573], 
-            [-116.86030116, 33.86421738], 
-            [-116.8603014, 33.86425728], 
-            [-116.86032354, 33.86794903], 
-            [-116.86034584, 33.87166976], 
-            [-116.84231714, 33.87161711], 
-            [-116.84223604, 33.87161847]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808271, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-0828", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 6119716.6484375, 
-        "SHAPE__Length" : 13902.203864439818, 
-        "GlobalID" : "199bfe4f-ff8c-41e1-a8ec-d3ea6b3555e3"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808272, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.7948165, 33.90337012], 
-            [-116.79374572, 33.90337214], 
-            [-116.79373686, 33.90337216], 
-            [-116.79370248, 33.90337222], 
-            [-116.79369596, 33.90337224], 
-            [-116.79156117, 33.90337624], 
-            [-116.79152005, 33.90337632], 
-            [-116.78936483, 33.90338032], 
-            [-116.78936461, 33.90329788], 
-            [-116.78720685, 33.90330046], 
-            [-116.78504865, 33.903303], 
-            [-116.78284966, 33.90330556], 
-            [-116.78069217, 33.90330802], 
-            [-116.78069245, 33.9033904], 
-            [-116.78069245, 33.90339046], 
-            [-116.78066452, 33.90339049], 
-            [-116.78064929, 33.90339051], 
-            [-116.78063422, 33.90339053], 
-            [-116.78061704, 33.90339055], 
-            [-116.78056523, 33.9033906], 
-            [-116.77848859, 33.90339294], 
-            [-116.77847702, 33.90339295], 
-            [-116.77631266, 33.90339535], 
-            [-116.77413672, 33.90339773], 
-            [-116.77405211, 33.90339782], 
-            [-116.77319169, 33.90339875], 
-            [-116.77288396, 33.90339908], 
-            [-116.77196079, 33.90340006], 
-            [-116.77196053, 33.90331123], 
-            [-116.77194737, 33.90242412], 
-            [-116.77194431, 33.90030393], 
-            [-116.77194336, 33.89965132], 
-            [-116.77193949, 33.89697078], 
-            [-116.77193466, 33.89363211], 
-            [-116.77193286, 33.89332249], 
-            [-116.77192274, 33.89162974], 
-            [-116.77188922, 33.88602408], 
-            [-116.7718843, 33.88570513], 
-            [-116.77177353, 33.8785278], 
-            [-116.77180669, 33.87346518], 
-            [-116.7718263, 33.8713173], 
-            [-116.7718276, 33.8711731], 
-            [-116.7718923, 33.8641246], 
-            [-116.7718092, 33.8570349], 
-            [-116.77164733, 33.84293309], 
-            [-116.77164534, 33.84204726], 
-            [-116.77157675, 33.83501531], 
-            [-116.78899797, 33.83474597], 
-            [-116.78904752, 33.8420179], 
-            [-116.79781556, 33.84210256], 
-            [-116.8065836, 33.8421866], 
-            [-116.80652869, 33.85695896], 
-            [-116.80664895, 33.8614471], 
-            [-116.80672496, 33.86428368], 
-            [-116.80672807, 33.86439963], 
-            [-116.80672258, 33.86591057], 
-            [-116.80672236, 33.86596996], 
-            [-116.80671586, 33.86775892], 
-            [-116.80670787, 33.86995564], 
-            [-116.80670764, 33.87006133], 
-            [-116.80670729, 33.87015662], 
-            [-116.80693325, 33.87001312], 
-            [-116.80693918, 33.87001027], 
-            [-116.80694465, 33.87000765], 
-            [-116.80695012, 33.87000504], 
-            [-116.80695561, 33.87000245], 
-            [-116.80696111, 33.86999988], 
-            [-116.80696661, 33.86999731], 
-            [-116.80697213, 33.86999476], 
-            [-116.80697765, 33.86999222], 
-            [-116.80698318, 33.8699897], 
-            [-116.80698872, 33.86998718], 
-            [-116.80699427, 33.86998468], 
-            [-116.80699983, 33.8699822], 
-            [-116.80700539, 33.86997973], 
-            [-116.80701097, 33.86997727], 
-            [-116.80701655, 33.86997482], 
-            [-116.80702214, 33.86997239], 
-            [-116.80702774, 33.86996997], 
-            [-116.80703335, 33.86996756], 
-            [-116.80703896, 33.86996517], 
-            [-116.80704458, 33.8699628], 
-            [-116.80705022, 33.86996043], 
-            [-116.80705586, 33.86995808], 
-            [-116.80706151, 33.86995574], 
-            [-116.80706716, 33.86995341], 
-            [-116.80707283, 33.8699511], 
-            [-116.8070785, 33.8699488], 
-            [-116.80708418, 33.86994652], 
-            [-116.80708986, 33.86994425], 
-            [-116.80709556, 33.86994199], 
-            [-116.80710126, 33.86993975], 
-            [-116.80710698, 33.86993752], 
-            [-116.80711269, 33.8699353], 
-            [-116.80711842, 33.8699331], 
-            [-116.80712415, 33.86993091], 
-            [-116.80712989, 33.86992874], 
-            [-116.80713564, 33.86992658], 
-            [-116.8071414, 33.86992443], 
-            [-116.80714716, 33.8699223], 
-            [-116.80715293, 33.86992017], 
-            [-116.80715871, 33.86991807], 
-            [-116.8071645, 33.86991598], 
-            [-116.80717029, 33.8699139], 
-            [-116.80717609, 33.86991183], 
-            [-116.80718189, 33.86990978], 
-            [-116.80718771, 33.86990775], 
-            [-116.80719353, 33.86990572], 
-            [-116.80719936, 33.86990371], 
-            [-116.80720601, 33.86990143], 
-            [-116.80743656, 33.86981916], 
-            [-116.8078691, 33.8696648], 
-            [-116.80787883, 33.86966159], 
-            [-116.8078853, 33.8696594], 
-            [-116.80789202, 33.86965708], 
-            [-116.80789904, 33.86965461], 
-            [-116.80790571, 33.86965222], 
-            [-116.80791206, 33.8696499], 
-            [-116.80791901, 33.86964731], 
-            [-116.80792563, 33.86964479], 
-            [-116.80793223, 33.86964224], 
-            [-116.8079388, 33.86963966], 
-            [-116.80794536, 33.86963703], 
-            [-116.80795189, 33.86963437], 
-            [-116.80795809, 33.86963179], 
-            [-116.80796488, 33.86962893], 
-            [-116.80797135, 33.86962615], 
-            [-116.80797779, 33.86962334], 
-            [-116.80798421, 33.86962049], 
-            [-116.8079906, 33.8696176], 
-            [-116.80799667, 33.86961482], 
-            [-116.80800301, 33.86961186], 
-            [-116.80800964, 33.86960872], 
-            [-116.80801593, 33.86960569], 
-            [-116.80802191, 33.86960277], 
-            [-116.80802845, 33.86959952], 
-            [-116.80803437, 33.86959653], 
-            [-116.80804057, 33.86959335], 
-            [-116.80804703, 33.86958999], 
-            [-116.80805288, 33.86958689], 
-            [-116.80805899, 33.86958361], 
-            [-116.80806537, 33.86958014], 
-            [-116.80807143, 33.86957678], 
-            [-116.80807746, 33.8695734], 
-            [-116.80808318, 33.86957014], 
-            [-116.80808915, 33.86956668], 
-            [-116.80809538, 33.86956303], 
-            [-116.8081013, 33.8695595], 
-            [-116.80810718, 33.86955594], 
-            [-116.80811304, 33.86955235], 
-            [-116.80811859, 33.8695489], 
-            [-116.80812467, 33.86954506], 
-            [-116.80813016, 33.86954155], 
-            [-116.8081359, 33.86953782], 
-            [-116.80814187, 33.86953388], 
-            [-116.80814728, 33.86953027], 
-            [-116.80815292, 33.86952645], 
-            [-116.80815853, 33.86952259], 
-            [-116.80816411, 33.86951871], 
-            [-116.80816966, 33.86951479], 
-            [-116.80817518, 33.86951084], 
-            [-116.80818066, 33.86950685], 
-            [-116.80818611, 33.86950284], 
-            [-116.80819153, 33.86949879], 
-            [-116.80819716, 33.86949452], 
-            [-116.80820236, 33.86949052], 
-            [-116.80835438, 33.86937274], 
-            [-116.80836008, 33.86936812], 
-            [-116.80836411, 33.86936491], 
-            [-116.8083682, 33.86936173], 
-            [-116.80837232, 33.86935858], 
-            [-116.80837648, 33.86935546], 
-            [-116.80838068, 33.86935239], 
-            [-116.80838492, 33.86934934], 
-            [-116.80838919, 33.86934633], 
-            [-116.8083935, 33.86934336], 
-            [-116.80839784, 33.86934043], 
-            [-116.80840222, 33.86933753], 
-            [-116.80840664, 33.86933467], 
-            [-116.80841109, 33.86933185], 
-            [-116.80841557, 33.86932906], 
-            [-116.80842009, 33.86932631], 
-            [-116.80842464, 33.8693236], 
-            [-116.80842922, 33.86932093], 
-            [-116.80843384, 33.8693183], 
-            [-116.80843848, 33.8693157], 
-            [-116.80844316, 33.86931315], 
-            [-116.80844787, 33.86931063], 
-            [-116.8084526, 33.86930816], 
-            [-116.80845737, 33.86930572], 
-            [-116.80846217, 33.86930333], 
-            [-116.80846699, 33.86930098], 
-            [-116.80847185, 33.86929866], 
-            [-116.80847673, 33.86929639], 
-            [-116.80848164, 33.86929416], 
-            [-116.80848658, 33.86929197], 
-            [-116.80849154, 33.86928982], 
-            [-116.80849653, 33.86928771], 
-            [-116.80850154, 33.86928565], 
-            [-116.80850658, 33.86928363], 
-            [-116.80851164, 33.86928165], 
-            [-116.80851673, 33.86927971], 
-            [-116.80852183, 33.86927782], 
-            [-116.80852697, 33.86927597], 
-            [-116.80853212, 33.86927416], 
-            [-116.8085373, 33.8692724], 
-            [-116.80854249, 33.86927068], 
-            [-116.80854771, 33.869269], 
-            [-116.80855295, 33.86926737], 
-            [-116.8085582, 33.86926578], 
-            [-116.80856348, 33.86926424], 
-            [-116.80856877, 33.86926274], 
-            [-116.80857408, 33.86926128], 
-            [-116.80857941, 33.86925987], 
-            [-116.80858476, 33.86925851], 
-            [-116.80859012, 33.86925719], 
-            [-116.8085955, 33.86925591], 
-            [-116.80860089, 33.86925469], 
-            [-116.8086063, 33.8692535], 
-            [-116.80861172, 33.86925236], 
-            [-116.80861716, 33.86925127], 
-            [-116.8086226, 33.86925022], 
-            [-116.80862806, 33.86924922], 
-            [-116.80863354, 33.86924827], 
-            [-116.80863902, 33.86924736], 
-            [-116.80864451, 33.8692465], 
-            [-116.80865002, 33.86924568], 
-            [-116.80865553, 33.86924491], 
-            [-116.80866155, 33.86924413], 
-            [-116.80866662, 33.86924351], 
-            [-116.80867213, 33.86924289], 
-            [-116.80867767, 33.8692423], 
-            [-116.80868323, 33.86924177], 
-            [-116.80868879, 33.86924128], 
-            [-116.80869435, 33.86924084], 
-            [-116.80869992, 33.86924044], 
-            [-116.8087055, 33.86924009], 
-            [-116.80871108, 33.86923979], 
-            [-116.80871666, 33.86923953], 
-            [-116.80872224, 33.86923933], 
-            [-116.80898521, 33.86923171], 
-            [-116.80899869, 33.86923092], 
-            [-116.80900659, 33.86923036], 
-            [-116.80901409, 33.86922976], 
-            [-116.8090211, 33.86922916], 
-            [-116.80902858, 33.86922845], 
-            [-116.80903606, 33.86922768], 
-            [-116.80904399, 33.8692268], 
-            [-116.80905098, 33.86922597], 
-            [-116.80905842, 33.86922502], 
-            [-116.80906632, 33.86922395], 
-            [-116.80907374, 33.86922289], 
-            [-116.80908068, 33.86922183], 
-            [-116.80908808, 33.86922065], 
-            [-116.80909546, 33.86921941], 
-            [-116.80910283, 33.86921811], 
-            [-116.80911018, 33.86921676], 
-            [-116.80911752, 33.86921534], 
-            [-116.80912484, 33.86921387], 
-            [-116.80913214, 33.86921234], 
-            [-116.80913943, 33.86921075], 
-            [-116.80914715, 33.869209], 
-            [-116.8091544, 33.86920729], 
-            [-116.80916162, 33.86920552], 
-            [-116.80916883, 33.8692037], 
-            [-116.80917556, 33.86920194], 
-            [-116.80918272, 33.8692], 
-            [-116.80918986, 33.86919801], 
-            [-116.80919698, 33.86919596], 
-            [-116.80920408, 33.86919386], 
-            [-116.80921115, 33.8691917], 
-            [-116.80921864, 33.86918934], 
-            [-116.80922566, 33.86918707], 
-            [-116.80923265, 33.86918473], 
-            [-116.80923962, 33.86918235], 
-            [-116.80924612, 33.86918006], 
-            [-116.80925303, 33.86917757], 
-            [-116.80925991, 33.86917502], 
-            [-116.80926676, 33.86917242], 
-            [-116.80927358, 33.86916976], 
-            [-116.80928081, 33.86916687], 
-            [-116.80928756, 33.8691641], 
-            [-116.80929429, 33.86916128], 
-            [-116.80930099, 33.86915841], 
-            [-116.80930765, 33.86915548], 
-            [-116.80931427, 33.86915249], 
-            [-116.80932045, 33.86914965], 
-            [-116.80932701, 33.86914657], 
-            [-116.80933354, 33.86914343], 
-            [-116.80934044, 33.86914004], 
-            [-116.80934689, 33.8691368], 
-            [-116.8093533, 33.86913351], 
-            [-116.80935967, 33.86913017], 
-            [-116.80936601, 33.86912677], 
-            [-116.80937231, 33.86912333], 
-            [-116.80937856, 33.86911984], 
-            [-116.80938478, 33.86911629], 
-            [-116.80939096, 33.8691127], 
-            [-116.80939671, 33.86910929], 
-            [-116.8094028, 33.8691056], 
-            [-116.80940885, 33.86910187], 
-            [-116.80941486, 33.86909808], 
-            [-116.80942083, 33.86909425], 
-            [-116.80942715, 33.86909011], 
-            [-116.80986625, 33.8687933], 
-            [-116.80987118, 33.86879162], 
-            [-116.81251097, 33.86861654], 
-            [-116.81253862, 33.86784209], 
-            [-116.81375911, 33.86785436], 
-            [-116.8148769, 33.86786558], 
-            [-116.81551177, 33.86787195], 
-            [-116.81607695, 33.86787762], 
-            [-116.8160319, 33.86858544], 
-            [-116.81757033, 33.86861294], 
-            [-116.81857199, 33.86863084], 
-            [-116.81956502, 33.86864812], 
-            [-116.82057157, 33.86866596], 
-            [-116.82156321, 33.86868352], 
-            [-116.82154936, 33.86918551], 
-            [-116.82236302, 33.86918243], 
-            [-116.82294727, 33.86918021], 
-            [-116.82353153, 33.869178], 
-            [-116.82438239, 33.86918791], 
-            [-116.82460718, 33.8691739], 
-            [-116.82460549, 33.86921712], 
-            [-116.82458584, 33.86971966], 
-            [-116.82451697, 33.8714816], 
-            [-116.82450921, 33.8719465], 
-            [-116.82450771, 33.87203669], 
-            [-116.82446178, 33.87479002], 
-            [-116.82443275, 33.87652998], 
-            [-116.82441108, 33.87782933], 
-            [-116.82439506, 33.87878938], 
-            [-116.8243628, 33.88073556], 
-            [-116.82435387, 33.8812749], 
-            [-116.82429971, 33.88454247], 
-            [-116.82427392, 33.88609843], 
-            [-116.83071785, 33.8861572], 
-            [-116.83218493, 33.88617053], 
-            [-116.83316648, 33.88617944], 
-            [-116.83469825, 33.88619333], 
-            [-116.83753492, 33.886219], 
-            [-116.83902881, 33.8862325], 
-            [-116.84009733, 33.88624214], 
-            [-116.84129526, 33.88625294], 
-            [-116.84205906, 33.88625982], 
-            [-116.84199915, 33.89275767], 
-            [-116.84199401, 33.89331412], 
-            [-116.84192353, 33.90095635], 
-            [-116.84190267, 33.90321824], 
-            [-116.84188983, 33.90321826], 
-            [-116.824417, 33.90324013], 
-            [-116.82303361, 33.90325624], 
-            [-116.81672925, 33.90332949], 
-            [-116.81107439, 33.90334585], 
-            [-116.80682464, 33.90334702], 
-            [-116.8068258, 33.90326459], 
-            [-116.80671593, 33.90326461], 
-            [-116.80671545, 33.90334705], 
-            [-116.80237779, 33.90335559], 
-            [-116.80236519, 33.90335561], 
-            [-116.80236503, 33.90327318], 
-            [-116.80019127, 33.9032774], 
-            [-116.80019006, 33.90335984], 
-            [-116.7991025, 33.90336194], 
-            [-116.79804014, 33.90336398], 
-            [-116.79793321, 33.90336419], 
-            [-116.79606834, 33.90336775], 
-            [-116.7948165, 33.90337012]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808272, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-MRF-TWINPINES2", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 47328209.06640625, 
-        "SHAPE__Length" : 34477.584963349109, 
-        "GlobalID" : "13207a3e-1383-49af-b9ec-5a3f12f38ed8"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808273, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.80986625, 33.8687933], 
-            [-116.80942715, 33.86909011], 
-            [-116.80942083, 33.86909425], 
-            [-116.80941486, 33.86909808], 
-            [-116.80940885, 33.86910187], 
-            [-116.8094028, 33.8691056], 
-            [-116.80939671, 33.86910929], 
-            [-116.80939096, 33.8691127], 
-            [-116.80938478, 33.86911629], 
-            [-116.80937856, 33.86911984], 
-            [-116.80937231, 33.86912333], 
-            [-116.80936601, 33.86912677], 
-            [-116.80935967, 33.86913017], 
-            [-116.8093533, 33.86913351], 
-            [-116.80934689, 33.8691368], 
-            [-116.80934044, 33.86914004], 
-            [-116.80933354, 33.86914343], 
-            [-116.80932701, 33.86914657], 
-            [-116.80932045, 33.86914965], 
-            [-116.80931427, 33.86915249], 
-            [-116.80930765, 33.86915548], 
-            [-116.80930099, 33.86915841], 
-            [-116.80929429, 33.86916128], 
-            [-116.80928756, 33.8691641], 
-            [-116.80928081, 33.86916687], 
-            [-116.80927358, 33.86916976], 
-            [-116.80926676, 33.86917242], 
-            [-116.80925991, 33.86917502], 
-            [-116.80925303, 33.86917757], 
-            [-116.80924612, 33.86918006], 
-            [-116.80923962, 33.86918235], 
-            [-116.80923265, 33.86918473], 
-            [-116.80922566, 33.86918707], 
-            [-116.80921864, 33.86918934], 
-            [-116.80921115, 33.8691917], 
-            [-116.80920408, 33.86919386], 
-            [-116.80919698, 33.86919596], 
-            [-116.80918986, 33.86919801], 
-            [-116.80918272, 33.8692], 
-            [-116.80917556, 33.86920194], 
-            [-116.80916883, 33.8692037], 
-            [-116.80916162, 33.86920552], 
-            [-116.8091544, 33.86920729], 
-            [-116.80914715, 33.869209], 
-            [-116.80913943, 33.86921075], 
-            [-116.80913214, 33.86921234], 
-            [-116.80912484, 33.86921387], 
-            [-116.80911752, 33.86921534], 
-            [-116.80911018, 33.86921676], 
-            [-116.80910283, 33.86921811], 
-            [-116.80909546, 33.86921941], 
-            [-116.80908808, 33.86922065], 
-            [-116.80908068, 33.86922183], 
-            [-116.80907374, 33.86922289], 
-            [-116.80906632, 33.86922395], 
-            [-116.80905842, 33.86922502], 
-            [-116.80905098, 33.86922597], 
-            [-116.80904399, 33.8692268], 
-            [-116.80903606, 33.86922768], 
-            [-116.80902858, 33.86922845], 
-            [-116.8090211, 33.86922916], 
-            [-116.80901409, 33.86922976], 
-            [-116.80900659, 33.86923036], 
-            [-116.80899869, 33.86923092], 
-            [-116.80898521, 33.86923171], 
-            [-116.80872224, 33.86923933], 
-            [-116.80871666, 33.86923953], 
-            [-116.80871108, 33.86923979], 
-            [-116.8087055, 33.86924009], 
-            [-116.80869992, 33.86924044], 
-            [-116.80869435, 33.86924084], 
-            [-116.80868879, 33.86924128], 
-            [-116.80868323, 33.86924177], 
-            [-116.80867767, 33.8692423], 
-            [-116.80867213, 33.86924289], 
-            [-116.80866662, 33.86924351], 
-            [-116.80866155, 33.86924413], 
-            [-116.80865553, 33.86924491], 
-            [-116.80865002, 33.86924568], 
-            [-116.80864451, 33.8692465], 
-            [-116.80863902, 33.86924736], 
-            [-116.80863354, 33.86924827], 
-            [-116.80862806, 33.86924922], 
-            [-116.8086226, 33.86925022], 
-            [-116.80861716, 33.86925127], 
-            [-116.80861172, 33.86925236], 
-            [-116.8086063, 33.8692535], 
-            [-116.80860089, 33.86925469], 
-            [-116.8085955, 33.86925591], 
-            [-116.80859012, 33.86925719], 
-            [-116.80858476, 33.86925851], 
-            [-116.80857941, 33.86925987], 
-            [-116.80857408, 33.86926128], 
-            [-116.80856877, 33.86926274], 
-            [-116.80856348, 33.86926424], 
-            [-116.8085582, 33.86926578], 
-            [-116.80855295, 33.86926737], 
-            [-116.80854771, 33.869269], 
-            [-116.80854249, 33.86927068], 
-            [-116.8085373, 33.8692724], 
-            [-116.80853212, 33.86927416], 
-            [-116.80852697, 33.86927597], 
-            [-116.80852183, 33.86927782], 
-            [-116.80851673, 33.86927971], 
-            [-116.80851164, 33.86928165], 
-            [-116.80850658, 33.86928363], 
-            [-116.80850154, 33.86928565], 
-            [-116.80849653, 33.86928771], 
-            [-116.80849154, 33.86928982], 
-            [-116.80848658, 33.86929197], 
-            [-116.80848164, 33.86929416], 
-            [-116.80847673, 33.86929639], 
-            [-116.80847185, 33.86929866], 
-            [-116.80846699, 33.86930098], 
-            [-116.80846217, 33.86930333], 
-            [-116.80845737, 33.86930572], 
-            [-116.8084526, 33.86930816], 
-            [-116.80844787, 33.86931063], 
-            [-116.80844316, 33.86931315], 
-            [-116.80843848, 33.8693157], 
-            [-116.80843384, 33.8693183], 
-            [-116.80842922, 33.86932093], 
-            [-116.80842464, 33.8693236], 
-            [-116.80842009, 33.86932631], 
-            [-116.80841557, 33.86932906], 
-            [-116.80841109, 33.86933185], 
-            [-116.80840664, 33.86933467], 
-            [-116.80840222, 33.86933753], 
-            [-116.80839784, 33.86934043], 
-            [-116.8083935, 33.86934336], 
-            [-116.80838919, 33.86934633], 
-            [-116.80838492, 33.86934934], 
-            [-116.80838068, 33.86935239], 
-            [-116.80837648, 33.86935546], 
-            [-116.80837232, 33.86935858], 
-            [-116.8083682, 33.86936173], 
-            [-116.80836411, 33.86936491], 
-            [-116.80836008, 33.86936812], 
-            [-116.80835438, 33.86937274], 
-            [-116.80820236, 33.86949052], 
-            [-116.80819716, 33.86949452], 
-            [-116.80819153, 33.86949879], 
-            [-116.80818611, 33.86950284], 
-            [-116.80818066, 33.86950685], 
-            [-116.80817518, 33.86951084], 
-            [-116.80816966, 33.86951479], 
-            [-116.80816411, 33.86951871], 
-            [-116.80815853, 33.86952259], 
-            [-116.80815292, 33.86952645], 
-            [-116.80814728, 33.86953027], 
-            [-116.80814187, 33.86953388], 
-            [-116.8081359, 33.86953782], 
-            [-116.80813016, 33.86954155], 
-            [-116.80812467, 33.86954506], 
-            [-116.80811859, 33.8695489], 
-            [-116.80811304, 33.86955235], 
-            [-116.80810718, 33.86955594], 
-            [-116.8081013, 33.8695595], 
-            [-116.80809538, 33.86956303], 
-            [-116.80808915, 33.86956668], 
-            [-116.80808318, 33.86957014], 
-            [-116.80807746, 33.8695734], 
-            [-116.80807143, 33.86957678], 
-            [-116.80806537, 33.86958014], 
-            [-116.80805899, 33.86958361], 
-            [-116.80805288, 33.86958689], 
-            [-116.80804703, 33.86958999], 
-            [-116.80804057, 33.86959335], 
-            [-116.80803437, 33.86959653], 
-            [-116.80802845, 33.86959952], 
-            [-116.80802191, 33.86960277], 
-            [-116.80801593, 33.86960569], 
-            [-116.80800964, 33.86960872], 
-            [-116.80800301, 33.86961186], 
-            [-116.80799667, 33.86961482], 
-            [-116.8079906, 33.8696176], 
-            [-116.80798421, 33.86962049], 
-            [-116.80797779, 33.86962334], 
-            [-116.80797135, 33.86962615], 
-            [-116.80796488, 33.86962893], 
-            [-116.80795809, 33.86963179], 
-            [-116.80795189, 33.86963437], 
-            [-116.80794536, 33.86963703], 
-            [-116.8079388, 33.86963966], 
-            [-116.80793223, 33.86964224], 
-            [-116.80792563, 33.86964479], 
-            [-116.80791901, 33.86964731], 
-            [-116.80791206, 33.8696499], 
-            [-116.80790571, 33.86965222], 
-            [-116.80789904, 33.86965461], 
-            [-116.80789202, 33.86965708], 
-            [-116.8078853, 33.8696594], 
-            [-116.80787883, 33.86966159], 
-            [-116.8078691, 33.8696648], 
-            [-116.80743656, 33.86981916], 
-            [-116.80720601, 33.86990143], 
-            [-116.80719936, 33.86990371], 
-            [-116.80719353, 33.86990572], 
-            [-116.80718771, 33.86990775], 
-            [-116.80718189, 33.86990978], 
-            [-116.80717609, 33.86991183], 
-            [-116.80717029, 33.8699139], 
-            [-116.8071645, 33.86991598], 
-            [-116.80715871, 33.86991807], 
-            [-116.80715293, 33.86992017], 
-            [-116.80714716, 33.8699223], 
-            [-116.8071414, 33.86992443], 
-            [-116.80713564, 33.86992658], 
-            [-116.80712989, 33.86992874], 
-            [-116.80712415, 33.86993091], 
-            [-116.80711842, 33.8699331], 
-            [-116.80711269, 33.8699353], 
-            [-116.80710698, 33.86993752], 
-            [-116.80710126, 33.86993975], 
-            [-116.80709556, 33.86994199], 
-            [-116.80708986, 33.86994425], 
-            [-116.80708418, 33.86994652], 
-            [-116.8070785, 33.8699488], 
-            [-116.80707283, 33.8699511], 
-            [-116.80706716, 33.86995341], 
-            [-116.80706151, 33.86995574], 
-            [-116.80705586, 33.86995808], 
-            [-116.80705022, 33.86996043], 
-            [-116.80704458, 33.8699628], 
-            [-116.80703896, 33.86996517], 
-            [-116.80703335, 33.86996756], 
-            [-116.80702774, 33.86996997], 
-            [-116.80702214, 33.86997239], 
-            [-116.80701655, 33.86997482], 
-            [-116.80701097, 33.86997727], 
-            [-116.80700539, 33.86997973], 
-            [-116.80699983, 33.8699822], 
-            [-116.80699427, 33.86998468], 
-            [-116.80698872, 33.86998718], 
-            [-116.80698318, 33.8699897], 
-            [-116.80697765, 33.86999222], 
-            [-116.80697213, 33.86999476], 
-            [-116.80696661, 33.86999731], 
-            [-116.80696111, 33.86999988], 
-            [-116.80695561, 33.87000245], 
-            [-116.80695012, 33.87000504], 
-            [-116.80694465, 33.87000765], 
-            [-116.80693918, 33.87001027], 
-            [-116.80693325, 33.87001312], 
-            [-116.80670729, 33.87015662], 
-            [-116.80670764, 33.87006133], 
-            [-116.80670787, 33.86995564], 
-            [-116.80671586, 33.86775892], 
-            [-116.80672236, 33.86596996], 
-            [-116.80672258, 33.86591057], 
-            [-116.80672807, 33.86439963], 
-            [-116.80672496, 33.86428368], 
-            [-116.80664895, 33.8614471], 
-            [-116.80652869, 33.85695896], 
-            [-116.8065836, 33.8421866], 
-            [-116.81295214, 33.84224528], 
-            [-116.81300447, 33.84224576], 
-            [-116.81330381, 33.84224851], 
-            [-116.81353792, 33.84225066], 
-            [-116.81532565, 33.84226707], 
-            [-116.819779, 33.84230783], 
-            [-116.82358159, 33.8423425], 
-            [-116.8243562, 33.84234955], 
-            [-116.82436224, 33.8425408], 
-            [-116.84241024, 33.84189163], 
-            [-116.84238362, 33.84558664], 
-            [-116.84235641, 33.84936289], 
-            [-116.84232962, 33.85308065], 
-            [-116.84230283, 33.8567984], 
-            [-116.84230652, 33.85850485], 
-            [-116.84230725, 33.85884154], 
-            [-116.84230998, 33.86010559], 
-            [-116.8423102, 33.86020586], 
-            [-116.84231067, 33.8604261], 
-            [-116.84231885, 33.86420882], 
-            [-116.84232663, 33.86780763], 
-            [-116.84232762, 33.86826497], 
-            [-116.84233049, 33.86959592], 
-            [-116.84228803, 33.86971451], 
-            [-116.84223226, 33.86987028], 
-            [-116.8422334, 33.87039649], 
-            [-116.84223604, 33.87161847], 
-            [-116.84223814, 33.8725917], 
-            [-116.84231656, 33.87259129], 
-            [-116.84229625, 33.8736694], 
-            [-116.84223444, 33.87695103], 
-            [-116.84222412, 33.87749849], 
-            [-116.84222294, 33.87756133], 
-            [-116.84221055, 33.8782191], 
-            [-116.84220495, 33.87851648], 
-            [-116.84219719, 33.87892809], 
-            [-116.84218163, 33.8797541], 
-            [-116.84205906, 33.88625982], 
-            [-116.84129526, 33.88625294], 
-            [-116.84009733, 33.88624214], 
-            [-116.83902881, 33.8862325], 
-            [-116.83753492, 33.886219], 
-            [-116.83469825, 33.88619333], 
-            [-116.83316648, 33.88617944], 
-            [-116.83218493, 33.88617053], 
-            [-116.83071785, 33.8861572], 
-            [-116.82427392, 33.88609843], 
-            [-116.82429971, 33.88454247], 
-            [-116.82435387, 33.8812749], 
-            [-116.8243628, 33.88073556], 
-            [-116.82439506, 33.87878938], 
-            [-116.82441108, 33.87782933], 
-            [-116.82443275, 33.87652998], 
-            [-116.82446178, 33.87479002], 
-            [-116.82450771, 33.87203669], 
-            [-116.82450921, 33.8719465], 
-            [-116.82451697, 33.8714816], 
-            [-116.82458584, 33.86971966], 
-            [-116.82460549, 33.86921712], 
-            [-116.82460718, 33.8691739], 
-            [-116.82438239, 33.86918791], 
-            [-116.82353153, 33.869178], 
-            [-116.82294727, 33.86918021], 
-            [-116.82236302, 33.86918243], 
-            [-116.82154936, 33.86918551], 
-            [-116.82156321, 33.86868352], 
-            [-116.82057157, 33.86866596], 
-            [-116.81956502, 33.86864812], 
-            [-116.81857199, 33.86863084], 
-            [-116.81757033, 33.86861294], 
-            [-116.8160319, 33.86858544], 
-            [-116.81607695, 33.86787762], 
-            [-116.81551177, 33.86787195], 
-            [-116.8148769, 33.86786558], 
-            [-116.81375911, 33.86785436], 
-            [-116.81253862, 33.86784209], 
-            [-116.81251097, 33.86861654], 
-            [-116.80987118, 33.86879162], 
-            [-116.80986625, 33.8687933]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808273, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-TWINPINES1", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 18756591.6171875, 
-        "SHAPE__Length" : 20289.720542211315, 
-        "GlobalID" : "7573677a-f69f-4284-97fe-d23e05f74056"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808274, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.8600453, 33.84579219], 
-            [-116.86048059, 33.8457983], 
-            [-116.86079387, 33.84580528], 
-            [-116.86085414, 33.84580663], 
-            [-116.86085073, 33.84566773], 
-            [-116.86084718, 33.84552314], 
-            [-116.86089031, 33.84552402], 
-            [-116.86089481, 33.84552411], 
-            [-116.86121265, 33.84553058], 
-            [-116.86122125, 33.84553076], 
-            [-116.86155048, 33.8455355], 
-            [-116.8615971, 33.84553617], 
-            [-116.86164568, 33.84567017], 
-            [-116.86197261, 33.84567696], 
-            [-116.86196974, 33.84556003], 
-            [-116.86196786, 33.8454831], 
-            [-116.86202693, 33.84554218], 
-            [-116.86219498, 33.84571026], 
-            [-116.86243761, 33.84554141], 
-            [-116.8624772, 33.84551386], 
-            [-116.86442948, 33.84551328], 
-            [-116.86444939, 33.84780122], 
-            [-116.86445474, 33.84841952], 
-            [-116.86445668, 33.84869433], 
-            [-116.86446008, 33.84903783], 
-            [-116.86449744, 33.85085187], 
-            [-116.86449946, 33.85094804], 
-            [-116.86341427, 33.85096391], 
-            [-116.86015262, 33.85101158], 
-            [-116.86019179, 33.85291665], 
-            [-116.85556858, 33.85296024], 
-            [-116.85556869, 33.85106478], 
-            [-116.8555687, 33.85096859], 
-            [-116.85556873, 33.8503497], 
-            [-116.85568242, 33.85031671], 
-            [-116.8557587, 33.85029593], 
-            [-116.85579685, 33.85028554], 
-            [-116.85587112, 33.85026294], 
-            [-116.85594364, 33.85023671], 
-            [-116.85601415, 33.85020694], 
-            [-116.85608241, 33.85017373], 
-            [-116.85626049, 33.85007062], 
-            [-116.8563186, 33.85003492], 
-            [-116.85637987, 33.85000307], 
-            [-116.85644394, 33.84997528], 
-            [-116.8565104, 33.84995169], 
-            [-116.85656483, 33.8499364], 
-            [-116.8566204, 33.84992428], 
-            [-116.85667685, 33.84991539], 
-            [-116.85676244, 33.84990363], 
-            [-116.8568471, 33.84988791], 
-            [-116.85693056, 33.84986828], 
-            [-116.85703005, 33.84983923], 
-            [-116.85712694, 33.84980463], 
-            [-116.85722077, 33.84976464], 
-            [-116.85731111, 33.84971945], 
-            [-116.85744649, 33.84963603], 
-            [-116.85757959, 33.84955013], 
-            [-116.85763373, 33.8495124], 
-            [-116.85769109, 33.8494781], 
-            [-116.85775136, 33.84944743], 
-            [-116.8578142, 33.84942056], 
-            [-116.85786571, 33.84940229], 
-            [-116.85791853, 33.84938682], 
-            [-116.85799925, 33.84936836], 
-            [-116.85807833, 33.84934554], 
-            [-116.85815491, 33.8493179], 
-            [-116.85822856, 33.84928523], 
-            [-116.8582988, 33.84924774], 
-            [-116.85835417, 33.84921316], 
-            [-116.85838041, 33.84919437], 
-            [-116.85840664, 33.84917559], 
-            [-116.85846279, 33.84912919], 
-            [-116.85846513, 33.84912445], 
-            [-116.85847004, 33.84912437], 
-            [-116.85852592, 33.8491235], 
-            [-116.85932299, 33.84911114], 
-            [-116.85942773, 33.84910951], 
-            [-116.85975286, 33.84910444], 
-            [-116.86002109, 33.8491003], 
-            [-116.86006389, 33.84909964], 
-            [-116.86011329, 33.84909888], 
-            [-116.86011176, 33.8490247], 
-            [-116.86011041, 33.84895876], 
-            [-116.86010979, 33.84892869], 
-            [-116.86010758, 33.84882138], 
-            [-116.86010699, 33.84879231], 
-            [-116.86010193, 33.84854662], 
-            [-116.86010145, 33.84852313], 
-            [-116.86009628, 33.84827187], 
-            [-116.86009573, 33.84824491], 
-            [-116.86009346, 33.84813449], 
-            [-116.86009289, 33.84810668], 
-            [-116.86008216, 33.84758498], 
-            [-116.86008169, 33.84756221], 
-            [-116.86007934, 33.8474476], 
-            [-116.86007888, 33.84742559], 
-            [-116.86007374, 33.8471756], 
-            [-116.86007317, 33.84714765], 
-            [-116.86007093, 33.84703877], 
-            [-116.86007039, 33.84701264], 
-            [-116.86006359, 33.846682], 
-            [-116.86006242, 33.84662513], 
-            [-116.86004596, 33.84582414], 
-            [-116.8600453, 33.84579219]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808274, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-POPPETFLATS1", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 583244.85546875, 
-        "SHAPE__Length" : 3916.2926488031444, 
-        "GlobalID" : "84c9ff66-fd4f-47b8-82bd-b812e10f07b9"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808275, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.85960209, 33.841946], 
-            [-116.85960384, 33.841946], 
-            [-116.85996625, 33.84194709], 
-            [-116.85996627, 33.84194814], 
-            [-116.85996794, 33.84202952], 
-            [-116.85997194, 33.84222427], 
-            [-116.86000328, 33.8437485], 
-            [-116.86000498, 33.84383092], 
-            [-116.86000667, 33.84391335], 
-            [-116.86004279, 33.84567028], 
-            [-116.86004443, 33.84574995], 
-            [-116.8600453, 33.84579219], 
-            [-116.86004596, 33.84582414], 
-            [-116.86006242, 33.84662513], 
-            [-116.86006359, 33.846682], 
-            [-116.86007039, 33.84701264], 
-            [-116.86007093, 33.84703877], 
-            [-116.86007317, 33.84714765], 
-            [-116.86007317, 33.84714777], 
-            [-116.86007374, 33.8471756], 
-            [-116.86007888, 33.84742559], 
-            [-116.86007934, 33.8474476], 
-            [-116.86008169, 33.84756221], 
-            [-116.86008216, 33.84758488], 
-            [-116.86008216, 33.84758498], 
-            [-116.86009289, 33.84810668], 
-            [-116.86009317, 33.84812058], 
-            [-116.86009346, 33.84813449], 
-            [-116.86009573, 33.84824491], 
-            [-116.86009628, 33.84827187], 
-            [-116.86010138, 33.84851992], 
-            [-116.86010145, 33.84852313], 
-            [-116.86010193, 33.84854662], 
-            [-116.86010196, 33.84854767], 
-            [-116.86010699, 33.84879231], 
-            [-116.86010758, 33.84882125], 
-            [-116.86010758, 33.84882138], 
-            [-116.86010979, 33.84892869], 
-            [-116.86010979, 33.84892882], 
-            [-116.86011041, 33.84895876], 
-            [-116.86011176, 33.8490247], 
-            [-116.86011329, 33.84909888], 
-            [-116.86006389, 33.84909964], 
-            [-116.86002109, 33.8491003], 
-            [-116.85975286, 33.84910444], 
-            [-116.85942773, 33.84910951], 
-            [-116.85932299, 33.84911114], 
-            [-116.85852592, 33.8491235], 
-            [-116.85847004, 33.84912437], 
-            [-116.85846513, 33.84912445], 
-            [-116.85846279, 33.84912919], 
-            [-116.85840664, 33.84917559], 
-            [-116.85838041, 33.84919437], 
-            [-116.85835417, 33.84921316], 
-            [-116.8582988, 33.84924774], 
-            [-116.85822856, 33.84928523], 
-            [-116.85815491, 33.8493179], 
-            [-116.85807833, 33.84934554], 
-            [-116.85799925, 33.84936836], 
-            [-116.85791853, 33.84938682], 
-            [-116.85786571, 33.84940229], 
-            [-116.8578142, 33.84942056], 
-            [-116.85775136, 33.84944743], 
-            [-116.85769109, 33.8494781], 
-            [-116.85763373, 33.8495124], 
-            [-116.85757959, 33.84955013], 
-            [-116.85744649, 33.84963603], 
-            [-116.85731111, 33.84971945], 
-            [-116.85722077, 33.84976464], 
-            [-116.85712694, 33.84980463], 
-            [-116.85703005, 33.84983923], 
-            [-116.85693056, 33.84986828], 
-            [-116.8568471, 33.84988791], 
-            [-116.85684486, 33.84988833], 
-            [-116.85676244, 33.84990363], 
-            [-116.85667685, 33.84991539], 
-            [-116.8566204, 33.84992428], 
-            [-116.85656483, 33.8499364], 
-            [-116.8565104, 33.84995169], 
-            [-116.85644394, 33.84997528], 
-            [-116.85637987, 33.85000307], 
-            [-116.8563186, 33.85003492], 
-            [-116.85626049, 33.85007062], 
-            [-116.85608241, 33.85017373], 
-            [-116.85601415, 33.85020694], 
-            [-116.85594364, 33.85023671], 
-            [-116.85587112, 33.85026294], 
-            [-116.85579685, 33.85028554], 
-            [-116.8557587, 33.85029593], 
-            [-116.85568242, 33.85031671], 
-            [-116.85556873, 33.8503497], 
-            [-116.8555687, 33.85096859], 
-            [-116.85556869, 33.85106478], 
-            [-116.85556858, 33.85296024], 
-            [-116.8556527, 33.85675541], 
-            [-116.85216592, 33.85676385], 
-            [-116.85088002, 33.85676691], 
-            [-116.85079703, 33.8567672], 
-            [-116.84658538, 33.85678274], 
-            [-116.84587743, 33.85678534], 
-            [-116.84577447, 33.85678572], 
-            [-116.84532028, 33.85678738], 
-            [-116.84520238, 33.85678782], 
-            [-116.84232797, 33.85679831], 
-            [-116.84230283, 33.8567984], 
-            [-116.84232962, 33.85308065], 
-            [-116.84235641, 33.84936289], 
-            [-116.84238362, 33.84558664], 
-            [-116.84241024, 33.84189163], 
-            [-116.84679816, 33.84190621], 
-            [-116.85118608, 33.84192063], 
-            [-116.85960209, 33.841946]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808275, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC_POPPETFLATS4", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 3439739.65234375, 
-        "SHAPE__Length" : 7805.94944846301, 
-        "GlobalID" : "b9a869e8-92b6-4085-82c4-2a860f214df8"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808276, 
+      "id" : 816780, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20225,7 +18906,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808276, 
+        "OBJECTID" : 816780, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20239,12 +18920,12 @@
         "NOTES" : "Kern County Sheriffs: Zones KRN-245, KRN-249, KRN-259, KRN-281B are under Evacuation Warning due to the Madre Fire in San Luis Obispo County. Prepare to leave. ", 
         "SHAPE__Area" : 141869387.8125, 
         "SHAPE__Length" : 57056.385855637236, 
-        "GlobalID" : "d6885963-ee3b-4344-9d77-f052730a8eeb"
+        "GlobalID" : "9ffe2434-3fa2-4e3d-ba6f-7312e3e8fdb0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808277, 
+      "id" : 816781, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20751,7 +19432,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808277, 
+        "OBJECTID" : 816781, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -20765,12 +19446,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1708 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov\n", 
         "SHAPE__Area" : 72418646.8125, 
         "SHAPE__Length" : 41026.665434552793, 
-        "GlobalID" : "c386d81b-3c5f-463c-85c6-effed7c16a64"
+        "GlobalID" : "c0f55b85-cac6-4ae3-bc6e-3e8ea4572a76"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808278, 
+      "id" : 816782, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21944,7 +20625,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808278, 
+        "OBJECTID" : 816782, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -21958,12 +20639,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued and evacuation order for Zone SIS-1414 due to the Summit Fire. Anyone in this area is ordered to evacuate immediately.", 
         "SHAPE__Area" : 186878364.98046875, 
         "SHAPE__Length" : 59175.465824034189, 
-        "GlobalID" : "6408d40f-7d70-41be-8fc1-3fa3d3b279dc"
+        "GlobalID" : "b731fcca-347e-4cde-bf1f-50e0abd34a63"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808279, 
+      "id" : 816783, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21987,7 +20668,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808279, 
+        "OBJECTID" : 816783, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22001,12 +20682,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1707, FRK-1709, SIS-1710 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 5828693.48046875, 
         "SHAPE__Length" : 9789.8998112411227, 
-        "GlobalID" : "648bb6be-3318-4b6f-a206-03409c7765a4"
+        "GlobalID" : "60f712f7-b576-45f2-96a4-f13d5cb0f119"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808280, 
+      "id" : 816784, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -22409,7 +21090,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808280, 
+        "OBJECTID" : 816784, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -22423,12 +21104,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1707, FRK-1709, SIS-1710 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 45805607.66796875, 
         "SHAPE__Length" : 36635.791042636323, 
-        "GlobalID" : "f59ccd03-1514-452c-a66a-255a02bbc116"
+        "GlobalID" : "cd6a730e-2ffc-40cd-b881-ddc4fbab369c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808281, 
+      "id" : 816785, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23154,7 +21835,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808281, 
+        "OBJECTID" : 816785, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23168,72 +21849,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1707, FRK-1709, SIS-1710 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 114395532.66796875, 
         "SHAPE__Length" : 53221.446199739032, 
-        "GlobalID" : "d7679583-9f31-40c0-8820-37a9ec9ec8cc"
+        "GlobalID" : "2210776c-3b21-4d6c-a0ba-51f80b536f07"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808282, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.84171825, 33.91457344], 
-            [-116.84184521, 33.90814013], 
-            [-116.84185377, 33.90721273], 
-            [-116.84178317, 33.9069388], 
-            [-116.84176163, 33.9068574], 
-            [-116.84185713, 33.90684767], 
-            [-116.84200944, 33.90684865], 
-            [-116.84319068, 33.90686069], 
-            [-116.84638594, 33.90688007], 
-            [-116.85035803, 33.90689398], 
-            [-116.85110118, 33.90689239], 
-            [-116.85110401, 33.90702515], 
-            [-116.85109218, 33.90702517], 
-            [-116.85109333, 33.90767684], 
-            [-116.85111102, 33.91109], 
-            [-116.85242493, 33.91078108], 
-            [-116.85245501, 33.91077401], 
-            [-116.85351501, 33.910724], 
-            [-116.85432801, 33.91077399], 
-            [-116.85466814, 33.91077643], 
-            [-116.85555813, 33.9107828], 
-            [-116.85651572, 33.91078966], 
-            [-116.8566465, 33.9107906], 
-            [-116.85712476, 33.91079402], 
-            [-116.85879714, 33.91079595], 
-            [-116.85922741, 33.91079644], 
-            [-116.8593338, 33.9107937], 
-            [-116.85938872, 33.91079229], 
-            [-116.85938159, 33.91262338], 
-            [-116.84171825, 33.91457344]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808282, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-BAN-0538-B", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 1278990.8515625, 
-        "SHAPE__Length" : 5797.3633868744982, 
-        "GlobalID" : "573fd794-4d61-41fc-9189-f0b42bbadd53"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808283, 
+      "id" : 816786, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23956,7 +22577,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808283, 
+        "OBJECTID" : 816786, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -23970,12 +22591,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued an evacuation order due to the Summit Fire. Anyone in this area is ordered to evacuate the area immediately.", 
         "SHAPE__Area" : 69557717.4140625, 
         "SHAPE__Length" : 46540.101137209254, 
-        "GlobalID" : "d27dcf24-abb6-429c-abb7-243365f1a8ad"
+        "GlobalID" : "858387e3-7231-4702-a58c-aaa651c4e9ec"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808284, 
+      "id" : 816787, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24270,7 +22891,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808284, 
+        "OBJECTID" : 816787, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -24284,12 +22905,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued an evacuation warning for Zone SIS-2100-B west of Mugginsville due to the Summit FIre. Anyone in this  area should be prepared to evacuate should conditions warrant-", 
         "SHAPE__Area" : 71729277.8125, 
         "SHAPE__Length" : 37797.194305054647, 
-        "GlobalID" : "93b46ab4-040d-4991-b6d1-78fe7953d637"
+        "GlobalID" : "68f8fb30-d44d-4730-8029-bc0971388a5b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808285, 
+      "id" : 816788, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24325,305 +22946,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808285, 
+        "OBJECTID" : 816788, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-BAN-0651-C", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751490594000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Vegetation fire ", 
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
         "SHAPE__Area" : 132730.67578125, 
         "SHAPE__Length" : 2541.5785134015109, 
-        "GlobalID" : "bffe5c92-c63c-48d5-8d68-ea3818058bdf"
+        "GlobalID" : "55aba417-0af2-4dbb-9c9b-610a357f6f51"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808286, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.88614578, 33.90349367], 
-            [-116.88624019, 33.90347743], 
-            [-116.88666404, 33.90347633], 
-            [-116.88692248, 33.90348517], 
-            [-116.8877196, 33.9034736], 
-            [-116.888328, 33.90346476], 
-            [-116.88894767, 33.90345576], 
-            [-116.89010668, 33.90344593], 
-            [-116.89039553, 33.90344347], 
-            [-116.89177963, 33.90343171], 
-            [-116.89278661, 33.90343131], 
-            [-116.89362784, 33.90345561], 
-            [-116.8937992, 33.90341656], 
-            [-116.89397227, 33.90335407], 
-            [-116.89405734, 33.90329614], 
-            [-116.89407755, 33.90327155], 
-            [-116.89413385, 33.90327217], 
-            [-116.89414087, 33.90336533], 
-            [-116.89415845, 33.9035417], 
-            [-116.89411342, 33.90505045], 
-            [-116.8941352, 33.9107391], 
-            [-116.90084557, 33.91068026], 
-            [-116.9008434, 33.91101397], 
-            [-116.87668607, 33.91097811], 
-            [-116.87668326, 33.91089176], 
-            [-116.87667995, 33.91083611], 
-            [-116.8766769, 33.9107849], 
-            [-116.87667433, 33.91047852], 
-            [-116.87666784, 33.91006567], 
-            [-116.87665837, 33.9094633], 
-            [-116.87665702, 33.90937731], 
-            [-116.8766648, 33.909344], 
-            [-116.87665698, 33.90924872], 
-            [-116.87665692, 33.90899793], 
-            [-116.87665679, 33.90853816], 
-            [-116.87665692, 33.90847201], 
-            [-116.87665712, 33.90837473], 
-            [-116.8766585, 33.90769729], 
-            [-116.87665879, 33.90755752], 
-            [-116.87665946, 33.90722736], 
-            [-116.87665332, 33.90717014], 
-            [-116.87655466, 33.90717027], 
-            [-116.87655638, 33.9066129], 
-            [-116.87651168, 33.90661257], 
-            [-116.87645072, 33.90661212], 
-            [-116.8762531, 33.9066108], 
-            [-116.87626727, 33.90489619], 
-            [-116.87627563, 33.90383162], 
-            [-116.87700493, 33.90373634], 
-            [-116.87737757, 33.90397324], 
-            [-116.87783742, 33.90406536], 
-            [-116.87877297, 33.90419697], 
-            [-116.87911389, 33.90388111], 
-            [-116.87899497, 33.90366396], 
-            [-116.88023973, 33.9036837], 
-            [-116.88022993, 33.90389931], 
-            [-116.88182985, 33.90526512], 
-            [-116.8852811, 33.90496161], 
-            [-116.88614578, 33.90349367]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808286, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-BAN-0651-A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 1867676.67578125, 
-        "SHAPE__Length" : 7792.59155635306, 
-        "GlobalID" : "38386c44-fda8-4aa6-b25c-b3f5c2f5957d"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808287, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.91157215, 33.91468108], 
-            [-116.91151473, 33.91437702], 
-            [-116.91154497, 33.91403422], 
-            [-116.91159509, 33.91390481], 
-            [-116.91160416, 33.91383116], 
-            [-116.91161532, 33.91374051], 
-            [-116.91161313, 33.91307738], 
-            [-116.91159441, 33.91091417], 
-            [-116.91159254, 33.91069842], 
-            [-116.91159198, 33.91063347], 
-            [-116.90537374, 33.91065316], 
-            [-116.90461843, 33.91064223], 
-            [-116.90434355, 33.91063245], 
-            [-116.9041552, 33.91063023], 
-            [-116.90351356, 33.91065923], 
-            [-116.90314255, 33.91066015], 
-            [-116.9016573, 33.91067314], 
-            [-116.90084557, 33.91068026], 
-            [-116.8941352, 33.9107391], 
-            [-116.89411342, 33.90505045], 
-            [-116.89415845, 33.9035417], 
-            [-116.89414087, 33.90336533], 
-            [-116.89413385, 33.90327217], 
-            [-116.89407755, 33.90327155], 
-            [-116.89407699, 33.90327223], 
-            [-116.89431106, 33.89604238], 
-            [-116.89855749, 33.89604], 
-            [-116.9007416, 33.89603871], 
-            [-116.90074671, 33.89967274], 
-            [-116.90279625, 33.89967206], 
-            [-116.90293302, 33.89967201], 
-            [-116.90292572, 33.89603738], 
-            [-116.90730108, 33.89603463], 
-            [-116.91167645, 33.8960317], 
-            [-116.91173569, 33.89233663], 
-            [-116.91179491, 33.88864155], 
-            [-116.91183354, 33.88623029], 
-            [-116.91210723, 33.8862259], 
-            [-116.91325989, 33.88620741], 
-            [-116.91502367, 33.88617911], 
-            [-116.91572122, 33.88616792], 
-            [-116.91601153, 33.88616326], 
-            [-116.91722653, 33.88614377], 
-            [-116.91945768, 33.88610791], 
-            [-116.92061274, 33.88608933], 
-            [-116.92113858, 33.88608087], 
-            [-116.92264544, 33.88605659], 
-            [-116.92317623, 33.88604803], 
-            [-116.92355654, 33.88604191], 
-            [-116.92456333, 33.88602568], 
-            [-116.92483922, 33.88602124], 
-            [-116.92549332, 33.8860107], 
-            [-116.92904935, 33.88595329], 
-            [-116.92905019, 33.88601648], 
-            [-116.92905227, 33.886174], 
-            [-116.92905637, 33.88648533], 
-            [-116.92906961, 33.88748823], 
-            [-116.92908368, 33.88855429], 
-            [-116.92909113, 33.88911941], 
-            [-116.92911717, 33.89269162], 
-            [-116.92969584, 33.8926959], 
-            [-116.92976282, 33.89269628], 
-            [-116.93458487, 33.89273109], 
-            [-116.93463959, 33.89273149], 
-            [-116.93902829, 33.89276317], 
-            [-116.9405454, 33.89277409], 
-            [-116.94055698, 33.89415728], 
-            [-116.94059041, 33.89836888], 
-            [-116.94059386, 33.89880295], 
-            [-116.94059457, 33.89889228], 
-            [-116.94059622, 33.899178], 
-            [-116.94063216, 33.90362862], 
-            [-116.94043458, 33.903629], 
-            [-116.93993224, 33.90362997], 
-            [-116.93928637, 33.90363121], 
-            [-116.93812879, 33.90363339], 
-            [-116.92979402, 33.90364906], 
-            [-116.92966932, 33.9036493], 
-            [-116.92928699, 33.90365002], 
-            [-116.92919673, 33.90365019], 
-            [-116.92918932, 33.90530885], 
-            [-116.9291891, 33.90535855], 
-            [-116.92918873, 33.90544203], 
-            [-116.92918446, 33.90639685], 
-            [-116.92918339, 33.90663612], 
-            [-116.92918304, 33.90671363], 
-            [-116.92918138, 33.90708453], 
-            [-116.92917771, 33.90790672], 
-            [-116.92917403, 33.90872945], 
-            [-116.92917249, 33.90907518], 
-            [-116.92917058, 33.90960898], 
-            [-116.92916995, 33.90978438], 
-            [-116.92915987, 33.91259158], 
-            [-116.9291592, 33.9127877], 
-            [-116.9291893, 33.9128478], 
-            [-116.92919996, 33.91307161], 
-            [-116.92919169, 33.91388692], 
-            [-116.92920301, 33.91496022], 
-            [-116.92923478, 33.91797057], 
-            [-116.92838596, 33.91796122], 
-            [-116.92787073, 33.91796202], 
-            [-116.9276799, 33.91796222], 
-            [-116.92763667, 33.91796227], 
-            [-116.92745685, 33.91796246], 
-            [-116.92603817, 33.91796397], 
-            [-116.92504604, 33.91797232], 
-            [-116.9248653, 33.91797362], 
-            [-116.92476262, 33.91797436], 
-            [-116.92459548, 33.91797556], 
-            [-116.92449618, 33.91797628], 
-            [-116.9244604, 33.91797581], 
-            [-116.92420232, 33.91797244], 
-            [-116.92406458, 33.91797063], 
-            [-116.92360602, 33.91796456], 
-            [-116.92350714, 33.91796325], 
-            [-116.92347572, 33.91796283], 
-            [-116.9233727, 33.91796147], 
-            [-116.92267352, 33.91795221], 
-            [-116.92147004, 33.91793627], 
-            [-116.92090716, 33.91792881], 
-            [-116.9199281, 33.91792808], 
-            [-116.91782216, 33.9179328], 
-            [-116.91676198, 33.91793518], 
-            [-116.91655158, 33.91793565], 
-            [-116.91606816, 33.91793674], 
-            [-116.91575678, 33.91794427], 
-            [-116.91538092, 33.91795335], 
-            [-116.91507723, 33.91792975], 
-            [-116.91502088, 33.91792537], 
-            [-116.91478048, 33.91790871], 
-            [-116.91457689, 33.91791403], 
-            [-116.91440878, 33.91791866], 
-            [-116.914357, 33.917854], 
-            [-116.91416, 33.917607], 
-            [-116.913934, 33.91742], 
-            [-116.913747, 33.917259], 
-            [-116.913552, 33.917], 
-            [-116.913402, 33.916731], 
-            [-116.913277, 33.916495], 
-            [-116.91329, 33.916366], 
-            [-116.913331, 33.916205], 
-            [-116.913337, 33.91602], 
-            [-116.913238, 33.915875], 
-            [-116.913068, 33.915753], 
-            [-116.912823, 33.91559], 
-            [-116.912705, 33.915492], 
-            [-116.912655, 33.915413], 
-            [-116.912634, 33.915342], 
-            [-116.912656, 33.915256], 
-            [-116.912713, 33.915201], 
-            [-116.912765, 33.915111], 
-            [-116.912746, 33.915], 
-            [-116.912628, 33.914855], 
-            [-116.912435, 33.914735], 
-            [-116.912312, 33.914705], 
-            [-116.912155, 33.914658], 
-            [-116.91201, 33.914657], 
-            [-116.911826, 33.914678], 
-            [-116.911606, 33.91469], 
-            [-116.91157215, 33.91468108]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808287, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-0650-B", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 13797481.34375, 
-        "SHAPE__Length" : 19699.083734262054, 
-        "GlobalID" : "65b0cd56-cc8f-4bfa-aab4-2749a1b682bd"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808288, 
+      "id" : 816789, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24665,73 +23007,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808288, 
+        "OBJECTID" : 816789, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-RVC-0650-A", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751490733000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wolf Fire", 
-        "SHAPE__Area" : 2221108.29296875, 
-        "SHAPE__Length" : 6527.4266167671449, 
-        "GlobalID" : "c8002056-a5b2-4da9-8cea-6c95510efc97"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808289, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.91183354, 33.88623029], 
-            [-116.91179491, 33.88864155], 
-            [-116.91173569, 33.89233663], 
-            [-116.91167645, 33.8960317], 
-            [-116.90730108, 33.89603463], 
-            [-116.90292572, 33.89603738], 
-            [-116.90293302, 33.89967201], 
-            [-116.90279625, 33.89967206], 
-            [-116.90074671, 33.89967274], 
-            [-116.9007416, 33.89603871], 
-            [-116.90060984, 33.89603879], 
-            [-116.90237246, 33.88638822], 
-            [-116.90290629, 33.88636432], 
-            [-116.90737205, 33.88616434], 
-            [-116.91164485, 33.88597301], 
-            [-116.9118378, 33.88596437], 
-            [-116.91183354, 33.88623029]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808289, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-MRF-0749-A", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 1626414.03515625, 
-        "SHAPE__Length" : 5921.3722812756587, 
-        "GlobalID" : "4d9bdee5-3029-4193-b705-bc0ff3cff09d"
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
+        "SHAPE__Area" : 2221108.29296875, 
+        "SHAPE__Length" : 6527.4266167671449, 
+        "GlobalID" : "a896634e-fa79-4215-a222-4509d7bf4aa3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808290, 
+      "id" : 816790, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24754,107 +23049,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808290, 
+        "OBJECTID" : 816790, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-MRF-0749-B", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751490761000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Vegetation fire ", 
-        "SHAPE__Area" : 1044631.33203125, 
-        "SHAPE__Length" : 4204.38613440603, 
-        "GlobalID" : "901a179b-962e-4a51-b505-73f6c52085e2"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808291, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.92027947, 33.85668954], 
-            [-116.92028725, 33.85972871], 
-            [-116.92028855, 33.86023721], 
-            [-116.92029284, 33.86191314], 
-            [-116.92029886, 33.86426912], 
-            [-116.92464697, 33.86423879], 
-            [-116.92466729, 33.87202496], 
-            [-116.9246855, 33.87900371], 
-            [-116.9203151, 33.8789311], 
-            [-116.91712175, 33.87887761], 
-            [-116.91711122, 33.87977072], 
-            [-116.91498606, 33.87973625], 
-            [-116.91497086, 33.88062435], 
-            [-116.91398841, 33.8806302], 
-            [-116.91391642, 33.88063063], 
-            [-116.91388567, 33.88146796], 
-            [-116.91167895, 33.88149423], 
-            [-116.91164485, 33.88597301], 
-            [-116.90737205, 33.88616434], 
-            [-116.90290629, 33.88636432], 
-            [-116.90228345, 33.88639221], 
-            [-116.90220171, 33.87214149], 
-            [-116.87704424, 33.87152105], 
-            [-116.87715384, 33.86796918], 
-            [-116.8750256, 33.86796462], 
-            [-116.87289735, 33.86796003], 
-            [-116.87076911, 33.8679554], 
-            [-116.86970499, 33.86795306], 
-            [-116.86864087, 33.86795075], 
-            [-116.86866065, 33.86701828], 
-            [-116.86868043, 33.8660858], 
-            [-116.86870019, 33.86515333], 
-            [-116.86871996, 33.86422085], 
-            [-116.86978864, 33.86422127], 
-            [-116.87085732, 33.86422166], 
-            [-116.8729947, 33.86422242], 
-            [-116.87498985, 33.8642231], 
-            [-116.87513206, 33.86422315], 
-            [-116.87555355, 33.86422328], 
-            [-116.87586384, 33.86422338], 
-            [-116.87726941, 33.86422383], 
-            [-116.87738501, 33.86047851], 
-            [-116.87750057, 33.85673316], 
-            [-116.8773074, 33.8493543], 
-            [-116.8772959, 33.8489423], 
-            [-116.8771839, 33.84491353], 
-            [-116.89487909, 33.8449233], 
-            [-116.9109404, 33.8448334], 
-            [-116.9119187, 33.8566695], 
-            [-116.9201692, 33.8566893], 
-            [-116.92027947, 33.85668954]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808291, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-0750-A", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 20226611.03515625, 
-        "SHAPE__Length" : 23373.362944946097, 
-        "GlobalID" : "efaef9e8-9004-4850-b44a-1bba7ad26997"
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
+        "SHAPE__Area" : 1044631.33203125, 
+        "SHAPE__Length" : 4204.38613440603, 
+        "GlobalID" : "08f288ac-7947-426d-aaf7-13e48d57666c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808292, 
+      "id" : 816791, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -24907,92 +23121,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808292, 
+        "OBJECTID" : 816791, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-RVC-0750-B", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751490864000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Vegetation fire ", 
-        "SHAPE__Area" : 11486161.5078125, 
-        "SHAPE__Length" : 17866.400673284454, 
-        "GlobalID" : "473fd27f-64ae-4613-8d2c-58e477c67b58"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808293, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.86034584, 33.87166967], 
-            [-116.86032354, 33.86794903], 
-            [-116.8603014, 33.86425728], 
-            [-116.86030116, 33.86421738], 
-            [-116.86027876, 33.86048573], 
-            [-116.86025639, 33.85675407], 
-            [-116.86233228, 33.85675157], 
-            [-116.86456743, 33.85674884], 
-            [-116.86887847, 33.85674363], 
-            [-116.87318953, 33.8567384], 
-            [-116.87750057, 33.85673316], 
-            [-116.87738501, 33.86047851], 
-            [-116.87726941, 33.86422383], 
-            [-116.87586384, 33.86422338], 
-            [-116.87555355, 33.86422328], 
-            [-116.87513206, 33.86422315], 
-            [-116.87498985, 33.8642231], 
-            [-116.8729947, 33.86422242], 
-            [-116.87085732, 33.86422166], 
-            [-116.86978864, 33.86422127], 
-            [-116.86871996, 33.86422085], 
-            [-116.86870019, 33.86515333], 
-            [-116.86868043, 33.8660858], 
-            [-116.86866065, 33.86701828], 
-            [-116.86864087, 33.86795075], 
-            [-116.86970499, 33.86795306], 
-            [-116.87076911, 33.8679554], 
-            [-116.87289735, 33.86796003], 
-            [-116.8750256, 33.86796462], 
-            [-116.87715384, 33.86796918], 
-            [-116.87703827, 33.8717145], 
-            [-116.87280003, 33.87169756], 
-            [-116.86856179, 33.8716806], 
-            [-116.86445384, 33.87168064], 
-            [-116.86035869, 33.87168068], 
-            [-116.86034584, 33.87166967]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808293, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-MRF-0751-C", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751493664000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 3308822.41796875, 
-        "SHAPE__Length" : 9684.385909825116, 
-        "GlobalID" : "3b700930-a62b-42b7-b852-a447a5d3ae7b"
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
+        "SHAPE__Area" : 11486161.5078125, 
+        "SHAPE__Length" : 17866.400673284454, 
+        "GlobalID" : "27fe8b69-db91-4ef7-beba-7cf118745510"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808294, 
+      "id" : 816792, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25058,7 +23206,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808294, 
+        "OBJECTID" : 816792, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25072,190 +23220,12 @@
         "NOTES" : "Evacuation order remains for MAD-063-A", 
         "SHAPE__Area" : 15014262.95703125, 
         "SHAPE__Length" : 15900.040140363029, 
-        "GlobalID" : "af0f5b0c-ddcb-4d25-b9f4-14dc85143905"
+        "GlobalID" : "faa9e104-73c9-4c50-a6d6-de5a5bc60fcb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808295, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.86007155, 33.8751875], 
-            [-116.85979719, 33.87869435], 
-            [-116.85978697, 33.87882497], 
-            [-116.85952848, 33.87903958], 
-            [-116.8589942, 33.87931922], 
-            [-116.85880836, 33.87957958], 
-            [-116.85845991, 33.87995564], 
-            [-116.85794886, 33.87996529], 
-            [-116.85782109, 33.88044742], 
-            [-116.85740296, 33.88049564], 
-            [-116.85703128, 33.8802835], 
-            [-116.85668283, 33.87986886], 
-            [-116.85660153, 33.87936743], 
-            [-116.85597433, 33.87924208], 
-            [-116.85516128, 33.87945422], 
-            [-116.85466184, 33.87983029], 
-            [-116.85418563, 33.87979172], 
-            [-116.85377911, 33.88009064], 
-            [-116.85398818, 33.88058242], 
-            [-116.85363974, 33.88074635], 
-            [-116.85302415, 33.88130562], 
-            [-116.85233887, 33.88144062], 
-            [-116.85215303, 33.88225059], 
-            [-116.852757, 33.88292556], 
-            [-116.85304678, 33.88356337], 
-            [-116.85339522, 33.88407441], 
-            [-116.85382498, 33.88445046], 
-            [-116.85426634, 33.88467223], 
-            [-116.85487031, 33.88479758], 
-            [-116.85545106, 33.88483615], 
-            [-116.85596211, 33.88479758], 
-            [-116.85634541, 33.88492293], 
-            [-116.85663578, 33.88513506], 
-            [-116.85687969, 33.88548217], 
-            [-116.85785534, 33.8855786], 
-            [-116.8590749, 33.88510613], 
-            [-116.85911332, 33.88511056], 
-            [-116.857821, 33.8856], 
-            [-116.85687, 33.885489], 
-            [-116.8569573, 33.8857989], 
-            [-116.857129, 33.886526], 
-            [-116.857575, 33.887342], 
-            [-116.857368, 33.887979], 
-            [-116.857001, 33.888231], 
-            [-116.856509, 33.88832], 
-            [-116.854999, 33.887973], 
-            [-116.854413, 33.88809], 
-            [-116.854061, 33.888654], 
-            [-116.854308, 33.889817], 
-            [-116.854924, 33.89022], 
-            [-116.856309, 33.890119], 
-            [-116.857614, 33.890403], 
-            [-116.85807, 33.890205], 
-            [-116.858597, 33.889518], 
-            [-116.859113, 33.889393], 
-            [-116.8592358, 33.8894108], 
-            [-116.859293, 33.889423], 
-            [-116.860591, 33.890137], 
-            [-116.861986, 33.890641], 
-            [-116.862415, 33.890992], 
-            [-116.862624, 33.891425], 
-            [-116.862624, 33.892103], 
-            [-116.862221, 33.892676], 
-            [-116.861758, 33.892967], 
-            [-116.860733, 33.893195], 
-            [-116.860343, 33.893492], 
-            [-116.859965, 33.895085], 
-            [-116.859999, 33.895721], 
-            [-116.860302, 33.896396], 
-            [-116.860398, 33.897219], 
-            [-116.861161, 33.898967], 
-            [-116.861572, 33.899417], 
-            [-116.862094, 33.89964], 
-            [-116.863646, 33.899571], 
-            [-116.864299, 33.899725], 
-            [-116.865171, 33.900589], 
-            [-116.866455, 33.901256], 
-            [-116.867146, 33.901637], 
-            [-116.867754, 33.901545], 
-            [-116.868123, 33.901106], 
-            [-116.868225, 33.900195], 
-            [-116.868944, 33.899769], 
-            [-116.870169, 33.900085], 
-            [-116.870645, 33.900661], 
-            [-116.87058, 33.901059], 
-            [-116.870261, 33.901427], 
-            [-116.868945, 33.901753], 
-            [-116.86826, 33.902585], 
-            [-116.8677, 33.902801], 
-            [-116.865585, 33.902183], 
-            [-116.864402, 33.902111], 
-            [-116.863345, 33.901671], 
-            [-116.860915, 33.901886], 
-            [-116.859352, 33.901113], 
-            [-116.859266, 33.9010819], 
-            [-116.857979, 33.900753], 
-            [-116.857522, 33.90048], 
-            [-116.857182, 33.900022], 
-            [-116.856973, 33.899072], 
-            [-116.856564, 33.898721], 
-            [-116.855626, 33.898598], 
-            [-116.854881, 33.899027], 
-            [-116.854778, 33.899505], 
-            [-116.855004, 33.899946], 
-            [-116.856062, 33.900485], 
-            [-116.858466, 33.902361], 
-            [-116.858673, 33.902752], 
-            [-116.858513, 33.903302], 
-            [-116.858415, 33.90398], 
-            [-116.858781, 33.904287], 
-            [-116.8593032, 33.9044191], 
-            [-116.85930417, 33.90441932], 
-            [-116.85938952, 33.90700493], 
-            [-116.85503507, 33.90701985], 
-            [-116.85110401, 33.90702515], 
-            [-116.85110118, 33.90689239], 
-            [-116.85107642, 33.90689245], 
-            [-116.85035803, 33.90689398], 
-            [-116.84638594, 33.90688007], 
-            [-116.84319068, 33.90686069], 
-            [-116.84200944, 33.90684865], 
-            [-116.8420043, 33.90453296], 
-            [-116.84200321, 33.90344933], 
-            [-116.8418877, 33.9034499], 
-            [-116.84188983, 33.90321826], 
-            [-116.84190267, 33.90321824], 
-            [-116.84192353, 33.90095635], 
-            [-116.84199401, 33.89331412], 
-            [-116.84205906, 33.88625982], 
-            [-116.84218163, 33.8797541], 
-            [-116.84219719, 33.87892809], 
-            [-116.84220495, 33.87851648], 
-            [-116.84221055, 33.8782191], 
-            [-116.84222294, 33.87756133], 
-            [-116.84222412, 33.87749849], 
-            [-116.84223444, 33.87695103], 
-            [-116.84229625, 33.8736694], 
-            [-116.84231656, 33.87259129], 
-            [-116.84223814, 33.8725917], 
-            [-116.84223604, 33.87161847], 
-            [-116.84231714, 33.87161711], 
-            [-116.85051582, 33.87164105], 
-            [-116.86034584, 33.87166976], 
-            [-116.86034584, 33.87166967], 
-            [-116.86035869, 33.87168068], 
-            [-116.86034591, 33.87168068], 
-            [-116.86023266, 33.8731282], 
-            [-116.86007155, 33.8751875]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808295, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-MRF-0751-B", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751568247000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 8874151.8515625, 
-        "SHAPE__Length" : 20402.809240967075, 
-        "GlobalID" : "82a092c9-eef0-407d-a44b-80ac996d694a"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808296, 
+      "id" : 816793, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25402,26 +23372,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808296, 
+        "OBJECTID" : 816793, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-MRF-0751-A", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751568287000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Vegetation fire ", 
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
         "SHAPE__Area" : 4738166.58984375, 
         "SHAPE__Length" : 17554.3038945466, 
-        "GlobalID" : "fc4480b5-0b04-4780-8f05-ca7a0e74409c"
+        "GlobalID" : "32c6f27b-a1af-469f-8886-c6140cd8b0db"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808297, 
+      "id" : 816794, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25479,145 +23449,26 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808297, 
+        "OBJECTID" : 816794, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-XRI-RVC-0653-A", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751568478000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildfire ", 
-        "SHAPE__Area" : 720999.66796875, 
-        "SHAPE__Length" : 4592.51332581223, 
-        "GlobalID" : "d890123e-b5bc-44e0-9c38-52b6dd35f077"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 808298, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.87655466, 33.90717027], 
-            [-116.87665332, 33.90717014], 
-            [-116.87665946, 33.90722736], 
-            [-116.87665879, 33.90755752], 
-            [-116.8766585, 33.90769729], 
-            [-116.87665712, 33.90837473], 
-            [-116.87665692, 33.90847201], 
-            [-116.87665679, 33.90853816], 
-            [-116.87665692, 33.90899793], 
-            [-116.87665698, 33.90924872], 
-            [-116.87653738, 33.90930383], 
-            [-116.87648557, 33.90932489], 
-            [-116.87631807, 33.90939297], 
-            [-116.876092, 33.909567], 
-            [-116.875779, 33.910015], 
-            [-116.87562123, 33.9101124], 
-            [-116.875502, 33.910186], 
-            [-116.874877, 33.910299], 
-            [-116.874088, 33.910411], 
-            [-116.873671, 33.90999], 
-            [-116.873096, 33.909242], 
-            [-116.872453, 33.90869], 
-            [-116.871597, 33.908718], 
-            [-116.87105748, 33.90896214], 
-            [-116.870481, 33.909223], 
-            [-116.869466, 33.909373], 
-            [-116.868553, 33.909195], 
-            [-116.86790071, 33.90907834], 
-            [-116.867144, 33.908943], 
-            [-116.866479, 33.90898], 
-            [-116.865295, 33.909214], 
-            [-116.863875, 33.909616], 
-            [-116.86259, 33.909738], 
-            [-116.86082, 33.909925], 
-            [-116.85933363, 33.90999711], 
-            [-116.858903, 33.910018], 
-            [-116.857314, 33.91028], 
-            [-116.85651572, 33.91078966], 
-            [-116.85555813, 33.9107828], 
-            [-116.85466814, 33.91077643], 
-            [-116.85432801, 33.91077399], 
-            [-116.85351501, 33.910724], 
-            [-116.85245501, 33.91077401], 
-            [-116.85242493, 33.91078108], 
-            [-116.85111102, 33.91109], 
-            [-116.85109333, 33.90767684], 
-            [-116.85109218, 33.90702517], 
-            [-116.85503507, 33.90701985], 
-            [-116.85938952, 33.90700493], 
-            [-116.85938496, 33.90686673], 
-            [-116.85929979, 33.90428677], 
-            [-116.85929844, 33.90424581], 
-            [-116.85932581, 33.90425086], 
-            [-116.85988449, 33.90437288], 
-            [-116.86039907, 33.90458033], 
-            [-116.86106067, 33.90476336], 
-            [-116.86148703, 33.90542228], 
-            [-116.86181048, 33.90576394], 
-            [-116.86231036, 33.90597138], 
-            [-116.86303263, 33.90587618], 
-            [-116.86375117, 33.90614221], 
-            [-116.86428045, 33.90616662], 
-            [-116.86467741, 33.90633745], 
-            [-116.86510377, 33.90644726], 
-            [-116.86569186, 33.90650827], 
-            [-116.86616233, 33.90639846], 
-            [-116.86651518, 33.90619102], 
-            [-116.86688274, 33.90617882], 
-            [-116.86733851, 33.90617882], 
-            [-116.86782368, 33.90622763], 
-            [-116.86829415, 33.90650827], 
-            [-116.86878982, 33.90655292], 
-            [-116.86927826, 33.90646285], 
-            [-116.86964348, 33.90653209], 
-            [-116.87020497, 33.90641879], 
-            [-116.87069061, 33.90656983], 
-            [-116.87104346, 33.9065351], 
-            [-116.87135221, 33.90648387], 
-            [-116.87185208, 33.90634965], 
-            [-116.87217553, 33.90630084], 
-            [-116.8726313, 33.90644726], 
-            [-116.87292534, 33.90661809], 
-            [-116.87625341, 33.9065739], 
-            [-116.8762531, 33.9066108], 
-            [-116.87645072, 33.90661212], 
-            [-116.87651168, 33.90661257], 
-            [-116.87655638, 33.9066129], 
-            [-116.87655638, 33.906615], 
-            [-116.87655466, 33.90717027]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 808298, 
-        "COUNTY" : null, 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-RVC-0653-B", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1751568510000, 
+        "EDIT_DATE" : 1751666468000, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Wildland fire", 
-        "SHAPE__Area" : 1301877.65234375, 
-        "SHAPE__Length" : 7378.0855868890658, 
-        "GlobalID" : "d118a296-6e0f-48a7-8174-6b4cdab94c5f"
+        "NOTES" : "Evac Order downgraded to Warning for area\nNorth of Old Banning Idyllwild, West of Highway 243, East of Old Banning Idyllwild, South of Smith Creek.\n \nOrden de Evac Incendio Wolf se reduce a Advertencia para Norte de OldBanningIdyllwild, al Oeste de Hwy 243, al Este de OldBanningIdyllwild y al Sur de Smith Crk.\n \nPrecaucion al regresar al area, equipos de em", 
+        "SHAPE__Area" : 720999.66796875, 
+        "SHAPE__Length" : 4592.51332581223, 
+        "GlobalID" : "5577e1bb-cf5b-405d-90af-5ef72385f53e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 808299, 
+      "id" : 816795, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25725,7 +23576,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 808299, 
+        "OBJECTID" : 816795, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -25739,7 +23590,7 @@
         "NOTES" : "Kern County Sheriffs: Zones KRN-245, KRN-249, KRN-259, KRN-281B are under Evacuation Warning due to the Madre Fire in San Luis Obispo County. Prepare to leave. ", 
         "SHAPE__Area" : 82372975, 
         "SHAPE__Length" : 39668.97527744306, 
-        "GlobalID" : "4f342b27-712f-4ae2-aec8-892c06e4474f"
+        "GlobalID" : "fcd71ea7-3e19-405e-acae-8b235a0780f7"
       }
     }
   ]
