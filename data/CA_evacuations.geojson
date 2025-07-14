@@ -3,48 +3,61 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 871304, 
+      "id" : 877253, 
       "geometry" : 
       {
         "type" : "Polygon", 
         "coordinates" : 
         [
           [
-            [-119.312413726002, 36.880381448001], 
-            [-119.312135986002, 36.870813426001], 
-            [-119.309492669002, 36.864502539001], 
-            [-119.307106844002, 36.864551895001], 
-            [-119.306696466002, 36.853868772001], 
-            [-119.318423084002, 36.8535082070011], 
-            [-119.333640396002, 36.8534690760011], 
-            [-119.333658031002, 36.8603425800011], 
-            [-119.333642788002, 36.869256223001], 
-            [-119.333624172002, 36.880138849001], 
-            [-119.312413726002, 36.880381448001]
+            [-119.313578489004, 37.0075228320021], 
+            [-119.300489309004, 37.0075399680021], 
+            [-119.300488997004, 37.007551385002], 
+            [-119.300484597004, 37.007551309002], 
+            [-119.300198531004, 37.0181917040019], 
+            [-119.300145988004, 37.020116134002], 
+            [-119.300062835004, 37.038638021002], 
+            [-119.300062838004, 37.038638201002], 
+            [-119.282470229004, 37.038728124002], 
+            [-119.282455595004, 37.038728527002], 
+            [-119.251522902004, 37.039575961002], 
+            [-119.214572790004, 37.0402610750021], 
+            [-119.208564642004, 37.0241249920021], 
+            [-119.198266460004, 36.987563077002], 
+            [-119.198264959004, 36.987557746002], 
+            [-119.200544897004, 36.987728024002], 
+            [-119.239549521004, 36.9906342530021], 
+            [-119.249500516004, 36.953627372002], 
+            [-119.313084963004, 36.952920042002], 
+            [-119.313597265004, 36.965165454002], 
+            [-119.309088472004, 36.9653400070021], 
+            [-119.309040192004, 36.9798320840021], 
+            [-119.313519481004, 36.9798040130021], 
+            [-119.313578489004, 37.0075228320021]
           ]
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871304, 
+        "OBJECTID" : 877253, 
         "COUNTY" : "FRESNO", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
-        "ZONE_ID" : "K98", 
+        "ZONE_ID" : "K61", 
         "STATUS" : "Evacuation Order", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
         "EDIT_DATE" : null, 
         "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Trimmer Springs Rd. including all side roads from 32015 Trimmer Springs Rd. to just west of Lomardos Rd.  This includes all residents and campgrounds along Island Park Dr from Trimmer Springs Rd to Pine Flat Lake.      ", 
-        "SHAPE__Area" : 9886467.33984375, 
-        "SHAPE__Length" : 13083.353698304722, 
-        "GlobalID" : "1ca0053d-f015-4c0e-90df-df261d7855bc"
+        "NOTES" : "Contains undeveloped land that spreads out about a mile and a half in most directions from the intersection of Bob's Flat Road and Soaproot Saddle Road. This zone is roughly 5.8 miles from north to south and 6 miles wide.", 
+        "SHAPE__Area" : 114492807.3671875, 
+        "SHAPE__Length" : 48445.368033011531, 
+        "GlobalID" : "6c1cce1d-f27e-4330-9325-106b0204b969"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871305, 
+      "id" : 877254, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -255,7 +268,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871305, 
+        "OBJECTID" : 877254, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-226", 
@@ -269,12 +282,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 28645841.0625, 
         "SHAPE__Length" : 32817.28011148415, 
-        "GlobalID" : "c2492d41-0550-4cf9-893b-24250e915628"
+        "GlobalID" : "81ecb586-0e20-4ff9-8ac0-faeaab64b5ff"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871306, 
+      "id" : 877255, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -893,7 +906,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871306, 
+        "OBJECTID" : 877255, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-339", 
@@ -907,12 +920,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 62227276.75390625, 
         "SHAPE__Length" : 38191.393653290048, 
-        "GlobalID" : "71a80b0e-015a-43b0-a3c8-168bd4e2bbc0"
+        "GlobalID" : "e0f10e93-9fe5-4d6c-bcdc-fdee3b9a04a0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871307, 
+      "id" : 877256, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1448,7 +1461,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871307, 
+        "OBJECTID" : 877256, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-300", 
@@ -1462,12 +1475,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 93723450.85546875, 
         "SHAPE__Length" : 40072.375309906216, 
-        "GlobalID" : "949edecb-cd10-436d-9f99-9849e0004ab4"
+        "GlobalID" : "b9eb6f06-d6c7-4b05-9a1a-d9f091e3cfef"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871308, 
+      "id" : 877257, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1833,7 +1846,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871308, 
+        "OBJECTID" : 877257, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-240", 
@@ -1847,12 +1860,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 50062467.6484375, 
         "SHAPE__Length" : 39246.114397324956, 
-        "GlobalID" : "5dfd703c-eb71-4236-990c-b03c192f5cac"
+        "GlobalID" : "a6e67ecf-dc63-4ac7-b077-3d718d6b9008"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871309, 
+      "id" : 877258, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2197,7 +2210,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871309, 
+        "OBJECTID" : 877258, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-265", 
@@ -2211,12 +2224,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 107527517.1796875, 
         "SHAPE__Length" : 46770.536338095735, 
-        "GlobalID" : "9d83c8b6-fced-49c6-975c-88f7bd859a61"
+        "GlobalID" : "34cae8b5-4fcc-4a2d-8057-b4f09b000b47"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871310, 
+      "id" : 877259, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2692,7 +2705,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871310, 
+        "OBJECTID" : 877259, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-313", 
@@ -2706,12 +2719,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 64349525.83984375, 
         "SHAPE__Length" : 39880.000821064976, 
-        "GlobalID" : "0ecf5b53-8b8b-4dc7-a9f4-93ebcd384c0b"
+        "GlobalID" : "5b3702af-749c-4a95-9054-7802292279dd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871311, 
+      "id" : 877260, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3755,7 +3768,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871311, 
+        "OBJECTID" : 877260, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-017", 
@@ -3769,12 +3782,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 142218829.625, 
         "SHAPE__Length" : 55498.772182056404, 
-        "GlobalID" : "4629ee21-9b6f-46ad-bd96-6bc85ca77b7f"
+        "GlobalID" : "e66b7144-388f-45f6-9774-b0ae7445cdeb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871312, 
+      "id" : 877261, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4598,7 +4611,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871312, 
+        "OBJECTID" : 877261, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-358", 
@@ -4612,12 +4625,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 197968000.11328125, 
         "SHAPE__Length" : 67882.736327066392, 
-        "GlobalID" : "2a9e2b7a-9d42-4b38-b5ba-d67f0b5a6111"
+        "GlobalID" : "424ac73c-5ee5-42aa-9c6f-5fc766f99096"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871313, 
+      "id" : 877262, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5435,7 +5448,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871313, 
+        "OBJECTID" : 877262, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-338", 
@@ -5449,12 +5462,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 401149955.12890625, 
         "SHAPE__Length" : 100143.01053785776, 
-        "GlobalID" : "c0f95b84-519f-402a-84a0-0e76c24df11c"
+        "GlobalID" : "2f550dd1-d3e9-490a-bcbb-8fa3a58ab94a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871314, 
+      "id" : 877263, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6145,7 +6158,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871314, 
+        "OBJECTID" : 877263, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-298", 
@@ -6159,12 +6172,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 24597506.98828125, 
         "SHAPE__Length" : 29167.861423889866, 
-        "GlobalID" : "d0f6a935-f3d7-4a69-8f99-8b8956bd3ddf"
+        "GlobalID" : "bc57eb43-9b05-42d3-b86b-38b8c107e2ad"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871315, 
+      "id" : 877264, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7768,7 +7781,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871315, 
+        "OBJECTID" : 877264, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-337", 
@@ -7782,12 +7795,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 62276824.15625, 
         "SHAPE__Length" : 75175.052017725786, 
-        "GlobalID" : "624b4f10-5d6d-4844-ace3-8151ee70ce1c"
+        "GlobalID" : "29fe088c-3d5a-42fc-b275-1ef4cf44d8da"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871316, 
+      "id" : 877265, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8258,7 +8271,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871316, 
+        "OBJECTID" : 877265, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-263", 
@@ -8272,12 +8285,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 87436608.27734375, 
         "SHAPE__Length" : 46817.004369554226, 
-        "GlobalID" : "90da8aac-f85f-4d40-8a90-1480f49f2b6e"
+        "GlobalID" : "a8052d5c-ff3b-474f-a1df-cec939697cf2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871317, 
+      "id" : 877266, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8557,7 +8570,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871317, 
+        "OBJECTID" : 877266, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-264", 
@@ -8571,12 +8584,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 33129291.0703125, 
         "SHAPE__Length" : 28310.101415084369, 
-        "GlobalID" : "bf886a2e-7e47-4907-a2dd-f1a7475ddf3b"
+        "GlobalID" : "2ec82fcc-de62-4a5f-b1f6-ba695347f4b5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871318, 
+      "id" : 877267, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9652,7 +9665,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871318, 
+        "OBJECTID" : 877267, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-299", 
@@ -9666,12 +9679,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 158524389.98828125, 
         "SHAPE__Length" : 78047.986753122226, 
-        "GlobalID" : "1b4b185e-0717-4272-93d0-a66c8712056e"
+        "GlobalID" : "e16e307e-1554-4a29-b65b-ecf143b03426"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871319, 
+      "id" : 877268, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12014,7 +12027,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871319, 
+        "OBJECTID" : 877268, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-312", 
@@ -12028,12 +12041,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 97058130.42578125, 
         "SHAPE__Length" : 58437.595995379037, 
-        "GlobalID" : "3fcbeb14-5c26-47ef-9879-ef598661e577"
+        "GlobalID" : "83429187-50c8-4237-8342-9de8ea191c83"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871320, 
+      "id" : 877269, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12654,7 +12667,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871320, 
+        "OBJECTID" : 877269, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12668,12 +12681,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "e690fdd0-09ca-40f6-b062-5c87695ece16"
+        "GlobalID" : "b9203a44-ede4-4d64-8afa-96bd8aa2fccd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871321, 
+      "id" : 877270, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12733,7 +12746,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871321, 
+        "OBJECTID" : 877270, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12747,12 +12760,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "49ca4cec-68a9-4a07-b917-18aa37aee160"
+        "GlobalID" : "5e4077bd-cf17-4614-8240-61d221e31833"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871322, 
+      "id" : 877271, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12871,7 +12884,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871322, 
+        "OBJECTID" : 877271, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12885,12 +12898,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 126073217.46875, 
         "SHAPE__Length" : 58153.278397818794, 
-        "GlobalID" : "bdcca87c-07ee-4c76-a0ee-ae3be7a9c406"
+        "GlobalID" : "bc34c1d2-60f8-4463-be27-2f3c61e955be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871323, 
+      "id" : 877272, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -12961,7 +12974,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871323, 
+        "OBJECTID" : 877272, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -12975,12 +12988,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 112163034.3125, 
         "SHAPE__Length" : 47865.001630194289, 
-        "GlobalID" : "110fceed-92e6-4c61-821a-78343ecb319d"
+        "GlobalID" : "dd4ff533-a908-4c60-9137-2eb1538d018c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871324, 
+      "id" : 877273, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13040,7 +13053,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871324, 
+        "OBJECTID" : 877273, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13054,12 +13067,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "9cad2901-2ee3-4d59-a73a-64127acd13a9"
+        "GlobalID" : "583e3e36-d684-4795-a629-612a577df963"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871325, 
+      "id" : 877274, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13120,7 +13133,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871325, 
+        "OBJECTID" : 877274, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13134,12 +13147,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "1f68722a-3921-42d1-968b-8796e018b998"
+        "GlobalID" : "e90df7fd-6d6b-4c2e-bc55-f607387ba78e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871326, 
+      "id" : 877275, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13168,7 +13181,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871326, 
+        "OBJECTID" : 877275, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13182,12 +13195,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "b12e7322-56c6-4036-9c74-20e7797a3289"
+        "GlobalID" : "25e7ec49-6e92-401c-b2b0-000c6d90cdd0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871327, 
+      "id" : 877276, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13216,7 +13229,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871327, 
+        "OBJECTID" : 877276, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13230,12 +13243,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "1e2b44c3-e432-4254-a4c0-fa2f5da8ea03"
+        "GlobalID" : "f23d1e8a-4336-4595-b8d5-9c48313a6601"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871328, 
+      "id" : 877277, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13276,7 +13289,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871328, 
+        "OBJECTID" : 877277, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13290,12 +13303,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "71c017cc-d247-41a7-a517-1b33b6f1c36a"
+        "GlobalID" : "4393b924-2409-4228-983c-846769e83b92"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871329, 
+      "id" : 877278, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13328,7 +13341,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871329, 
+        "OBJECTID" : 877278, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13342,12 +13355,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "0d25f4b1-5997-48d1-8d67-eabb49e7d44a"
+        "GlobalID" : "e4291b89-3984-4189-91a9-d17954abdff3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871330, 
+      "id" : 877279, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13389,7 +13402,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871330, 
+        "OBJECTID" : 877279, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13403,12 +13416,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "1dfd63ae-89ad-4d3e-95f1-2abfbe2e45f5"
+        "GlobalID" : "910e6c3f-a99b-4cec-9864-b4bb0b4f1426"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871331, 
+      "id" : 877280, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13430,7 +13443,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871331, 
+        "OBJECTID" : 877280, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13444,12 +13457,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "45a8ae93-5698-4e39-9f0e-1ae4c509284d"
+        "GlobalID" : "291c7dc5-ae83-48ad-9440-ae0ffc39dfb0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871332, 
+      "id" : 877281, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13477,7 +13490,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871332, 
+        "OBJECTID" : 877281, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13491,12 +13504,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "558c28cc-1b79-4cc6-865e-7cf40fc9f684"
+        "GlobalID" : "0b90960c-9cc0-47d1-803b-be105fe7982a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871333, 
+      "id" : 877282, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13537,7 +13550,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871333, 
+        "OBJECTID" : 877282, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -13551,12 +13564,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "e0ad0651-c727-47de-89f0-ffe82b2c1acd"
+        "GlobalID" : "ccecbed0-65e9-4743-a27d-87775ee6eaa9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871334, 
+      "id" : 877283, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14063,7 +14076,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871334, 
+        "OBJECTID" : 877283, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -14077,12 +14090,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1708 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 72418646.8125, 
         "SHAPE__Length" : 41026.665434552793, 
-        "GlobalID" : "01e53648-e0e7-4e6e-a4c7-ca196e6a3926"
+        "GlobalID" : "097bf530-503b-411c-afe1-de586dc2e113"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871335, 
+      "id" : 877284, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15256,7 +15269,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871335, 
+        "OBJECTID" : 877284, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15270,12 +15283,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued and evacuation order for Zone SIS-1414 due to the Summit Fire. Anyone in this area is ordered to evacuate immediately.", 
         "SHAPE__Area" : 186878364.98046875, 
         "SHAPE__Length" : 59175.465824034189, 
-        "GlobalID" : "8982ad27-0c31-4f44-97b3-3628aae87ece"
+        "GlobalID" : "8d180272-597d-47d2-b6d9-459e0ebbfdd1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871336, 
+      "id" : 877285, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15616,7 +15629,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871336, 
+        "OBJECTID" : 877285, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15630,12 +15643,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1705 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52487987.703125, 
         "SHAPE__Length" : 33965.164068237507, 
-        "GlobalID" : "c5a043d0-c80e-471f-a62c-ad42dcc8953c"
+        "GlobalID" : "e7f5a222-cf81-4536-8654-bde2159a67bf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871337, 
+      "id" : 877286, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15842,7 +15855,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871337, 
+        "OBJECTID" : 877286, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -15856,12 +15869,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1802 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 28790141.9765625, 
         "SHAPE__Length" : 24434.67108425339, 
-        "GlobalID" : "9e3054cf-9c6e-4af6-ab5f-2704df82bc80"
+        "GlobalID" : "39aa06fc-4dda-40ff-9431-3685db754674"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871338, 
+      "id" : 877287, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -16206,7 +16219,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871338, 
+        "OBJECTID" : 877287, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -16220,12 +16233,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1703 due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 45754361.6484375, 
         "SHAPE__Length" : 33007.553590331416, 
-        "GlobalID" : "24b6805e-ed84-4886-8857-ddbcbe681952"
+        "GlobalID" : "d02a0332-077c-4d67-b6a4-9be762e8b1be"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871339, 
+      "id" : 877288, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -16948,7 +16961,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871339, 
+        "OBJECTID" : 877288, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -16962,12 +16975,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued an evacuation order due to the Summit Fire. Anyone in this area is ordered to evacuate the area immediately.", 
         "SHAPE__Area" : 69557717.4140625, 
         "SHAPE__Length" : 46540.101137209254, 
-        "GlobalID" : "a9b2bd61-570e-485b-bc32-802ea7004d4e"
+        "GlobalID" : "d2acb0a8-7a01-4e65-a1c5-432011b21fc1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871340, 
+      "id" : 877289, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17262,7 +17275,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871340, 
+        "OBJECTID" : 877289, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17276,12 +17289,12 @@
         "NOTES" : "The Siskiyou County Sheriffs Office has issued an evacuation warning for Zone SIS-2100-B west of Mugginsville due to the Summit FIre. Anyone in this  area should be prepared to evacuate should conditions warrant-", 
         "SHAPE__Area" : 71729277.8125, 
         "SHAPE__Length" : 37797.194305054647, 
-        "GlobalID" : "b0c86ee0-8f32-4495-9618-750a8aa83c7c"
+        "GlobalID" : "a1a65491-abd1-410b-a34f-292eddd5677d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871341, 
+      "id" : 877290, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17347,7 +17360,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871341, 
+        "OBJECTID" : 877290, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17361,12 +17374,12 @@
         "NOTES" : "Evacuation order remains for MAD-063-A", 
         "SHAPE__Area" : 15014262.95703125, 
         "SHAPE__Length" : 15900.040140363029, 
-        "GlobalID" : "c02a9cbf-63f4-4ce0-bb92-751cdf1feb7b"
+        "GlobalID" : "fcd66ab2-527d-44e4-b6a6-779009919bd5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871342, 
+      "id" : 877291, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17681,7 +17694,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871342, 
+        "OBJECTID" : 877291, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -17695,12 +17708,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1803-A due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 56909218.3515625, 
         "SHAPE__Length" : 35735.308698976776, 
-        "GlobalID" : "89d663b1-ac91-48a4-bac4-0f2df5ac38da"
+        "GlobalID" : "6dccdaa2-684c-4a97-a940-5775ded39e6d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871343, 
+      "id" : 877292, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18002,7 +18015,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871343, 
+        "OBJECTID" : 877292, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18016,12 +18029,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1704 due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 69893707.44140625, 
         "SHAPE__Length" : 38454.581627964442, 
-        "GlobalID" : "e044d647-c126-42b4-956b-213c624f69df"
+        "GlobalID" : "6cb65944-d102-4aba-99e6-9ed7e353b910"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871344, 
+      "id" : 877293, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18162,7 +18175,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871344, 
+        "OBJECTID" : 877293, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18176,12 +18189,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1707-A due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 12032442.76953125, 
         "SHAPE__Length" : 19524.499111210564, 
-        "GlobalID" : "292ea151-0e9c-4f6c-8660-6d6ddb72b1f5"
+        "GlobalID" : "dcbd3461-23b1-4ea6-ad8c-996a8edb4be3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871345, 
+      "id" : 877294, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18472,7 +18485,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871345, 
+        "OBJECTID" : 877294, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18486,12 +18499,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1707, FRK-1709, SIS-1710 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 29342273.6015625, 
         "SHAPE__Length" : 35500.34431748838, 
-        "GlobalID" : "38fe1b3a-5776-4b2f-998f-e4a4aeaec504"
+        "GlobalID" : "a9f15d9e-d076-4738-8dbd-2db748b92bd8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871346, 
+      "id" : 877295, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18522,7 +18535,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871346, 
+        "OBJECTID" : 877295, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -18536,12 +18549,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1707, FRK-1709, SIS-1710 near Yellow Jacket Ridge due to Jacket Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 10259584.546875, 
         "SHAPE__Length" : 17098.020824535593, 
-        "GlobalID" : "98d68f5b-6ccf-477e-93c1-395f14c096d6"
+        "GlobalID" : "6d8f9122-ca60-44bd-8374-38e3d5cd5c43"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871347, 
+      "id" : 877296, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19112,7 +19125,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871347, 
+        "OBJECTID" : 877296, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19126,12 +19139,12 @@
         "NOTES" : "The Shasta County Sheriff's Office is requesting mandatory evacuations due to the Green Fire.", 
         "SHAPE__Area" : 498849084.66015625, 
         "SHAPE__Length" : 120523.48006188247, 
-        "GlobalID" : "1d6f1c6e-441b-4faa-9818-7ef898d49b27"
+        "GlobalID" : "17aae78c-11ef-4ec3-9d06-3657ceca1bcb"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 871348, 
+      "id" : 877297, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -19173,7 +19186,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 871348, 
+        "OBJECTID" : 877297, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -19187,7 +19200,7 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.  ", 
         "SHAPE__Area" : 311443570.87890625, 
         "SHAPE__Length" : 77653.528378935662, 
-        "GlobalID" : "3f3a5afb-5196-4da8-bfb9-0843244684b9"
+        "GlobalID" : "2844bc07-12dc-4d26-91eb-d6e6c0cbdd17"
       }
     }
   ]
