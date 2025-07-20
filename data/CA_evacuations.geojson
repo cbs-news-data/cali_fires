@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 910747, 
+      "id" : 915799, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -624,7 +624,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910747, 
+        "OBJECTID" : 915799, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -638,12 +638,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 789994.07421875, 
         "SHAPE__Length" : 7816.66847170111, 
-        "GlobalID" : "5d688684-a60f-4f54-aa53-7e2bb25abc3a"
+        "GlobalID" : "2cc9af2c-6169-497d-8649-18ea9cc69a6d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910748, 
+      "id" : 915800, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -703,7 +703,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910748, 
+        "OBJECTID" : 915800, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -717,12 +717,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1160980.84765625, 
         "SHAPE__Length" : 5329.8373671959216, 
-        "GlobalID" : "f6fafcb7-5eca-4cad-93b7-5d0c4c75d8a6"
+        "GlobalID" : "dbb95926-05b4-4516-b8d4-1db29125e942"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910749, 
+      "id" : 915801, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -841,7 +841,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910749, 
+        "OBJECTID" : 915801, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -855,12 +855,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 126073217.46875, 
         "SHAPE__Length" : 58153.278397818794, 
-        "GlobalID" : "9dbaff04-2211-4af5-80a1-fd02865026cd"
+        "GlobalID" : "d64a86aa-951f-4033-9b04-1f42fbe8d125"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910750, 
+      "id" : 915802, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -931,7 +931,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910750, 
+        "OBJECTID" : 915802, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -945,12 +945,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 112163034.3125, 
         "SHAPE__Length" : 47865.001630194289, 
-        "GlobalID" : "46509801-538c-4bf6-a8c3-39ca0d484bcd"
+        "GlobalID" : "a2b98c75-0572-42a1-8ac1-af62be287213"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910751, 
+      "id" : 915803, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1010,7 +1010,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910751, 
+        "OBJECTID" : 915803, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1024,12 +1024,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 857370.96484375, 
         "SHAPE__Length" : 4806.3188448165211, 
-        "GlobalID" : "f9251ef6-ca01-4225-b070-6c323773ec74"
+        "GlobalID" : "5b1b8175-60fe-4aaf-a0bf-44b9cafb9d4f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910752, 
+      "id" : 915804, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1090,7 +1090,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910752, 
+        "OBJECTID" : 915804, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1104,12 +1104,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385627.2734375, 
         "SHAPE__Length" : 3088.7120694614141, 
-        "GlobalID" : "cb4f4f08-7c2d-43a3-9c4c-e75e3c5e8882"
+        "GlobalID" : "25cd2389-0dfe-4031-a305-95fd1b2c2900"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910753, 
+      "id" : 915805, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1138,7 +1138,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910753, 
+        "OBJECTID" : 915805, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1152,12 +1152,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 54052.03125, 
         "SHAPE__Length" : 2118.77477508584, 
-        "GlobalID" : "27fa1f9f-e1c3-40b3-840c-241743f4cbda"
+        "GlobalID" : "1defb9d8-e793-49bc-af4b-7e2b21c0464d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910754, 
+      "id" : 915806, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1186,7 +1186,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910754, 
+        "OBJECTID" : 915806, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1200,12 +1200,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 129003.3515625, 
         "SHAPE__Length" : 3995.5603295706105, 
-        "GlobalID" : "ccc81f06-5389-48f1-960c-ffbbba161550"
+        "GlobalID" : "2b13eb34-534d-4cf2-9216-7c20241468b9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910755, 
+      "id" : 915807, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1246,7 +1246,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910755, 
+        "OBJECTID" : 915807, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1260,12 +1260,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 247872.79296875, 
         "SHAPE__Length" : 4705.1899556911476, 
-        "GlobalID" : "77f28052-ba94-4913-895c-a9bdf0b2af8b"
+        "GlobalID" : "3a1c25aa-8174-42c7-b593-b196bc604e7d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910756, 
+      "id" : 915808, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1298,7 +1298,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910756, 
+        "OBJECTID" : 915808, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1312,12 +1312,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131817.578125, 
         "SHAPE__Length" : 3269.8649269499379, 
-        "GlobalID" : "7b0eb44a-92ab-401a-85f6-f9ce9ba97f52"
+        "GlobalID" : "7c3c3792-fae2-4148-9f84-60f79dbeea09"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910757, 
+      "id" : 915809, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1359,7 +1359,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910757, 
+        "OBJECTID" : 915809, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1373,12 +1373,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 160517.921875, 
         "SHAPE__Length" : 4876.2344771382395, 
-        "GlobalID" : "5e12f077-e5c6-4a7c-8507-26f07a1aef30"
+        "GlobalID" : "0959a3bc-fce1-4bda-9d1d-cdbb21c10499"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910758, 
+      "id" : 915810, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1400,7 +1400,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910758, 
+        "OBJECTID" : 915810, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1414,12 +1414,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 93231.9140625, 
         "SHAPE__Length" : 2291.4262048663336, 
-        "GlobalID" : "4d038c48-0e4b-413b-93f0-dc0e5b2f0b73"
+        "GlobalID" : "aa395489-3ce9-456d-869b-617604631c29"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910759, 
+      "id" : 915811, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1447,7 +1447,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910759, 
+        "OBJECTID" : 915811, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1461,12 +1461,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 117016.98828125, 
         "SHAPE__Length" : 2187.593281124427, 
-        "GlobalID" : "14eb53dc-6360-447e-b428-a84df9abba0e"
+        "GlobalID" : "03a0481b-1141-4099-b384-13293addae51"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910760, 
+      "id" : 915812, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1507,7 +1507,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910760, 
+        "OBJECTID" : 915812, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1521,12 +1521,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 217621.41015625, 
         "SHAPE__Length" : 5393.0078694898366, 
-        "GlobalID" : "652a483e-5b4a-4258-bf29-05a8b736325b"
+        "GlobalID" : "dc8f09a7-f9b5-4d3e-a5d4-75bb87df4cea"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910761, 
+      "id" : 915813, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2033,7 +2033,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910761, 
+        "OBJECTID" : 915813, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2047,12 +2047,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1707-B, SIS-1708, FRK-1709, SIS-1804, and SIS-1805 in and around Forks of Salmon due to the Butler Fire. Anyone in this area is ordered to leave now. \n\nFor the latest information regarding emergencies impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 72418646.8125, 
         "SHAPE__Length" : 41026.665434552793, 
-        "GlobalID" : "ae51ec94-9fb6-4d0d-bae1-fab78b27de99"
+        "GlobalID" : "c05a8acc-19e1-4150-acde-11897322fab0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910762, 
+      "id" : 915814, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2116,7 +2116,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910762, 
+        "OBJECTID" : 915814, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2130,12 +2130,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 18612268.10546875, 
         "SHAPE__Length" : 23427.254190397569, 
-        "GlobalID" : "b6bb479e-6115-432f-8b75-5ab984c4f16c"
+        "GlobalID" : "65e25fa1-5ee6-45b1-a92a-ab60df515b89"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910763, 
+      "id" : 915815, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2260,7 +2260,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910763, 
+        "OBJECTID" : 915815, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2274,12 +2274,12 @@
         "NOTES" : " The Siskiyou County Sheriffs Office has issued an evacuation Order for Zone SIS-1805 & 1804 near Forks of the Salmon due to the Butler Fire... Anyone in this area is ordered to leave immediately... Visit https://www.readysiskiyou.gov for information regarding this or any other emergency", 
         "SHAPE__Area" : 11896557.125, 
         "SHAPE__Length" : 18853.460673676254, 
-        "GlobalID" : "15b1db74-3ea9-448c-8233-6d79a8872448"
+        "GlobalID" : "b484e4df-e717-40bd-9965-743fb33502e4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910764, 
+      "id" : 915816, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2493,7 +2493,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910764, 
+        "OBJECTID" : 915816, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2507,12 +2507,12 @@
         "NOTES" : " The Siskiyou County Sheriffs Office has issued an evacuation Order for Zone SIS-1805 & 1804 near Forks of the Salmon due to the Butler Fire... Anyone in this area is ordered to leave immediately... Visit https://www.readysiskiyou.gov for information regarding this or any other emergency", 
         "SHAPE__Area" : 13527390.5, 
         "SHAPE__Length" : 15247.263200637932, 
-        "GlobalID" : "a7e16e91-1349-477b-8324-8bcf20bab1f5"
+        "GlobalID" : "81a8f435-d8c5-4c12-b6c7-3e82c8cc26e3"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910765, 
+      "id" : 915817, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2706,7 +2706,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910765, 
+        "OBJECTID" : 915817, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2720,12 +2720,12 @@
         "NOTES" : "Evacuation Warning Due to Butler Fire", 
         "SHAPE__Area" : 16239319.34375, 
         "SHAPE__Length" : 20432.478914920972, 
-        "GlobalID" : "6432dc7f-5d33-44d2-80c4-1e668f8a4465"
+        "GlobalID" : "faf3d368-fa90-4a2e-ae72-73992023a915"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910766, 
+      "id" : 915818, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3066,7 +3066,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910766, 
+        "OBJECTID" : 915818, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3080,12 +3080,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1705 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52487987.703125, 
         "SHAPE__Length" : 33965.164068237507, 
-        "GlobalID" : "d43372da-e286-4ba1-8560-b909cbc1bfa0"
+        "GlobalID" : "b5a38fa8-c548-442e-a673-ce9bd6daed83"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910767, 
+      "id" : 915819, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3473,7 +3473,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910767, 
+        "OBJECTID" : 915819, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3487,12 +3487,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1710, and SIS-1808 in and around Forks of Salmon due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding emergencies impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 39761642.4375, 
         "SHAPE__Length" : 32673.882434305597, 
-        "GlobalID" : "9202003c-2015-4a9f-ab90-9c81b6cb90bd"
+        "GlobalID" : "61bd9756-a65f-4f1a-87e3-9946a4ba0d4f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910768, 
+      "id" : 915820, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3958,7 +3958,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910768, 
+        "OBJECTID" : 915820, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3972,12 +3972,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 62641887.67578125, 
         "SHAPE__Length" : 48374.311657586048, 
-        "GlobalID" : "dd692c25-9818-45c5-b1d7-cbfb16633091"
+        "GlobalID" : "bbaa74f2-9212-43c5-ad07-99a1d27c6318"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910769, 
+      "id" : 915821, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4184,7 +4184,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910769, 
+        "OBJECTID" : 915821, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4198,12 +4198,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1802 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 28790141.9765625, 
         "SHAPE__Length" : 24434.67108425339, 
-        "GlobalID" : "606fc2b6-fa9b-4758-9639-a5882dbf5bdd"
+        "GlobalID" : "affde473-9e1b-44d0-adcd-9636d2256303"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910770, 
+      "id" : 915822, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4548,7 +4548,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910770, 
+        "OBJECTID" : 915822, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4562,12 +4562,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1703 due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 45754361.6484375, 
         "SHAPE__Length" : 33007.553590331416, 
-        "GlobalID" : "ed2ba484-96ab-4809-b621-14aaa1604707"
+        "GlobalID" : "ce4d9b76-2769-41ce-b076-04754b994309"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910771, 
+      "id" : 915823, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5293,7 +5293,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910771, 
+        "OBJECTID" : 915823, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5307,12 +5307,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1710, and SIS-1808 in and around Forks of Salmon due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding emergencies impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 114395532.66796875, 
         "SHAPE__Length" : 53221.446199739032, 
-        "GlobalID" : "42c61a90-2485-4a88-9df3-80228a331794"
+        "GlobalID" : "fa4e3742-3435-4ecc-b1a0-0422bec82f40"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910772, 
+      "id" : 915824, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5832,7 +5832,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910772, 
+        "OBJECTID" : 915824, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5846,12 +5846,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 116649551.96484375, 
         "SHAPE__Length" : 46321.97025353324, 
-        "GlobalID" : "13aceab1-e90b-4b06-9d78-80751393dd9a"
+        "GlobalID" : "2d9127e3-8412-49e4-97ca-3cc3c6a15260"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910773, 
+      "id" : 915825, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6166,7 +6166,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910773, 
+        "OBJECTID" : 915825, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6180,12 +6180,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1803-A due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 56909218.3515625, 
         "SHAPE__Length" : 35735.308698976776, 
-        "GlobalID" : "a41c7f60-35c4-4366-b026-b9820c24e872"
+        "GlobalID" : "9f2ef0fc-200d-4b60-9094-1307a576a01a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910774, 
+      "id" : 915826, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6487,7 +6487,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910774, 
+        "OBJECTID" : 915826, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6501,12 +6501,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1704 due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 69893707.44140625, 
         "SHAPE__Length" : 38454.581627964442, 
-        "GlobalID" : "4879c428-7708-4259-8954-2f61864204d7"
+        "GlobalID" : "6c8bf4da-6dea-4071-9804-55ede4602b5e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910775, 
+      "id" : 915827, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6647,7 +6647,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910775, 
+        "OBJECTID" : 915827, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6661,12 +6661,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zone SIS-1707-A due to the Butler Fire. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 12032442.76953125, 
         "SHAPE__Length" : 19524.499111210564, 
-        "GlobalID" : "9a0868fc-2759-4a72-b443-4c29a360c37c"
+        "GlobalID" : "f860b96a-d9ca-4c92-b25f-cd6649286690"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910776, 
+      "id" : 915828, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6957,7 +6957,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910776, 
+        "OBJECTID" : 915828, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6971,12 +6971,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1707-B, SIS-1708, FRK-1709, SIS-1804, and SIS-1805 in and around Forks of Salmon due to the Butler Fire. Anyone in this area is ordered to leave now. \n\nFor the latest information regarding emergencies impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 29342273.6015625, 
         "SHAPE__Length" : 35500.34431748838, 
-        "GlobalID" : "701acdf2-6d5c-44c2-a410-fed61d73bbef"
+        "GlobalID" : "dbf1f885-aebd-4e8c-8527-c317c01069a9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910777, 
+      "id" : 915829, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7007,7 +7007,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910777, 
+        "OBJECTID" : 915829, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7021,12 +7021,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS-1707-B, SIS-1708, FRK-1709, SIS-1804, and SIS-1805 in and around Forks of Salmon due to the Butler Fire. Anyone in this area is ordered to leave now. \n\nFor the latest information regarding emergencies impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 10259584.546875, 
         "SHAPE__Length" : 17098.020824535593, 
-        "GlobalID" : "372515f8-adb2-4c91-8cff-cfc99ad59695"
+        "GlobalID" : "75968b78-410b-461a-b933-8f76a4c195d5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910778, 
+      "id" : 915830, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7597,7 +7597,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910778, 
+        "OBJECTID" : 915830, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7611,12 +7611,12 @@
         "NOTES" : "The Shasta County Sheriff's Office is requesting mandatory evacuations due to the Green Fire.", 
         "SHAPE__Area" : 498849084.66015625, 
         "SHAPE__Length" : 120523.48006188247, 
-        "GlobalID" : "daf1f82e-d493-4369-85d0-f73e75e897ed"
+        "GlobalID" : "3596a5cc-938b-45a9-95d6-d277c5c63940"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910779, 
+      "id" : 915831, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7658,7 +7658,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910779, 
+        "OBJECTID" : 915831, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7672,12 +7672,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.  ", 
         "SHAPE__Area" : 311443570.87890625, 
         "SHAPE__Length" : 77653.528378935662, 
-        "GlobalID" : "dc621291-301d-4e07-934e-800662ed8e6d"
+        "GlobalID" : "ef8e8f5e-2fda-4b97-bb9d-accbe129114e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910780, 
+      "id" : 915832, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7755,7 +7755,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910780, 
+        "OBJECTID" : 915832, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7769,40 +7769,19 @@
         "NOTES" : "Vegetation Fire", 
         "SHAPE__Area" : 6847509.75, 
         "SHAPE__Length" : 16495.058725985145, 
-        "GlobalID" : "58c47244-d8c3-45ac-badd-678561021765"
+        "GlobalID" : "ca097ad2-22ed-4c9d-ba98-5f7fd1689a1e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 910781, 
+      "id" : 915833, 
       "geometry" : 
       {
         "type" : "Polygon", 
         "coordinates" : 
         [
           [
-            [-116.63412408, 33.49698353], 
-            [-116.63984717, 33.49702302], 
-            [-116.64288657, 33.49704759], 
-            [-116.64858136, 33.49709343], 
-            [-116.65150333, 33.49708794], 
-            [-116.65549833, 33.49703318], 
-            [-116.65950654, 33.49697811], 
-            [-116.66601669, 33.49694424], 
-            [-116.66753038, 33.49695411], 
-            [-116.67483834, 33.49706703], 
-            [-116.67608892, 33.49707381], 
-            [-116.68038356, 33.49709701], 
-            [-116.68347374, 33.49711361], 
-            [-116.68471745, 33.49711296], 
-            [-116.6930762, 33.49713537], 
-            [-116.69308732, 33.4969705], 
-            [-116.6931663, 33.49579999], 
-            [-116.69748805, 33.49581228], 
-            [-116.69798974, 33.48837032], 
-            [-116.70244586, 33.48834245], 
-            [-116.70223511, 33.49184484], 
-            [-116.70191501, 33.497164], 
+            [-116.70223882, 33.49716582], 
             [-116.70613736, 33.49718775], 
             [-116.71592754, 33.49724284], 
             [-116.71942746, 33.49726114], 
@@ -9210,55 +9189,27 @@
             [-116.70525514, 33.54105253], 
             [-116.70309685, 33.54110944], 
             [-116.70103703, 33.54116373], 
-            [-116.70093855, 33.54116632], 
-            [-116.69656714, 33.5410987], 
-            [-116.69221174, 33.54103118], 
-            [-116.68784733, 33.54096329], 
-            [-116.68358976, 33.54089706], 
-            [-116.68339289, 33.54089375], 
-            [-116.67478342, 33.54073828], 
-            [-116.67311518, 33.54070809], 
-            [-116.67041625, 33.5406592], 
-            [-116.66603434, 33.54057969], 
-            [-116.65717061, 33.54051538], 
-            [-116.65280365, 33.54048346], 
-            [-116.64838715, 33.54045102], 
-            [-116.64412667, 33.54042163], 
-            [-116.64403034, 33.54042096], 
-            [-116.63967354, 33.54039075], 
-            [-116.63529304, 33.54036022], 
-            [-116.63095993, 33.54032987], 
-            [-116.6309707, 33.53851805], 
-            [-116.63098147, 33.53670623], 
-            [-116.63099224, 33.53489441], 
-            [-116.63100301, 33.53308258], 
-            [-116.63107505, 33.51528504], 
-            [-116.63107628, 33.51159525], 
-            [-116.6310656, 33.50645991], 
-            [-116.63106105, 33.50427336], 
-            [-116.63105566, 33.49912334], 
-            [-116.63108192, 33.49696441], 
-            [-116.63375255, 33.4969812], 
-            [-116.63412408, 33.49698353]
+            [-116.70096987, 33.5411655], 
+            [-116.70223882, 33.49716582]
           ]
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 910781, 
+        "OBJECTID" : 915833, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XRI-CBI-CAHUILLA1-A", 
+        "ZONE_ID" : "US-CA-XRI-CBI-CAHUILLA1-B", 
         "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1752876145000, 
+        "EDIT_DATE" : 1752961479000, 
         "STATEWIDE_LAST_UPDATED" : null, 
         "NOTES" : "Vegetation Fire", 
-        "SHAPE__Area" : 90207040.40625, 
-        "SHAPE__Length" : 64745.873513968472, 
-        "GlobalID" : "646c1de5-92c3-4bd8-8ccf-1cd0f026a5ef"
+        "SHAPE__Area" : 43786984.3671875, 
+        "SHAPE__Length" : 46770.574966224056, 
+        "GlobalID" : "03173550-a1dd-4cd3-ab45-67a33411fb0d"
       }
     }
   ]
