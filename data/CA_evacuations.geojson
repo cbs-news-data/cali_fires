@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 926748, 
+      "id" : 931932, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -377,7 +377,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926748, 
+        "OBJECTID" : 931932, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -391,12 +391,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 791150.78125, 
         "SHAPE__Length" : 8088.9589737974575, 
-        "GlobalID" : "5bc4330e-e93c-4bfd-a17a-c02c3400e27a"
+        "GlobalID" : "82bcbc9c-a9b4-4766-a7f1-166efd72b97f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926749, 
+      "id" : 931933, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -455,7 +455,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926749, 
+        "OBJECTID" : 931933, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -469,12 +469,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1157388.27734375, 
         "SHAPE__Length" : 5327.9665924636092, 
-        "GlobalID" : "4e96709a-056f-464b-9910-2672bfa3d0d8"
+        "GlobalID" : "31451cc6-daf4-481b-af60-47ed590d4b00"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926750, 
+      "id" : 931934, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -592,7 +592,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926750, 
+        "OBJECTID" : 931934, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -606,12 +606,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 126068551.59375, 
         "SHAPE__Length" : 58163.211852262844, 
-        "GlobalID" : "add42e4c-60ff-4568-a918-07182c3bdd45"
+        "GlobalID" : "582681d1-6c3a-492e-85bf-a859a0ce7c0a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926751, 
+      "id" : 931935, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -681,7 +681,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926751, 
+        "OBJECTID" : 931935, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -695,12 +695,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 112147733.7578125, 
         "SHAPE__Length" : 47849.250296688959, 
-        "GlobalID" : "58440cfe-b8cc-493d-bb91-be6b286c65cf"
+        "GlobalID" : "34321640-3afd-4b28-aade-3f013a6dde2c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926752, 
+      "id" : 931936, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -759,7 +759,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926752, 
+        "OBJECTID" : 931936, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -773,12 +773,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 858042.69140625, 
         "SHAPE__Length" : 4804.0101299556691, 
-        "GlobalID" : "e2282516-abc6-4171-8510-5172a914c9f9"
+        "GlobalID" : "39688b6b-31cc-4069-9d18-21237a963b55"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926753, 
+      "id" : 931937, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -839,7 +839,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926753, 
+        "OBJECTID" : 931937, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -853,12 +853,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385676.92578125, 
         "SHAPE__Length" : 3113.3427743097691, 
-        "GlobalID" : "2c03433f-97d2-47e3-b049-31abecdca082"
+        "GlobalID" : "b7f1921a-a492-4bb7-abff-84b957155ca1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926754, 
+      "id" : 931938, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -887,7 +887,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926754, 
+        "OBJECTID" : 931938, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -901,12 +901,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 52576.26953125, 
         "SHAPE__Length" : 2125.7518367798048, 
-        "GlobalID" : "d3da8f38-7d9d-4248-8d39-b68229b6c88a"
+        "GlobalID" : "8a1291e5-0195-4e80-a5c6-70b4d86e3d0c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926755, 
+      "id" : 931939, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -934,7 +934,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926755, 
+        "OBJECTID" : 931939, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -948,12 +948,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 125766.30078125, 
         "SHAPE__Length" : 4004.8468402582985, 
-        "GlobalID" : "2e080369-0862-46d3-a353-f8052c9ef53a"
+        "GlobalID" : "e93d6e1a-5732-4957-a3e7-90a0b25ce93f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926756, 
+      "id" : 931940, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -994,7 +994,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926756, 
+        "OBJECTID" : 931940, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1008,12 +1008,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 246466.75, 
         "SHAPE__Length" : 4721.9181538493112, 
-        "GlobalID" : "2cfc3f53-0dc5-429b-ae60-38b20faf7284"
+        "GlobalID" : "58d189fb-2a57-4b00-a377-000ffdb49b4d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926757, 
+      "id" : 931941, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1046,7 +1046,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926757, 
+        "OBJECTID" : 931941, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1060,12 +1060,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131598.2734375, 
         "SHAPE__Length" : 3267.7484488847645, 
-        "GlobalID" : "95d9c381-26c6-4a62-a0b2-a7aa0589df2b"
+        "GlobalID" : "2364418e-ee87-4904-80d0-e4268c1277b5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926758, 
+      "id" : 931942, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1106,7 +1106,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926758, 
+        "OBJECTID" : 931942, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1120,12 +1120,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 154128.765625, 
         "SHAPE__Length" : 4880.1208950858463, 
-        "GlobalID" : "37ad2a03-f2df-41a6-aa45-e2002eae20fe"
+        "GlobalID" : "2f43da03-b0bf-43bd-accd-77e342b433aa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926759, 
+      "id" : 931943, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1147,7 +1147,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926759, 
+        "OBJECTID" : 931943, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1161,12 +1161,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 97182.1015625, 
         "SHAPE__Length" : 2310.2413403512946, 
-        "GlobalID" : "b3185744-5ff6-43b6-aaa9-bb44f7d33ede"
+        "GlobalID" : "b5901312-290e-44da-b5ec-3a88321e1809"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926760, 
+      "id" : 931944, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1193,7 +1193,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926760, 
+        "OBJECTID" : 931944, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1207,12 +1207,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 118640.6015625, 
         "SHAPE__Length" : 2191.4689297262134, 
-        "GlobalID" : "2a53d3d7-bcab-44b8-8378-b685098bbf82"
+        "GlobalID" : "44eec5dc-8631-4ed3-8be0-058680a13ea4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926761, 
+      "id" : 931945, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1252,7 +1252,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926761, 
+        "OBJECTID" : 931945, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1266,12 +1266,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 212070.4765625, 
         "SHAPE__Length" : 5406.8326292083439, 
-        "GlobalID" : "589ed785-6a84-42fc-887d-eff6c8df04f2"
+        "GlobalID" : "d76ae392-2019-4801-944d-9daa884ff11c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926762, 
+      "id" : 931946, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1769,7 +1769,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926762, 
+        "OBJECTID" : 931946, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1783,12 +1783,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 72417434.94921875, 
         "SHAPE__Length" : 41215.029832270789, 
-        "GlobalID" : "18ae2281-c6a7-4c7a-9859-3e1062fcd22e"
+        "GlobalID" : "ec929f5e-7a12-4216-bb1c-40e3d3674b2e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926763, 
+      "id" : 931947, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1852,7 +1852,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926763, 
+        "OBJECTID" : 931947, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1866,12 +1866,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 18606701.81640625, 
         "SHAPE__Length" : 23428.825597489609, 
-        "GlobalID" : "07016d2e-1753-4834-bbee-b27600836895"
+        "GlobalID" : "bb75f2cf-aea0-4b83-ad68-d2b6f55bb4c4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926764, 
+      "id" : 931948, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1994,7 +1994,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926764, 
+        "OBJECTID" : 931948, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2008,12 +2008,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 11895859.9140625, 
         "SHAPE__Length" : 18859.847823874468, 
-        "GlobalID" : "cc027faf-1067-4827-b35e-ddf5b5456315"
+        "GlobalID" : "76097a4a-d807-46e2-b7ca-fc22df7fc8bc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926765, 
+      "id" : 931949, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2441,7 +2441,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926765, 
+        "OBJECTID" : 931949, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2455,12 +2455,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1803-B & 1107 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52455818.1171875, 
         "SHAPE__Length" : 34038.693686606093, 
-        "GlobalID" : "0649c95f-07f6-41c6-b794-11fb4c1304d9"
+        "GlobalID" : "543c42a2-a55f-4565-b9a8-bb607930cf86"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926766, 
+      "id" : 931950, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2667,7 +2667,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926766, 
+        "OBJECTID" : 931950, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2681,12 +2681,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 13520479.13671875, 
         "SHAPE__Length" : 15323.612888652367, 
-        "GlobalID" : "9e6f3f98-5cab-4565-9ac4-af92ea3dbcb7"
+        "GlobalID" : "83e95fb2-6eb7-4d01-903f-0e3a22e04247"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926767, 
+      "id" : 931951, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2877,7 +2877,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926767, 
+        "OBJECTID" : 931951, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2891,12 +2891,12 @@
         "NOTES" : "Evacuation Warning Due to Butler Fire", 
         "SHAPE__Area" : 16241255.109375, 
         "SHAPE__Length" : 20453.351189690824, 
-        "GlobalID" : "69011fc4-fbeb-4cca-9622-aeab4688dff2"
+        "GlobalID" : "c78d9eb6-7f2c-434b-a21b-e16537f08e19"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926768, 
+      "id" : 931952, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3231,7 +3231,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926768, 
+        "OBJECTID" : 931952, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3245,12 +3245,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1705 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52483198.3671875, 
         "SHAPE__Length" : 34080.430289776741, 
-        "GlobalID" : "8a118cdc-9ec6-4263-ba31-e3963f73ef43"
+        "GlobalID" : "889233a8-ab18-483c-ac9e-21599876a685"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926769, 
+      "id" : 931953, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3634,7 +3634,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926769, 
+        "OBJECTID" : 931953, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3648,12 +3648,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 39758918.3125, 
         "SHAPE__Length" : 32788.141267479448, 
-        "GlobalID" : "4358ef36-c03d-4472-8421-24c3188850d0"
+        "GlobalID" : "75a48ded-6925-4df9-83c7-ccf4edbe63db"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926770, 
+      "id" : 931954, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4108,7 +4108,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926770, 
+        "OBJECTID" : 931954, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4122,12 +4122,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 62661946.98046875, 
         "SHAPE__Length" : 48506.156580678893, 
-        "GlobalID" : "e9783992-cc24-40f3-9113-a2dcd099fb4a"
+        "GlobalID" : "40e2daf8-043b-4135-9db1-42102d56fb97"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926771, 
+      "id" : 931955, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4334,7 +4334,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926771, 
+        "OBJECTID" : 931955, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4348,12 +4348,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 28802149.046875, 
         "SHAPE__Length" : 24452.892169594888, 
-        "GlobalID" : "1c590284-863a-4218-acfd-83cfb0a13085"
+        "GlobalID" : "983c3704-a32e-49a1-984b-49e0e80af609"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926772, 
+      "id" : 931956, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4697,7 +4697,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926772, 
+        "OBJECTID" : 931956, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4711,12 +4711,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 45740762.3984375, 
         "SHAPE__Length" : 33150.5568198093, 
-        "GlobalID" : "7d9e1177-d575-455d-b7bf-04fc45aa628a"
+        "GlobalID" : "7a4eb016-61b9-4bc4-8659-6b8b2c6e384c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926773, 
+      "id" : 931957, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5430,7 +5430,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926773, 
+        "OBJECTID" : 931957, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5444,12 +5444,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 114397442.640625, 
         "SHAPE__Length" : 53524.813185312451, 
-        "GlobalID" : "827c177f-4ed0-4790-ace0-6fa6c538fb33"
+        "GlobalID" : "3d679f6f-a53e-4cb1-b607-e440ef194c39"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926774, 
+      "id" : 931958, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5955,7 +5955,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926774, 
+        "OBJECTID" : 931958, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5969,12 +5969,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 116618874.90625, 
         "SHAPE__Length" : 46513.460084716506, 
-        "GlobalID" : "43f9da56-cbf0-4399-9cdc-6ef3ae65b9aa"
+        "GlobalID" : "ffa5f162-2d00-4851-9cee-272a072facac"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926775, 
+      "id" : 931959, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6594,7 +6594,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926775, 
+        "OBJECTID" : 931959, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6608,12 +6608,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 97068983.38671875, 
         "SHAPE__Length" : 48206.43860706823, 
-        "GlobalID" : "0746e7c8-3a21-49fd-ae90-3f1e224b3474"
+        "GlobalID" : "47378d1e-1ed8-42ce-955d-778ae9d91d37"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926776, 
+      "id" : 931960, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6926,7 +6926,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926776, 
+        "OBJECTID" : 931960, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6940,12 +6940,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 56923615.94921875, 
         "SHAPE__Length" : 35855.661575150145, 
-        "GlobalID" : "854890ee-31ae-4685-aa61-e91a8320fba3"
+        "GlobalID" : "1264abbe-89c9-4606-a200-11d514f83eb9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926777, 
+      "id" : 931961, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7290,7 +7290,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926777, 
+        "OBJECTID" : 931961, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7304,12 +7304,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1803-B & 1107 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 51062734.86328125, 
         "SHAPE__Length" : 30631.340148992615, 
-        "GlobalID" : "5f1731dc-967e-427f-a53a-5fe5899a70cd"
+        "GlobalID" : "3499b58e-6f3e-455b-b52a-083eee7f821b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926778, 
+      "id" : 931962, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7607,7 +7607,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926778, 
+        "OBJECTID" : 931962, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7621,12 +7621,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 69905650.79296875, 
         "SHAPE__Length" : 38556.213070609854, 
-        "GlobalID" : "c3412374-6b13-49bc-b54b-82b5c47f8125"
+        "GlobalID" : "21ac0e8b-c8db-43ca-9b85-ecb01c312a37"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926779, 
+      "id" : 931963, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7766,7 +7766,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926779, 
+        "OBJECTID" : 931963, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7780,12 +7780,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 12011473.2890625, 
         "SHAPE__Length" : 19546.892251127218, 
-        "GlobalID" : "21da5bbe-d8e0-4c05-a2d3-ec7688236b4d"
+        "GlobalID" : "38fa0252-01b5-4c87-a82f-67f80b5b8afc"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926780, 
+      "id" : 931964, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8067,7 +8067,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926780, 
+        "OBJECTID" : 931964, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8081,12 +8081,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 29349647.63671875, 
         "SHAPE__Length" : 35607.5832440137, 
-        "GlobalID" : "d931db9a-a1d7-495d-ac42-070c5577b388"
+        "GlobalID" : "26054ec9-6467-4201-917b-d52591075591"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926781, 
+      "id" : 931965, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8117,7 +8117,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926781, 
+        "OBJECTID" : 931965, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8131,12 +8131,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 10265399.46484375, 
         "SHAPE__Length" : 17100.237797057416, 
-        "GlobalID" : "588f90e5-e175-4260-b529-2e1d3ecbdb92"
+        "GlobalID" : "486c7ca5-efa9-4117-937f-cdd74f6b3fbd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926782, 
+      "id" : 931966, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8696,7 +8696,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926782, 
+        "OBJECTID" : 931966, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8710,12 +8710,12 @@
         "NOTES" : "The Shasta County Sheriff's Office is requesting mandatory evacuations due to the Green Fire.", 
         "SHAPE__Area" : 498793434.41015625, 
         "SHAPE__Length" : 120754.412163714, 
-        "GlobalID" : "c74462af-1594-4c3e-b27e-9abb7d06a9bd"
+        "GlobalID" : "47a143ea-64c2-48cf-8cfd-a5deab8d52da"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 926783, 
+      "id" : 931967, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8757,7 +8757,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 926783, 
+        "OBJECTID" : 931967, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8771,7 +8771,7 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.  ", 
         "SHAPE__Area" : 311485424.44921875, 
         "SHAPE__Length" : 77626.157586990666, 
-        "GlobalID" : "c4f9ef17-3f4d-411f-b1da-15c85eccd156"
+        "GlobalID" : "07a0780c-688b-468c-bdf1-111cde8b1ef2"
       }
     }
   ]
