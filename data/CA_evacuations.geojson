@@ -3,7 +3,494 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 942519, 
+      "id" : 947784, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-121.4568, 41.8391], 
+            [-121.4572, 41.8391], 
+            [-121.4573, 41.8927], 
+            [-121.4572, 41.9217], 
+            [-121.4573, 41.9498], 
+            [-121.4478, 41.9499], 
+            [-121.4478, 41.9975], 
+            [-121.4474, 41.9975], 
+            [-121.4404, 41.9974], 
+            [-121.4379, 41.9974], 
+            [-121.4355, 41.9974], 
+            [-121.429, 41.9973], 
+            [-121.4278, 41.9973], 
+            [-121.4267, 41.9973], 
+            [-121.4266, 41.9973], 
+            [-121.4232, 41.9972], 
+            [-121.4231, 41.9972], 
+            [-121.4229, 41.9972], 
+            [-121.4182, 41.9972], 
+            [-121.4178, 41.9972], 
+            [-121.4174, 41.9972], 
+            [-121.4172, 41.9972], 
+            [-121.4171, 41.9972], 
+            [-121.4085, 41.9971], 
+            [-121.4083, 41.9971], 
+            [-121.4081, 41.997], 
+            [-121.4076, 41.997], 
+            [-121.4064, 41.997], 
+            [-121.4003, 41.997], 
+            [-121.3932, 41.9969], 
+            [-121.3803, 41.9968], 
+            [-121.379, 41.9968], 
+            [-121.3788, 41.9968], 
+            [-121.3609, 41.9966], 
+            [-121.3603, 41.9966], 
+            [-121.36, 41.9966], 
+            [-121.3596, 41.9966], 
+            [-121.3596, 41.9965], 
+            [-121.3582, 41.9951], 
+            [-121.3549, 41.9916], 
+            [-121.3542, 41.9905], 
+            [-121.3524, 41.9879], 
+            [-121.352, 41.9872], 
+            [-121.3497, 41.9846], 
+            [-121.3493, 41.9839], 
+            [-121.3482, 41.9809], 
+            [-121.3476, 41.979], 
+            [-121.3474, 41.9784], 
+            [-121.3474, 41.9774], 
+            [-121.3473, 41.9764], 
+            [-121.3472, 41.9734], 
+            [-121.3468, 41.9708], 
+            [-121.346, 41.9676], 
+            [-121.3449, 41.9644], 
+            [-121.3441, 41.9621], 
+            [-121.3434, 41.9592], 
+            [-121.3431, 41.9577], 
+            [-121.3429, 41.9565], 
+            [-121.3426, 41.9553], 
+            [-121.3417, 41.9508], 
+            [-121.3408, 41.9481], 
+            [-121.3403, 41.9469], 
+            [-121.3398, 41.9445], 
+            [-121.3396, 41.9434], 
+            [-121.339, 41.9404], 
+            [-121.3389, 41.9404], 
+            [-121.3374, 41.9351], 
+            [-121.337, 41.9329], 
+            [-121.336, 41.9284], 
+            [-121.3358, 41.9277], 
+            [-121.3352, 41.9249], 
+            [-121.3345, 41.922], 
+            [-121.333, 41.9178], 
+            [-121.3317, 41.9158], 
+            [-121.331, 41.9148], 
+            [-121.3309, 41.9146], 
+            [-121.331, 41.9144], 
+            [-121.331, 41.912], 
+            [-121.3317, 41.9102], 
+            [-121.3325, 41.9077], 
+            [-121.3312, 41.904], 
+            [-121.3294, 41.9011], 
+            [-121.3291, 41.8993], 
+            [-121.3292, 41.899], 
+            [-121.3289, 41.8973], 
+            [-121.3269, 41.8931], 
+            [-121.3268, 41.8924], 
+            [-121.3264, 41.8885], 
+            [-121.3264, 41.8883], 
+            [-121.325, 41.8838], 
+            [-121.323, 41.8786], 
+            [-121.3212, 41.876], 
+            [-121.3199, 41.8739], 
+            [-121.3189, 41.8725], 
+            [-121.3186, 41.8703], 
+            [-121.3187, 41.8666], 
+            [-121.3189, 41.864], 
+            [-121.3175, 41.8605], 
+            [-121.315, 41.8556], 
+            [-121.3139, 41.853], 
+            [-121.3125, 41.8495], 
+            [-121.3113, 41.8469], 
+            [-121.3105, 41.8453], 
+            [-121.3103, 41.8448], 
+            [-121.3104, 41.8449], 
+            [-121.3106, 41.845], 
+            [-121.3134, 41.8472], 
+            [-121.3193, 41.8504], 
+            [-121.3221, 41.8521], 
+            [-121.3222, 41.852], 
+            [-121.3231, 41.8513], 
+            [-121.3238, 41.8508], 
+            [-121.3245, 41.8502], 
+            [-121.3296, 41.8491], 
+            [-121.33, 41.8472], 
+            [-121.3305, 41.8455], 
+            [-121.33, 41.8427], 
+            [-121.3299, 41.8425], 
+            [-121.3295, 41.84], 
+            [-121.3296, 41.8362], 
+            [-121.3311, 41.8347], 
+            [-121.3337, 41.8342], 
+            [-121.3376, 41.834], 
+            [-121.3454, 41.8346], 
+            [-121.3454, 41.8312], 
+            [-121.3454, 41.8205], 
+            [-121.3454, 41.8196], 
+            [-121.3526, 41.8195], 
+            [-121.3529, 41.8194], 
+            [-121.3536, 41.8194], 
+            [-121.3606, 41.8188], 
+            [-121.3674, 41.8192], 
+            [-121.3686, 41.8175], 
+            [-121.3689, 41.8171], 
+            [-121.3691, 41.8143], 
+            [-121.3714, 41.8125], 
+            [-121.3736, 41.811], 
+            [-121.3757, 41.8091], 
+            [-121.3775, 41.809], 
+            [-121.3786, 41.8087], 
+            [-121.3789, 41.8086], 
+            [-121.3791, 41.8086], 
+            [-121.3807, 41.8073], 
+            [-121.3823, 41.8066], 
+            [-121.3838, 41.8065], 
+            [-121.3858, 41.8061], 
+            [-121.3899, 41.8014], 
+            [-121.3929, 41.7998], 
+            [-121.3952, 41.799], 
+            [-121.3961, 41.7989], 
+            [-121.3977, 41.7985], 
+            [-121.3986, 41.7984], 
+            [-121.4024, 41.7976], 
+            [-121.4037, 41.7973], 
+            [-121.4073, 41.7964], 
+            [-121.4079, 41.7962], 
+            [-121.4103, 41.7952], 
+            [-121.412, 41.7955], 
+            [-121.4159, 41.798], 
+            [-121.4175, 41.7989], 
+            [-121.4196, 41.8003], 
+            [-121.4224, 41.8025], 
+            [-121.4231, 41.8064], 
+            [-121.4237, 41.808], 
+            [-121.4242, 41.8095], 
+            [-121.4255, 41.8127], 
+            [-121.4258, 41.813], 
+            [-121.4268, 41.8141], 
+            [-121.427, 41.8143], 
+            [-121.4294, 41.8151], 
+            [-121.4308, 41.8157], 
+            [-121.4325, 41.8177], 
+            [-121.4336, 41.8192], 
+            [-121.4371, 41.8227], 
+            [-121.4359, 41.8266], 
+            [-121.4357, 41.83], 
+            [-121.4359, 41.8311], 
+            [-121.4362, 41.8329], 
+            [-121.4364, 41.8341], 
+            [-121.4377, 41.8351], 
+            [-121.438, 41.8354], 
+            [-121.4385, 41.8358], 
+            [-121.4398, 41.8363], 
+            [-121.4411, 41.8368], 
+            [-121.4414, 41.837], 
+            [-121.4437, 41.8381], 
+            [-121.4464, 41.8388], 
+            [-121.4466, 41.8389], 
+            [-121.4467, 41.8389], 
+            [-121.4505, 41.8389], 
+            [-121.4565, 41.8391], 
+            [-121.4568, 41.8391]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 947784, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XMO-MCU-001", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1753504610000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "EVACUATION WARNING FOR ALL RESIDENTS WEST OF THE COUNTY ROAD 120 AND COUNTY ROAD 121 INTERSECTION. THIS IS A RESULT OF THE MAMMOTH FIRE WHICH IS WEST OF THE DRY LAKE FIRE STATION AND HIGHWAY 139 IN TIONESTA. THIS IS A WARNING ONLY THERE IS NO EVACUATION ORDER AT THIS TIME.", 
+        "SHAPE__Area" : 364110086.7578125, 
+        "SHAPE__Length" : 85562.061900022018, 
+        "GlobalID" : "494fe0ee-9773-462a-a9c8-5c8f301e8522"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 947785, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-121.3104, 41.8449], 
+            [-121.3094, 41.8438], 
+            [-121.3087, 41.843], 
+            [-121.3081, 41.8426], 
+            [-121.3065, 41.8409], 
+            [-121.3065, 41.8358], 
+            [-121.3061, 41.834], 
+            [-121.306, 41.8331], 
+            [-121.3056, 41.8296], 
+            [-121.3055, 41.8264], 
+            [-121.3057, 41.8226], 
+            [-121.3056, 41.8206], 
+            [-121.3056, 41.8145], 
+            [-121.3053, 41.8048], 
+            [-121.3043, 41.7958], 
+            [-121.3045, 41.7939], 
+            [-121.3048, 41.7924], 
+            [-121.3045, 41.7894], 
+            [-121.304, 41.7861], 
+            [-121.3038, 41.7829], 
+            [-121.3034, 41.78], 
+            [-121.3044, 41.7768], 
+            [-121.3044, 41.776], 
+            [-121.3045, 41.774], 
+            [-121.3044, 41.7726], 
+            [-121.3042, 41.7718], 
+            [-121.3034, 41.769], 
+            [-121.3033, 41.7687], 
+            [-121.3026, 41.7663], 
+            [-121.3024, 41.7639], 
+            [-121.3023, 41.7596], 
+            [-121.3027, 41.7537], 
+            [-121.303, 41.7521], 
+            [-121.3021, 41.7494], 
+            [-121.3012, 41.7458], 
+            [-121.3007, 41.7436], 
+            [-121.3004, 41.7418], 
+            [-121.2995, 41.7389], 
+            [-121.299, 41.7373], 
+            [-121.2985, 41.7343], 
+            [-121.2979, 41.7331], 
+            [-121.2978, 41.7328], 
+            [-121.2957, 41.7279], 
+            [-121.295, 41.7261], 
+            [-121.2945, 41.7244], 
+            [-121.294, 41.7227], 
+            [-121.2939, 41.7225], 
+            [-121.2928, 41.7199], 
+            [-121.2924, 41.719], 
+            [-121.2917, 41.7175], 
+            [-121.2915, 41.7174], 
+            [-121.2945, 41.7125], 
+            [-121.2951, 41.7099], 
+            [-121.2952, 41.7093], 
+            [-121.296, 41.705], 
+            [-121.3006, 41.7008], 
+            [-121.3014, 41.7001], 
+            [-121.3013, 41.695], 
+            [-121.3029, 41.6905], 
+            [-121.3033, 41.6867], 
+            [-121.3036, 41.6846], 
+            [-121.304, 41.6837], 
+            [-121.3063, 41.679], 
+            [-121.3099, 41.6704], 
+            [-121.3112, 41.664], 
+            [-121.3112, 41.6638], 
+            [-121.3115, 41.6624], 
+            [-121.3119, 41.6615], 
+            [-121.3149, 41.6545], 
+            [-121.3162, 41.6505], 
+            [-121.3165, 41.6499], 
+            [-121.3175, 41.6469], 
+            [-121.3177, 41.6468], 
+            [-121.318, 41.6468], 
+            [-121.326, 41.6459], 
+            [-121.3261, 41.6459], 
+            [-121.3263, 41.6458], 
+            [-121.3266, 41.6457], 
+            [-121.3304, 41.6444], 
+            [-121.3336, 41.6434], 
+            [-121.3342, 41.6431], 
+            [-121.3358, 41.6423], 
+            [-121.3376, 41.6407], 
+            [-121.3409, 41.6408], 
+            [-121.344, 41.6405], 
+            [-121.3443, 41.6405], 
+            [-121.3515, 41.6404], 
+            [-121.3521, 41.6402], 
+            [-121.3524, 41.6402], 
+            [-121.3563, 41.6395], 
+            [-121.3585, 41.638], 
+            [-121.3591, 41.6376], 
+            [-121.3667, 41.6348], 
+            [-121.3671, 41.6345], 
+            [-121.3725, 41.6309], 
+            [-121.3732, 41.6306], 
+            [-121.3735, 41.6303], 
+            [-121.3743, 41.6299], 
+            [-121.3759, 41.6291], 
+            [-121.3779, 41.6275], 
+            [-121.379, 41.6266], 
+            [-121.3829, 41.6232], 
+            [-121.3868, 41.6212], 
+            [-121.3889, 41.6205], 
+            [-121.3932, 41.6202], 
+            [-121.3966, 41.6206], 
+            [-121.4022, 41.6204], 
+            [-121.4025, 41.6203], 
+            [-121.4074, 41.6194], 
+            [-121.4099, 41.618], 
+            [-121.4105, 41.6177], 
+            [-121.4126, 41.6161], 
+            [-121.4126, 41.616], 
+            [-121.4131, 41.6161], 
+            [-121.4185, 41.6159], 
+            [-121.4191, 41.6151], 
+            [-121.4196, 41.6138], 
+            [-121.4214, 41.6114], 
+            [-121.4224, 41.6104], 
+            [-121.424, 41.6088], 
+            [-121.4268, 41.6079], 
+            [-121.4294, 41.607], 
+            [-121.4297, 41.6067], 
+            [-121.4309, 41.6044], 
+            [-121.431, 41.6042], 
+            [-121.4317, 41.602], 
+            [-121.4317, 41.601], 
+            [-121.4317, 41.5996], 
+            [-121.4327, 41.5986], 
+            [-121.4342, 41.5971], 
+            [-121.4367, 41.5953], 
+            [-121.4374, 41.5948], 
+            [-121.4389, 41.594], 
+            [-121.4413, 41.5927], 
+            [-121.445, 41.5919], 
+            [-121.4454, 41.5917], 
+            [-121.4466, 41.5904], 
+            [-121.4491, 41.5892], 
+            [-121.4494, 41.589], 
+            [-121.4495, 41.6045], 
+            [-121.4499, 41.6551], 
+            [-121.4495, 41.6768], 
+            [-121.4495, 41.6915], 
+            [-121.4496, 41.7205], 
+            [-121.4495, 41.7499], 
+            [-121.4494, 41.776], 
+            [-121.4572, 41.7759], 
+            [-121.4568, 41.8391], 
+            [-121.4565, 41.8391], 
+            [-121.4505, 41.8389], 
+            [-121.4467, 41.8389], 
+            [-121.4466, 41.8389], 
+            [-121.4464, 41.8388], 
+            [-121.4437, 41.8381], 
+            [-121.4414, 41.837], 
+            [-121.4411, 41.8368], 
+            [-121.4398, 41.8363], 
+            [-121.4385, 41.8358], 
+            [-121.438, 41.8354], 
+            [-121.4377, 41.8351], 
+            [-121.4364, 41.8341], 
+            [-121.4362, 41.8329], 
+            [-121.4359, 41.8311], 
+            [-121.4357, 41.83], 
+            [-121.4359, 41.8266], 
+            [-121.4371, 41.8227], 
+            [-121.4336, 41.8192], 
+            [-121.4325, 41.8177], 
+            [-121.4308, 41.8157], 
+            [-121.4294, 41.8151], 
+            [-121.427, 41.8143], 
+            [-121.4268, 41.8141], 
+            [-121.4258, 41.813], 
+            [-121.4255, 41.8127], 
+            [-121.4242, 41.8095], 
+            [-121.4237, 41.808], 
+            [-121.4231, 41.8064], 
+            [-121.4224, 41.8025], 
+            [-121.4196, 41.8003], 
+            [-121.4175, 41.7989], 
+            [-121.4159, 41.798], 
+            [-121.412, 41.7955], 
+            [-121.4103, 41.7952], 
+            [-121.4079, 41.7962], 
+            [-121.4073, 41.7964], 
+            [-121.4037, 41.7973], 
+            [-121.4024, 41.7976], 
+            [-121.3986, 41.7984], 
+            [-121.3977, 41.7985], 
+            [-121.3961, 41.7989], 
+            [-121.3952, 41.799], 
+            [-121.3929, 41.7998], 
+            [-121.3899, 41.8014], 
+            [-121.3858, 41.8061], 
+            [-121.3838, 41.8065], 
+            [-121.3823, 41.8066], 
+            [-121.3807, 41.8073], 
+            [-121.3791, 41.8086], 
+            [-121.3789, 41.8086], 
+            [-121.3786, 41.8087], 
+            [-121.3775, 41.809], 
+            [-121.3757, 41.8091], 
+            [-121.3736, 41.811], 
+            [-121.3714, 41.8125], 
+            [-121.3691, 41.8143], 
+            [-121.3689, 41.8171], 
+            [-121.3686, 41.8175], 
+            [-121.3674, 41.8192], 
+            [-121.3606, 41.8188], 
+            [-121.3536, 41.8194], 
+            [-121.3529, 41.8194], 
+            [-121.3526, 41.8195], 
+            [-121.3454, 41.8196], 
+            [-121.3454, 41.8205], 
+            [-121.3454, 41.8312], 
+            [-121.3454, 41.8346], 
+            [-121.3376, 41.834], 
+            [-121.3337, 41.8342], 
+            [-121.3311, 41.8347], 
+            [-121.3296, 41.8362], 
+            [-121.3295, 41.84], 
+            [-121.3299, 41.8425], 
+            [-121.33, 41.8427], 
+            [-121.3305, 41.8455], 
+            [-121.33, 41.8472], 
+            [-121.3296, 41.8491], 
+            [-121.3245, 41.8502], 
+            [-121.3238, 41.8508], 
+            [-121.3231, 41.8513], 
+            [-121.3222, 41.852], 
+            [-121.3221, 41.8521], 
+            [-121.3193, 41.8504], 
+            [-121.3134, 41.8472], 
+            [-121.3106, 41.845], 
+            [-121.3104, 41.8449]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 947785, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XMO-MCU-002", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1753504610000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "EVACUATION WARNING FOR ALL RESIDENTS WEST OF THE COUNTY ROAD 120 AND COUNTY ROAD 121 INTERSECTION. THIS IS A RESULT OF THE MAMMOTH FIRE WHICH IS WEST OF THE DRY LAKE FIRE STATION AND HIGHWAY 139 IN TIONESTA. THIS IS A WARNING ONLY THERE IS NO EVACUATION ORDER AT THIS TIME.", 
+        "SHAPE__Area" : 478874314.4375, 
+        "SHAPE__Length" : 114252.80948280368, 
+        "GlobalID" : "b98a61bb-a553-49b9-b4ee-567fdd146307"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 947786, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -377,7 +864,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942519, 
+        "OBJECTID" : 947786, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -391,12 +878,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 791150.78125, 
         "SHAPE__Length" : 8088.9589737974575, 
-        "GlobalID" : "b59e3920-f48c-4bd7-b100-6f103ff62dcb"
+        "GlobalID" : "3f4ef83f-02bc-4c91-8f70-46a3f051d3ba"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942520, 
+      "id" : 947787, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -455,7 +942,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942520, 
+        "OBJECTID" : 947787, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -469,12 +956,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1157388.27734375, 
         "SHAPE__Length" : 5327.9665924636092, 
-        "GlobalID" : "d20ce48c-b120-4c41-aa42-8c32943e3ae9"
+        "GlobalID" : "f684ed75-02da-448c-8c11-77b5bedba914"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942521, 
+      "id" : 947788, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -592,7 +1079,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942521, 
+        "OBJECTID" : 947788, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -606,12 +1093,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 126068551.59375, 
         "SHAPE__Length" : 58163.211852262844, 
-        "GlobalID" : "d69712b7-e6f4-4a96-8cc6-b8192f4a080d"
+        "GlobalID" : "06d5dc23-ae11-4cca-ae98-9838f426d438"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942522, 
+      "id" : 947789, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -681,7 +1168,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942522, 
+        "OBJECTID" : 947789, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -695,12 +1182,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.", 
         "SHAPE__Area" : 112147733.7578125, 
         "SHAPE__Length" : 47849.250296688959, 
-        "GlobalID" : "4f5c665c-f444-44af-b1c5-0972573a423b"
+        "GlobalID" : "835e9b53-769c-4bfc-b1b9-5849472360f1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942523, 
+      "id" : 947790, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -759,7 +1246,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942523, 
+        "OBJECTID" : 947790, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -773,12 +1260,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 858042.69140625, 
         "SHAPE__Length" : 4804.0101299556691, 
-        "GlobalID" : "237699c3-a6a6-43ff-b9fc-6f2e86544674"
+        "GlobalID" : "43ceaf5e-13cb-4ffd-a318-62876144138d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942524, 
+      "id" : 947791, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -839,7 +1326,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942524, 
+        "OBJECTID" : 947791, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -853,12 +1340,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385676.92578125, 
         "SHAPE__Length" : 3113.3427743097691, 
-        "GlobalID" : "f99ac8c2-9ec7-40ba-aee6-b59bd5de91fa"
+        "GlobalID" : "9677483d-df94-4508-b314-0c2d6fd6318e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942525, 
+      "id" : 947792, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -887,7 +1374,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942525, 
+        "OBJECTID" : 947792, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -901,12 +1388,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 52576.26953125, 
         "SHAPE__Length" : 2125.7518367798048, 
-        "GlobalID" : "36c06a91-4651-4724-8627-70a2d0fb3ac5"
+        "GlobalID" : "2077758f-363f-4e6e-b856-6b10ea120e06"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942526, 
+      "id" : 947793, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -934,7 +1421,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942526, 
+        "OBJECTID" : 947793, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -948,12 +1435,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 125766.30078125, 
         "SHAPE__Length" : 4004.8468402582985, 
-        "GlobalID" : "4c0a5bd0-5221-4b90-90d3-ba5ff3da552a"
+        "GlobalID" : "ff72ee03-593f-4d73-be0b-42a01098c242"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942527, 
+      "id" : 947794, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -994,7 +1481,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942527, 
+        "OBJECTID" : 947794, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1008,12 +1495,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 246466.75, 
         "SHAPE__Length" : 4721.9181538493112, 
-        "GlobalID" : "20e0b9a2-da5e-4f8c-8240-2fb294515e7b"
+        "GlobalID" : "66b5bd01-7271-4f42-b71d-6dfd645809fa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942528, 
+      "id" : 947795, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1046,7 +1533,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942528, 
+        "OBJECTID" : 947795, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1060,12 +1547,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131598.2734375, 
         "SHAPE__Length" : 3267.7484488847645, 
-        "GlobalID" : "a15e4138-6feb-4801-9cca-95afac00d2df"
+        "GlobalID" : "d6096124-4147-4970-a912-0a638d4acce4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942529, 
+      "id" : 947796, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1106,7 +1593,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942529, 
+        "OBJECTID" : 947796, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1120,12 +1607,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 154128.765625, 
         "SHAPE__Length" : 4880.1208950858463, 
-        "GlobalID" : "5e9b0a85-c896-4104-91d2-f27eb4430502"
+        "GlobalID" : "fafd70ed-603f-4a01-8601-93233e021863"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942530, 
+      "id" : 947797, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1147,7 +1634,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942530, 
+        "OBJECTID" : 947797, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1161,12 +1648,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 97182.1015625, 
         "SHAPE__Length" : 2310.2413403512946, 
-        "GlobalID" : "f1059bda-77c8-4dbf-a5fa-97fae240de96"
+        "GlobalID" : "69a9cc5e-6035-4d31-bac8-ec3d6762feb8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942531, 
+      "id" : 947798, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1193,7 +1680,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942531, 
+        "OBJECTID" : 947798, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1207,12 +1694,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 118640.6015625, 
         "SHAPE__Length" : 2191.4689297262134, 
-        "GlobalID" : "11849c05-2f76-4bdf-8738-44ce311e9c74"
+        "GlobalID" : "bd49a2ac-93cf-40d6-9d0c-19c5dee9810b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942532, 
+      "id" : 947799, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1252,7 +1739,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942532, 
+        "OBJECTID" : 947799, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1266,12 +1753,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 212070.4765625, 
         "SHAPE__Length" : 5406.8326292083439, 
-        "GlobalID" : "b7bab0ef-1f52-43b1-b58e-263e6961c06e"
+        "GlobalID" : "71dcb66c-bf9c-4f8d-abdc-d716201f07c7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942533, 
+      "id" : 947800, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1769,7 +2256,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942533, 
+        "OBJECTID" : 947800, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1783,12 +2270,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 72417434.94921875, 
         "SHAPE__Length" : 41215.029832270789, 
-        "GlobalID" : "bfb2f8c2-26d4-4303-8261-bde0edf4b648"
+        "GlobalID" : "88270a2f-29cf-400c-8346-9c9b7c311455"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942534, 
+      "id" : 947801, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1852,7 +2339,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942534, 
+        "OBJECTID" : 947801, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -1866,12 +2353,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 18606701.81640625, 
         "SHAPE__Length" : 23428.825597489609, 
-        "GlobalID" : "99ab4256-e0b5-463d-b333-49413ddbec80"
+        "GlobalID" : "f3e7db07-0146-45ca-85dd-1294dc4f4143"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942535, 
+      "id" : 947802, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1994,7 +2481,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942535, 
+        "OBJECTID" : 947802, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2008,12 +2495,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 11895859.9140625, 
         "SHAPE__Length" : 18859.847823874468, 
-        "GlobalID" : "78be0a3a-a16a-4b3f-8df6-7d9d36a50616"
+        "GlobalID" : "af9a17aa-91ad-4d75-b50d-11280ebbd5cd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942536, 
+      "id" : 947803, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2441,7 +2928,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942536, 
+        "OBJECTID" : 947803, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2455,12 +2942,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1803-B & 1107 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52455818.1171875, 
         "SHAPE__Length" : 34038.693686606093, 
-        "GlobalID" : "6b1ad929-5c65-42c0-b946-199c967f4967"
+        "GlobalID" : "76c69e9e-37f7-45d7-a9f3-c49f8011de5f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942537, 
+      "id" : 947804, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2667,7 +3154,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942537, 
+        "OBJECTID" : 947804, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2681,12 +3168,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 13520479.13671875, 
         "SHAPE__Length" : 15323.612888652367, 
-        "GlobalID" : "fd157f33-2f7a-44ff-bf84-a6726393e247"
+        "GlobalID" : "f2794510-b15e-48b8-b05c-69d851752cb7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942538, 
+      "id" : 947805, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2877,7 +3364,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942538, 
+        "OBJECTID" : 947805, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -2891,12 +3378,12 @@
         "NOTES" : "Evacuation Warning Due to Butler Fire", 
         "SHAPE__Area" : 16241255.109375, 
         "SHAPE__Length" : 20453.351189690824, 
-        "GlobalID" : "787b3008-49ca-4611-afd9-ae72de3833b2"
+        "GlobalID" : "6c925f84-f48b-4cfa-abe2-fce4cbf1eb5e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942539, 
+      "id" : 947806, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3231,7 +3718,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942539, 
+        "OBJECTID" : 947806, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3245,12 +3732,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zone SIS-1705 due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 52483198.3671875, 
         "SHAPE__Length" : 34080.430289776741, 
-        "GlobalID" : "90b259fa-9acb-4636-9caa-ff1fdf50bb14"
+        "GlobalID" : "7a90c52a-9fcc-4358-80ba-c6926b7f7eb6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942540, 
+      "id" : 947807, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3634,7 +4121,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942540, 
+        "OBJECTID" : 947807, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -3648,12 +4135,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 39758918.3125, 
         "SHAPE__Length" : 32788.141267479448, 
-        "GlobalID" : "f789a158-d65d-4e64-9e98-1cf24d415861"
+        "GlobalID" : "cc74ff28-c7e5-490e-adfb-ebd4b8bdc891"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942541, 
+      "id" : 947808, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4108,7 +4595,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942541, 
+        "OBJECTID" : 947808, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4122,12 +4609,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 62661946.98046875, 
         "SHAPE__Length" : 48506.156580678893, 
-        "GlobalID" : "8ce816fc-c506-4dfe-bf9a-4b0a6e30089b"
+        "GlobalID" : "8c534b41-fe62-498d-ad68-fe28289f948d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942542, 
+      "id" : 947809, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4334,7 +4821,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942542, 
+        "OBJECTID" : 947809, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4348,12 +4835,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 28802149.046875, 
         "SHAPE__Length" : 24452.892169594888, 
-        "GlobalID" : "7b57da9f-8572-4933-953b-9218a2e029de"
+        "GlobalID" : "2d745a4b-7ea9-46e8-9b30-273f1b4a5e21"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942543, 
+      "id" : 947810, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -4697,7 +5184,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942543, 
+        "OBJECTID" : 947810, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -4711,12 +5198,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 45740762.3984375, 
         "SHAPE__Length" : 33150.5568198093, 
-        "GlobalID" : "d51a9775-17e8-4645-9e3f-49586daa76e4"
+        "GlobalID" : "0447ec83-dc85-42f2-af73-3d6775d42666"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942544, 
+      "id" : 947811, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5430,7 +5917,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942544, 
+        "OBJECTID" : 947811, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5444,12 +5931,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 114397442.640625, 
         "SHAPE__Length" : 53524.813185312451, 
-        "GlobalID" : "e7cd575b-37f9-4044-918e-40231da79414"
+        "GlobalID" : "12c37ffe-9ff5-4a54-b0f0-94a3970ce7d1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942545, 
+      "id" : 947812, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5955,7 +6442,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942545, 
+        "OBJECTID" : 947812, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -5969,12 +6456,12 @@
         "NOTES" : " Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1712, 1713 & 1811 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 116618874.90625, 
         "SHAPE__Length" : 46513.460084716506, 
-        "GlobalID" : "e51926bd-0b2f-42c9-8cee-40b23f9a43f7"
+        "GlobalID" : "efbb4c31-c590-4175-aecf-7701607048aa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942546, 
+      "id" : 947813, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6594,7 +7081,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942546, 
+        "OBJECTID" : 947813, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6608,12 +7095,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE UNLESS EAST OF KNOWNOTHING CREEK. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 97068983.38671875, 
         "SHAPE__Length" : 48206.43860706823, 
-        "GlobalID" : "b7e97f28-0367-4165-bb2d-c295b85b3361"
+        "GlobalID" : "8296abd2-ec2d-4c0b-a7cc-39023b51365f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942547, 
+      "id" : 947814, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6926,7 +7413,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942547, 
+        "OBJECTID" : 947814, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -6940,12 +7427,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 56923615.94921875, 
         "SHAPE__Length" : 35855.661575150145, 
-        "GlobalID" : "928a52bc-f29b-4f72-bf0c-e8626d54ef2f"
+        "GlobalID" : "1e6c55a5-3e13-477e-bbeb-2b19c75bd478"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942548, 
+      "id" : 947815, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7290,7 +7777,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942548, 
+        "OBJECTID" : 947815, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7304,12 +7791,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for Zones SIS-1803-B & 1107 due to the Butler Fire.... Anyone in this area should be prepared to leave.... For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 51062734.86328125, 
         "SHAPE__Length" : 30631.340148992615, 
-        "GlobalID" : "00cd7606-4c0a-4135-a640-980332e1598d"
+        "GlobalID" : "601d22bd-fec4-477e-9019-d8ce6ee87fb2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942549, 
+      "id" : 947816, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7449,7 +7936,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942549, 
+        "OBJECTID" : 947816, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7463,12 +7950,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 12011473.2890625, 
         "SHAPE__Length" : 19546.892251127218, 
-        "GlobalID" : "80a45c3a-46d4-456a-b981-356597e4f530"
+        "GlobalID" : "ef458507-5b9c-4650-afb9-af4cd5831f9b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942550, 
+      "id" : 947817, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7750,7 +8237,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942550, 
+        "OBJECTID" : 947817, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7764,12 +8251,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 29349647.63671875, 
         "SHAPE__Length" : 35607.5832440137, 
-        "GlobalID" : "d9097d46-bb34-49c5-9c67-b029ea81af50"
+        "GlobalID" : "de8513c1-e424-4293-8fc1-42bae016acfa"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942551, 
+      "id" : 947818, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -7800,7 +8287,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942551, 
+        "OBJECTID" : 947818, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -7814,12 +8301,12 @@
         "NOTES" : "FIRE HAS REACHED KNOWNOTHING CREEK ROAD\n\nIF YOU ARE WEST OF KNOWNOTHING CREEK ROAD, PLEASE DRIVE UP TO FORKS OF SALMON AND EVACUATE WITH THE GROUP GOING BACK UP SAYWERS BAR ROAD AWAY FROM THE FIRE. \n\nIF YOU ARE EAST OF KNOWNOTHING CREEK, PLEASE USE CECILVILLE/CALLAHAN RD TO EVACUATE.", 
         "SHAPE__Area" : 10265399.46484375, 
         "SHAPE__Length" : 17100.237797057416, 
-        "GlobalID" : "7cd7ef07-0c35-4e2a-9375-44e0471003de"
+        "GlobalID" : "d10118a9-c5ee-4e26-b1b0-a0bf84070293"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942552, 
+      "id" : 947819, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8379,7 +8866,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942552, 
+        "OBJECTID" : 947819, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8393,12 +8880,12 @@
         "NOTES" : "The Shasta County Sheriff's Office is reducing the mandatory evacuations to a warning for the Green Fire.", 
         "SHAPE__Area" : 498793434.41015625, 
         "SHAPE__Length" : 120754.412163714, 
-        "GlobalID" : "9b764094-a5cd-4e0c-b8c7-023adce1ea67"
+        "GlobalID" : "79bc2991-d9ab-4cee-82b5-38fa5e41ece6"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942553, 
+      "id" : 947820, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8440,7 +8927,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942553, 
+        "OBJECTID" : 947820, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8454,12 +8941,12 @@
         "NOTES" : "Evacuation Warning due to the Green fire burning in the area.  ", 
         "SHAPE__Area" : 311485424.44921875, 
         "SHAPE__Length" : 77626.157586990666, 
-        "GlobalID" : "7f279b4a-1591-43c2-b5e8-41334ee2d2c0"
+        "GlobalID" : "b87e89ef-0f2b-4216-83ec-0df498fe1100"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942554, 
+      "id" : 947821, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8630,7 +9117,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942554, 
+        "OBJECTID" : 947821, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8644,12 +9131,12 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION ORDER for Forks of Salmon, DO NOT USE CECILVILLE RD DUE TO FIRE. Anyone in this area is ordered to LEAVE IMMEDIATELY! Evacuate down SAWYERS BAR RD. LEAVE IMMEDIATELY. GET OUT NOW!", 
         "SHAPE__Area" : 46094464.74609375, 
         "SHAPE__Length" : 32472.807047426613, 
-        "GlobalID" : "ce78c8d8-84d0-4a52-b94a-74b6f8bbe36b"
+        "GlobalID" : "d275839e-ab68-41df-8f8d-ee6a96e2f9e7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 942555, 
+      "id" : 947822, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8854,7 +9341,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 942555, 
+        "OBJECTID" : 947822, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -8868,7 +9355,224 @@
         "NOTES" : "WILDFIRE EMERGENCY: Siskiyou County Sheriffs Office: EVACUATION WARNING for Butler Flat area, due to progress on the Butler Fire. Anyone in this area should prepare to leave should conditions warrant.", 
         "SHAPE__Area" : 23809369.625, 
         "SHAPE__Length" : 23490.28316099622, 
-        "GlobalID" : "63e68a31-e501-4efe-9640-f06cc6a24a4d"
+        "GlobalID" : "8d432c9e-397b-484a-8802-9c52c6bee635"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 947823, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.6384, 33.8778], 
+            [-117.6389, 33.8782], 
+            [-117.639, 33.8783], 
+            [-117.6391, 33.8784], 
+            [-117.6393, 33.8786], 
+            [-117.6395, 33.8788], 
+            [-117.6396, 33.879], 
+            [-117.6398, 33.8793], 
+            [-117.64, 33.8797], 
+            [-117.6401, 33.8799], 
+            [-117.6402, 33.8801], 
+            [-117.6403, 33.8802], 
+            [-117.6405, 33.8804], 
+            [-117.6406, 33.8805], 
+            [-117.6408, 33.8806], 
+            [-117.6409, 33.8807], 
+            [-117.6411, 33.8808], 
+            [-117.6412, 33.8808], 
+            [-117.6414, 33.8809], 
+            [-117.6416, 33.8809], 
+            [-117.6417, 33.881], 
+            [-117.642, 33.881], 
+            [-117.6423, 33.881], 
+            [-117.6426, 33.881], 
+            [-117.6429, 33.8809], 
+            [-117.6431, 33.8808], 
+            [-117.6444, 33.8804], 
+            [-117.6448, 33.8802], 
+            [-117.6449, 33.8802], 
+            [-117.6455, 33.88], 
+            [-117.6457, 33.88], 
+            [-117.646, 33.8799], 
+            [-117.6465, 33.8797], 
+            [-117.6473, 33.8794], 
+            [-117.6476, 33.8793], 
+            [-117.6479, 33.8793], 
+            [-117.6483, 33.8792], 
+            [-117.6486, 33.8791], 
+            [-117.6489, 33.8791], 
+            [-117.6492, 33.879], 
+            [-117.6495, 33.879], 
+            [-117.6498, 33.879], 
+            [-117.65, 33.879], 
+            [-117.6503, 33.879], 
+            [-117.6504, 33.879], 
+            [-117.651, 33.879], 
+            [-117.6517, 33.879], 
+            [-117.6521, 33.879], 
+            [-117.6526, 33.8791], 
+            [-117.6528, 33.879], 
+            [-117.6529, 33.879], 
+            [-117.6531, 33.879], 
+            [-117.6532, 33.879], 
+            [-117.6534, 33.8789], 
+            [-117.6535, 33.8789], 
+            [-117.6536, 33.8788], 
+            [-117.6537, 33.8788], 
+            [-117.6543, 33.8783], 
+            [-117.6545, 33.8781], 
+            [-117.6546, 33.878], 
+            [-117.6548, 33.878], 
+            [-117.655, 33.8779], 
+            [-117.6551, 33.8779], 
+            [-117.6552, 33.8778], 
+            [-117.6554, 33.8778], 
+            [-117.6555, 33.8778], 
+            [-117.6556, 33.8778], 
+            [-117.6558, 33.8778], 
+            [-117.6559, 33.8778], 
+            [-117.6561, 33.8779], 
+            [-117.6562, 33.8779], 
+            [-117.6567, 33.8781], 
+            [-117.6569, 33.8782], 
+            [-117.6571, 33.8783], 
+            [-117.6576, 33.8785], 
+            [-117.6577, 33.8785], 
+            [-117.6575, 33.8787], 
+            [-117.6569, 33.879], 
+            [-117.6566, 33.8792], 
+            [-117.6563, 33.8793], 
+            [-117.6557, 33.8796], 
+            [-117.6556, 33.8796], 
+            [-117.6554, 33.8797], 
+            [-117.6551, 33.8798], 
+            [-117.655, 33.8799], 
+            [-117.6549, 33.8798], 
+            [-117.6547, 33.8798], 
+            [-117.6545, 33.8798], 
+            [-117.6528, 33.8798], 
+            [-117.6513, 33.8801], 
+            [-117.6512, 33.8802], 
+            [-117.6498, 33.8805], 
+            [-117.6471, 33.8809], 
+            [-117.6457, 33.8812], 
+            [-117.6451, 33.8817], 
+            [-117.6401, 33.8829], 
+            [-117.6401, 33.8826], 
+            [-117.64, 33.8827], 
+            [-117.6399, 33.8827], 
+            [-117.6398, 33.8827], 
+            [-117.6397, 33.8827], 
+            [-117.6396, 33.8828], 
+            [-117.6395, 33.8828], 
+            [-117.6394, 33.8828], 
+            [-117.6393, 33.8828], 
+            [-117.6392, 33.8828], 
+            [-117.6385, 33.883], 
+            [-117.6384, 33.8831], 
+            [-117.6383, 33.8831], 
+            [-117.6382, 33.8831], 
+            [-117.638, 33.8832], 
+            [-117.6378, 33.8832], 
+            [-117.6376, 33.8833], 
+            [-117.6374, 33.8833], 
+            [-117.6371, 33.8834], 
+            [-117.6369, 33.8834], 
+            [-117.6367, 33.8835], 
+            [-117.6365, 33.8835], 
+            [-117.6363, 33.8835], 
+            [-117.636, 33.8836], 
+            [-117.6359, 33.8836], 
+            [-117.6358, 33.8836], 
+            [-117.6357, 33.8836], 
+            [-117.6356, 33.8836], 
+            [-117.6355, 33.8836], 
+            [-117.6354, 33.8836], 
+            [-117.6353, 33.8836], 
+            [-117.6345, 33.8837], 
+            [-117.6304, 33.8838], 
+            [-117.6296, 33.8834], 
+            [-117.6295, 33.8834], 
+            [-117.6292, 33.8833], 
+            [-117.6288, 33.8831], 
+            [-117.6289, 33.8828], 
+            [-117.6289, 33.8826], 
+            [-117.6289, 33.8823], 
+            [-117.6288, 33.8821], 
+            [-117.6288, 33.8818], 
+            [-117.629, 33.8804], 
+            [-117.6291, 33.8804], 
+            [-117.6293, 33.8803], 
+            [-117.6294, 33.8802], 
+            [-117.6296, 33.8801], 
+            [-117.6296, 33.88], 
+            [-117.6296, 33.8799], 
+            [-117.6297, 33.8798], 
+            [-117.6298, 33.8797], 
+            [-117.6299, 33.8796], 
+            [-117.63, 33.8796], 
+            [-117.63, 33.8795], 
+            [-117.6301, 33.8794], 
+            [-117.6302, 33.8794], 
+            [-117.6302, 33.8793], 
+            [-117.6303, 33.8791], 
+            [-117.6303, 33.879], 
+            [-117.6303, 33.8789], 
+            [-117.6303, 33.8788], 
+            [-117.6304, 33.8788], 
+            [-117.6304, 33.8787], 
+            [-117.6304, 33.8786], 
+            [-117.6304, 33.8785], 
+            [-117.6305, 33.8784], 
+            [-117.6305, 33.8783], 
+            [-117.6305, 33.8782], 
+            [-117.6306, 33.8781], 
+            [-117.6306, 33.8779], 
+            [-117.6313, 33.8781], 
+            [-117.6319, 33.8782], 
+            [-117.6323, 33.8782], 
+            [-117.6327, 33.8783], 
+            [-117.6329, 33.8783], 
+            [-117.6333, 33.8783], 
+            [-117.6338, 33.8784], 
+            [-117.6342, 33.8784], 
+            [-117.6347, 33.8784], 
+            [-117.6351, 33.8784], 
+            [-117.6357, 33.8785], 
+            [-117.6361, 33.8785], 
+            [-117.6364, 33.8785], 
+            [-117.6367, 33.8784], 
+            [-117.637, 33.8784], 
+            [-117.6373, 33.8783], 
+            [-117.6377, 33.8782], 
+            [-117.6379, 33.8782], 
+            [-117.638, 33.8781], 
+            [-117.6381, 33.878], 
+            [-117.6384, 33.8778]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 947823, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XRI-COR-0674", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1753510174000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "All Evacuations have been downgraded to Warnings for the Green Fire in Corona.", 
+        "SHAPE__Area" : 1187632.25390625, 
+        "SHAPE__Length" : 7697.5945274285559, 
+        "GlobalID" : "f9a47056-d93a-4aa1-a231-d6e0b0e8e5e7"
       }
     }
   ]
