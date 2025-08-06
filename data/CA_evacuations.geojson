@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 1004423, 
+      "id" : 1013958, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -609,7 +609,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004423, 
+        "OBJECTID" : 1013958, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-297", 
@@ -623,12 +623,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 60790587.46484375, 
         "SHAPE__Length" : 33650.880556813092, 
-        "GlobalID" : "2792d81d-b0a6-45e2-9eb0-7a91b18c2ec0"
+        "GlobalID" : "b77c6223-0c06-4ba4-8b1b-6758f16a9548"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004424, 
+      "id" : 1013959, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -1999,7 +1999,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004424, 
+        "OBJECTID" : 1013959, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-262", 
@@ -2013,12 +2013,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 114067845.03125, 
         "SHAPE__Length" : 76102.948590664935, 
-        "GlobalID" : "ef31ddcc-231e-4872-b0eb-26b160a31cf1"
+        "GlobalID" : "b10c4568-b2f4-4f15-90f1-c897af17be23"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004425, 
+      "id" : 1013960, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2709,7 +2709,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004425, 
+        "OBJECTID" : 1013960, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-298", 
@@ -2723,12 +2723,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 24597506.98828125, 
         "SHAPE__Length" : 29167.861423889866, 
-        "GlobalID" : "e57077d6-4e1d-4e0f-adcf-d0263fcda429"
+        "GlobalID" : "0dbee533-1c5d-4fcb-ab90-6904b3b8076f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004426, 
+      "id" : 1013961, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -5416,7 +5416,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004426, 
+        "OBJECTID" : 1013961, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-011", 
@@ -5430,12 +5430,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 136076990.76171875, 
         "SHAPE__Length" : 75436.505739354485, 
-        "GlobalID" : "fc446e6d-3beb-4e1c-8456-d5cbb528ed72"
+        "GlobalID" : "f03fa953-a5a6-4eee-ac84-9ff35f8690a4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004427, 
+      "id" : 1013962, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8311,7 +8311,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004427, 
+        "OBJECTID" : 1013962, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-013", 
@@ -8325,12 +8325,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 131253335.0078125, 
         "SHAPE__Length" : 72298.999380123962, 
-        "GlobalID" : "0cc2b133-7de1-4a2d-b5c0-8df95b4810fd"
+        "GlobalID" : "f910fe62-779c-41be-98b6-162e334dcec7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004428, 
+      "id" : 1013963, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -8696,7 +8696,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004428, 
+        "OBJECTID" : 1013963, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-240", 
@@ -8710,12 +8710,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 50062467.6484375, 
         "SHAPE__Length" : 39246.114397324956, 
-        "GlobalID" : "561d7da0-8425-44f2-91ae-676f888d090c"
+        "GlobalID" : "b076705a-3ea3-430f-a81a-2994d0138796"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004429, 
+      "id" : 1013964, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9384,7 +9384,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004429, 
+        "OBJECTID" : 1013964, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-239", 
@@ -9398,12 +9398,12 @@
         "NOTES" : null, 
         "SHAPE__Area" : 81542189.27734375, 
         "SHAPE__Length" : 53191.579285345033, 
-        "GlobalID" : "c4b6d65f-be35-4329-a2c4-b07ee8e047c5"
+        "GlobalID" : "a84c66ec-21f3-44ea-9cb1-780519f5a3b2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004430, 
+      "id" : 1013965, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -9683,7 +9683,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004430, 
+        "OBJECTID" : 1013965, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-264", 
@@ -9697,12 +9697,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 33129291.0703125, 
         "SHAPE__Length" : 28310.101415084369, 
-        "GlobalID" : "5bdd6bb4-c840-4228-9622-dc773de8aaba"
+        "GlobalID" : "756e78d0-97c6-49f4-8883-b83126306fbf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004431, 
+      "id" : 1013966, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -10970,7 +10970,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004431, 
+        "OBJECTID" : 1013966, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-311", 
@@ -10984,12 +10984,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 42970695.3359375, 
         "SHAPE__Length" : 31100.155078895186, 
-        "GlobalID" : "fc2bae33-58c8-4a7a-8be1-bc74ba5bb8da"
+        "GlobalID" : "787b5bb5-3eb4-4249-abbb-0c0d9316215b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004432, 
+      "id" : 1013967, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -13332,7 +13332,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004432, 
+        "OBJECTID" : 1013967, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-312", 
@@ -13346,12 +13346,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 97058130.42578125, 
         "SHAPE__Length" : 58437.595995379037, 
-        "GlobalID" : "446c09e5-4575-491f-ac1a-b9c35466ee43"
+        "GlobalID" : "f446cf85-49d2-41db-87d8-0aba75dd5c0f"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004433, 
+      "id" : 1013968, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -14008,7 +14008,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004433, 
+        "OBJECTID" : 1013968, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-225", 
@@ -14022,12 +14022,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 91178184.81640625, 
         "SHAPE__Length" : 48899.49254877671, 
-        "GlobalID" : "a32ee3f4-7730-44ca-971d-cb27a837f751"
+        "GlobalID" : "f51b78e1-650c-4dd2-816d-ed7e79317216"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004434, 
+      "id" : 1013969, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -15468,7 +15468,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004434, 
+        "OBJECTID" : 1013969, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-334", 
@@ -15482,12 +15482,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 82747142.37890625, 
         "SHAPE__Length" : 54891.970148558168, 
-        "GlobalID" : "2177b0df-620b-449d-9542-fe144eda4f6f"
+        "GlobalID" : "5f5becdd-68f9-4770-9337-d0f5f4808fdf"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004435, 
+      "id" : 1013970, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -17166,7 +17166,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004435, 
+        "OBJECTID" : 1013970, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-018", 
@@ -17180,12 +17180,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 116541969.85546875, 
         "SHAPE__Length" : 65310.495309366728, 
-        "GlobalID" : "f88f93bb-1984-43cd-a563-f0fb55e2a5d8"
+        "GlobalID" : "4f98c517-a188-4727-bb4b-da295a6dcfb0"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004436, 
+      "id" : 1013971, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -18229,7 +18229,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004436, 
+        "OBJECTID" : 1013971, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-017", 
@@ -18243,12 +18243,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 142218829.625, 
         "SHAPE__Length" : 55498.772182056404, 
-        "GlobalID" : "75e973dc-0e3a-4d67-805b-b36489718082"
+        "GlobalID" : "41ad3db8-3c20-4d18-ab1e-9082609e031b"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004437, 
+      "id" : 1013972, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -20173,7 +20173,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004437, 
+        "OBJECTID" : 1013972, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-014", 
@@ -20187,12 +20187,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 143575459.3671875, 
         "SHAPE__Length" : 90413.487646712281, 
-        "GlobalID" : "f74334e5-0835-4db1-a46b-0ec99786cbbc"
+        "GlobalID" : "d12a4df1-75d0-44e1-85a5-72a86c70ace1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004438, 
+      "id" : 1013973, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -21434,7 +21434,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004438, 
+        "OBJECTID" : 1013973, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-019", 
@@ -21448,12 +21448,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 32860206.515625, 
         "SHAPE__Length" : 41346.112420942962, 
-        "GlobalID" : "cc641414-97da-4aba-b9e7-13d3e02740ce"
+        "GlobalID" : "8d886fc5-2833-41a5-9228-19b9a67d2fc8"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004439, 
+      "id" : 1013974, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -23907,7 +23907,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004439, 
+        "OBJECTID" : 1013974, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-015", 
@@ -23921,12 +23921,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 91718967.8515625, 
         "SHAPE__Length" : 54103.9024588671, 
-        "GlobalID" : "1359ad7a-2b77-4633-96ea-2982a55070a3"
+        "GlobalID" : "2815d6fe-10ed-4643-a062-33f8fc906ce7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004440, 
+      "id" : 1013975, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -25530,7 +25530,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004440, 
+        "OBJECTID" : 1013975, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-337", 
@@ -25544,12 +25544,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 62276824.15625, 
         "SHAPE__Length" : 75175.052017725786, 
-        "GlobalID" : "94cdf574-7c1c-439a-a5cc-a20355b5b158"
+        "GlobalID" : "ffd69eaf-1a1b-4bd1-9f9f-5939dff07cc4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004441, 
+      "id" : 1013976, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -26020,7 +26020,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004441, 
+        "OBJECTID" : 1013976, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-263", 
@@ -26034,12 +26034,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 87436608.27734375, 
         "SHAPE__Length" : 46817.004369554226, 
-        "GlobalID" : "ee4414c6-b968-4204-9621-930737549bb5"
+        "GlobalID" : "6c3a260b-b034-4b9f-9fd3-4e6e6b2c3534"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004442, 
+      "id" : 1013977, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -26519,7 +26519,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004442, 
+        "OBJECTID" : 1013977, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-336", 
@@ -26533,12 +26533,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 28557788.02734375, 
         "SHAPE__Length" : 36234.503582113444, 
-        "GlobalID" : "fb81322d-0949-4554-90ed-069cd77f3c5a"
+        "GlobalID" : "d61d856a-c498-4a79-b8c4-c3eb5b8bf577"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004443, 
+      "id" : 1013978, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -27527,7 +27527,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004443, 
+        "OBJECTID" : 1013978, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "SLC", 
         "ZONE_NAME" : "SLC-335", 
@@ -27541,12 +27541,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 59025811.390625, 
         "SHAPE__Length" : 53329.695311944874, 
-        "GlobalID" : "ed49a50d-2141-4eda-8267-527b40e2fa4a"
+        "GlobalID" : "bfd948bb-e005-473d-8fe5-719484a50afe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004444, 
+      "id" : 1013979, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -28762,7 +28762,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004444, 
+        "OBJECTID" : 1013979, 
         "COUNTY" : "SAN LUIS OBISPO", 
         "CITY" : "LPF", 
         "ZONE_NAME" : "LPF-016", 
@@ -28776,12 +28776,12 @@
         "NOTES" : " ", 
         "SHAPE__Area" : 22767744, 
         "SHAPE__Length" : 25027.144185209632, 
-        "GlobalID" : "fd7aaec9-136c-47d2-9b6d-72bf28defd87"
+        "GlobalID" : "b2051fbc-1907-4a93-ab29-621fdfad9be4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004445, 
+      "id" : 1013980, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -28984,7 +28984,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004445, 
+        "OBJECTID" : 1013980, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -28998,12 +28998,12 @@
         "NOTES" : "EVACUATION WARNING FOR ALL RESIDENTS WEST OF THE COUNTY ROAD 120 AND COUNTY ROAD 121 INTERSECTION. THIS IS A RESULT OF THE MAMMOTH FIRE WHICH IS WEST OF THE DRY LAKE FIRE STATION AND HIGHWAY 139 IN TIONESTA. THIS IS A WARNING ONLY THERE IS NO EVACUATION ORDER AT THIS TIME.", 
         "SHAPE__Area" : 364110086.7578125, 
         "SHAPE__Length" : 85562.061900022018, 
-        "GlobalID" : "bddda370-789e-4a4d-bc54-bc987cf997dd"
+        "GlobalID" : "05b8a389-cc55-48ab-929e-24d16c4babe9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004446, 
+      "id" : 1013981, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29249,7 +29249,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004446, 
+        "OBJECTID" : 1013981, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29263,12 +29263,12 @@
         "NOTES" : "EVACUATION WARNING FOR ALL RESIDENTS WEST OF THE COUNTY ROAD 120 AND COUNTY ROAD 121 INTERSECTION. THIS IS A RESULT OF THE MAMMOTH FIRE WHICH IS WEST OF THE DRY LAKE FIRE STATION AND HIGHWAY 139 IN TIONESTA. THIS IS A WARNING ONLY THERE IS NO EVACUATION ORDER AT THIS TIME.", 
         "SHAPE__Area" : 478874314.4375, 
         "SHAPE__Length" : 114252.80948280368, 
-        "GlobalID" : "79049352-b041-41cf-9b3a-cde65952f1f6"
+        "GlobalID" : "dcf9d3dd-863e-4c35-bb3f-d0fb7882bf7c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004447, 
+      "id" : 1013982, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -29642,7 +29642,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004447, 
+        "OBJECTID" : 1013982, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29656,12 +29656,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 791150.78125, 
         "SHAPE__Length" : 8088.9589737974575, 
-        "GlobalID" : "87a28259-a9e7-4114-9596-86c3b5780ff9"
+        "GlobalID" : "19fb781a-c290-49b2-bdd4-03c47970d066"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004448, 
+      "id" : 1013983, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29720,7 +29720,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004448, 
+        "OBJECTID" : 1013983, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29734,12 +29734,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 1157388.27734375, 
         "SHAPE__Length" : 5327.9665924636092, 
-        "GlobalID" : "ec4a59c2-1860-4a90-bff9-a172c45ec84d"
+        "GlobalID" : "5d63f4c9-7a2e-4266-801c-7e8de93f04fe"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004449, 
+      "id" : 1013984, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29798,7 +29798,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004449, 
+        "OBJECTID" : 1013984, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29812,12 +29812,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 858042.69140625, 
         "SHAPE__Length" : 4804.0101299556691, 
-        "GlobalID" : "77a574bc-575b-4ffa-bf96-8ae0724c7e6f"
+        "GlobalID" : "f9ffb796-02ce-4692-ac31-ee2ae289e234"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004450, 
+      "id" : 1013985, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29878,7 +29878,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004450, 
+        "OBJECTID" : 1013985, 
         "COUNTY" : "LOS ANGELES", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29892,12 +29892,12 @@
         "NOTES" : "Evacuation Warning in effect due to upcoming power shutoff. Electricity service will be discontinued indefinitely effective Sunday, September 1, at 12 p.m. PST. Prepare to evacuate and seek alternative housing. Pack important documents, medications, and essential items. For updates, visit rpvca.gov", 
         "SHAPE__Area" : 385676.92578125, 
         "SHAPE__Length" : 3113.3427743097691, 
-        "GlobalID" : "23a0c49f-be5f-40d3-b824-7b2df414bf47"
+        "GlobalID" : "e70d613b-7406-4c53-bc1a-5ba1566270fd"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004451, 
+      "id" : 1013986, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29926,7 +29926,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004451, 
+        "OBJECTID" : 1013986, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29940,12 +29940,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 52576.26953125, 
         "SHAPE__Length" : 2125.7518367798048, 
-        "GlobalID" : "9a239b03-ece7-440d-9fac-e8cb29526642"
+        "GlobalID" : "3db6c079-818b-4e84-a3a7-ea91bdc1fd1c"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004452, 
+      "id" : 1013987, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -29973,7 +29973,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004452, 
+        "OBJECTID" : 1013987, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -29987,12 +29987,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 125766.30078125, 
         "SHAPE__Length" : 4004.8468402582985, 
-        "GlobalID" : "73b11d40-a8b3-4258-bd30-c469cb4f6a43"
+        "GlobalID" : "9a9db4f2-9828-433f-af5d-5e1de7f4086a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004453, 
+      "id" : 1013988, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30033,7 +30033,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004453, 
+        "OBJECTID" : 1013988, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30047,12 +30047,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 246466.75, 
         "SHAPE__Length" : 4721.9181538493112, 
-        "GlobalID" : "3e9068d9-7efd-4e14-a0af-0734579d3d3c"
+        "GlobalID" : "791e440a-4b00-45b0-9059-deb18c2e4022"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004454, 
+      "id" : 1013989, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30085,7 +30085,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004454, 
+        "OBJECTID" : 1013989, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30099,12 +30099,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 131598.2734375, 
         "SHAPE__Length" : 3267.7484488847645, 
-        "GlobalID" : "8b1a9f80-4fca-4d72-90a1-eb3c0f9a5198"
+        "GlobalID" : "65a7ecf9-aa4d-4b73-8eca-4841303a0e45"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004455, 
+      "id" : 1013990, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30145,7 +30145,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004455, 
+        "OBJECTID" : 1013990, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30159,12 +30159,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 154128.765625, 
         "SHAPE__Length" : 4880.1208950858463, 
-        "GlobalID" : "bf38d3f7-499b-449a-9345-d27e91bc6a9a"
+        "GlobalID" : "d9a9bbc9-279b-4718-b880-095ebe842be2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004456, 
+      "id" : 1013991, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30186,7 +30186,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004456, 
+        "OBJECTID" : 1013991, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30200,12 +30200,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 97182.1015625, 
         "SHAPE__Length" : 2310.2413403512946, 
-        "GlobalID" : "b26f3180-dd61-4614-b1f8-76a5eda9551d"
+        "GlobalID" : "23670c29-2224-4aa7-a25a-239439374e30"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004457, 
+      "id" : 1013992, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30232,7 +30232,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004457, 
+        "OBJECTID" : 1013992, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30246,12 +30246,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 118640.6015625, 
         "SHAPE__Length" : 2191.4689297262134, 
-        "GlobalID" : "40890d82-25ae-483b-904a-67adef563875"
+        "GlobalID" : "cce5a4aa-b0b5-41b2-9a5b-464dfd5bbb0e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004458, 
+      "id" : 1013993, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -30291,7 +30291,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004458, 
+        "OBJECTID" : 1013993, 
         "COUNTY" : "TULARE", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -30305,12 +30305,12 @@
         "NOTES" : "Flooding", 
         "SHAPE__Area" : 212070.4765625, 
         "SHAPE__Length" : 5406.8326292083439, 
-        "GlobalID" : "f886c4a8-6a71-49b2-8c80-bf48c119754c"
+        "GlobalID" : "42feb0de-ecd1-4b11-94f8-48575846ecd7"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004459, 
+      "id" : 1013994, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -32009,7 +32009,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004459, 
+        "OBJECTID" : 1013994, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -32023,12 +32023,1168 @@
         "NOTES" : "Sheriff’s Office: EVACUATION ORDER. Area south of Hwy 166, east of Willow Springs trail, west of Cottonwood Canyon Rd, due to the Gifford Fire, until further notice. Leave now.\n\nOficina del Sheriff: ORDEN DE EVACUACION. Area al sur de Carretera 166, oeste de Willow Springs, este de Cottonwood Canyond Rd, debido al Incendio Gifford. Desaloje ahora. \n", 
         "SHAPE__Area" : 627547142.2265625, 
         "SHAPE__Length" : 146598.33843935048, 
-        "GlobalID" : "aa7428f9-2231-4e8d-b599-76299a312938"
+        "GlobalID" : "6ef6ad89-8f8c-417c-9a6e-26508112fd54"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004460, 
+      "id" : 1013995, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-120.0554, 34.7862], 
+            [-120.0556, 34.7863], 
+            [-120.0557, 34.7863], 
+            [-120.0558, 34.7864], 
+            [-120.0562, 34.7864], 
+            [-120.0563, 34.7864], 
+            [-120.0564, 34.7865], 
+            [-120.0566, 34.7866], 
+            [-120.0569, 34.7866], 
+            [-120.0573, 34.7866], 
+            [-120.0574, 34.7866], 
+            [-120.0575, 34.7867], 
+            [-120.0576, 34.7868], 
+            [-120.058, 34.7872], 
+            [-120.0583, 34.7873], 
+            [-120.0584, 34.7874], 
+            [-120.0585, 34.7875], 
+            [-120.0586, 34.7875], 
+            [-120.0589, 34.7877], 
+            [-120.0591, 34.7878], 
+            [-120.0592, 34.7878], 
+            [-120.0593, 34.7879], 
+            [-120.0595, 34.788], 
+            [-120.0598, 34.7882], 
+            [-120.0599, 34.7883], 
+            [-120.0601, 34.7884], 
+            [-120.0605, 34.7888], 
+            [-120.0607, 34.789], 
+            [-120.0607, 34.7891], 
+            [-120.0608, 34.7891], 
+            [-120.0608, 34.7892], 
+            [-120.0609, 34.7892], 
+            [-120.0611, 34.7893], 
+            [-120.0613, 34.7893], 
+            [-120.0616, 34.7894], 
+            [-120.0617, 34.7895], 
+            [-120.0617, 34.7897], 
+            [-120.0618, 34.7898], 
+            [-120.0618, 34.7899], 
+            [-120.0619, 34.79], 
+            [-120.0619, 34.7901], 
+            [-120.062, 34.7901], 
+            [-120.0621, 34.7902], 
+            [-120.0623, 34.7902], 
+            [-120.0625, 34.7902], 
+            [-120.0626, 34.7902], 
+            [-120.0628, 34.7902], 
+            [-120.063, 34.7902], 
+            [-120.0631, 34.7902], 
+            [-120.0634, 34.7904], 
+            [-120.0636, 34.7904], 
+            [-120.0638, 34.7905], 
+            [-120.0639, 34.7906], 
+            [-120.064, 34.7906], 
+            [-120.0642, 34.7906], 
+            [-120.0643, 34.7907], 
+            [-120.0648, 34.7908], 
+            [-120.0651, 34.7908], 
+            [-120.0652, 34.7909], 
+            [-120.0653, 34.7909], 
+            [-120.0654, 34.791], 
+            [-120.0656, 34.791], 
+            [-120.0657, 34.791], 
+            [-120.0658, 34.791], 
+            [-120.0661, 34.791], 
+            [-120.0662, 34.791], 
+            [-120.0663, 34.791], 
+            [-120.0664, 34.7909], 
+            [-120.0665, 34.7909], 
+            [-120.0666, 34.7909], 
+            [-120.0669, 34.7909], 
+            [-120.067, 34.7909], 
+            [-120.0677, 34.7909], 
+            [-120.0679, 34.7909], 
+            [-120.068, 34.7909], 
+            [-120.0684, 34.7908], 
+            [-120.0685, 34.7909], 
+            [-120.0686, 34.7909], 
+            [-120.0688, 34.7909], 
+            [-120.0689, 34.7909], 
+            [-120.069, 34.7909], 
+            [-120.0691, 34.7909], 
+            [-120.0692, 34.7909], 
+            [-120.0694, 34.7908], 
+            [-120.0698, 34.7908], 
+            [-120.07, 34.7908], 
+            [-120.0701, 34.7907], 
+            [-120.0705, 34.7905], 
+            [-120.0712, 34.7902], 
+            [-120.0713, 34.7901], 
+            [-120.0714, 34.7901], 
+            [-120.0716, 34.7899], 
+            [-120.0717, 34.7898], 
+            [-120.0718, 34.7897], 
+            [-120.0719, 34.7895], 
+            [-120.0721, 34.7892], 
+            [-120.0722, 34.7891], 
+            [-120.0725, 34.7891], 
+            [-120.0726, 34.789], 
+            [-120.0727, 34.789], 
+            [-120.0728, 34.7889], 
+            [-120.0729, 34.7889], 
+            [-120.0729, 34.7888], 
+            [-120.0735, 34.7886], 
+            [-120.0737, 34.7886], 
+            [-120.0737, 34.7885], 
+            [-120.0739, 34.7885], 
+            [-120.0743, 34.7883], 
+            [-120.0744, 34.7883], 
+            [-120.0745, 34.7883], 
+            [-120.0749, 34.7881], 
+            [-120.075, 34.788], 
+            [-120.0754, 34.788], 
+            [-120.0756, 34.7879], 
+            [-120.0759, 34.7878], 
+            [-120.076, 34.7877], 
+            [-120.0761, 34.7877], 
+            [-120.0762, 34.7877], 
+            [-120.0763, 34.7878], 
+            [-120.0765, 34.7878], 
+            [-120.0766, 34.7878], 
+            [-120.0767, 34.7878], 
+            [-120.0769, 34.7878], 
+            [-120.0773, 34.7878], 
+            [-120.0773, 34.7877], 
+            [-120.0778, 34.7868], 
+            [-120.0779, 34.7866], 
+            [-120.078, 34.7865], 
+            [-120.0782, 34.7864], 
+            [-120.0785, 34.7863], 
+            [-120.0787, 34.7863], 
+            [-120.0788, 34.7862], 
+            [-120.0788, 34.7861], 
+            [-120.079, 34.7859], 
+            [-120.0791, 34.7858], 
+            [-120.0793, 34.7858], 
+            [-120.0794, 34.7857], 
+            [-120.0797, 34.7855], 
+            [-120.0799, 34.7852], 
+            [-120.0802, 34.785], 
+            [-120.0806, 34.7847], 
+            [-120.0807, 34.7847], 
+            [-120.0808, 34.7846], 
+            [-120.0812, 34.7845], 
+            [-120.0814, 34.7844], 
+            [-120.082, 34.7841], 
+            [-120.0823, 34.784], 
+            [-120.0826, 34.7839], 
+            [-120.0828, 34.7838], 
+            [-120.0829, 34.7838], 
+            [-120.0831, 34.7837], 
+            [-120.0832, 34.7836], 
+            [-120.0834, 34.7835], 
+            [-120.0835, 34.7834], 
+            [-120.0835, 34.7833], 
+            [-120.0836, 34.7833], 
+            [-120.0837, 34.7832], 
+            [-120.0837, 34.7831], 
+            [-120.0839, 34.7831], 
+            [-120.084, 34.783], 
+            [-120.0844, 34.7829], 
+            [-120.0845, 34.7829], 
+            [-120.0847, 34.7828], 
+            [-120.0849, 34.7827], 
+            [-120.0851, 34.7826], 
+            [-120.0852, 34.7825], 
+            [-120.0853, 34.7824], 
+            [-120.0854, 34.7823], 
+            [-120.0856, 34.7822], 
+            [-120.0863, 34.7819], 
+            [-120.0867, 34.7816], 
+            [-120.087, 34.7815], 
+            [-120.0872, 34.7813], 
+            [-120.0875, 34.7811], 
+            [-120.0876, 34.781], 
+            [-120.0877, 34.781], 
+            [-120.0878, 34.7809], 
+            [-120.0884, 34.7809], 
+            [-120.0887, 34.7809], 
+            [-120.089, 34.7808], 
+            [-120.0896, 34.7807], 
+            [-120.0901, 34.7806], 
+            [-120.0906, 34.7804], 
+            [-120.0909, 34.7803], 
+            [-120.091, 34.7803], 
+            [-120.0911, 34.7802], 
+            [-120.0914, 34.78], 
+            [-120.0918, 34.7798], 
+            [-120.092, 34.7797], 
+            [-120.0921, 34.7797], 
+            [-120.0922, 34.7796], 
+            [-120.0924, 34.7796], 
+            [-120.0927, 34.7795], 
+            [-120.0929, 34.7794], 
+            [-120.093, 34.7794], 
+            [-120.0932, 34.7792], 
+            [-120.0933, 34.7792], 
+            [-120.0933, 34.7791], 
+            [-120.0934, 34.7789], 
+            [-120.0934, 34.7788], 
+            [-120.0935, 34.7787], 
+            [-120.0936, 34.7787], 
+            [-120.094, 34.7785], 
+            [-120.0942, 34.7784], 
+            [-120.0943, 34.7784], 
+            [-120.0944, 34.7784], 
+            [-120.0946, 34.7784], 
+            [-120.0948, 34.7784], 
+            [-120.0949, 34.7784], 
+            [-120.095, 34.7783], 
+            [-120.0953, 34.7782], 
+            [-120.0954, 34.7781], 
+            [-120.0957, 34.7781], 
+            [-120.0957, 34.778], 
+            [-120.0958, 34.778], 
+            [-120.0959, 34.7779], 
+            [-120.0961, 34.7778], 
+            [-120.0962, 34.7777], 
+            [-120.0968, 34.7776], 
+            [-120.097, 34.7776], 
+            [-120.0972, 34.7776], 
+            [-120.0973, 34.7776], 
+            [-120.0974, 34.7775], 
+            [-120.0974, 34.7774], 
+            [-120.0978, 34.7771], 
+            [-120.098, 34.7769], 
+            [-120.0982, 34.7768], 
+            [-120.0984, 34.7767], 
+            [-120.0986, 34.7767], 
+            [-120.0988, 34.7767], 
+            [-120.0994, 34.7766], 
+            [-120.0996, 34.7766], 
+            [-120.0997, 34.7766], 
+            [-120.0998, 34.7765], 
+            [-120.0999, 34.7765], 
+            [-120.0999, 34.7764], 
+            [-120.1, 34.7763], 
+            [-120.1001, 34.7762], 
+            [-120.1005, 34.7759], 
+            [-120.1007, 34.7758], 
+            [-120.1008, 34.7757], 
+            [-120.1008, 34.7756], 
+            [-120.1014, 34.7749], 
+            [-120.1015, 34.7748], 
+            [-120.1016, 34.7747], 
+            [-120.1017, 34.7746], 
+            [-120.1019, 34.7746], 
+            [-120.102, 34.7745], 
+            [-120.1024, 34.7744], 
+            [-120.1025, 34.7744], 
+            [-120.1026, 34.7742], 
+            [-120.1027, 34.7741], 
+            [-120.1028, 34.774], 
+            [-120.1028, 34.7738], 
+            [-120.103, 34.7736], 
+            [-120.1031, 34.7734], 
+            [-120.1032, 34.7733], 
+            [-120.1032, 34.7732], 
+            [-120.1031, 34.7728], 
+            [-120.1032, 34.7726], 
+            [-120.1032, 34.7725], 
+            [-120.1033, 34.7721], 
+            [-120.1036, 34.7713], 
+            [-120.1037, 34.771], 
+            [-120.1039, 34.7707], 
+            [-120.1042, 34.7702], 
+            [-120.1043, 34.7699], 
+            [-120.1046, 34.7694], 
+            [-120.1047, 34.7692], 
+            [-120.1047, 34.769], 
+            [-120.1048, 34.7684], 
+            [-120.1049, 34.7683], 
+            [-120.1049, 34.7682], 
+            [-120.1052, 34.7679], 
+            [-120.1053, 34.7678], 
+            [-120.1054, 34.7677], 
+            [-120.1057, 34.7675], 
+            [-120.1059, 34.7674], 
+            [-120.106, 34.7674], 
+            [-120.106, 34.7673], 
+            [-120.1061, 34.7672], 
+            [-120.1062, 34.7671], 
+            [-120.1062, 34.767], 
+            [-120.1062, 34.7669], 
+            [-120.1062, 34.7666], 
+            [-120.1063, 34.7659], 
+            [-120.1064, 34.7656], 
+            [-120.1064, 34.7655], 
+            [-120.1065, 34.7654], 
+            [-120.1066, 34.7653], 
+            [-120.1067, 34.7652], 
+            [-120.1067, 34.7651], 
+            [-120.1071, 34.7647], 
+            [-120.1072, 34.7646], 
+            [-120.1073, 34.7642], 
+            [-120.1074, 34.7641], 
+            [-120.1076, 34.7639], 
+            [-120.1077, 34.7638], 
+            [-120.108, 34.7635], 
+            [-120.1081, 34.7633], 
+            [-120.1084, 34.7629], 
+            [-120.1087, 34.7629], 
+            [-120.1089, 34.7629], 
+            [-120.1091, 34.7628], 
+            [-120.1092, 34.7628], 
+            [-120.1093, 34.7628], 
+            [-120.1094, 34.7629], 
+            [-120.1098, 34.7632], 
+            [-120.11, 34.7633], 
+            [-120.1102, 34.7635], 
+            [-120.1104, 34.7635], 
+            [-120.1105, 34.7635], 
+            [-120.1111, 34.7634], 
+            [-120.1113, 34.7634], 
+            [-120.1114, 34.7634], 
+            [-120.1115, 34.7633], 
+            [-120.1116, 34.7632], 
+            [-120.112, 34.7628], 
+            [-120.1129, 34.7622], 
+            [-120.1131, 34.7621], 
+            [-120.1133, 34.762], 
+            [-120.1137, 34.7618], 
+            [-120.1138, 34.7617], 
+            [-120.1139, 34.7616], 
+            [-120.1139, 34.7615], 
+            [-120.114, 34.7614], 
+            [-120.1141, 34.7613], 
+            [-120.1142, 34.7613], 
+            [-120.1143, 34.7613], 
+            [-120.1146, 34.7615], 
+            [-120.1148, 34.7615], 
+            [-120.1149, 34.7616], 
+            [-120.1151, 34.7617], 
+            [-120.1155, 34.7619], 
+            [-120.1156, 34.7619], 
+            [-120.1154, 34.7632], 
+            [-120.1151, 34.7661], 
+            [-120.1151, 34.7663], 
+            [-120.1151, 34.7664], 
+            [-120.1152, 34.7667], 
+            [-120.1155, 34.7674], 
+            [-120.116, 34.7687], 
+            [-120.1164, 34.7698], 
+            [-120.1165, 34.77], 
+            [-120.1167, 34.7702], 
+            [-120.117, 34.7706], 
+            [-120.1174, 34.771], 
+            [-120.1177, 34.7712], 
+            [-120.1181, 34.7715], 
+            [-120.1184, 34.7716], 
+            [-120.1186, 34.7717], 
+            [-120.1192, 34.7719], 
+            [-120.1196, 34.772], 
+            [-120.1198, 34.772], 
+            [-120.12, 34.7721], 
+            [-120.1203, 34.7723], 
+            [-120.1204, 34.7724], 
+            [-120.1205, 34.7724], 
+            [-120.1206, 34.7725], 
+            [-120.1207, 34.7725], 
+            [-120.1209, 34.7725], 
+            [-120.121, 34.7724], 
+            [-120.1222, 34.7717], 
+            [-120.1237, 34.7707], 
+            [-120.1238, 34.7706], 
+            [-120.1239, 34.7705], 
+            [-120.124, 34.7705], 
+            [-120.1241, 34.7704], 
+            [-120.1243, 34.7704], 
+            [-120.1245, 34.7704], 
+            [-120.1254, 34.7704], 
+            [-120.1256, 34.7704], 
+            [-120.1257, 34.7704], 
+            [-120.1258, 34.7705], 
+            [-120.1268, 34.7713], 
+            [-120.1275, 34.7721], 
+            [-120.1277, 34.7723], 
+            [-120.1283, 34.7728], 
+            [-120.1284, 34.7729], 
+            [-120.1285, 34.773], 
+            [-120.1287, 34.773], 
+            [-120.1289, 34.7731], 
+            [-120.1291, 34.7732], 
+            [-120.1298, 34.7732], 
+            [-120.1318, 34.7732], 
+            [-120.1348, 34.7732], 
+            [-120.1363, 34.7732], 
+            [-120.1368, 34.7733], 
+            [-120.1372, 34.7733], 
+            [-120.1394, 34.774], 
+            [-120.1399, 34.7741], 
+            [-120.1413, 34.7745], 
+            [-120.1419, 34.7747], 
+            [-120.1434, 34.7752], 
+            [-120.1435, 34.7753], 
+            [-120.1458, 34.7759], 
+            [-120.1478, 34.7766], 
+            [-120.148, 34.7766], 
+            [-120.1483, 34.7767], 
+            [-120.1485, 34.7767], 
+            [-120.1495, 34.7767], 
+            [-120.1507, 34.7767], 
+            [-120.1519, 34.7767], 
+            [-120.1521, 34.7767], 
+            [-120.1523, 34.7767], 
+            [-120.1524, 34.7768], 
+            [-120.1533, 34.777], 
+            [-120.1545, 34.7773], 
+            [-120.1548, 34.7774], 
+            [-120.155, 34.7775], 
+            [-120.1555, 34.7778], 
+            [-120.1557, 34.7779], 
+            [-120.1564, 34.7783], 
+            [-120.1569, 34.7785], 
+            [-120.1572, 34.7787], 
+            [-120.1579, 34.7792], 
+            [-120.1581, 34.7794], 
+            [-120.1592, 34.78], 
+            [-120.1614, 34.7814], 
+            [-120.1625, 34.7821], 
+            [-120.1636, 34.7828], 
+            [-120.1641, 34.7831], 
+            [-120.1643, 34.7833], 
+            [-120.1645, 34.7834], 
+            [-120.1646, 34.7835], 
+            [-120.1648, 34.7835], 
+            [-120.1663, 34.7839], 
+            [-120.1674, 34.7843], 
+            [-120.1685, 34.7847], 
+            [-120.1703, 34.7853], 
+            [-120.1705, 34.7854], 
+            [-120.1712, 34.7858], 
+            [-120.1715, 34.786], 
+            [-120.172, 34.7863], 
+            [-120.1727, 34.7865], 
+            [-120.1748, 34.7873], 
+            [-120.1753, 34.7875], 
+            [-120.1755, 34.7876], 
+            [-120.1756, 34.7877], 
+            [-120.1758, 34.7878], 
+            [-120.1759, 34.7878], 
+            [-120.176, 34.7879], 
+            [-120.1761, 34.788], 
+            [-120.1762, 34.7883], 
+            [-120.1765, 34.7887], 
+            [-120.1766, 34.7888], 
+            [-120.1768, 34.789], 
+            [-120.177, 34.7892], 
+            [-120.1774, 34.7894], 
+            [-120.1779, 34.7896], 
+            [-120.1785, 34.79], 
+            [-120.1788, 34.7901], 
+            [-120.1791, 34.7901], 
+            [-120.1797, 34.7903], 
+            [-120.1799, 34.7904], 
+            [-120.1802, 34.7905], 
+            [-120.1808, 34.7908], 
+            [-120.1813, 34.791], 
+            [-120.1815, 34.7912], 
+            [-120.1825, 34.7918], 
+            [-120.1829, 34.7921], 
+            [-120.1833, 34.7923], 
+            [-120.1838, 34.7925], 
+            [-120.185, 34.793], 
+            [-120.1861, 34.7934], 
+            [-120.1865, 34.7936], 
+            [-120.1865, 34.7937], 
+            [-120.1865, 34.7938], 
+            [-120.1865, 34.7939], 
+            [-120.1865, 34.794], 
+            [-120.1864, 34.7942], 
+            [-120.1863, 34.7944], 
+            [-120.1856, 34.7957], 
+            [-120.1854, 34.796], 
+            [-120.1853, 34.7961], 
+            [-120.1853, 34.7962], 
+            [-120.1853, 34.7963], 
+            [-120.1854, 34.7964], 
+            [-120.1855, 34.7965], 
+            [-120.1859, 34.7968], 
+            [-120.1861, 34.7971], 
+            [-120.1862, 34.7972], 
+            [-120.1864, 34.7973], 
+            [-120.1866, 34.7974], 
+            [-120.187, 34.7975], 
+            [-120.1873, 34.7976], 
+            [-120.1876, 34.7978], 
+            [-120.1879, 34.7979], 
+            [-120.188, 34.798], 
+            [-120.1882, 34.7982], 
+            [-120.1883, 34.7983], 
+            [-120.1884, 34.7985], 
+            [-120.1886, 34.7989], 
+            [-120.1888, 34.7991], 
+            [-120.189, 34.7993], 
+            [-120.1892, 34.7994], 
+            [-120.1893, 34.7995], 
+            [-120.1895, 34.7995], 
+            [-120.19, 34.7997], 
+            [-120.1914, 34.8], 
+            [-120.1923, 34.8003], 
+            [-120.1932, 34.8005], 
+            [-120.194, 34.8008], 
+            [-120.1962, 34.8019], 
+            [-120.1973, 34.8025], 
+            [-120.1979, 34.8029], 
+            [-120.1982, 34.803], 
+            [-120.1989, 34.8036], 
+            [-120.199, 34.8037], 
+            [-120.1992, 34.8038], 
+            [-120.1993, 34.8038], 
+            [-120.1997, 34.8039], 
+            [-120.2001, 34.8041], 
+            [-120.2023, 34.8049], 
+            [-120.203, 34.8052], 
+            [-120.2035, 34.8054], 
+            [-120.2054, 34.8062], 
+            [-120.2066, 34.8068], 
+            [-120.2069, 34.8069], 
+            [-120.2078, 34.8073], 
+            [-120.2082, 34.8075], 
+            [-120.2084, 34.8076], 
+            [-120.2086, 34.8078], 
+            [-120.2087, 34.8079], 
+            [-120.2091, 34.8085], 
+            [-120.2094, 34.8089], 
+            [-120.2102, 34.8101], 
+            [-120.2106, 34.8107], 
+            [-120.2108, 34.8108], 
+            [-120.2109, 34.8109], 
+            [-120.211, 34.811], 
+            [-120.2116, 34.8112], 
+            [-120.2119, 34.8114], 
+            [-120.2121, 34.8116], 
+            [-120.2129, 34.8122], 
+            [-120.2131, 34.8124], 
+            [-120.2132, 34.8124], 
+            [-120.2133, 34.8125], 
+            [-120.2134, 34.8125], 
+            [-120.2136, 34.8125], 
+            [-120.2138, 34.8125], 
+            [-120.214, 34.8125], 
+            [-120.2141, 34.8125], 
+            [-120.2144, 34.8126], 
+            [-120.2146, 34.8127], 
+            [-120.2155, 34.8134], 
+            [-120.2161, 34.814], 
+            [-120.2164, 34.8142], 
+            [-120.2168, 34.8146], 
+            [-120.2171, 34.8149], 
+            [-120.2173, 34.8151], 
+            [-120.2174, 34.8152], 
+            [-120.2175, 34.8152], 
+            [-120.2177, 34.8153], 
+            [-120.2184, 34.8155], 
+            [-120.2185, 34.8155], 
+            [-120.2186, 34.8155], 
+            [-120.2187, 34.8155], 
+            [-120.2189, 34.8154], 
+            [-120.219, 34.8154], 
+            [-120.2193, 34.8152], 
+            [-120.2199, 34.8149], 
+            [-120.2201, 34.8148], 
+            [-120.2202, 34.8147], 
+            [-120.2203, 34.8147], 
+            [-120.2205, 34.8148], 
+            [-120.2217, 34.8151], 
+            [-120.2228, 34.8155], 
+            [-120.2254, 34.8162], 
+            [-120.2271, 34.8166], 
+            [-120.2275, 34.8167], 
+            [-120.2277, 34.8168], 
+            [-120.2278, 34.8168], 
+            [-120.228, 34.8169], 
+            [-120.2281, 34.8171], 
+            [-120.2283, 34.8173], 
+            [-120.2284, 34.8174], 
+            [-120.2286, 34.8176], 
+            [-120.2289, 34.8179], 
+            [-120.2293, 34.8182], 
+            [-120.2302, 34.8188], 
+            [-120.2305, 34.8191], 
+            [-120.2309, 34.8197], 
+            [-120.2311, 34.8199], 
+            [-120.2311, 34.82], 
+            [-120.2313, 34.8207], 
+            [-120.2314, 34.8211], 
+            [-120.2314, 34.8213], 
+            [-120.2314, 34.8215], 
+            [-120.2314, 34.8216], 
+            [-120.2315, 34.8218], 
+            [-120.2316, 34.8219], 
+            [-120.2317, 34.8222], 
+            [-120.232, 34.8226], 
+            [-120.2323, 34.8231], 
+            [-120.2323, 34.8232], 
+            [-120.2324, 34.8234], 
+            [-120.2324, 34.8243], 
+            [-120.2324, 34.8244], 
+            [-120.2325, 34.8246], 
+            [-120.2326, 34.825], 
+            [-120.2328, 34.8252], 
+            [-120.233, 34.8255], 
+            [-120.2329, 34.8255], 
+            [-120.2334, 34.8263], 
+            [-120.2337, 34.8271], 
+            [-120.2344, 34.8282], 
+            [-120.2346, 34.8287], 
+            [-120.235, 34.8296], 
+            [-120.2351, 34.8297], 
+            [-120.2351, 34.8298], 
+            [-120.2351, 34.8299], 
+            [-120.2351, 34.83], 
+            [-120.2349, 34.8306], 
+            [-120.2349, 34.8309], 
+            [-120.2349, 34.831], 
+            [-120.2349, 34.8312], 
+            [-120.235, 34.8316], 
+            [-120.2351, 34.832], 
+            [-120.2351, 34.8326], 
+            [-120.2351, 34.8327], 
+            [-120.2352, 34.8329], 
+            [-120.2354, 34.8335], 
+            [-120.2356, 34.834], 
+            [-120.2357, 34.8343], 
+            [-120.2357, 34.8345], 
+            [-120.236, 34.8351], 
+            [-120.2362, 34.8356], 
+            [-120.237, 34.837], 
+            [-120.2375, 34.8378], 
+            [-120.2375, 34.8379], 
+            [-120.2379, 34.8385], 
+            [-120.2381, 34.8389], 
+            [-120.2381, 34.839], 
+            [-120.2383, 34.8392], 
+            [-120.2384, 34.8394], 
+            [-120.2387, 34.8398], 
+            [-120.239, 34.8402], 
+            [-120.2393, 34.8406], 
+            [-120.2396, 34.8412], 
+            [-120.2398, 34.8414], 
+            [-120.2398, 34.8415], 
+            [-120.2399, 34.8417], 
+            [-120.2399, 34.842], 
+            [-120.2399, 34.8422], 
+            [-120.24, 34.8423], 
+            [-120.2401, 34.8425], 
+            [-120.2404, 34.8427], 
+            [-120.2406, 34.8428], 
+            [-120.2408, 34.843], 
+            [-120.2408, 34.8431], 
+            [-120.241, 34.8433], 
+            [-120.2413, 34.8437], 
+            [-120.2414, 34.8439], 
+            [-120.2416, 34.8443], 
+            [-120.2418, 34.8448], 
+            [-120.2419, 34.8452], 
+            [-120.242, 34.8455], 
+            [-120.242, 34.8457], 
+            [-120.242, 34.8465], 
+            [-120.2419, 34.8473], 
+            [-120.2419, 34.8482], 
+            [-120.2418, 34.8484], 
+            [-120.2413, 34.8484], 
+            [-120.2411, 34.8484], 
+            [-120.2409, 34.8484], 
+            [-120.2403, 34.8484], 
+            [-120.2401, 34.8484], 
+            [-120.238, 34.8475], 
+            [-120.2378, 34.8475], 
+            [-120.2373, 34.8472], 
+            [-120.2368, 34.8468], 
+            [-120.2362, 34.8464], 
+            [-120.2361, 34.8463], 
+            [-120.2359, 34.8461], 
+            [-120.2358, 34.846], 
+            [-120.2348, 34.8455], 
+            [-120.2345, 34.8454], 
+            [-120.234, 34.8449], 
+            [-120.2335, 34.8446], 
+            [-120.2329, 34.8443], 
+            [-120.2326, 34.8441], 
+            [-120.2321, 34.8438], 
+            [-120.2316, 34.8437], 
+            [-120.231, 34.8435], 
+            [-120.23, 34.8431], 
+            [-120.2299, 34.843], 
+            [-120.2298, 34.8429], 
+            [-120.2292, 34.8423], 
+            [-120.229, 34.8421], 
+            [-120.2289, 34.842], 
+            [-120.2287, 34.8419], 
+            [-120.2286, 34.8418], 
+            [-120.2284, 34.8417], 
+            [-120.2282, 34.8417], 
+            [-120.2278, 34.8416], 
+            [-120.2274, 34.8416], 
+            [-120.226, 34.8415], 
+            [-120.2258, 34.8415], 
+            [-120.2253, 34.8416], 
+            [-120.2244, 34.8417], 
+            [-120.2238, 34.8418], 
+            [-120.2233, 34.8418], 
+            [-120.2219, 34.8418], 
+            [-120.2217, 34.8418], 
+            [-120.2214, 34.8418], 
+            [-120.2211, 34.8418], 
+            [-120.2207, 34.8417], 
+            [-120.2203, 34.8416], 
+            [-120.22, 34.8415], 
+            [-120.2199, 34.8415], 
+            [-120.2195, 34.8413], 
+            [-120.2187, 34.8408], 
+            [-120.2178, 34.8403], 
+            [-120.217, 34.8399], 
+            [-120.2168, 34.8398], 
+            [-120.2166, 34.8397], 
+            [-120.2165, 34.8396], 
+            [-120.2161, 34.8394], 
+            [-120.2159, 34.8394], 
+            [-120.2158, 34.8393], 
+            [-120.2157, 34.8393], 
+            [-120.2153, 34.8393], 
+            [-120.2139, 34.8393], 
+            [-120.2135, 34.8393], 
+            [-120.2133, 34.8393], 
+            [-120.2133, 34.8394], 
+            [-120.2132, 34.8394], 
+            [-120.2122, 34.8401], 
+            [-120.2119, 34.8404], 
+            [-120.2118, 34.8405], 
+            [-120.2117, 34.8405], 
+            [-120.2116, 34.8406], 
+            [-120.2115, 34.8406], 
+            [-120.2112, 34.8406], 
+            [-120.2104, 34.8407], 
+            [-120.2103, 34.8407], 
+            [-120.2097, 34.8407], 
+            [-120.2096, 34.8407], 
+            [-120.2095, 34.8408], 
+            [-120.2094, 34.8408], 
+            [-120.2091, 34.8411], 
+            [-120.2088, 34.8413], 
+            [-120.2074, 34.8423], 
+            [-120.2073, 34.8425], 
+            [-120.2071, 34.8425], 
+            [-120.207, 34.8426], 
+            [-120.2069, 34.8426], 
+            [-120.2065, 34.8427], 
+            [-120.2064, 34.8428], 
+            [-120.2063, 34.8428], 
+            [-120.2061, 34.8429], 
+            [-120.206, 34.843], 
+            [-120.206, 34.8431], 
+            [-120.2059, 34.8432], 
+            [-120.2059, 34.8433], 
+            [-120.2057, 34.8437], 
+            [-120.2056, 34.8438], 
+            [-120.2056, 34.844], 
+            [-120.2056, 34.8441], 
+            [-120.2056, 34.8442], 
+            [-120.2056, 34.8443], 
+            [-120.2056, 34.8444], 
+            [-120.2057, 34.8449], 
+            [-120.2057, 34.8453], 
+            [-120.2059, 34.846], 
+            [-120.2059, 34.8461], 
+            [-120.206, 34.8466], 
+            [-120.2061, 34.8471], 
+            [-120.2061, 34.8473], 
+            [-120.2061, 34.8476], 
+            [-120.2062, 34.8477], 
+            [-120.2063, 34.8479], 
+            [-120.2055, 34.8476], 
+            [-120.2051, 34.8475], 
+            [-120.2046, 34.8474], 
+            [-120.2041, 34.8472], 
+            [-120.2037, 34.8468], 
+            [-120.2031, 34.8463], 
+            [-120.2022, 34.8457], 
+            [-120.2015, 34.8453], 
+            [-120.2012, 34.8451], 
+            [-120.201, 34.845], 
+            [-120.2005, 34.845], 
+            [-120.1997, 34.8449], 
+            [-120.1993, 34.8446], 
+            [-120.199, 34.8444], 
+            [-120.1983, 34.8443], 
+            [-120.1978, 34.8441], 
+            [-120.1977, 34.8439], 
+            [-120.1977, 34.8437], 
+            [-120.1977, 34.8435], 
+            [-120.1979, 34.8433], 
+            [-120.1981, 34.8433], 
+            [-120.1983, 34.8432], 
+            [-120.1983, 34.8431], 
+            [-120.1982, 34.8431], 
+            [-120.1981, 34.8429], 
+            [-120.1976, 34.8427], 
+            [-120.1969, 34.8425], 
+            [-120.1964, 34.8424], 
+            [-120.196, 34.8425], 
+            [-120.1956, 34.8427], 
+            [-120.1951, 34.8431], 
+            [-120.1948, 34.8434], 
+            [-120.1946, 34.8437], 
+            [-120.1942, 34.8439], 
+            [-120.1936, 34.8442], 
+            [-120.1935, 34.8443], 
+            [-120.1929, 34.8444], 
+            [-120.1925, 34.8444], 
+            [-120.1919, 34.8443], 
+            [-120.1917, 34.8441], 
+            [-120.1909, 34.8438], 
+            [-120.1907, 34.8437], 
+            [-120.1905, 34.8436], 
+            [-120.1901, 34.8437], 
+            [-120.1899, 34.8439], 
+            [-120.1896, 34.8444], 
+            [-120.1893, 34.8447], 
+            [-120.1888, 34.8448], 
+            [-120.1882, 34.8449], 
+            [-120.1873, 34.8451], 
+            [-120.1871, 34.8452], 
+            [-120.1868, 34.8452], 
+            [-120.1864, 34.8451], 
+            [-120.186, 34.8449], 
+            [-120.1857, 34.8447], 
+            [-120.1854, 34.8441], 
+            [-120.1848, 34.8431], 
+            [-120.1845, 34.8428], 
+            [-120.184, 34.8422], 
+            [-120.1839, 34.8419], 
+            [-120.184, 34.8418], 
+            [-120.1841, 34.8417], 
+            [-120.184, 34.841], 
+            [-120.184, 34.8406], 
+            [-120.1841, 34.8401], 
+            [-120.1844, 34.8394], 
+            [-120.1845, 34.8391], 
+            [-120.1844, 34.8386], 
+            [-120.1843, 34.8382], 
+            [-120.184, 34.8376], 
+            [-120.1837, 34.8371], 
+            [-120.1834, 34.8369], 
+            [-120.1829, 34.8366], 
+            [-120.1821, 34.8366], 
+            [-120.1813, 34.8363], 
+            [-120.1808, 34.836], 
+            [-120.1801, 34.8353], 
+            [-120.1799, 34.8349], 
+            [-120.1795, 34.8345], 
+            [-120.1785, 34.8341], 
+            [-120.177, 34.8339], 
+            [-120.1756, 34.8338], 
+            [-120.1748, 34.8336], 
+            [-120.1739, 34.8336], 
+            [-120.1735, 34.8338], 
+            [-120.1727, 34.8342], 
+            [-120.1724, 34.8347], 
+            [-120.1723, 34.835], 
+            [-120.1723, 34.8354], 
+            [-120.1721, 34.8357], 
+            [-120.1717, 34.836], 
+            [-120.1713, 34.8368], 
+            [-120.1712, 34.8369], 
+            [-120.1708, 34.8377], 
+            [-120.1703, 34.8383], 
+            [-120.1697, 34.839], 
+            [-120.1692, 34.8395], 
+            [-120.1689, 34.84], 
+            [-120.1688, 34.8401], 
+            [-120.1686, 34.8402], 
+            [-120.1677, 34.8404], 
+            [-120.1656, 34.8413], 
+            [-120.163, 34.8405], 
+            [-120.1607, 34.8389], 
+            [-120.1596, 34.837], 
+            [-120.1585, 34.8363], 
+            [-120.1561, 34.8351], 
+            [-120.1534, 34.8336], 
+            [-120.1509, 34.8342], 
+            [-120.1496, 34.8341], 
+            [-120.1487, 34.8333], 
+            [-120.1483, 34.8309], 
+            [-120.1474, 34.8301], 
+            [-120.1442, 34.8303], 
+            [-120.1403, 34.8316], 
+            [-120.1382, 34.8326], 
+            [-120.128, 34.8373], 
+            [-120.1245, 34.8379], 
+            [-120.1194, 34.8365], 
+            [-120.1167, 34.833], 
+            [-120.1156, 34.8326], 
+            [-120.1129, 34.8333], 
+            [-120.1082, 34.8335], 
+            [-120.1022, 34.8339], 
+            [-120.099, 34.8351], 
+            [-120.096, 34.8379], 
+            [-120.0932, 34.8402], 
+            [-120.089, 34.8421], 
+            [-120.0868, 34.8435], 
+            [-120.0865, 34.8434], 
+            [-120.0857, 34.8433], 
+            [-120.0853, 34.8433], 
+            [-120.085, 34.8434], 
+            [-120.0849, 34.8436], 
+            [-120.0845, 34.8439], 
+            [-120.0841, 34.8442], 
+            [-120.0838, 34.8444], 
+            [-120.0837, 34.8446], 
+            [-120.0836, 34.8447], 
+            [-120.0833, 34.845], 
+            [-120.0832, 34.8451], 
+            [-120.0829, 34.8451], 
+            [-120.0824, 34.8454], 
+            [-120.0818, 34.8456], 
+            [-120.0815, 34.8457], 
+            [-120.0812, 34.8459], 
+            [-120.0807, 34.846], 
+            [-120.0802, 34.8461], 
+            [-120.0797, 34.8462], 
+            [-120.0794, 34.8462], 
+            [-120.0791, 34.8462], 
+            [-120.0789, 34.8462], 
+            [-120.0786, 34.8462], 
+            [-120.0783, 34.8461], 
+            [-120.078, 34.846], 
+            [-120.0777, 34.8458], 
+            [-120.0774, 34.8455], 
+            [-120.077, 34.8454], 
+            [-120.0765, 34.8453], 
+            [-120.0758, 34.8454], 
+            [-120.0754, 34.8456], 
+            [-120.0751, 34.8459], 
+            [-120.0751, 34.846], 
+            [-120.0751, 34.8461], 
+            [-120.075, 34.8463], 
+            [-120.0748, 34.8464], 
+            [-120.0746, 34.8464], 
+            [-120.0744, 34.8465], 
+            [-120.0741, 34.8465], 
+            [-120.0735, 34.8466], 
+            [-120.0733, 34.8466], 
+            [-120.073, 34.8465], 
+            [-120.0724, 34.8463], 
+            [-120.0719, 34.8464], 
+            [-120.0719, 34.8465], 
+            [-120.0718, 34.8466], 
+            [-120.0715, 34.8464], 
+            [-120.0712, 34.8462], 
+            [-120.071, 34.8461], 
+            [-120.0707, 34.8458], 
+            [-120.0704, 34.8457], 
+            [-120.0701, 34.8457], 
+            [-120.0699, 34.8458], 
+            [-120.0697, 34.8459], 
+            [-120.0695, 34.8459], 
+            [-120.0694, 34.846], 
+            [-120.0692, 34.846], 
+            [-120.0691, 34.8462], 
+            [-120.0689, 34.8464], 
+            [-120.0688, 34.8466], 
+            [-120.0688, 34.8468], 
+            [-120.0687, 34.847], 
+            [-120.0687, 34.8472], 
+            [-120.0687, 34.8476], 
+            [-120.0687, 34.8478], 
+            [-120.0685, 34.848], 
+            [-120.0683, 34.8482], 
+            [-120.0681, 34.8486], 
+            [-120.068, 34.8487], 
+            [-120.0676, 34.8492], 
+            [-120.0675, 34.8495], 
+            [-120.067, 34.85], 
+            [-120.0669, 34.8501], 
+            [-120.0665, 34.8501], 
+            [-120.0659, 34.8502], 
+            [-120.0654, 34.8501], 
+            [-120.065, 34.8503], 
+            [-120.065, 34.8506], 
+            [-120.0648, 34.8508], 
+            [-120.0647, 34.8508], 
+            [-120.0646, 34.8509], 
+            [-120.0645, 34.8509], 
+            [-120.0643, 34.851], 
+            [-120.0627, 34.8517], 
+            [-120.0625, 34.8518], 
+            [-120.0624, 34.8519], 
+            [-120.0622, 34.852], 
+            [-120.0621, 34.852], 
+            [-120.062, 34.852], 
+            [-120.0619, 34.852], 
+            [-120.0619, 34.8519], 
+            [-120.0618, 34.8518], 
+            [-120.0618, 34.8516], 
+            [-120.0616, 34.8513], 
+            [-120.0615, 34.851], 
+            [-120.0615, 34.8508], 
+            [-120.0613, 34.8505], 
+            [-120.061, 34.8504], 
+            [-120.0607, 34.8502], 
+            [-120.0605, 34.8501], 
+            [-120.0603, 34.8499], 
+            [-120.0602, 34.8498], 
+            [-120.06, 34.8498], 
+            [-120.0599, 34.8498], 
+            [-120.0595, 34.8496], 
+            [-120.0594, 34.8496], 
+            [-120.0595, 34.8495], 
+            [-120.0596, 34.8492], 
+            [-120.0596, 34.8491], 
+            [-120.0596, 34.8489], 
+            [-120.0597, 34.8487], 
+            [-120.0597, 34.8486], 
+            [-120.0597, 34.8485], 
+            [-120.0594, 34.8482], 
+            [-120.0593, 34.848], 
+            [-120.0593, 34.8479], 
+            [-120.0592, 34.8479], 
+            [-120.059, 34.8478], 
+            [-120.0588, 34.8478], 
+            [-120.0587, 34.8477], 
+            [-120.0585, 34.8476], 
+            [-120.0584, 34.8476], 
+            [-120.0582, 34.8476], 
+            [-120.058, 34.8476], 
+            [-120.0578, 34.8476], 
+            [-120.0577, 34.8476], 
+            [-120.0573, 34.8474], 
+            [-120.0566, 34.8472], 
+            [-120.0565, 34.8471], 
+            [-120.0563, 34.8471], 
+            [-120.0562, 34.8471], 
+            [-120.0565, 34.8466], 
+            [-120.0567, 34.8463], 
+            [-120.0567, 34.8459], 
+            [-120.0565, 34.8457], 
+            [-120.056, 34.8454], 
+            [-120.0556, 34.8453], 
+            [-120.055, 34.8454], 
+            [-120.0546, 34.8456], 
+            [-120.0543, 34.8459], 
+            [-120.0539, 34.8464], 
+            [-120.0535, 34.8468], 
+            [-120.053, 34.847], 
+            [-120.0521, 34.847], 
+            [-120.0516, 34.8471], 
+            [-120.0513, 34.8473], 
+            [-120.0511, 34.8474], 
+            [-120.0509, 34.8475], 
+            [-120.0505, 34.8475], 
+            [-120.0499, 34.8474], 
+            [-120.0493, 34.8472], 
+            [-120.0487, 34.8468], 
+            [-120.0481, 34.8467], 
+            [-120.0468, 34.8469], 
+            [-120.0461, 34.847], 
+            [-120.046, 34.8468], 
+            [-120.0458, 34.8465], 
+            [-120.0453, 34.846], 
+            [-120.0452, 34.8458], 
+            [-120.0448, 34.8456], 
+            [-120.0438, 34.8452], 
+            [-120.0432, 34.8451], 
+            [-120.0426, 34.845], 
+            [-120.0421, 34.8447], 
+            [-120.0416, 34.8446], 
+            [-120.0415, 34.8446], 
+            [-120.0408, 34.8445], 
+            [-120.04, 34.8443], 
+            [-120.0394, 34.844], 
+            [-120.0391, 34.8437], 
+            [-120.0387, 34.8436], 
+            [-120.0384, 34.8434], 
+            [-120.0382, 34.8432], 
+            [-120.038, 34.843], 
+            [-120.0377, 34.8429], 
+            [-120.0375, 34.8428], 
+            [-120.0371, 34.8427], 
+            [-120.0368, 34.8426], 
+            [-120.0365, 34.8426], 
+            [-120.0357, 34.8425], 
+            [-120.0355, 34.8424], 
+            [-120.0353, 34.8424], 
+            [-120.0348, 34.8426], 
+            [-120.0341, 34.8428], 
+            [-120.0338, 34.8429], 
+            [-120.0332, 34.8432], 
+            [-120.0327, 34.8434], 
+            [-120.028, 34.8419], 
+            [-120.0279, 34.8417], 
+            [-120.0279, 34.8413], 
+            [-120.0278, 34.8411], 
+            [-120.0276, 34.8409], 
+            [-120.0273, 34.8408], 
+            [-120.027, 34.8405], 
+            [-120.0268, 34.8404], 
+            [-120.0264, 34.8402], 
+            [-120.0261, 34.8401], 
+            [-120.0258, 34.84], 
+            [-120.0255, 34.8399], 
+            [-120.0251, 34.8394], 
+            [-120.025, 34.8391], 
+            [-120.0249, 34.8385], 
+            [-120.0248, 34.8375], 
+            [-120.0247, 34.8371], 
+            [-120.0244, 34.8366], 
+            [-120.0241, 34.8362], 
+            [-120.0236, 34.836], 
+            [-120.0233, 34.836], 
+            [-120.023, 34.8362], 
+            [-120.0228, 34.8364], 
+            [-120.0227, 34.8369], 
+            [-120.0225, 34.837], 
+            [-120.0221, 34.8369], 
+            [-120.0218, 34.8367], 
+            [-120.0215, 34.8365], 
+            [-120.0212, 34.8363], 
+            [-120.0211, 34.8362], 
+            [-120.021, 34.8362], 
+            [-120.0208, 34.836], 
+            [-120.0479, 34.7969], 
+            [-120.0508, 34.7929], 
+            [-120.0508, 34.7928], 
+            [-120.0554, 34.7862]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1013995, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XSB-SBC-179", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1754416234000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "Sheriff’s Office: EVACUATION WARNING. North of Foxen Canyon Rd/Zaca Lake Rd and south of Sisquoc River, due to the Gifford Fire, until further notice. Be ready to leave. \n\nOficina del Sheriff: ADVERTENCIA DE EVACUACION. Norte de Foxen Canyon Rd/Zaca Lake Rd y sur of Sisquoc River, debido al Incendio Gifford, hasta nuevo aviso. Este listo para irse. \n", 
+        "SHAPE__Area" : 158248038.546875, 
+        "SHAPE__Length" : 70944.87569440584, 
+        "GlobalID" : "2ffbd052-34e1-4aa4-8963-3f8602a13d2d"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1013996, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -32397,7 +33553,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004460, 
+        "OBJECTID" : 1013996, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -32411,12 +33567,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION ORDER. Upper Tepusquet Canyon and south of Hwy 166, due to the Gifford Fire, until further notice. Leave now. \n\nOficina del Sheriff: ORDEN DE EVACUACION. Parte alta de Tepusquet Canyon y al sur de Carretera 166, debido al Incendio Gifford, hasta nuevo aviso. Desaloje ahora. ", 
         "SHAPE__Area" : 50218600.5625, 
         "SHAPE__Length" : 41553.838313213586, 
-        "GlobalID" : "61038f84-03bc-46ee-b2d6-e8a2668f521c"
+        "GlobalID" : "d465f701-091f-400b-b5f4-d1bd18b7539d"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004461, 
+      "id" : 1013997, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -33301,7 +34457,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004461, 
+        "OBJECTID" : 1013997, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -33315,12 +34471,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION ORDER. Area south of Hwy 166, east of Willow Springs trail, west of Cottonwood Canyon Rd, due to the Gifford Fire, until further notice. Leave now.\n\nOficina del Sheriff: ORDEN DE EVACUACION. Area al sur de Carretera 166, oeste de Willow Springs, este de Cottonwood Canyond Rd, debido al Incendio Gifford. Desaloje ahora. \n", 
         "SHAPE__Area" : 254193097.04296875, 
         "SHAPE__Length" : 103748.12814653505, 
-        "GlobalID" : "9791222a-b3c6-49cc-be6c-60964787f2ec"
+        "GlobalID" : "9f253d06-a47b-44d4-92b4-3e1cd86fec77"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004462, 
+      "id" : 1013998, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -34364,7 +35520,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004462, 
+        "OBJECTID" : 1013998, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -34378,12 +35534,12 @@
         "NOTES" : "Siskiyou County Sheriffs Office has issued an EVACUATION WARNING for this zone due to the Big Cliff Fire. Anyone in this area should prepare to leave should conditions warrant. \n\nFor information regarding any emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 84898387.97265625, 
         "SHAPE__Length" : 46084.069514743111, 
-        "GlobalID" : "b691b01f-2c42-47bb-92c2-b0302c20b813"
+        "GlobalID" : "79518eb0-0e9d-4b4d-b44e-6ac95539e3d1"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004463, 
+      "id" : 1013999, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -34506,7 +35662,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004463, 
+        "OBJECTID" : 1013999, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -34520,12 +35676,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has issued an EVACUATION WARNING for this zone due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 11895859.9140625, 
         "SHAPE__Length" : 18859.847823874468, 
-        "GlobalID" : "77930800-5180-42e3-8ffb-fee7f1332aa8"
+        "GlobalID" : "da3f131b-2b9b-4e1f-bac8-2e1d85996b18"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004464, 
+      "id" : 1014000, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -34732,7 +35888,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004464, 
+        "OBJECTID" : 1014000, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -34746,12 +35902,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has downgraded this zone to an EVACUATION WARNING due to progress on the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 13520479.13671875, 
         "SHAPE__Length" : 15323.612888652367, 
-        "GlobalID" : "a226be6e-1b9d-4422-9329-cda1c894f93c"
+        "GlobalID" : "6b7c0932-2be5-453e-89a6-a000b803f974"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004465, 
+      "id" : 1014001, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -34942,7 +36098,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004465, 
+        "OBJECTID" : 1014001, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -34956,12 +36112,12 @@
         "NOTES" : "Evacuation Warning Due to Butler Fire", 
         "SHAPE__Area" : 16241255.109375, 
         "SHAPE__Length" : 20453.351189690824, 
-        "GlobalID" : "28d6c3bd-f64d-420f-8145-c1e76f81f100"
+        "GlobalID" : "c8f3c417-89ad-45a3-9969-df8cabe95c90"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004466, 
+      "id" : 1014002, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -35168,7 +36324,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004466, 
+        "OBJECTID" : 1014002, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -35182,12 +36338,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has downgraded this zone to an EVACUATION WARNING due to progress on the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 28802149.046875, 
         "SHAPE__Length" : 24452.892169594888, 
-        "GlobalID" : "b2d38f37-bdca-44dc-9543-0d30198a4aa6"
+        "GlobalID" : "7db1b3cb-b5a2-4496-ba9e-b7307df8b149"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004467, 
+      "id" : 1014003, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -35500,7 +36656,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004467, 
+        "OBJECTID" : 1014003, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -35514,12 +36670,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has downgraded this zone to an EVACUATION WARNING due to progress on the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 56923615.94921875, 
         "SHAPE__Length" : 35855.661575150145, 
-        "GlobalID" : "5a198263-611f-4b9f-a214-a5c3f63c2281"
+        "GlobalID" : "a8cab8df-90ae-42de-b6e5-79ff633929a2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004468, 
+      "id" : 1014004, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -35659,7 +36815,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004468, 
+        "OBJECTID" : 1014004, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -35673,12 +36829,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has issued an EVACUATION WARNING for this zone due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 12011473.2890625, 
         "SHAPE__Length" : 19546.892251127218, 
-        "GlobalID" : "2bdad9da-731c-4fdc-b70d-a9844e95ab58"
+        "GlobalID" : "a5f6cd9f-688b-4d16-98cc-236e92fe4803"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004469, 
+      "id" : 1014005, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -35960,7 +37116,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004469, 
+        "OBJECTID" : 1014005, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -35974,12 +37130,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has issued an EVACUATION WARNING for this zone due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 29349647.63671875, 
         "SHAPE__Length" : 35607.5832440137, 
-        "GlobalID" : "c7ef1ec4-b443-413f-856b-6106ca186428"
+        "GlobalID" : "3f1c982d-7d5b-4f8a-bc4c-947648184840"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004470, 
+      "id" : 1014006, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36010,7 +37166,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004470, 
+        "OBJECTID" : 1014006, 
         "COUNTY" : "SISKIYOU", 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36024,12 +37180,12 @@
         "NOTES" : "Siskiyou County Sheriff's Office has issued an EVACUATION WARNING for this zone due to the Butler Fire. Anyone in this area should be prepared to leave. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov", 
         "SHAPE__Area" : 10265399.46484375, 
         "SHAPE__Length" : 17100.237797057416, 
-        "GlobalID" : "65020fdb-cab1-44d5-b03b-c99b10290936"
+        "GlobalID" : "285f9620-5d9b-46c2-b24b-106d0eabb7d5"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004471, 
+      "id" : 1014007, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36104,7 +37260,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004471, 
+        "OBJECTID" : 1014007, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36118,12 +37274,12 @@
         "NOTES" : "Vegetation Fire; rvcfire.org", 
         "SHAPE__Area" : 42934836.74609375, 
         "SHAPE__Length" : 29605.49090337161, 
-        "GlobalID" : "5fc3dcef-ef59-4527-8a91-90e636265822"
+        "GlobalID" : "e3d520eb-edd1-447b-8373-3d928a645397"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004472, 
+      "id" : 1014008, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -36716,7 +37872,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004472, 
+        "OBJECTID" : 1014008, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36730,12 +37886,12 @@
         "NOTES" : "Widland fire; www.rvcfire.org", 
         "SHAPE__Area" : 33135776.3046875, 
         "SHAPE__Length" : 51961.47747410382, 
-        "GlobalID" : "57fb0d22-fe63-4339-8d27-d2a6775359ae"
+        "GlobalID" : "69b41d18-0e00-4a35-b19d-75da03b54416"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004473, 
+      "id" : 1014009, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36753,7 +37909,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004473, 
+        "OBJECTID" : 1014009, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36767,12 +37923,12 @@
         "NOTES" : "Vegetation Fire www.rvcfire.org", 
         "SHAPE__Area" : 1906488.2890625, 
         "SHAPE__Length" : 5849.0892574958179, 
-        "GlobalID" : "8832d2c8-0dd7-46da-99d6-b5920fb0c72b"
+        "GlobalID" : "7a7b79af-de4e-412b-813c-e74e439135ae"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004474, 
+      "id" : 1014010, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36845,7 +38001,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004474, 
+        "OBJECTID" : 1014010, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36859,12 +38015,12 @@
         "NOTES" : "Widland fire; www.rvcfire.org", 
         "SHAPE__Area" : 12627223.9140625, 
         "SHAPE__Length" : 20767.671601715843, 
-        "GlobalID" : "fe337c89-f9bc-4954-89e7-9e770a131eca"
+        "GlobalID" : "162c36fd-2ea8-4dbe-a40e-f462dd8fd4e9"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004475, 
+      "id" : 1014011, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -36943,7 +38099,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004475, 
+        "OBJECTID" : 1014011, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -36957,12 +38113,12 @@
         "NOTES" : "Vegetation Fire www.rvcfire.org", 
         "SHAPE__Area" : 8836965.48828125, 
         "SHAPE__Length" : 12768.209345099016, 
-        "GlobalID" : "4dbaef78-075f-4080-b689-ec7fb9fe8aa7"
+        "GlobalID" : "2e25569c-80d2-401d-8525-f183c6fbcd32"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004476, 
+      "id" : 1014012, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -37023,7 +38179,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004476, 
+        "OBJECTID" : 1014012, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -37037,12 +38193,12 @@
         "NOTES" : "Vegetation Fire www.rvcfire.org", 
         "SHAPE__Area" : 1759021.046875, 
         "SHAPE__Length" : 5657.4274762889072, 
-        "GlobalID" : "3a4609d6-edd2-4631-8324-22f08de6b6b9"
+        "GlobalID" : "017b0b18-d1d0-46ac-84e7-81afb0170110"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004477, 
+      "id" : 1014013, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -37077,7 +38233,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004477, 
+        "OBJECTID" : 1014013, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -37091,12 +38247,12 @@
         "NOTES" : "Vegetation Fire www.rvcfire.org", 
         "SHAPE__Area" : 4112544.57421875, 
         "SHAPE__Length" : 8112.6657922234326, 
-        "GlobalID" : "c705f448-d026-4cb2-b090-fc126109ebb2"
+        "GlobalID" : "ae24fabc-2d33-40b8-a3ae-53be1bdffcd4"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004478, 
+      "id" : 1014014, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -38219,7 +39375,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004478, 
+        "OBJECTID" : 1014014, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -38233,12 +39389,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION ORDER. Upper Tepusquet Canyon and south of Hwy 166, due to the Gifford Fire, until further notice. Leave now. \n\nOficina del Sheriff: ORDEN DE EVACUACION. Parte alta de Tepusquet Canyon y al sur de Carretera 166, debido al Incendio Gifford, hasta nuevo aviso. Desaloje ahora. ", 
         "SHAPE__Area" : 123572092.6875, 
         "SHAPE__Length" : 60500.419449555251, 
-        "GlobalID" : "1da96405-3a01-488b-a9a9-943292702c2a"
+        "GlobalID" : "f51f8ca7-90b1-4709-9051-cfe8c2dd365a"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004479, 
+      "id" : 1014015, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -38686,7 +39842,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004479, 
+        "OBJECTID" : 1014015, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -38700,12 +39856,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION WARNING. Lower Tepusquet Canyon north of Sisquoc River due to the Gifford Fire, until further notice. Be ready to leave at a moment’s notice.\n\nOficina del Sheriff: ADVERTENCIA DE EVACUACION. Parte baja de Tepusquet Canyon norte de Sisquoc River debido al Incendio Gifford. Este listo para irse en cualquier momento.", 
         "SHAPE__Area" : 77053445.63671875, 
         "SHAPE__Length" : 35136.373337567493, 
-        "GlobalID" : "428f6efe-f035-4029-9ba5-53d5ad6595c8"
+        "GlobalID" : "058ad290-6f08-4a35-99ed-a41527c7a1da"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004480, 
+      "id" : 1014016, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39385,7 +40541,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004480, 
+        "OBJECTID" : 1014016, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39399,12 +40555,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION ORDER. Upper Tepusquet Canyon and south of Hwy 166, due to the Gifford Fire, until further notice. Leave now. \n\nOficina del Sheriff: ORDEN DE EVACUACION. Parte alta de Tepusquet Canyon y al sur de Carretera 166, debido al Incendio Gifford, hasta nuevo aviso. Desaloje ahora. ", 
         "SHAPE__Area" : 76138225.73828125, 
         "SHAPE__Length" : 49356.699127233223, 
-        "GlobalID" : "30e2940e-17c3-49e2-9f20-dc245ecc3a22"
+        "GlobalID" : "67e79df9-a41a-445f-9b92-96e29edace83"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004481, 
+      "id" : 1014017, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -39805,7 +40961,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004481, 
+        "OBJECTID" : 1014017, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -39819,12 +40975,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION WARNING. Lower Tepusquet Canyon north of Sisquoc River due to the Gifford Fire, until further notice. Be ready to leave at a moment’s notice.\n\nOficina del Sheriff: ADVERTENCIA DE EVACUACION. Parte baja de Tepusquet Canyon norte de Sisquoc River debido al Incendio Gifford. Este listo para irse en cualquier momento.", 
         "SHAPE__Area" : 61755235.1015625, 
         "SHAPE__Length" : 44676.031662579859, 
-        "GlobalID" : "c3c26f53-cd68-4c5d-b566-72ba154d57f1"
+        "GlobalID" : "fe554b88-276d-4f2e-80b2-598884dc8495"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004482, 
+      "id" : 1014018, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40201,7 +41357,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004482, 
+        "OBJECTID" : 1014018, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40215,12 +41371,12 @@
         "NOTES" : "Sheriff’s Office: Evacuation Warning upgraded to an EVACUATION ORDER. South of Hwy 166, east of Cottonwood Canyon Rd, west of School House Rd, due to Gifford Fire. Leave now. \n\nAdvertencia de Evacuacion elevada a una ORDEN DE EVACUACION. Sur de Carretera 166, este de Cottonwood Canyon Rd, oeste de School House Rd, debido al Incendio Gifford. Desaloje ahora. ", 
         "SHAPE__Area" : 107900329.1640625, 
         "SHAPE__Length" : 49948.885861871677, 
-        "GlobalID" : "41fc1645-4f3b-4973-adc8-15441d99c763"
+        "GlobalID" : "a26d0ec3-56b6-4fb0-a680-db99faeee3c2"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004483, 
+      "id" : 1014019, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40599,7 +41755,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004483, 
+        "OBJECTID" : 1014019, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40613,12 +41769,12 @@
         "NOTES" : "Sheriff’s Office: Evacuation Warning upgraded to an EVACUATION ORDER. South of Hwy 166, east of School House Rd, and west of Aliso Canyon Rd, due to Gifford Fire. LEAVE NOW. \n\nAdvertencia de Evacuacion elevada a una ORDEN DE EVACUACION. Sur de Carretera 166, este de School House Rd, y oeste Aliso Canyon Rd, debido al Incendio Gifford. DESALOJE AHORA.", 
         "SHAPE__Area" : 183140385.94140625, 
         "SHAPE__Length" : 58138.03150747015, 
-        "GlobalID" : "80200fa3-d8a3-4a19-bbf5-a6b143d1f31d"
+        "GlobalID" : "89c3c777-abba-478a-b54a-3ff6f1d7e6ed"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004484, 
+      "id" : 1014020, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40682,7 +41838,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004484, 
+        "OBJECTID" : 1014020, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40696,12 +41852,12 @@
         "NOTES" : "Sheriff’s Office: EVACUATION WARNING. South of Hwy 166, east of Aliso Canyon Rd, west of Perkins Rd, due to the Gifford Fire, until further notice. Be ready to leave. \n\nOficina del Sheriff: ADVERTENCIA DE EVACUACION. Sur de Carretera 166, este de Aliso Canyon Rd, y oeste de Perkins Rd, debido al Incendio Gifford, hasta nuevo aviso. Este listo para irse. \n", 
         "SHAPE__Area" : 48986305.1640625, 
         "SHAPE__Length" : 33382.060142728951, 
-        "GlobalID" : "dce04f99-e401-4411-8703-1a41004841b8"
+        "GlobalID" : "95068e6b-0499-414b-8b01-769ff4a22606"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004485, 
+      "id" : 1014021, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40827,7 +41983,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004485, 
+        "OBJECTID" : 1014021, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40841,12 +41997,12 @@
         "NOTES" : "Vegetation Fire www.rvcfire.org", 
         "SHAPE__Area" : 19503275.265625, 
         "SHAPE__Length" : 18939.7912486574, 
-        "GlobalID" : "59277e14-a102-4aac-9e11-f7cf7428a49b"
+        "GlobalID" : "0a2fb736-9d23-486b-bff5-e58497bc8856"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004486, 
+      "id" : 1014022, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -40985,7 +42141,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004486, 
+        "OBJECTID" : 1014022, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -40999,12 +42155,12 @@
         "NOTES" : "Wildland fire. www.rvcfire.com", 
         "SHAPE__Area" : 30890788.78125, 
         "SHAPE__Length" : 30216.486447143652, 
-        "GlobalID" : "bd3b5122-78e9-411d-8f74-2a7f145682c2"
+        "GlobalID" : "a548bc48-a705-474c-a398-e31b668e621e"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 1004487, 
+      "id" : 1014023, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -41098,7 +42254,7 @@
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 1004487, 
+        "OBJECTID" : 1014023, 
         "COUNTY" : null, 
         "CITY" : null, 
         "ZONE_NAME" : null, 
@@ -41112,7 +42268,293 @@
         "NOTES" : "Wildland fire. www.rvcfire.com", 
         "SHAPE__Area" : 27782505.69140625, 
         "SHAPE__Length" : 22125.10405169984, 
-        "GlobalID" : "072fa06c-9c87-4072-accc-543dd65aefc0"
+        "GlobalID" : "81c77109-6248-4144-9f69-ebdf5d7c19ab"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1014024, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-120.2586, 34.8607], 
+            [-120.2582, 34.8606], 
+            [-120.2574, 34.8604], 
+            [-120.2561, 34.8599], 
+            [-120.2555, 34.8597], 
+            [-120.2545, 34.8592], 
+            [-120.2532, 34.8591], 
+            [-120.2524, 34.859], 
+            [-120.2518, 34.8588], 
+            [-120.2509, 34.8585], 
+            [-120.2499, 34.8583], 
+            [-120.249, 34.8582], 
+            [-120.2481, 34.8582], 
+            [-120.2475, 34.8581], 
+            [-120.2468, 34.8578], 
+            [-120.2463, 34.8577], 
+            [-120.2459, 34.8574], 
+            [-120.2455, 34.8572], 
+            [-120.2451, 34.857], 
+            [-120.2445, 34.8569], 
+            [-120.2435, 34.8569], 
+            [-120.2428, 34.8567], 
+            [-120.2421, 34.8565], 
+            [-120.2418, 34.8561], 
+            [-120.2416, 34.8559], 
+            [-120.2408, 34.8557], 
+            [-120.2404, 34.8556], 
+            [-120.2401, 34.8555], 
+            [-120.2394, 34.8552], 
+            [-120.2393, 34.8549], 
+            [-120.239, 34.8547], 
+            [-120.2378, 34.8544], 
+            [-120.2375, 34.8543], 
+            [-120.2372, 34.8544], 
+            [-120.237, 34.8544], 
+            [-120.2368, 34.8543], 
+            [-120.2367, 34.8541], 
+            [-120.2366, 34.8538], 
+            [-120.2365, 34.8536], 
+            [-120.2363, 34.8535], 
+            [-120.2359, 34.8534], 
+            [-120.2356, 34.8534], 
+            [-120.2352, 34.8535], 
+            [-120.2349, 34.8535], 
+            [-120.2345, 34.8532], 
+            [-120.2343, 34.8531], 
+            [-120.2337, 34.8527], 
+            [-120.2336, 34.8527], 
+            [-120.2334, 34.8526], 
+            [-120.2333, 34.8527], 
+            [-120.2331, 34.8527], 
+            [-120.2329, 34.8526], 
+            [-120.2327, 34.8525], 
+            [-120.2324, 34.8522], 
+            [-120.2322, 34.8519], 
+            [-120.232, 34.8517], 
+            [-120.232, 34.8515], 
+            [-120.232, 34.8513], 
+            [-120.2317, 34.8511], 
+            [-120.2313, 34.851], 
+            [-120.2312, 34.8508], 
+            [-120.2309, 34.8506], 
+            [-120.2307, 34.8504], 
+            [-120.2301, 34.8503], 
+            [-120.2295, 34.8503], 
+            [-120.2292, 34.8504], 
+            [-120.2291, 34.8505], 
+            [-120.2289, 34.8505], 
+            [-120.2286, 34.8504], 
+            [-120.2282, 34.8502], 
+            [-120.2279, 34.85], 
+            [-120.2277, 34.8497], 
+            [-120.2275, 34.8495], 
+            [-120.2272, 34.8494], 
+            [-120.2267, 34.8492], 
+            [-120.2263, 34.8491], 
+            [-120.226, 34.8489], 
+            [-120.2257, 34.8486], 
+            [-120.2253, 34.8484], 
+            [-120.2244, 34.8481], 
+            [-120.2241, 34.848], 
+            [-120.2238, 34.8479], 
+            [-120.2235, 34.8481], 
+            [-120.2231, 34.8482], 
+            [-120.2226, 34.8481], 
+            [-120.2222, 34.8482], 
+            [-120.222, 34.8482], 
+            [-120.2219, 34.8481], 
+            [-120.2216, 34.8479], 
+            [-120.2212, 34.8478], 
+            [-120.2207, 34.8478], 
+            [-120.2204, 34.8477], 
+            [-120.2202, 34.8476], 
+            [-120.22, 34.8474], 
+            [-120.2197, 34.847], 
+            [-120.2194, 34.8465], 
+            [-120.2192, 34.8463], 
+            [-120.219, 34.8461], 
+            [-120.2186, 34.8459], 
+            [-120.2183, 34.8458], 
+            [-120.2179, 34.8458], 
+            [-120.2178, 34.8459], 
+            [-120.2175, 34.8459], 
+            [-120.2172, 34.8459], 
+            [-120.2168, 34.8459], 
+            [-120.2164, 34.8458], 
+            [-120.2157, 34.8459], 
+            [-120.215, 34.8459], 
+            [-120.2147, 34.8459], 
+            [-120.2142, 34.8459], 
+            [-120.2139, 34.846], 
+            [-120.2136, 34.8462], 
+            [-120.2132, 34.8464], 
+            [-120.2131, 34.8466], 
+            [-120.213, 34.8469], 
+            [-120.2129, 34.8472], 
+            [-120.2128, 34.8474], 
+            [-120.2125, 34.8477], 
+            [-120.2123, 34.848], 
+            [-120.212, 34.8483], 
+            [-120.2117, 34.8485], 
+            [-120.2113, 34.8485], 
+            [-120.2105, 34.8486], 
+            [-120.2103, 34.8486], 
+            [-120.2099, 34.8488], 
+            [-120.2097, 34.8489], 
+            [-120.2095, 34.8488], 
+            [-120.209, 34.8487], 
+            [-120.2088, 34.8486], 
+            [-120.2086, 34.8486], 
+            [-120.2081, 34.8488], 
+            [-120.2079, 34.8488], 
+            [-120.2076, 34.8487], 
+            [-120.2074, 34.8486], 
+            [-120.2072, 34.8484], 
+            [-120.2067, 34.8482], 
+            [-120.2063, 34.8479], 
+            [-120.2062, 34.8477], 
+            [-120.2061, 34.8476], 
+            [-120.2061, 34.8473], 
+            [-120.2061, 34.8471], 
+            [-120.206, 34.8466], 
+            [-120.2059, 34.8461], 
+            [-120.2059, 34.846], 
+            [-120.2057, 34.8453], 
+            [-120.2057, 34.8449], 
+            [-120.2056, 34.8444], 
+            [-120.2056, 34.8443], 
+            [-120.2056, 34.8442], 
+            [-120.2056, 34.8441], 
+            [-120.2056, 34.844], 
+            [-120.2056, 34.8438], 
+            [-120.2057, 34.8437], 
+            [-120.2059, 34.8433], 
+            [-120.2059, 34.8432], 
+            [-120.206, 34.8431], 
+            [-120.206, 34.843], 
+            [-120.2061, 34.8429], 
+            [-120.2063, 34.8428], 
+            [-120.2064, 34.8428], 
+            [-120.2065, 34.8427], 
+            [-120.2069, 34.8426], 
+            [-120.207, 34.8426], 
+            [-120.2071, 34.8425], 
+            [-120.2073, 34.8425], 
+            [-120.2074, 34.8423], 
+            [-120.2088, 34.8413], 
+            [-120.2091, 34.8411], 
+            [-120.2094, 34.8408], 
+            [-120.2095, 34.8408], 
+            [-120.2096, 34.8407], 
+            [-120.2097, 34.8407], 
+            [-120.2103, 34.8407], 
+            [-120.2104, 34.8407], 
+            [-120.2112, 34.8406], 
+            [-120.2115, 34.8406], 
+            [-120.2116, 34.8406], 
+            [-120.2117, 34.8405], 
+            [-120.2118, 34.8405], 
+            [-120.2119, 34.8404], 
+            [-120.2122, 34.8401], 
+            [-120.2132, 34.8394], 
+            [-120.2133, 34.8394], 
+            [-120.2133, 34.8393], 
+            [-120.2135, 34.8393], 
+            [-120.2139, 34.8393], 
+            [-120.2153, 34.8393], 
+            [-120.2157, 34.8393], 
+            [-120.2158, 34.8393], 
+            [-120.2159, 34.8394], 
+            [-120.2161, 34.8394], 
+            [-120.2165, 34.8396], 
+            [-120.2166, 34.8397], 
+            [-120.2168, 34.8398], 
+            [-120.217, 34.8399], 
+            [-120.2178, 34.8403], 
+            [-120.2187, 34.8408], 
+            [-120.2195, 34.8413], 
+            [-120.2199, 34.8415], 
+            [-120.22, 34.8415], 
+            [-120.2203, 34.8416], 
+            [-120.2207, 34.8417], 
+            [-120.2211, 34.8418], 
+            [-120.2214, 34.8418], 
+            [-120.2217, 34.8418], 
+            [-120.2219, 34.8418], 
+            [-120.2233, 34.8418], 
+            [-120.2238, 34.8418], 
+            [-120.2244, 34.8417], 
+            [-120.2253, 34.8416], 
+            [-120.2258, 34.8415], 
+            [-120.226, 34.8415], 
+            [-120.2274, 34.8416], 
+            [-120.2278, 34.8416], 
+            [-120.2282, 34.8417], 
+            [-120.2284, 34.8417], 
+            [-120.2286, 34.8418], 
+            [-120.2287, 34.8419], 
+            [-120.2289, 34.842], 
+            [-120.229, 34.8421], 
+            [-120.2292, 34.8423], 
+            [-120.2298, 34.8429], 
+            [-120.2299, 34.843], 
+            [-120.23, 34.8431], 
+            [-120.231, 34.8435], 
+            [-120.2316, 34.8437], 
+            [-120.2321, 34.8438], 
+            [-120.2326, 34.8441], 
+            [-120.2329, 34.8443], 
+            [-120.2335, 34.8446], 
+            [-120.234, 34.8449], 
+            [-120.2345, 34.8454], 
+            [-120.2348, 34.8455], 
+            [-120.2358, 34.846], 
+            [-120.2359, 34.8461], 
+            [-120.2361, 34.8463], 
+            [-120.2362, 34.8464], 
+            [-120.2368, 34.8468], 
+            [-120.2373, 34.8472], 
+            [-120.2378, 34.8475], 
+            [-120.238, 34.8475], 
+            [-120.2401, 34.8484], 
+            [-120.2403, 34.8484], 
+            [-120.2409, 34.8484], 
+            [-120.2411, 34.8484], 
+            [-120.2413, 34.8484], 
+            [-120.2418, 34.8484], 
+            [-120.2418, 34.8483], 
+            [-120.2419, 34.8483], 
+            [-120.2426, 34.8487], 
+            [-120.2491, 34.8492], 
+            [-120.2564, 34.8516], 
+            [-120.2594, 34.8531], 
+            [-120.2599, 34.8534], 
+            [-120.2597, 34.8587], 
+            [-120.2586, 34.8607]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1014024, 
+        "COUNTY" : null, 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-XSB-SBC-229A", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : 1754417815000, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "Sheriff's Office: EVACUATION WARNING. North of Foxen Cyn Rd/Forest Rte 10N06, east of Tepusquet Rd, south of Sisquoc River, due to Gifford Fire, until further notice. Be ready to leave. \n\nADVERTENCIA DE EVACUACION. Norte de Foxen Cyn Rd/Forest Rte 10N06, este de Tepusquet Rd, sur de Sisquoc River, debido al Incendio Gifford. Este listo para irse. \n", 
+        "SHAPE__Area" : 6070022.50390625, 
+        "SHAPE__Length" : 15419.140010848689, 
+        "GlobalID" : "25c13b0b-220e-463b-85ba-69f409b41904"
       }
     }
   ]
