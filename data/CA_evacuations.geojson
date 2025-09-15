@@ -235,7 +235,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K166", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -245,47 +245,6 @@
         "SHAPE__Area" : 54623685.7109375, 
         "SHAPE__Length" : 31269.23861323488, 
         "GlobalID" : "26ff8627-4817-45ef-a70a-e0bd25a5360b"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105307, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.279595685002, 36.9227243070011], 
-            [-119.253110769002, 36.919160075001], 
-            [-119.253930997002, 36.9089996120011], 
-            [-119.230241800002, 36.907798562001], 
-            [-119.234163960002, 36.885446395001], 
-            [-119.240026668002, 36.8855928530011], 
-            [-119.249413035002, 36.883459896001], 
-            [-119.254140738002, 36.8902139950011], 
-            [-119.272298691002, 36.895616072001], 
-            [-119.286417159002, 36.901416340001], 
-            [-119.279595685002, 36.9227243070011]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105307, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K41", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The south boundary includes the lake shore of Pine Flat Lake in between Trimmer Campground to east of the Trimmer Springs Road and Sycamore 2 Road  intersection.  The west boundary is the east border of the Trimmer Campground.  The north boundary includes the Sycamore Creek area.  This zone is roughly 1.8 miles from north to south and 4 miles wide.", 
-        "SHAPE__Area" : 19830069.4140625, 
-        "SHAPE__Length" : 19993.957744806688, 
-        "GlobalID" : "818edfef-6c74-484a-b9b8-276f914a9400"
       }
     }, 
     {
@@ -526,7 +485,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K61A", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -581,7 +540,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K40", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -640,48 +599,6 @@
         "SHAPE__Area" : 488443496.63671875, 
         "SHAPE__Length" : 89352.1354027272, 
         "GlobalID" : "b4606312-6987-49fb-95d1-67153ada4303"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105376, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.313123341002, 36.947097668001], 
-            [-119.313093309002, 36.9529118040011], 
-            [-119.249505880002, 36.953621093001], 
-            [-119.253110769002, 36.919160075001], 
-            [-119.279601121002, 36.922729244001], 
-            [-119.284076053002, 36.9088546090011], 
-            [-119.286419547002, 36.9014149120011], 
-            [-119.304654646002, 36.9087411570011], 
-            [-119.304567728002, 36.912235291001], 
-            [-119.313508814002, 36.9122469160011], 
-            [-119.313404464002, 36.9174221710011], 
-            [-119.313123341002, 36.947097668001]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105376, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K76", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The south boundary is at the north side of Trimmer Campground.  The west boundary includes the east side of Maxon Road and ends east of Vincent Fire Road.  This zone is roughly 3.4 miles from north to south and 3.3 miles wide.", 
-        "SHAPE__Area" : 37661698.56640625, 
-        "SHAPE__Length" : 27365.88564392805, 
-        "GlobalID" : "95a5dc66-9cac-4158-9817-06369a23c018"
       }
     }, 
     {
@@ -781,55 +698,6 @@
         "SHAPE__Area" : 43910428.75, 
         "SHAPE__Length" : 29411.171556650217, 
         "GlobalID" : "5e83b287-aba8-4710-91f5-73b49c1ce2b4"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105379, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.313578489006, 37.0075228320031], 
-            [-119.300489309006, 37.007539968003], 
-            [-119.300488997006, 37.0075513850029], 
-            [-119.300484597005, 37.007551309003], 
-            [-119.300198531006, 37.0181917040029], 
-            [-119.300145988006, 37.020116134003], 
-            [-119.300062835006, 37.038638021003], 
-            [-119.300062838006, 37.038638201003], 
-            [-119.282470229006, 37.038728124003], 
-            [-119.282455595006, 37.0387285270031], 
-            [-119.251522902006, 37.039575961003], 
-            [-119.239549521006, 36.9906342530031], 
-            [-119.249500516005, 36.953627372003], 
-            [-119.313084963006, 36.952920042003], 
-            [-119.313597265005, 36.965165454003], 
-            [-119.309088472006, 36.9653400070031], 
-            [-119.309040192006, 36.9798320840031], 
-            [-119.313519481006, 36.9798040130031], 
-            [-119.313578489006, 37.0075228320031]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105379, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K61B", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Contains undeveloped land that spreads out about a mile and a half in most directions from the intersection of Bob's Flat Road and Soaproot Saddle Road. This zone is roughly 5.8 miles from north to south and 6 miles wide.", 
-        "SHAPE__Area" : 83487170.47265625, 
-        "SHAPE__Length" : 39095.258865575044, 
-        "GlobalID" : "22d1fb2d-eaa2-44ab-8ed2-6903c7639d0a"
       }
     }, 
     {
