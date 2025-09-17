@@ -3,357 +3,6 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 1105275, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-118.921170092482, 36.8472780001914], 
-            [-118.926246868876, 36.8477107133051], 
-            [-118.932027481479, 36.8520212713839], 
-            [-118.940692034551, 36.8576501819014], 
-            [-118.950605335684, 36.8603368198806], 
-            [-118.95422707882, 36.8595568770704], 
-            [-118.962019873115, 36.8584364895562], 
-            [-118.966713759417, 36.862164277475], 
-            [-118.985277893359, 36.8628154725249], 
-            [-119.001776435149, 36.8576265066974], 
-            [-118.94654479045, 36.9240451722098], 
-            [-118.876613728048, 36.9052280255472], 
-            [-118.850513747234, 36.9082610898534], 
-            [-118.8412131899, 36.9089133208502], 
-            [-118.839455133912, 36.907769923034], 
-            [-118.837136542742, 36.9077785215117], 
-            [-118.834107550209, 36.9068620243288], 
-            [-118.832412947998, 36.9056652795668], 
-            [-118.831219663526, 36.9033003726413], 
-            [-118.8278828728, 36.9029364322816], 
-            [-118.826255699013, 36.9028970672756], 
-            [-118.824919098656, 36.9019698395691], 
-            [-118.82350221319, 36.9009034195641], 
-            [-118.822171159139, 36.8998386764506], 
-            [-118.818922466126, 36.897351628539], 
-            [-118.816523106752, 36.8950920268476], 
-            [-118.813963362916, 36.8925535527554], 
-            [-118.811486452359, 36.8900862311318], 
-            [-118.809762647168, 36.888118685179], 
-            [-118.808282114834, 36.8886295118635], 
-            [-118.805827333719, 36.8856133558579], 
-            [-118.80256468977, 36.8855980167963], 
-            [-118.800638733189, 36.884381119382], 
-            [-118.798378233373, 36.8829493226598], 
-            [-118.801344937687, 36.8831430051326], 
-            [-118.802251715953, 36.8816890100657], 
-            [-118.802966635484, 36.8780119786314], 
-            [-118.805741486299, 36.8746643393032], 
-            [-118.809394843978, 36.8738144014219], 
-            [-118.814696146685, 36.8717559986228], 
-            [-118.815988648263, 36.8685208648458], 
-            [-118.818791767862, 36.8660546720488], 
-            [-118.825747046207, 36.8667371634092], 
-            [-118.832084342548, 36.8612668551261], 
-            [-118.833879699702, 36.8596303466684], 
-            [-118.834164438834, 36.8550269698115], 
-            [-118.837018853238, 36.850593688502], 
-            [-118.840830870549, 36.8512890973836], 
-            [-118.845666017807, 36.8508404120691], 
-            [-118.847774033819, 36.8493244787595], 
-            [-118.850336648525, 36.8502288872959], 
-            [-118.853586545027, 36.8498237912317], 
-            [-118.857709775853, 36.8475437875612], 
-            [-118.867622353836, 36.8442731378036], 
-            [-118.874263907668, 36.8379512339652], 
-            [-118.882008117514, 36.8412986233297], 
-            [-118.889236240292, 36.8413039566557], 
-            [-118.89816509776, 36.8454065905942], 
-            [-118.903134315203, 36.8461109386906], 
-            [-118.909505613298, 36.8451384806635], 
-            [-118.916642475164, 36.8483512210346], 
-            [-118.921170092482, 36.8472780001914]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105275, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K32A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The north boundary runs along Garlic Mountain, Spanish Mountain and Obelisk to the Middle fork of the Kings River. The east boundary is the Middle Fork of the Kings River. The south boundary is the Kings River. The west boundary is just East of Fox Canyon and East of Rogers Ridge. This zone is roughly 4.5 miles from north to south and 10 miles wide.", 
-        "SHAPE__Area" : 151439806.62890625, 
-        "SHAPE__Length" : 57289.258172118571, 
-        "GlobalID" : "28d8914f-c206-4e9d-afb4-67c659105c57"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105280, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.155791679449, 37.0586930925534], 
-            [-119.115442932332, 37.0238564266073], 
-            [-119.144030196837, 37.0239928368376], 
-            [-119.165954266866, 37.0240002792619], 
-            [-119.208491862679, 37.0246200283146], 
-            [-119.214572790006, 37.0402610750031], 
-            [-119.217634897721, 37.0480892209757], 
-            [-119.228999480326, 37.0769548490437], 
-            [-119.202789856245, 37.0812454407189], 
-            [-119.198703774321, 37.0819345666916], 
-            [-119.16834495082, 37.0883033692369], 
-            [-119.123021977243, 37.1086946156135], 
-            [-119.133486448619, 37.0835907183018], 
-            [-119.153701263157, 37.0609990760137], 
-            [-119.155791679449, 37.0586930925534]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105280, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K29", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "South boundary includes the areas both north and south of McKinley Grove Road, and runs south of Dinkey Mountain.  The boundary runs north to include Dinkey Creek, and runs about a half mile north of Dinkey Creek Campground.  The boundary continues to the east, west of Nelson Mountain.  This zone is roughly 4.25 miles from north to south and 4 miles wide.", 
-        "SHAPE__Area" : 81376591.90234375, 
-        "SHAPE__Length" : 45316.362445535146, 
-        "GlobalID" : "86517101-8081-44c0-960d-3c4f82426b61"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105301, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.059992133672, 36.9154363071221], 
-            [-119.134820205672, 36.9293082524289], 
-            [-119.213134433672, 36.9288927491088], 
-            [-119.213595342672, 36.928890152113], 
-            [-119.210798973672, 36.9314121339867], 
-            [-119.205054260672, 36.9364345827682], 
-            [-119.200694690672, 36.9401628156668], 
-            [-119.200944170672, 36.9403507973592], 
-            [-119.197965363672, 36.9430756138996], 
-            [-119.197559992672, 36.9434464002928], 
-            [-119.196469295672, 36.950154287313], 
-            [-119.196353815672, 36.9572534816911], 
-            [-119.195955040672, 36.9803289929011], 
-            [-119.195977039672, 36.9804067577737], 
-            [-119.195976352672, 36.9804489817045], 
-            [-119.196202246672, 36.9812028484696], 
-            [-119.198070678672, 36.9874376932553], 
-            [-119.198226224672, 36.9876823748544], 
-            [-119.198227725672, 36.9876877058457], 
-            [-119.208525907672, 37.024249560918], 
-            [-119.208393720672, 37.0242735098787], 
-            [-119.208491862672, 37.0246200283105], 
-            [-119.168319163672, 37.0243346777786], 
-            [-119.115442932327, 37.0238564266043], 
-            [-119.081618064575, 37.0028122836343], 
-            [-119.024175420575, 36.9734107910631], 
-            [-119.016074005006, 36.9644423520031], 
-            [-119.059992133672, 36.9154363071221]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105301, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K30", 
-        "STATUS" : "Evacuation Order", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "South boundary lays north of Sycamore Springs Road.  West boundary its at the intersection of Ross Crossing Road and Trimmer Springs Road.  The west boundary continues north to contain Nutmeg Glen along Ross Crossing Road. The north boundary ends south of Dinkey Mountain.  The east boundary ends a half of a mile east of Ross Crossing Campground.  This zone is roughly 6.45 miles from north to south and 10 miles wide.", 
-        "SHAPE__Area" : 227683428.91796875, 
-        "SHAPE__Length" : 64214.970181798039, 
-        "GlobalID" : "0c52d520-fd6d-4bc0-be66-6ce2b4988b54"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105304, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.249505880004, 36.953621093002], 
-            [-119.239549521004, 36.990645982002], 
-            [-119.198226224674, 36.9876823748554], 
-            [-119.198070678674, 36.9874376932563], 
-            [-119.196240981004, 36.981078209002], 
-            [-119.196015087004, 36.980324341002], 
-            [-119.196015774004, 36.9802821170021], 
-            [-119.195993775004, 36.9802043520021], 
-            [-119.196392550004, 36.9571288030021], 
-            [-119.196508030004, 36.950029597002], 
-            [-119.197712625004, 36.9426211470021], 
-            [-119.205092995004, 36.9363098700021], 
-            [-119.210837708004, 36.9312874130021], 
-            [-119.213634077004, 36.928765427002], 
-            [-119.213682441004, 36.928799989002], 
-            [-119.226546730004, 36.9175486290021], 
-            [-119.229124859004, 36.913824142002], 
-            [-119.230243866004, 36.907869018002], 
-            [-119.253930997004, 36.9089996120021], 
-            [-119.253110769004, 36.9191600750021], 
-            [-119.249505880004, 36.953621093002]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105304, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K166", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "South Boundary is just north of the Dinkey-Trimmer Road and Ross Crossing Road intersection.  West Boundary is a half a mile west of the Big Creek Road and Vomac Clovis Drive intersection.  The north boundary is a mile north of the Nutmeg Campground (Off of Big Creek Road).  East boundary contains Dinkey Trimmer Road. This zone is roughly 5.5 miles from north to south and 2.8 miles wide.", 
-        "SHAPE__Area" : 54623685.7109375, 
-        "SHAPE__Length" : 31269.23861323488, 
-        "GlobalID" : "26ff8627-4817-45ef-a70a-e0bd25a5360b"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105308, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-118.879537923004, 36.904540293002], 
-            [-118.946235985004, 36.9239531960021], 
-            [-118.946302700089, 36.9239725907078], 
-            [-118.946557138004, 36.9240478370021], 
-            [-118.946567380004, 36.924052853002], 
-            [-118.946559758004, 36.9240620200021], 
-            [-118.946559380004, 36.9240624750021], 
-            [-118.946547917004, 36.9240563320021], 
-            [-118.942150995004, 36.9515930020021], 
-            [-118.940724059004, 36.9606314800021], 
-            [-118.937065526004, 36.9790630490021], 
-            [-118.925800421004, 37.036268565002], 
-            [-118.927859870758, 37.045911232004], 
-            [-118.733861371004, 37.0491968060021], 
-            [-118.731887265004, 37.0481279010021], 
-            [-118.730084821004, 37.0474357580021], 
-            [-118.729076310004, 37.0462882960021], 
-            [-118.729011937004, 37.0396258260021], 
-            [-118.731050416004, 37.0344016300021], 
-            [-118.733432218004, 37.0321919430021], 
-            [-118.737316180004, 37.0320216260021], 
-            [-118.743495309004, 37.0343493990021], 
-            [-118.747444299004, 37.0299660940021], 
-            [-118.752593702004, 37.0272246550021], 
-            [-118.750898763004, 37.023421082002], 
-            [-118.748816958004, 37.0209203400021], 
-            [-118.750533572004, 37.0198239790021], 
-            [-118.754374906004, 37.0194807160021], 
-            [-118.758515850004, 37.0171848290021], 
-            [-118.758387930004, 37.015027097002], 
-            [-118.759246334004, 37.0128684840022], 
-            [-118.761090880004, 37.0062533030021], 
-            [-118.761091086004, 37.0046775550021], 
-            [-118.760104313004, 37.0031356290021], 
-            [-118.760104350004, 37.0017300480021], 
-            [-118.759718063004, 37.0002907270021], 
-            [-118.760147119004, 36.9992624350021], 
-            [-118.760361684004, 36.9968285860021], 
-            [-118.761863271004, 36.9918930130021], 
-            [-118.762206156004, 36.9903505420021], 
-            [-118.762850567004, 36.9895621160021], 
-            [-118.762121468004, 36.9880540590021], 
-            [-118.762507390004, 36.9870598680021], 
-            [-118.762593658004, 36.985928738002], 
-            [-118.763580262004, 36.9847973840021], 
-            [-118.764180906004, 36.983562439002], 
-            [-118.763966609004, 36.9803064440021], 
-            [-118.763623286004, 36.9795523280021], 
-            [-118.763623359004, 36.9789350370021], 
-            [-118.763966536004, 36.9778038390021], 
-            [-118.764695963004, 36.9768438240021], 
-            [-118.765726053004, 36.9754724970021], 
-            [-118.766498262004, 36.9739637700021], 
-            [-118.767613964004, 36.9712891710021], 
-            [-118.769116365004, 36.9701238330021], 
-            [-118.770382329004, 36.9685631090021], 
-            [-118.771219436004, 36.9643635250022], 
-            [-118.771476976004, 36.9636086380021], 
-            [-118.774480516004, 36.9628880990021], 
-            [-118.777312868004, 36.9602488750021], 
-            [-118.777570554004, 36.9592540600021], 
-            [-118.778900991004, 36.9580878730021], 
-            [-118.778858270004, 36.956990697002], 
-            [-118.779459182004, 36.9554126640021], 
-            [-118.780446016004, 36.9548988030021], 
-            [-118.781175601004, 36.9539729490021], 
-            [-118.782849215004, 36.9526012500021], 
-            [-118.783965172004, 36.9511265740021], 
-            [-118.785509990004, 36.9503377940021], 
-            [-118.785681627004, 36.9487942450021], 
-            [-118.785595784004, 36.9472165250021], 
-            [-118.809842869004, 36.9329470910021], 
-            [-118.821344327004, 36.9264979950021], 
-            [-118.853187464004, 36.9085194660021], 
-            [-118.879537923004, 36.904540293002]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105308, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K28", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The north boundary is about one quarter mile south of North Fork Kings River. The east boundary is the Kings Canyon National Forest. and Inyo County. The south boundary is Obelisk and Spanish Mountain. The west boundary is west of Hoffman Mountain. This zone is roughly 9 miles from north to south and 9 miles wide.", 
-        "SHAPE__Area" : 342456855.56640625, 
-        "SHAPE__Length" : 77486.108217776389, 
-        "GlobalID" : "e94dde84-d215-4dfd-920d-1e92ac2e7cf3"
-      }
-    }, 
-    {
-      "type" : "Feature", 
       "id" : 1105314, 
       "geometry" : 
       {
@@ -447,7 +96,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K31", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -457,99 +106,6 @@
         "SHAPE__Area" : 201358331.0546875, 
         "SHAPE__Length" : 68459.491581054026, 
         "GlobalID" : "0bfb2c5a-c060-4554-a95f-e909e4b55b97"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105329, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.251522902008, 37.039575961004], 
-            [-119.214572790008, 37.0402610750041], 
-            [-119.208491862681, 37.0246200283156], 
-            [-119.198227725674, 36.9876877058467], 
-            [-119.239549521006, 36.9906459820031], 
-            [-119.238869129965, 36.9913191589095], 
-            [-119.238604471373, 36.9912734498094], 
-            [-119.251522902008, 37.039575961004]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105329, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K61A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : null, 
-        "SHAPE__Area" : 30656353.6015625, 
-        "SHAPE__Length" : 23326.708049270594, 
-        "GlobalID" : "809a4112-c98e-48fc-b5cd-c4ea6a2bb60d"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105331, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.134820205676, 36.929308252431], 
-            [-119.166959617008, 36.8881429740041], 
-            [-119.173975605007, 36.8839928660041], 
-            [-119.175042957008, 36.881728125004], 
-            [-119.176796954008, 36.8803901660041], 
-            [-119.179961625008, 36.8789156760041], 
-            [-119.184070434008, 36.8769262230041], 
-            [-119.188694227007, 36.8764128930041], 
-            [-119.197126422007, 36.8746996250041], 
-            [-119.205236751008, 36.873278130004], 
-            [-119.213690404008, 36.8702086850041], 
-            [-119.215787724008, 36.870054995004], 
-            [-119.218314197008, 36.8703476220041], 
-            [-119.222165514008, 36.871447850004], 
-            [-119.227046799008, 36.871930100004], 
-            [-119.230640624008, 36.868258165004], 
-            [-119.233483430007, 36.8692554250041], 
-            [-119.235382099008, 36.871694608004], 
-            [-119.237119499007, 36.8773279790039], 
-            [-119.234222043008, 36.8811759420041], 
-            [-119.234163960007, 36.885446395004], 
-            [-119.229090307008, 36.913864533004], 
-            [-119.226547573008, 36.9175015720039], 
-            [-119.213595342677, 36.928890152116], 
-            [-119.134820205676, 36.929308252431]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105331, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K40", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The south boundary lays north of Kirch Flat Campground.  The west boundary is at the intersection of Trimmer Springs Road and Ross Crossing Road.  The north boundary contains the areas north of Trimmer Springs Road and Sycamore Springs Road.  The east boundary is at the end of Vomac Road. This zone is roughly 3.5 miles from north to south and 4 miles wide.", 
-        "SHAPE__Area" : 62642797.2265625, 
-        "SHAPE__Length" : 33153.84665720311, 
-        "GlobalID" : "30ad107f-4807-4052-b768-d9a9bdf5a7a7"
       }
     }, 
     {
@@ -599,147 +155,6 @@
         "SHAPE__Area" : 488443496.63671875, 
         "SHAPE__Length" : 89352.1354027272, 
         "GlobalID" : "b4606312-6987-49fb-95d1-67153ada4303"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105377, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.203384932002, 37.0810906830011], 
-            [-119.228776456002, 37.0768894230011], 
-            [-119.278303342002, 37.078391571001], 
-            [-119.278757621002, 37.0890076910011], 
-            [-119.269982478002, 37.093049302001], 
-            [-119.260454299002, 37.0933218810011], 
-            [-119.248115962002, 37.093406257001], 
-            [-119.242322694002, 37.093817191001], 
-            [-119.243588350002, 37.1050954550011], 
-            [-119.228479804002, 37.1054689260011], 
-            [-119.207153223002, 37.1046161940011], 
-            [-119.205350754002, 37.093902814001], 
-            [-119.203384932002, 37.0810906830011]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105377, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K165", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Contains both sides of Dinkey Creek Road (including) just west of Blue Canyon Vista Observation.  It follows Dinkey Creek Road to the east until just outside Summit Meadow Campground.  The north boundary is south (excluding) of the shoreline of Shaver Lake and Fishing Club.  This zone is roughly 4.25 miles from north to south and 4 miles wide.", 
-        "SHAPE__Area" : 24045611.203125, 
-        "SHAPE__Length" : 23046.629799775914, 
-        "GlobalID" : "5bf549b7-20a6-4444-9dd4-30e47902fcba"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105378, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.282462753004, 37.038728330002], 
-            [-119.282470167004, 37.039002945002], 
-            [-119.282758786004, 37.0496902820021], 
-            [-119.282766202996, 37.0499649067078], 
-            [-119.287966153004, 37.0499383910021], 
-            [-119.295854090004, 37.0498977370021], 
-            [-119.295853410004, 37.050172402002], 
-            [-119.295810966004, 37.067315476002], 
-            [-119.301969317004, 37.071159195002], 
-            [-119.301271943004, 37.071176318002], 
-            [-119.300574569004, 37.0711934360021], 
-            [-119.300488738004, 37.076945807002], 
-            [-119.299855737004, 37.0769971650021], 
-            [-119.299603609004, 37.077271077002], 
-            [-119.299351481004, 37.0775449870021], 
-            [-119.299308566004, 37.0816877600021], 
-            [-119.298119006004, 37.082564005002], 
-            [-119.285764081004, 37.0825795180021], 
-            [-119.278556650004, 37.082672866002], 
-            [-119.278280047004, 37.0784180700021], 
-            [-119.228691367004, 37.076898728002], 
-            [-119.217916030004, 37.0481456280021], 
-            [-119.214572790006, 37.0402610750031], 
-            [-119.251522902004, 37.039575961002], 
-            [-119.282455595004, 37.038728527002], 
-            [-119.282462753004, 37.038728330002]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105378, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K60", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "Contains both sides of Bretz Mill Road, just east of it's intersection of Cressmans Road.  The south boundary contains properties on Providence Creek Road, to it's intersection with Big Creek.  The north boundary extends to include the properties off of Bretz Mill Road from Providence Creek Road. This zone is roughly 2.6 miles from north to south and 4 miles wide.", 
-        "SHAPE__Area" : 43910428.75, 
-        "SHAPE__Length" : 29411.171556650217, 
-        "GlobalID" : "5e83b287-aba8-4710-91f5-73b49c1ce2b4"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105380, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.203377402006, 37.081065689003], 
-            [-119.207153223006, 37.104616194003], 
-            [-119.203891827006, 37.1167315630031], 
-            [-119.195051266006, 37.1385613790031], 
-            [-119.180116702006, 37.144650954003], 
-            [-119.139493661006, 37.1604421150031], 
-            [-119.109653741006, 37.1533332810031], 
-            [-119.108782213006, 37.1153001960031], 
-            [-119.123028155578, 37.1086011920485], 
-            [-119.168310462531, 37.0884283609062], 
-            [-119.198703774317, 37.0819345666895], 
-            [-119.203377402006, 37.081065689003]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105380, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K26", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The south and west boundary lays just north of Dinkey Creek.   The west boundary continues north to contain both sides of Rock Creek Road until just south of the \"Brewer Lake Trail Turnoff\".  The north boundary is just north of Foster Ridge as well as the Dinkey Lakes Trailhead.  This zone is roughly 3.8 miles from north to south and 5.4 miles wide.", 
-        "SHAPE__Area" : 81181133.4296875, 
-        "SHAPE__Length" : 35574.927735006044, 
-        "GlobalID" : "58c8ac13-595a-4730-8438-840c05c0db80"
       }
     }, 
     {
@@ -9160,6 +8575,171 @@
         "SHAPE__Area" : 34822663.4765625, 
         "SHAPE__Length" : 28512.847368671184, 
         "GlobalID" : "3904fed8-acc3-4a78-8250-1582a6b7735c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1105443, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-119.213682441006, 36.928799989003], 
+            [-119.197712625006, 36.9426211470031], 
+            [-119.196469295676, 36.950154287315], 
+            [-119.036947027287, 36.979938509156], 
+            [-119.024277443452, 36.9733790886973], 
+            [-119.016176027885, 36.9644106459029], 
+            [-119.059992133676, 36.9154363071241], 
+            [-119.134820205678, 36.929308252432], 
+            [-119.135013435775, 36.9291146193369], 
+            [-119.213682441006, 36.928799989003]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1105443, 
+        "COUNTY" : "FRESNO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-FC-K30B", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "South boundary lays north of Sycamore Springs Road. West boundary is at the intersection of Ross Crossing Road and Trimmer Springs Road. The north boundary ends south of Fence Meadow Lookout. The east boundary ends in the area of Black Rock west of Sawmill Flat Campground. This zone is roughly 4.27 miles from north to south and 10.1 miles wide.", 
+        "SHAPE__Area" : 105852136.82421875, 
+        "SHAPE__Length" : 50864.956178527071, 
+        "GlobalID" : "e485aaa7-90e6-4bee-88ae-09badaea198b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1105444, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-119.155791679451, 37.0586930925544], 
+            [-119.173143972657, 37.0485485063351], 
+            [-119.217634897723, 37.0480892209767], 
+            [-119.228999480327, 37.0769548490447], 
+            [-119.202789856247, 37.0812454407199], 
+            [-119.198703774322, 37.0819345666925], 
+            [-119.168344950822, 37.088303369238], 
+            [-119.123021977245, 37.1086946156145], 
+            [-119.133486448622, 37.0835907183028], 
+            [-119.153701263158, 37.0609990760147], 
+            [-119.155791679451, 37.0586930925544]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1105444, 
+        "COUNTY" : "FRESNO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-FC-K29A", 
+        "STATUS" : "Evacuation Warning", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "South boundary includes the areas both north and south of McKinley Grove Road, and runs south of Forked Meadow. The boundary runs north to include Dinkey Creek, and runs about a half mile north of Dinkey Creek Campground. The boundary continues to the east, to Forest Service Road 10S36. This zone is roughly 3.89 miles from north to south and 2.49 miles wide.", 
+        "SHAPE__Area" : 47705596.41796875, 
+        "SHAPE__Length" : 32260.937367969203, 
+        "GlobalID" : "7d678e44-9f65-4f8c-8397-d4f604b002bc"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1105445, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-119.217634897725, 37.0480892209777], 
+            [-119.173143972659, 37.0485485063361], 
+            [-119.155791679452, 37.0586930925554], 
+            [-119.11544293233, 37.0238564266063], 
+            [-119.208491862683, 37.0246200283166], 
+            [-119.207781834025, 37.0281076722841], 
+            [-119.217634897725, 37.0480892209777]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1105445, 
+        "COUNTY" : "FRESNO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-FC-K29B", 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "South boundary includes Dinkey Mountain north of Bear Meadow. The boundary runs north to include Dinkey Meadow and Camp El-O-Wine. Forest Service Road 10S69 runs north and south through the middle of the zone. This zone is roughly 1.89 miles from north to south and 4.47 miles wide.", 
+        "SHAPE__Area" : 33122486.7578125, 
+        "SHAPE__Length" : 27810.209375757204, 
+        "GlobalID" : "d4324070-4396-4082-867b-b986f95f8597"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1105446, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-119.196469295674, 36.950154287314], 
+            [-119.196353815674, 36.9572534816921], 
+            [-119.195955040674, 36.9803289929021], 
+            [-119.195977039674, 36.9804067577747], 
+            [-119.195976352674, 36.9804489817055], 
+            [-119.196202246674, 36.9812028484706], 
+            [-119.198070678674, 36.9874376932563], 
+            [-119.198226224674, 36.9876823748554], 
+            [-119.198227725674, 36.9876877058467], 
+            [-119.208525907674, 37.024249560919], 
+            [-119.208393720674, 37.0242735098798], 
+            [-119.208491862674, 37.0246200283115], 
+            [-119.168319163674, 37.0243346777795], 
+            [-119.115442932328, 37.0238564266053], 
+            [-119.081618064577, 37.0028122836353], 
+            [-119.036947027285, 36.979938509155], 
+            [-119.196469295674, 36.950154287314]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1105446, 
+        "COUNTY" : "FRESNO", 
+        "CITY" : null, 
+        "ZONE_NAME" : null, 
+        "ZONE_ID" : "US-CA-FC-K30A", 
+        "STATUS" : "Evacuation Order", 
+        "EVENT_TYPE" : null, 
+        "CRITICAL_INFO" : null, 
+        "PUBLIC_INFO" : null, 
+        "EDIT_DATE" : null, 
+        "STATEWIDE_LAST_UPDATED" : null, 
+        "NOTES" : "South boundary encompasses Fence Meadow Lookout and Cabin Meadow. The west boundary contains Nutmeg Glen along Ross Crossing Road and Nutmeg Creek. The north boundary ends south of Dinkey Mountain near Bear Meadow. The east boundary ends near Muley Hole west of McKinley Grove. This zone is roughly 4.35 miles from north to south and 8.25 miles wide", 
+        "SHAPE__Area" : 121890516.8984375, 
+        "SHAPE__Length" : 49825.806867783147, 
+        "GlobalID" : "868500aa-4d30-4f3e-9258-4cdd65a77bf8"
       }
     }
   ]
