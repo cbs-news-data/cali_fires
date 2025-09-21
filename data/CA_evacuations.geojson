@@ -8566,48 +8566,6 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 1105444, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-119.155791679456, 37.0586930925574], 
-            [-119.173143972662, 37.0485485063381], 
-            [-119.217634897728, 37.0480892209797], 
-            [-119.228999480333, 37.0769548490477], 
-            [-119.202789856252, 37.0812454407229], 
-            [-119.198703774328, 37.0819345666956], 
-            [-119.168344950828, 37.088303369241], 
-            [-119.12302197725, 37.1086946156174], 
-            [-119.133486448627, 37.0835907183059], 
-            [-119.138477043421, 37.0754659256128], 
-            [-119.154412813251, 37.057710383047], 
-            [-119.155791679456, 37.0586930925574]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105444, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K29A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "South boundary includes the areas both north and south of McKinley Grove Road, and runs south of Forked Meadow. The boundary runs north to include Dinkey Creek, and runs about a half mile north of Dinkey Creek Campground. The boundary continues to the east, to Forest Service Road 10S36. This zone is roughly 3.89 miles from north to south and 2.49 miles wide.", 
-        "SHAPE__Area" : 48455058.6328125, 
-        "SHAPE__Length" : 32506.123601330204, 
-        "GlobalID" : "7d678e44-9f65-4f8c-8397-d4f604b002bc"
-      }
-    }, 
-    {
-      "type" : "Feature", 
       "id" : 1105445, 
       "geometry" : 
       {
@@ -8631,7 +8589,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K29B", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -8679,7 +8637,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K30A", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
@@ -8689,57 +8647,6 @@
         "SHAPE__Area" : 120201074.21875, 
         "SHAPE__Length" : 50166.515044450556, 
         "GlobalID" : "868500aa-4d30-4f3e-9258-4cdd65a77bf8"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1105458, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-118.940549169457, 37.133835334886], 
-            [-118.927773194077, 37.0457556015114], 
-            [-118.925814865464, 37.0362271084293], 
-            [-118.940324526494, 36.9625027099578], 
-            [-118.955602389043, 36.9634628410701], 
-            [-118.970365267461, 36.9699091221015], 
-            [-118.970763878139, 36.9976512471294], 
-            [-118.982230850785, 37.004614630999], 
-            [-118.998366999264, 37.0048202605463], 
-            [-119.009902672085, 37.0084803709152], 
-            [-119.014872265804, 37.0087887972508], 
-            [-119.016545969468, 37.0105228283654], 
-            [-119.015910820278, 37.0173900213053], 
-            [-119.036799162721, 37.023737272819], 
-            [-119.055696232143, 37.025863023514], 
-            [-119.138477043419, 37.0754659256114], 
-            [-119.13339341846, 37.0836267133776], 
-            [-119.123046188722, 37.1086143015089], 
-            [-119.109111931197, 37.1154717854655], 
-            [-119.051987664943, 37.1424190859627], 
-            [-118.940549169457, 37.133835334886]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1105458, 
-        "COUNTY" : "FRESNO", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-FC-K27A", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : null, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "The south boundary is south of 10S31, north of Cabin Meadow, north of Snow Corral Meadow, north of Ahart Meadow, north of Hall Meadow, south of the intersection of McKinley Grove Rd. and Courtright Rd., south of Wishon Village, south of the Wishon Dam, west of 11S40, and south of the Rancheria Trailhead.  The east boundary is about 2 miles east of Wishon Reservoir, and east of Maxson Dome. The north boundary is from the north of Courtright Reservoir, south of the Three Sisters, north of Swamp Lake, north of Arkansas Meadow, and south of 10S31 road.  This Zone is roughly 8.5 miles from north to south and 11 miles wide.", 
-        "SHAPE__Area" : 352721625.63671875, 
-        "SHAPE__Length" : 80924.164193860342, 
-        "GlobalID" : "f8f73c2e-20ec-4bc2-a11c-184e79cc71c0"
       }
     }, 
     {
@@ -8781,7 +8688,7 @@
         "CITY" : null, 
         "ZONE_NAME" : null, 
         "ZONE_ID" : "US-CA-FC-K27B", 
-        "STATUS" : "Evacuation Order", 
+        "STATUS" : "Evacuation Warning", 
         "EVENT_TYPE" : null, 
         "CRITICAL_INFO" : null, 
         "PUBLIC_INFO" : null, 
