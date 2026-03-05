@@ -1295,41 +1295,6 @@
         "SHAPE__Length" : 7816.66847170111, 
         "GlobalID" : "4763ab32-e355-44db-a2dc-54f45c326124"
       }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 1107510, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-118.47480939, 34.33015992], 
-            [-118.47366634, 34.33014052], 
-            [-118.47128163, 34.32510635], 
-            [-118.47232362, 34.32469807], 
-            [-118.47480939, 34.33015992]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 1107510, 
-        "COUNTY" : "LOS ANGELES", 
-        "CITY" : null, 
-        "ZONE_NAME" : null, 
-        "ZONE_ID" : "US-CA-XLA-LFD-0001-B", 
-        "STATUS" : "Evacuation Warning", 
-        "EVENT_TYPE" : null, 
-        "CRITICAL_INFO" : null, 
-        "PUBLIC_INFO" : null, 
-        "EDIT_DATE" : 1771109714000, 
-        "STATEWIDE_LAST_UPDATED" : null, 
-        "NOTES" : "EVACUATION WARNING for possible debris flows in effect starting Sunday 9:00 PM. Prepare for possible evacuations in the Hurst Burn Scar area due to a storm with heavy rain. lafd.org/alert", 
-        "SHAPE__Area" : 93140.41015625, 
-        "SHAPE__Length" : 1770.8559505000696, 
-        "GlobalID" : "e123db99-7b86-49f0-b7af-dd6059b80289"
-      }
     }
   ]
 }
